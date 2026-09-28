@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T20:58:25+00:00",
+ "generatedAt": "2026-09-28T21:55:23+00:00",
  "today": "2026-09-28",
  "session": {
   "key": "20252026",
@@ -14,7 +14,7 @@
   "etag": "\"4c672aa1-65c8376ed5380\"",
   "publisher": "Legislative Counsel of California"
  },
- "fetchedBytes": 0,
+ "fetchedBytes": 26716793,
  "counts": {
   "stalled": 76,
   "died": 23,
