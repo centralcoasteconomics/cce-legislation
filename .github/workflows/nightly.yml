@@ -24,6 +24,8 @@ jobs:
         run: python3 pipeline/build.py
       - name: Invariants (a false trackline never publishes)
         run: python3 tests/test_invariants.py
+      - name: Editorial still points at real bills
+        run: python3 tests/verify_editorial.py
       - name: Commit if anything moved
         run: |
           git config user.name "cce-legislation bot"

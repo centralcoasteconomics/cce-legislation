@@ -24,4 +24,5 @@ neutral: what a bill does and why practitioners track it, never a position.
 ```bash
 python3 pipeline/build.py --cache .cache   # dev: keeps fetched members between runs
 python3 tests/test_invariants.py           # every trackline must be consistent
+python3 tests/verify_editorial.py          # the editorial gate (neutral, no dashes, Rule #0)
 ```
