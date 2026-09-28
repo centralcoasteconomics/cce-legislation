@@ -1,0 +1,587 @@
+{
+ "id": "202520260AB712",
+ "slug": "ab-712",
+ "label": "AB 712",
+ "type": "AB",
+ "number": 712,
+ "session": "20252026",
+ "subject": "Housing reform laws: enforcement actions: fines and penalties.",
+ "title": "An act to add Section 65914.2 to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Wicks",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-10",
+  "text": "Chaptered by Secretary of State - Chapter 496, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 496,
+  "year": 2025
+ },
+ "presented": "2025-09-11",
+ "approved": "2025-10-10",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65914.2",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law within the Planning and Zoning Law describes various reforms and incentives enacted by the Legislature to facilitate and expedite the construction of affordable housing. Existing law within the Planning and Zoning Law, in certain civil actions or proceedings against a public entity that has issued specified approvals for a housing development, authorizes a court to award all reasonably incurred costs of suit to a prevailing public entity or nonprofit housing corporation that is a real party in interest and the permit applicant of the low- or moderate-income housing if the court makes specified findings.",
+  "This bill, where the applicant for a housing development is a prevailing party in an action brought by the applicant to enforce the public agency’s compliance with a housing reform law as applied to the applicant’s housing development project, would entitle an applicant for a housing development project to reasonable attorney’s fees and costs and would require a court to impose fines on a local agency, as specified. The bill would extend any period of limitation for actions under any state law for a period of 60 days beginning on the date the applicant provides written notice to the local agency indicating its intent to commence an action. The bill would prohibit a public agency from requiring the applicant to indemnify, defend, or hold harmless the public agency in any action alleging the public agency violated the applicant’s rights or deprived the applicant of the benefits or protection provide by a housing reform law. The bill would define housing reform law as a law that establishes or facilitates protections for the benefit of applicants for housing development projects or imposes limitations on a public agency for the benefit of housing development projects."
+ ],
+ "authorLine": "Introduced by Assembly Member Wicks",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-14",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2025-04-22",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-09",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-04-22",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-04-30",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-04-30",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-12",
+   "vote": {
+    "ayes": 64,
+    "noes": 2
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-07-01",
+     "ayes": 10,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-07-15",
+     "ayes": 13,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-19",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-04-30",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-03",
+   "vote": {
+    "ayes": 35,
+    "noes": 2
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-04",
+   "applies": true,
+   "vote": {
+    "ayes": 64,
+    "noes": 2
+   },
+   "pending": "2025-09-04",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-11",
+   "done": "2025-10-10",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-10",
+   "chapter": {
+    "number": 496,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-14",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-15",
+   "text": "From printer. May be heard in committee March 17.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-10",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-10",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-11",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 0.) (April 9). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-22",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass. (Ayes 12. Noes 0.) (April 30).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-05",
+   "text": "Read third time and amended. Ordered to third reading. (Page 1436.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-12",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 2. Page 1512.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-13",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 10. Noes 1.) (July 1).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-19",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 35. Noes 2. Page 2462.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-04",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-04",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 64. Noes 2. Page 2932.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Chaptered by Secretary of State - Chapter 496, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-09",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-04-22",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-04-30",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-12",
+   "ayes": 64,
+   "noes": 2,
+   "nvr": 13,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-07-01",
+   "ayes": 10,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-07-15",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-03",
+   "ayes": 35,
+   "noes": 2,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-04",
+   "ayes": 64,
+   "noes": 2,
+   "nvr": 13,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-07",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-17",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-02",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-07",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-26",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-12",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-04",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-14",
+   "action": "Introduced",
+   "id": "20250AB71299INT"
+  },
+  {
+   "date": "2025-03-10",
+   "action": "Amended Assembly",
+   "id": "20250AB71298AMD"
+  },
+  {
+   "date": "2025-04-10",
+   "action": "Amended Assembly",
+   "id": "20250AB71297AMD"
+  },
+  {
+   "date": "2025-05-05",
+   "action": "Amended Assembly",
+   "id": "20250AB71296AMD"
+  },
+  {
+   "date": "2025-07-03",
+   "action": "Amended Senate",
+   "id": "20250AB71295AMD"
+  },
+  {
+   "date": "2025-09-08",
+   "action": "Enrolled",
+   "id": "20250AB71294ENR"
+  },
+  {
+   "date": "2025-10-10",
+   "action": "Chaptered",
+   "id": "20250AB71293CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB712",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB712",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB712",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB712",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB712",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB712",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB712&version=20250AB71293CHP"
+ }
+}

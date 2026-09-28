@@ -1,0 +1,335 @@
+{
+ "id": "202520260AB2264",
+ "slug": "ab-2264",
+ "label": "AB 2264",
+ "type": "AB",
+ "number": 2264,
+ "session": "20252026",
+ "subject": "District agricultural associations: real property: affordable housing.",
+ "title": "An act to amend Section 4051 of the Food and Agricultural Code, relating to district agricultural associations.",
+ "authors": [
+  {
+   "name": "Lackey",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-05-14",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "FAC",
+   "name": "Food and Agricultural Code",
+   "section": "4051",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Existing law provides for the establishment of district agricultural associations and authorizes a district agricultural association to engage in various activities, including to purchase, acquire, hold, sell, exchange, or convey any interest in real property with the approval of the Department of General Services.",
+  "This bill would specify that the above-described authorization includes the construction and maintenance of affordable housing, as defined, and the construction and maintenance of housing affordable for persons and families of low or moderate income, as defined.",
+  "Existing law authorizes a district agricultural association, with the approval of the Department of General Services, to lease for the use of its real property, or any portion of that property, to any person or public body for whatever purpose approved by the board of directors of the association, including the construction and maintenance of housing affordable to persons and families of low or moderate income, as defined, and limits a lease to not more than 55 years.",
+  "This bill would specify that the above-described authorization includes the construction and maintenance of affordable housing, as defined, and would increase the maximum duration of a lease to not more than 99 years.",
+  "This bill would require an affordable housing development constructed or maintained on real property purchased, acquired, held, sold, exchanged, conveyed, or leased by a district to have a recorded deed restriction that ensures, for a period of at least 55 years, that 100% of the units, except as specified, are dedicated to persons and families of low or moderate income, as defined, at an affordable rent, as defined.",
+  "Existing law prohibits the Department of Housing and Community Development from making grants or loans pursuant to the Joe Serna, Jr. Farmworker Housing Grant Program on or after January 1, 2020, for the purpose of funding predevelopment of developing or operating any housing that is rented, sold, or subleased to certain entities who employ at least one H-2A worker until the expiration of a regulatory agreement or affordability covenant, as applicable. Existing law requires a person or entity who receives a grant or loan under that grant program on or after January 1, 2020, and expends any of those funds for housing that is rented, sold, or subleased to those certain entities until the expiration of the regulatory agreement or affordability covenant, as applicable, to reimburse the department, as specified. Existing law also prohibits state funding from being provided to an employer or its agent who employs at least one H-2A worker for the purposes of funding predevelopment of, developing, or operating any housing, and requires an employer or other recipient of state funding who uses state funding for those purposes to reimburse the state or state agency, as provided.",
+  "This bill would expressly specify that those prohibitions and requirements apply to the authorized district agricultural association transactions and construction and maintenance actions described above and to funds, state subsidies allocated, and real property purchased, acquired, held, sold, exchanged, or conveyed by a district agricultural association, as specified.",
+  "Existing law provides that any violation of the Food and Agricultural Code is a misdemeanor, except as otherwise specified.",
+  "By creating a new crime, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Lackey",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Agriculture",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Agriculture",
+     "date": "2026-03-25",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-22",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-05-06",
+   "held": "2026-05-14",
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-05-14",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Referred to Coms. on AGRI. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-17",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on AGRI. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-18",
+   "text": "Re-referred to Com. on AGRI.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-26",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 8. Noes 0.) (March 25). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-27",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-28",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX01",
+   "date": "2026-03-25",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Agriculture"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-04-22",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-03-24",
+   "committee": "Assembly Agriculture",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250AB226499INT"
+  },
+  {
+   "date": "2026-03-17",
+   "action": "Amended Assembly",
+   "id": "20250AB226498AMD"
+  },
+  {
+   "date": "2026-04-27",
+   "action": "Amended Assembly",
+   "id": "20250AB226497AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2264",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2264",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2264",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2264",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2264",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2264",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2264&version=20250AB226497AMD"
+ }
+}

@@ -1,0 +1,360 @@
+{
+ "id": "202520260AB2552",
+ "slug": "ab-2552",
+ "label": "AB 2552",
+ "type": "AB",
+ "number": 2552,
+ "session": "20252026",
+ "subject": "California Environmental Quality Act: Transit-Oriented Development Implementation Fund: contributions.",
+ "title": "An act to amend Section 21080.44 of the Public Resources Code, relating to environmental quality, and declaring the urgency thereof, to take effect immediately.",
+ "authors": [
+  {
+   "name": "Ávila Farías",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Valladares",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Alanis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Alvarez",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Dixon",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Jeff Gonzalez",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Hadwick",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Hoover",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Ransom",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wallis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Niello",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-04-29",
+  "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 29). Re-referred to Com. on APPR."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "ceqa"
+ ],
+ "sections": [
+  {
+   "code": "PRC",
+   "name": "Public Resources Code",
+   "section": "21080.44",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "Yes",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.2,
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "If a lead agency determines that a project will have a significant transportation impact, existing law authorizes the lead agency to mitigate the transportation impact to a less than significant level by helping to fund or otherwise facilitating housing or related infrastructure projects, including by contributing an amount, to be determined pursuant to guidance issued by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for purposes of the Transit-Oriented Development Implementation Program. Existing law makes those moneys available to the Department of Housing and Community Development, upon appropriation by the Legislature, for the purpose of awarding funding for affordable housing or related infrastructure projects under the program in accordance with specified priorities. On or before July 1, 2026, and at least once every 3 years thereafter, existing law requires the office, in consultation with other state agencies, to issue guidance related to the implementation of these provisions, as provided.",
+  "This bill would authorize a lead agency for a land use project to require an applicant to contribute to the Transit-Oriented Development Implementation Fund if certain cost conditions are met and the department and the office have validated the reductions in vehicle miles traveled that are attributable to the project, as specified.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "authorLine": "Introduced by Assembly Member Ávila Farías (Principal coauthor: Senator Valladares) (Coauthors: Assembly Members Alanis, Alvarez, Dixon, Jeff Gonzalez, Hadwick, Hoover, Ransom, and Wallis) (Coauthor: Senator Niello)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Natural Resources",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-29",
+   "votes": [
+    {
+     "committee": "Assembly Natural Resources",
+     "date": "2026-04-13",
+     "ayes": 13,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-29",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-04-29",
+   "reason": "Did not advance before the session deadline",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Referred to Coms. on NAT. RES. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-15",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 13. Noes 0.) (April 13).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-16",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-20",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-29",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX16",
+   "date": "2026-04-13",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Natural Resources"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-04-29",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-12",
+   "committee": "Assembly Natural Resources",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-27",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "action": "Introduced",
+   "id": "20250AB255299INT"
+  },
+  {
+   "date": "2026-04-16",
+   "action": "Amended Assembly",
+   "id": "20250AB255298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2552",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2552",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2552",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2552",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2552",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2552",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2552&version=20250AB255298AMD"
+ }
+}

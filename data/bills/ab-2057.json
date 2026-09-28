@@ -1,0 +1,251 @@
+{
+ "id": "202520260AB2057",
+ "slug": "ab-2057",
+ "label": "AB 2057",
+ "type": "AB",
+ "number": 2057,
+ "session": "20252026",
+ "subject": " Natural gas: appliances. ",
+ "title": "An act to add Chapter 15 (commencing with Section 66347) to Division 1 of Title 7 of the Government Code, and to amend Sections 17958.5 and 17958.7 of the Health and Safety Code, relating to natural gas.",
+ "authors": [
+  {
+   "name": "DeMaio",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-04-09",
+  "text": "In committee: Hearing postponed by committee."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "building"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66347",
+   "verb": "add"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17958.5",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17958.7",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "The Planning and Zoning Law enacts various laws relating to land use, including statewide land use planning, transportation planning, local planning, zoning regulations, and housing development, among other things.",
+  "This bill would prohibit state agencies and local governments from adopting or enforcing a rule, regulation, resolution, or ordinance that directly or indirectly results in prohibiting the use of gas appliances in residential or nonresidential buildings.",
+  "Existing law, the California Building Standards Law, establishes the California Building Standards Commission (commission) within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code (code). Existing law, the State Housing Law, establishes statewide construction and occupancy standards for buildings used for human habitation.",
+  "Existing law requires the building standards adopted and submitted by the department for approval by the commission, as specified, to be adopted by reference, with certain exceptions. Existing law authorizes any city or county to make modifications or changes in those building standards that are published in the code, including to green building standards, upon making an express finding that those modifications or changes are reasonably necessary because of local climatic, geological, or topographical conditions. Existing law requires a copy of those findings, together with the modification or change, to be filed with the commission. Existing law, from June 1, 2025, until June 1, 2031, inclusive, prohibits a city or county from making a modification or change to the building standards described above that are applicable to residential units, unless one of specified conditions are met, and requires the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county, unless one of those specified conditions are met.",
+  "This bill would prohibit a city or county from making a change or modification to the above-described building standards that prohibits the use of natural gas in a residential unit. The bill would also require the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county that prohibits the use of natural gas in that residential unit.",
+  "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "authorLine": "Introduced by Assembly Member DeMaio",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-18",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-04-09",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-18",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-19",
+   "text": "From printer. May be heard in committee March 21.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Referred to Coms. on H. & C.D. and U. & E.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-12",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [],
+ "analyses": [],
+ "versions": [
+  {
+   "date": "2026-02-18",
+   "action": "Introduced",
+   "id": "20250AB205799INT"
+  },
+  {
+   "date": "2026-03-12",
+   "action": "Amended Assembly",
+   "id": "20250AB205798AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2057",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2057",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2057",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2057",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2057",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2057",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2057&version=20250AB205798AMD"
+ }
+}

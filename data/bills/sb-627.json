@@ -1,0 +1,909 @@
+{
+ "id": "202520260SB627",
+ "slug": "sb-627",
+ "label": "SB 627",
+ "type": "SB",
+ "number": 627,
+ "session": "20252026",
+ "subject": "Law enforcement: masks.",
+ "title": "An act to add Chapter 17.45 (commencing with Section 7289) to Division 7 of Title 1 of the Government Code, and to add Section 185.5 to the Penal Code, relating to law enforcement.",
+ "authors": [
+  {
+   "name": "Wiener",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Arreguín",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Pérez",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wahab",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ashby",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Becker",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Caballero",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gonzalez",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "McNerney",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Menjivar",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Padilla",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Smallwood-Cuevas",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Stern",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Weber Pierson",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bonta",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Carrillo",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Connolly",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Elhawary",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Garcia",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gipson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Mark González",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Jackson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "McKinnor",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ortega",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Quirk-Silva",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Rogers",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Schultz",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Sharp-Collins",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Solache",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wilson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-09-20",
+  "text": "Chaptered by Secretary of State. Chapter 125, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 125,
+  "year": 2025
+ },
+ "presented": "2025-09-17",
+ "approved": "2025-09-20",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "7289",
+   "verb": "add"
+  },
+  {
+   "code": "PEN",
+   "name": "Penal Code",
+   "section": "185.5",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law makes it a misdemeanor to wear a mask, false whiskers, or any personal disguise, as specified, with the purpose of evading or escaping discovery, recognition, or identification while committing a public offense, or for concealment, flight, evasion, or escape from arrest or conviction for any public offense.",
+  "This bill would make it a crime for a law enforcement officer to wear a facial covering in the performance of their duties, except as specified. The bill would define law enforcement officer as anyone designated by California law as a peace officer who is employed by a city, county, or other local agency, and any officer or agent of a federal law enforcement agency or law enforcement agency of another state, or any person acting on behalf of a federal law enforcement agency or agency of another state. The bill would make a violation of these provisions punishable as an infraction or a misdemeanor, as specified. By creating a new crime, this bill would impose a state-mandated local program.",
+  "The bill would require any law enforcement agency operating in California to, by July 1, 2026, maintain and publicly post a written policy limiting the use of facial coverings, as specified. The bill would exempt personnel of any agency from the crime of wearing a facial covering if an agency maintains a policy pursuant to this section no later than July 1, 2026. The bill would deem a policy consistent with these provisions for the purposes of that exception unless a member of the public, an oversight body, or a local governing authority challenges it. The bill would also impose a specified civil penalty against certain officers for tortious conduct, including, but not limited to, false imprisonment or false arrest of an individual while wearing a facial covering. The bill would, if the agency does not address deficiencies within 90 days, authorize the complaining party to proceed to a court of competent jurisdiction for a judicial determination of the exemption, as specified. The bill would define a law enforcement agency for these purposes as any entity of a city, county, or other local agency, that employs anyone designated by California law as a peace officer, any federal law enforcement agency, or any law enforcement agency of another state.",
+  "By imposing additional duties on local law enforcement agencies, this bill would create a state-mandated local program.",
+  "This bill would declare its provisions to be severable.",
+  "This bill would make related findings and declarations.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Senators Wiener, Arreguín, Pérez, and Wahab (Principal coauthor: Assembly Member Bryan) (Coauthors: Senators Ashby, Becker, Caballero, Gonzalez, McNerney, Menjivar, Padilla, Smallwood-Cuevas, Stern, and Weber Pierson) (Coauthors: Assembly Members Bonta, Carrillo, Connolly, Elhawary, Garcia, Gipson, Mark González, Haney, Jackson, Kalra, Lee, McKinnor, Ortega, Quirk-Silva, Rogers, Schultz, Sharp-Collins, Solache, and Wilson)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Housing"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2025-04-02",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-05-08",
+   "vote": {
+    "ayes": 36,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Local Government",
+    "Assembly Public Safety"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Assembly Public Safety",
+     "date": "2025-07-15",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-08-20",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-20",
+     "ayes": 10,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-09-09",
+   "vote": {
+    "ayes": 45,
+    "noes": 23
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2025-09-11",
+   "applies": true,
+   "vote": {
+    "ayes": 27,
+    "noes": 10
+   },
+   "pending": "2025-09-09",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-17",
+   "done": "2025-09-20",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-09-20",
+   "chapter": {
+    "number": 125,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be acted upon on or after March 23.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-03-05",
+   "text": "Referred to Coms. on L. GOV. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "Set for hearing April 2.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-03",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING with recommendation: To consent calendar. (Ayes 7. Noes 0. Page 637.) (April 2). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Set for hearing April 29.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass. Ordered to consent calendar. (Ayes 11. Noes 0. Page 936.) (April 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-08",
+   "text": "Read third time. Passed. (Ayes 36. Noes 0. Page 1050.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-08",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-29",
+   "text": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "June 18 set for first hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-06-16",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-19",
+   "text": "Re-referred to Com. on PUB. S. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-24",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-09",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (July 15).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-17",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "From committee: Do pass as amended. (Ayes 10. Noes 3.) (August 20).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-21",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-08-25",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Assembly Rule 69(b)(1) suspended.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Read third time. Passed. (Ayes 45. Noes 23. Page 3120.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "From committee: Be re-referred to Com. on PUB. S. pursuant to Senate Rule 29.10(d). (Ayes 3. Noes 0. Page 2759.) Re-referred to Com. on PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 1. Page 2939.)",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Assembly amendments concurred in. (Ayes 27. Noes 10. Page 2908.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Motion to reconsider made by Senator Wiener.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Reconsideration granted. (Ayes 30. Noes 10. Page 2935.)",
+   "house": "Senate",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Assembly amendments concurred in. (Ayes 28. Noes 11. Page 2936.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-17",
+   "text": "Enrolled and presented to the Governor at 2 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-09-20",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-09-20",
+   "text": "Chaptered by Secretary of State. Chapter 125, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS82",
+   "date": "2025-04-02",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-05-08",
+   "ayes": 36,
+   "noes": 0,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX18",
+   "date": "2025-07-15",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Public Safety"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-08-20",
+   "ayes": 10,
+   "noes": 3,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-09",
+   "ayes": 45,
+   "noes": 23,
+   "nvr": 12,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS72",
+   "date": "2025-09-11",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Public Safety"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-11",
+   "ayes": 27,
+   "noes": 10,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-11",
+   "ayes": 30,
+   "noes": 10,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-11",
+   "ayes": 28,
+   "noes": 11,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-28",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-24",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-05",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-14",
+   "committee": "Assembly Public Safety",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-14",
+   "committee": "Assembly Public Safety",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-19",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-27",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-10",
+   "committee": "Senate Public Safety",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-11",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250SB62799INT"
+  },
+  {
+   "date": "2025-06-16",
+   "action": "Amended Assembly",
+   "id": "20250SB62798AMD"
+  },
+  {
+   "date": "2025-06-24",
+   "action": "Amended Assembly",
+   "id": "20250SB62797AMD"
+  },
+  {
+   "date": "2025-07-09",
+   "action": "Amended Assembly",
+   "id": "20250SB62796AMD"
+  },
+  {
+   "date": "2025-07-17",
+   "action": "Amended Assembly",
+   "id": "20250SB62795AMD"
+  },
+  {
+   "date": "2025-08-21",
+   "action": "Amended Assembly",
+   "id": "20250SB62794AMD"
+  },
+  {
+   "date": "2025-09-05",
+   "action": "Amended Assembly",
+   "id": "20250SB62793AMD"
+  },
+  {
+   "date": "2025-09-16",
+   "action": "Enrolled",
+   "id": "20250SB62792ENR"
+  },
+  {
+   "date": "2025-09-20",
+   "action": "Chaptered",
+   "id": "20250SB62791CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB627",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB627",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB627",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB627",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB627",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB627",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB627&version=20250SB62791CHP"
+ }
+}

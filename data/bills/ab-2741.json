@@ -1,0 +1,322 @@
+{
+ "id": "202520260AB2741",
+ "slug": "ab-2741",
+ "label": "AB 2741",
+ "type": "AB",
+ "number": 2741,
+ "session": "20252026",
+ "subject": "Housing element: inventory of land: substantial compliance.",
+ "title": "An act to amend Sections 65583.2, 65585.03, and 65589.55 of the Government Code, relating to housing elements.",
+ "authors": [
+  {
+   "name": "Muratsuchi",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "floor_o",
+ "currentLabel": "Floor vote",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-04-29",
+  "text": "In committee: Set, first hearing. Failed passage. Reconsideration granted."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.2",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65585.03",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65589.55",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.4,
+ "digest": [
+  "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development within its boundaries that includes, among other things, a housing element. Existing law requires the housing element to include, among other things, an inventory of land suitable and available for residential development. Existing law requires a city or county, based on that inventory of land, to determine whether each site in the inventory can accommodate the development of some portion of its share of the regional housing need by income level during the planning period, as provided. Existing law requires local governments to rezone sites according to a specified program if the inventory of sites suitable and available for residential development does not identify adequate sites to accommodate the need for groups of all household income levels. Existing law requires that program to accommodate 100% of the need for housing for specified lower income households on sites required to be zoned to permit owner-occupied and rental multifamily residential use, as provided, and requires these sites to be zoned with specified minimum density and development standards, as provided.",
+  "This bill would provide that these zoning requirements would be met by applying a zoning classification, including, but not limited to, an overlay zone, mixed-use zone, combining district, or similar zone that permits owner-occupied and rental multifamily residential use with the above-described minimum density and development standards, as specified. The bill would require a program that includes application of this zoning classification to include a written explanation of the housing and affordability incentives of the zoning classification. The bill would permit this zoning classification to allow a mix of uses if it meets prescribed requirements. The bill would define key terms for these purposes. The bill would apply these provisions only to the 6th housing element revision cycle and retroactively to January 1, 2019.",
+  "Existing law, commonly referred to as the Housing Element Law, prescribes requirements for a city’s or county’s preparation of, and compliance with, its housing element, and requires the Department of Housing and Community Development to review and determine whether the housing element substantially complies with the Housing Element Law, as specified. Existing law provides that a housing element or amendment is considered substantially compliant with the Housing Element Law when the local agency has adopted a housing element or amendment, the department or a court of competent jurisdiction determines the adopted housing element or amendment to be in substantial compliance with the Housing Element Law, and the department’s compliance findings have not been superseded by subsequent contrary findings by the department or by a decision of a court of competent jurisdiction or the court’s decision has not been overturned or superseded by a subsequent court decision or by statute.",
+  "Existing law, the Housing Accountability Act, among other things, prohibits a local agency from disapproving, or conditioning approval in a manner that renders infeasible, a housing development project for very low, low-, or moderate-income households unless the local agency makes written findings as to one of certain sets of conditions, as specified. One set of conditions is that (1) the jurisdiction has adopted a housing element that is in substantial compliance with the Housing Element Law, and (2) the jurisdiction has met or exceeded its share of the regional housing need allocation for the planning period for the income category proposed for the housing development project. Existing law requires a housing element or amendment to be considered in substantial compliance with the Housing Element Law only if the element or amendment was determined to be in substantial compliance when a preliminary application or complete application was submitted, as specified.",
+  "This bill would require, if a court of competent jurisdiction finds an adopted housing element or amendment to be to be out of compliance despite the department’s findings of substantial compliance, that the housing element or amendment be considered in substantial compliance until either the date the department finds that a newly adopted housing element or amendment is in substantial compliance, or 275 days after a court order, writ, or judgment is issued requiring the local agency to bring its housing element into substantial compliance, whichever is earlier."
+ ],
+ "authorLine": "Introduced by Assembly Member Muratsuchi",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2026-04-22",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-22",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-04-29",
+     "ayes": 3,
+     "noes": 0,
+     "result": "Fail"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "stalled",
+   "stoppedOn": "2026-04-29",
+   "reason": "Did not advance before the session deadline",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-19",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-19",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-23",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-22",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 9. Noes 0.) (April 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-27",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-29",
+   "text": "In committee: Set, first hearing. Failed passage. Reconsideration granted.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-22",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-04-29",
+   "ayes": 3,
+   "noes": 0,
+   "nvr": 7,
+   "result": "Fail",
+   "where": "Assembly Local Government"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-28",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "action": "Introduced",
+   "id": "20250AB274199INT"
+  },
+  {
+   "date": "2026-03-19",
+   "action": "Amended Assembly",
+   "id": "20250AB274198AMD"
+  },
+  {
+   "date": "2026-04-23",
+   "action": "Amended Assembly",
+   "id": "20250AB274197AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2741",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2741",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2741",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2741",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2741",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2741",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2741&version=20250AB274197AMD"
+ }
+}

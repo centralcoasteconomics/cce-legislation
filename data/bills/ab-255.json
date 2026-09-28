@@ -1,0 +1,656 @@
+{
+ "id": "202520260AB255",
+ "slug": "ab-255",
+ "label": "AB 255",
+ "type": "AB",
+ "number": 255,
+ "session": "20252026",
+ "subject": "The Supportive-Recovery Residence Program.",
+ "title": "An act to add Division 10.95 (commencing with Section 11999.45) to the Health and Safety Code, and to amend Section 8255 of the Welfare and Institutions Code, relating to public health.",
+ "authors": [
+  {
+   "name": "Haney",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Stefani",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Allen",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "Consideration of Governor's veto stricken from file."
+ },
+ "chapter": null,
+ "presented": "2025-09-16",
+ "approved": null,
+ "vetoed": "2025-10-01",
+ "governorDeadline": null,
+ "areas": [
+  "homeless"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "11999.45",
+   "verb": "add"
+  },
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "8255",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes the California Interagency Council on Homelessness to oversee the implementation of Housing First guidelines and regulations, and, among other things, identify resources, benefits, and services that can be accessed to prevent and end homelessness in California. Existing law requires a state agency or department that funds, implements, or administers a state program that provides housing or housing-related services to people experiencing homelessness or who are at risk of homelessness to revise or adopt guidelines and regulations to include enumerated Housing First policies. Existing law specifies the core components of Housing First, including services that are informed by a harm-reduction philosophy that recognizes drug and alcohol use and addiction as a part of tenants’ lives and where tenants are engaged in nonjudgmental communication regarding drug and alcohol use.",
+  "This bill would authorize state programs to fund supportive-recovery residences, as defined, that emphasize abstinence under these provisions as long as the state program meets specified criteria, including that at least 90% of program funds awarded to each jurisdiction is used for housing or housing-based services using a harm-reduction model.",
+  "This bill would specify requirements for applicants seeking funds under these programs and would require the state to perform periodic monitoring of select supportive-recovery residence programs to ensure that the supportive-recovery residences meet certain requirements, including that core outcomes of the supportive-recovery housing emphasize long-term housing stability and minimize returns to homelessness. The bill would also prohibit eviction on the basis of relapse, as specified. The bill would require, if a tenant is no longer interested in living in a supportive-recovery residence with an abstinence focus, is at risk of eviction, or is discharged from the program, the tenant to reside in the supportive recovery residence until the operator secures the tenant a new permanent housing placement option operated with harm-reduction principles that is also permanent housing. The bill would require supportive housing and services to support residents’ access to and use of medications to treat behavioral and physical health conditions, as specified, and to provide overdose prevention training and overdose reversal medication to staff and residents, as specified.",
+  "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs that provide services to homeless individuals.",
+  "This bill would require the department to adopt the most recent standards approved by the National Alliance for Recovery Residences or other national standards as the minimum standard for supportive-recovery residences that receive public funds under these provisions. The bill would require the department to establish a separate process for determining if the supportive-recovery residence complies with the core components of Housing First. The bill would require the department to verify compliance with the core components of Housing First for residences seeking Housing First certification, as specified. The bill would authorize the department to charge an annual fee to verify that supportive-recovery residences comply with the core components of Housing First in an amount not to exceed the reasonable cost of administering the program, not to exceed $100, and would establish the Supportive-Recovery Residence Program Fund for collection of the fee, to be available upon appropriation by the Legislature."
+ ],
+ "authorLine": "Introduced by Assembly Member Haney (Principal coauthor: Assembly Member Stefani) (Coauthor: Senator Allen)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-16",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Health"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Health",
+     "date": "2025-04-29",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-07-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-03",
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Health"
+   ],
+   "done": "2025-06-25",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-29",
+   "applies": true,
+   "suspense": "2025-07-14",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-07-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-08",
+   "vote": {
+    "ayes": 39,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-09",
+   "applies": true,
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "pending": "2025-09-08",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-16",
+   "done": null,
+   "vetoed": "2025-10-01",
+   "state": "failed",
+   "stoppedOn": "2025-10-01",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-16",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-01-17",
+   "text": "From printer. May be heard in committee February 16.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-10",
+   "text": "Referred to Coms. on H. & C.D. and Health.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-07",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Assembly Rule 56 suspended. (Page 1163.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "(Pending re-refer to Com. on HEALTH)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-22",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-28",
+   "text": "From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 12. Noes 0.) (April 24). Re-referred to Com. on HEALTH.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 15. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 13. Noes 0.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1967.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-04",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "Referred to Coms. on HOUSING and HEALTH.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-25",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on HEALTH. (Ayes 11. Noes 0.) (June 24).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-06-26",
+   "text": "Read second time and amended. Re-referred to Com. on HEALTH.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-27",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-06-27",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-14",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 2600.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3101.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-16",
+   "text": "Enrolled and presented to the Governor at 2 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-01",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2025-10-01",
+   "text": "Consideration of Governor's veto pending.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Consideration of Governor's veto stricken from file.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX08",
+   "date": "2025-04-29",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Health"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-03",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-07-14",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-08",
+   "ayes": 39,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-09",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-26",
+   "committee": "Assembly Health",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-19",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-13",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-09",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-10-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-16",
+   "action": "Introduced",
+   "id": "20250AB25599INT"
+  },
+  {
+   "date": "2025-04-21",
+   "action": "Amended Assembly",
+   "id": "20250AB25598AMD"
+  },
+  {
+   "date": "2025-06-26",
+   "action": "Amended Senate",
+   "id": "20250AB25597AMD"
+  },
+  {
+   "date": "2025-08-29",
+   "action": "Amended Senate",
+   "id": "20250AB25596AMD"
+  },
+  {
+   "date": "2025-09-11",
+   "action": "Enrolled",
+   "id": "20250AB25595ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 255 without my signature.",
+  "This bill would create a new category of \"supportive recovery residences,\" allow up to 10 percent of state homelessness funds to support them, and set up a new certification and oversight system.",
+  "Recovery-focused housing is an essential part of a comprehensive homelessness response, and California recognizes the value these programs provide individuals seeking support and stability. Current law already permits local jurisdictions to receive funding within the Housing First framework, and recent guidance allows support for recovery housing without creating a duplicative and costly new statutory category. Establishing a separate certification and oversight process wrongly suggests incompatibility with Housing First, while imposing fees that would not cover implementation costs.",
+  "California remains committed to advancing recovery housing within Housing First. I encourage the author and stakeholders to continue working with my Administration to strengthen these options in ways that complement, rather than complicate, the state's approach. Any broader programmatic changes, if warranted, should be considered holistically through the annual budget process.",
+  "For these reasons, I cannot sign this bill.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB255",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB255",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB255",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB255",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB255",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB255",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB255&version=20250AB25595ENR"
+ }
+}

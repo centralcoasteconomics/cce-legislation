@@ -1,0 +1,549 @@
+{
+ "id": "202520260AB1184",
+ "slug": "ab-1184",
+ "label": "AB 1184",
+ "type": "AB",
+ "number": 1184,
+ "session": "20252026",
+ "subject": "Common interest developments: association management and meeting procedures.",
+ "title": "An act to amend Sections 4360, 4910, 4935, 4950, 5120, 5205, and 5300 of, and to add Section 4941 to, the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "Patterson",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "DeMaio",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "concurrence",
+ "currentLabel": "Concurrence",
+ "location": "Assembly",
+ "statusRaw": "In Floor Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-08-27",
+  "text": "In Assembly. Concurrence in Senate amendments pending."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4360",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4910",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4935",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4950",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5120",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5205",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5300",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4941",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.7,
+ "digest": [
+  "Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments by an association. Existing law requires the board of an association to provide general notice of a proposed rule change at least 28 days before making the rule change, in accordance with certain procedures. Existing law, however, permits the board to make an emergency rule change if it determines that the change is required to address an imminent threat to public health or safety, or an imminent risk of substantial economic loss to the association, as prescribed.",
+  "This bill would make nonsubstantive changes to that provision.",
+  "Existing law, the Common Interest Development Open Meeting Act, prohibits the board of a common interest development from taking action on any item of business outside of a board meeting. Existing law also prohibits the board from conducting a meeting via a series of electronic transmissions, except in specified emergency circumstances.",
+  "This bill would prohibit a majority of the directors of the board, outside an authorized meeting, from using a series of communications of any kind, directly or through intermediaries, to discuss, deliberate, or take action on any item of business within the board’s subject matter jurisdiction, except in an emergency. The bill would also exempt from this prohibition certain informational and ministerial communications.",
+  "Existing law authorizes the board to adjourn to, or meet solely in, executive session to consider litigation and other specified matters. Existing law requires any matter discussed in executive session to be generally noted in the minutes of the immediately following meeting that is open to the entire membership.",
+  "This bill would require discussions regarding ongoing litigation to have the case name, case number, and name of the court included as part of the executive session meeting minutes.",
+  "This bill would require, if open session meetings of the board are electronically recorded using audio, or audio and video, that the recordings be considered a record of the association and be made available to members on the same basis as written meeting minutes. The bill would exempt a recording used solely for the purpose of creating meeting minutes and would authorize that the recording be deleted 12 months after the meeting minutes are completed. The bill, for meetings that are being recorded, would require notice to be given at the beginning of every open session of the board that the meeting is being recorded.",
+  "Existing law requires the minutes, minutes proposed for adoption that are marked to indicate draft status, or a summary of the minutes of a board meeting, other than an executive session, to be available to members within 30 days of the meeting and distributed to a member upon request and upon reimbursement of the association’s cost for making that distribution.",
+  "This bill would prohibit the imposition of a charge for minutes that are distributed electronically. The bill would allow minutes posted on the association website to meet minute distribution requirements. The bill would require the minutes, or proposed minutes, to include specified information, including the date and time of the meeting. The bill would require an association to make the minutes available to a member who requests a physical copy of the minutes.",
+  "Existing law requires an association to distribute an annual budget report 30 to 90 days before the end of its fiscal year that contains specified information.",
+  "This bill would require the annual budget report to also include a statement listing any active litigation in which the association is named as a party, as specified."
+ ],
+ "authorLine": "Introduced by Assembly Member Patterson (Coauthor: Assembly Member DeMaio)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-01-14",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-01-14",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-01-22",
+   "vote": {
+    "ayes": 69,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2026-08-03",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-10",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2026-06-30",
+     "ayes": 13,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-26",
+   "vote": {
+    "ayes": 38,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": "2026-08-27",
+   "state": "stalled",
+   "stoppedOn": "2026-08-27",
+   "reason": "Did not advance before the session deadline",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-22",
+   "text": "From printer. May be heard in committee March 24.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-25",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-01-06",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (January 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-15",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-16",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 3807.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 10. Noes 0.) (June 10). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-08-03",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 13. Noes 0.) (June 30).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-04",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-20",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-01-14",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-01-22",
+   "ayes": 69,
+   "noes": 0,
+   "nvr": 11,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-10",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2026-06-30",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-26",
+   "ayes": 39,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-01-12",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-16",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-04",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-28",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-29",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-07",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-20",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-27",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250AB118499INT"
+  },
+  {
+   "date": "2025-03-24",
+   "action": "Amended Assembly",
+   "id": "20250AB118498AMD"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Assembly",
+   "id": "20250AB118497AMD"
+  },
+  {
+   "date": "2026-01-15",
+   "action": "Amended Assembly",
+   "id": "20250AB118496AMD"
+  },
+  {
+   "date": "2026-08-04",
+   "action": "Amended Senate",
+   "id": "20250AB118495AMD"
+  },
+  {
+   "date": "2026-08-19",
+   "action": "Amended Senate",
+   "id": "20250AB118494AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1184",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1184",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1184",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1184",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1184",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1184",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1184&version=20250AB118494AMD"
+ }
+}

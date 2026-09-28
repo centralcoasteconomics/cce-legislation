@@ -1,0 +1,524 @@
+{
+ "id": "202520260AB1684",
+ "slug": "ab-1684",
+ "label": "AB 1684",
+ "type": "AB",
+ "number": 1684,
+ "session": "20252026",
+ "subject": "Common interest developments: cooling systems.",
+ "title": "An act to add Section 4738 to the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "Ward",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Connolly",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-27",
+  "text": "Enrolled and presented to the Governor at 4 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-27",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4738",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments, and requires a common interest development to be managed by an association, as specified. Existing law includes provisions that limit the authority of an association or the governing documents, as defined, to regulate the use of a member’s separate interest, as defined.",
+  "Existing law, the Mobilehome Residency Law, governs tenancies in mobilehome parks and includes provisions that are applicable to those who have an ownership interest in a subdivision, cooperative, or condominium for mobilehomes, or a resident-owned mobilehome park, as specified. Existing law makes any covenant, restriction, or condition contained in any rental agreement or other instrument affecting the tenancy of a homeowner or resident that effectively prohibits or restricts the installation, upgrade, replacement, or use of a cooling system in a mobilehome void and unenforceable. Existing law provides that a “cooling system” includes a portable air-conditioning unit, a window air-conditioning unit, a swamp cooler or any evaporative cooler, a cooling fan system, a heat pump, or any other technology that reasonably creates an internal temperature cooling benefit, and meets applicable health and safety standards and requirements imposed by law.",
+  "This bill would, under the Davis-Stirling Common Interest Development Act, make any provision of the governing documents or architectural guidelines void and unenforceable if the provision prohibits or restricts the installation, upgrade, replacement, or use of a cooling system that complies with all applicable state and local building codes. The bill would also make any covenant, restriction, or condition contained in any, among other specified agreements, deed that effectively prohibits or restricts the installation, upgrade, replacement, or use of a cooling system, void and unenforceable. The bill would make it unlawful for an association to prohibit or restrict a member from installing, upgrading, replacing, or using a cooling system in the member’s separate interest, or to take other specified actions in connection with the installation, upgrade, replacement, or use of a cooling system, subject to specified exceptions.",
+  "This bill would make an association that willfully violates these provisions liable to the member for actual damages occasioned thereby, for a civil penalty paid to the member in an amount not to exceed $2,000, and reasonable attorney’s fees and court costs, as provided."
+ ],
+ "authorLine": "Introduced by Assembly Member Ward (Coauthors: Assembly Members Connolly and Kalra)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2026-04-28",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-03-25",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2026-04-28",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-04",
+   "vote": {
+    "ayes": 74,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2026-06-24",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-16",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2026-06-23",
+     "ayes": 13,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-19",
+   "vote": {
+    "ayes": 38,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2026-08-20",
+   "applies": true,
+   "vote": {
+    "ayes": 76,
+    "noes": 0
+   },
+   "pending": "2026-08-19",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-27",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-03",
+   "text": "From printer. May be heard in committee March 5.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-02-23",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-25",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 0.) (March 25). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-22",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-28",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-04-28",
+   "text": "From committee: Do pass. (Ayes 12. Noes 0.) (April 28).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-29",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 74. Noes 0. Page 1684.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-05",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-13",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 9. Noes 0.) (June 16).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "From committee: Do pass. (Ayes 13. Noes 0.) (June 23).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-19",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-20",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 6315.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-03-25",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2026-04-28",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-04",
+   "ayes": 74,
+   "noes": 0,
+   "nvr": 6,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-16",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2026-06-23",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-19",
+   "ayes": 38,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-20",
+   "ayes": 76,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-03-23",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-24",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-29",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-11",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-19",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-10",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-02",
+   "action": "Introduced",
+   "id": "20250AB168499INT"
+  },
+  {
+   "date": "2026-04-22",
+   "action": "Amended Assembly",
+   "id": "20250AB168498AMD"
+  },
+  {
+   "date": "2026-06-18",
+   "action": "Amended Senate",
+   "id": "20250AB168497AMD"
+  },
+  {
+   "date": "2026-08-06",
+   "action": "Amended Senate",
+   "id": "20250AB168496AMD"
+  },
+  {
+   "date": "2026-08-24",
+   "action": "Enrolled",
+   "id": "20250AB168495ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1684",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1684",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1684",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1684",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1684",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1684",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1684&version=20250AB168495ENR"
+ }
+}

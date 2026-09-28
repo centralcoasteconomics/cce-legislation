@@ -1,0 +1,501 @@
+{
+ "id": "202520260SB770",
+ "slug": "sb-770",
+ "label": "SB 770",
+ "type": "SB",
+ "number": 770,
+ "session": "20252026",
+ "subject": "Common interest developments: EV charging stations.",
+ "title": "An act to amend Section 4745 of the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "Allen",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Zbur",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-10",
+  "text": "Chaptered by Secretary of State. Chapter 525, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 525,
+  "year": 2025
+ },
+ "presented": "2025-09-22",
+ "approved": "2025-10-10",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4745",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law, the Davis-Stirling Common Interest Development Act, defines and regulates common interest developments, which include community apartment projects, condominium projects, planned developments, and stock cooperatives. Existing law imposes various requirements regarding the installation and use of an electric vehicle (EV) charging station placed in a common area or an exclusive use common area of a common interest development, including that the owner is required to provide a certificate of insurance that names the association as an additional insured party.",
+  "This bill would delete the requirement that the insurance policy name the association as an additional insured party, and would correct an erroneous cross-reference regarding the amount of that insurance."
+ ],
+ "authorLine": "Introduced by Senator Allen (Coauthor: Assembly Member Zbur)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2025-05-07",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-22",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-05-06",
+     "ayes": 11,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-05-28",
+   "vote": {
+    "ayes": 28,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Judiciary",
+    "Assembly Insurance"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-06-24",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Insurance",
+     "date": "2025-07-16",
+     "ayes": 11,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-09-11",
+   "vote": {
+    "ayes": 55,
+    "noes": 20
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "vote": null,
+   "pending": null,
+   "state": "skipped",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-22",
+   "done": "2025-10-10",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-10",
+   "chapter": {
+    "number": 525,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 22.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-17",
+   "text": "Set for hearing May 6 in JUD. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 8. Noes 2. Page 832.) (April 22). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-07",
+   "text": "From committee: Do pass. (Ayes 11. Noes 1. Page 1027.) (May 6).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-08",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-28",
+   "text": "Read third time. Passed. (Ayes 28. Noes 10. Page 1308.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-28",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-16",
+   "text": "Referred to Coms. on JUD. and INS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-24",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-06-24",
+   "text": "From committee: Do pass and re-refer to Com. on INS. (Ayes 9. Noes 3.) (June 24). Re-referred to Com. on INS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass. (Ayes 11. Noes 3.) (July 16).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-17",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Read third time. Passed. (Ayes 55. Noes 20. Page 3280.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-12",
+   "text": "In Senate. Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-09-22",
+   "text": "Enrolled and presented to the Governor at 11 a.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Chaptered by Secretary of State. Chapter 525, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-22",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-05-06",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-05-28",
+   "ayes": 28,
+   "noes": 10,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-06-24",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX28",
+   "date": "2025-07-16",
+   "ayes": 11,
+   "noes": 3,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Insurance"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-11",
+   "ayes": 55,
+   "noes": 20,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-17",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-02",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-09",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-20",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-15",
+   "committee": "Assembly Insurance",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-13",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB77099INT"
+  },
+  {
+   "date": "2025-03-24",
+   "action": "Amended Senate",
+   "id": "20250SB77098AMD"
+  },
+  {
+   "date": "2025-09-16",
+   "action": "Enrolled",
+   "id": "20250SB77097ENR"
+  },
+  {
+   "date": "2025-10-10",
+   "action": "Chaptered",
+   "id": "20250SB77096CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB770",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB770",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB770",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB770",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB770",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB770",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB770&version=20250SB77096CHP"
+ }
+}

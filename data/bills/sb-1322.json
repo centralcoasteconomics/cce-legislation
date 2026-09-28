@@ -1,0 +1,635 @@
+{
+ "id": "202520260SB1322",
+ "slug": "sb-1322",
+ "label": "SB 1322",
+ "type": "SB",
+ "number": 1322,
+ "session": "20252026",
+ "subject": "Community Care Expansion Program.",
+ "title": "An act to amend Section 18999.97 of the Welfare and Institutions Code, relating to public social services.",
+ "authors": [
+  {
+   "name": "Richardson",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-08",
+  "text": "Enrolled and presented to the Governor at 4 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-08",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "18999.97",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes the Community Care Expansion Program, under the administration of the State Department of Social Services. Under the program, subject to appropriation by the Legislature, the department awards grants to qualified grantees to administer projects for the acquisition, construction, or rehabilitation of property to be operated as residential adult and senior care facilities, or to promote the sustainability of existing licensed residential adult and senior care facilities through the provision of capitalized operating subsidy reserves. Existing law authorizes the department to enter into an agreement with one or more entities to facilitate the grant awards. Existing law requires the contracting entity to act as a third-party administrator to provide operational services under the contract, including, but not limited to, developing an online application portal and processing invoices and making grant payments.",
+  "This bill would require the department to develop the grant application for tribes in consultation with tribes in the event the program obtains additional funding available to tribes. The bill would require the department to include its existing tribal liaison or their designee in discussions throughout the grant process to ensure tribal sovereignty is honored. The bill would also require that, if additional funds are appropriated, an agreement between the department and a tribe align with federal tribal housing grant agreements to the extent practicable and consistent with the program.",
+  "Existing law requires, subject to an appropriation, the department to award grants to preserve or expand the capacity of residential adult and senior care facilities through the acquisition, construction, or rehabilitation of property and requires counties and tribes receiving funds for this purpose to provide matching funds or real property.",
+  "This bill would exempt a tribe from providing real property if federal restrictions limit tribal property ownership."
+ ],
+ "authorLine": "Introduced by Senator Richardson",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-23",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Governmental Organization",
+    "Senate Housing"
+   ],
+   "done": "2026-04-16",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-15",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-04-27",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-04-27",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-22",
+   "vote": {
+    "ayes": 33,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Human Services"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Assembly Human Services",
+     "date": "2026-06-30",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2026-08-05",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-04-27",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-25",
+   "vote": {
+    "ayes": 78,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-30",
+   "applies": true,
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "pending": "2026-08-25",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-08",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-20",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-23",
+   "text": "From printer. May be acted upon on or after March 23.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-23",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-03-04",
+   "text": "Referred to Com. on G.O.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-25",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on G.O.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-26",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-26",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-08",
+   "text": "Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 9. Noes 0. Page 3902.) (April 15). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 27.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-27",
+   "text": "April 27 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-08",
+   "text": "Set for hearing May 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 7. Noes 0. Page 4273.) (May 14).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-20",
+   "text": "Ordered to special consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-22",
+   "text": "Read third time. Passed. (Ayes 33. Noes 0. Page 4420.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-22",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-01",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "Re-referred to Com. on HUM. S. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "August 5 set for first hearing. Placed on suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Assembly Rule 63 suspended.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Read third time. Passed. (Ayes 78. Noes 0. Page 6476.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-25",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-26",
+   "text": "From committee: Be re-referred to Com. on HUMAN S. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on HUMAN S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 0.)",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Ordered to special consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-08",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-04-15",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-04-27",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-05-14",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-22",
+   "ayes": 33,
+   "noes": 0,
+   "nvr": 7,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX11",
+   "date": "2026-06-30",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Human Services"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-13",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-25",
+   "ayes": 78,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS74",
+   "date": "2026-08-27",
+   "ayes": 4,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Human Services"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-30",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-09",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-24",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-16",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-27",
+   "committee": "Assembly Human Services",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-26",
+   "committee": "Senate Human Services",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-27",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "action": "Introduced",
+   "id": "20250SB132299INT"
+  },
+  {
+   "date": "2026-03-25",
+   "action": "Amended Senate",
+   "id": "20250SB132298AMD"
+  },
+  {
+   "date": "2026-06-11",
+   "action": "Amended Assembly",
+   "id": "20250SB132297AMD"
+  },
+  {
+   "date": "2026-08-13",
+   "action": "Amended Assembly",
+   "id": "20250SB132296AMD"
+  },
+  {
+   "date": "2026-09-02",
+   "action": "Enrolled",
+   "id": "20250SB132295ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1322",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1322",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1322",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1322",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1322",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1322",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1322&version=20250SB132295ENR"
+ }
+}

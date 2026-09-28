@@ -1,0 +1,556 @@
+{
+ "id": "202520260AB939",
+ "slug": "ab-939",
+ "label": "AB 939",
+ "type": "AB",
+ "number": 939,
+ "session": "20252026",
+ "subject": "Housing development: density bonuses: affordability of for-sale units.",
+ "title": "An act to add Section 65915.4 to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Schultz",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Solache",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wicks",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-04",
+  "text": "Enrolled and presented to the Governor at 4 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-04",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "density"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65915.4",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct specified units and meets other requirements. Existing law, among other things, requires compliance with certain affordability requirements, including requiring that the applicant agree to ensure, and that the city, county, or city and county ensure, that a for-sale unit that qualified the applicant for the award of the density bonus is either (1) initially sold to and occupied by a person or family of very low, low, or moderate income, as specified, or (2) if the unit is not purchased by an income-qualified person or family within 180 days after the issuance of the certificate of occupancy, the unit is purchased by a qualified nonprofit housing corporation, as provided.",
+  "This bill would additionally allow the applicant and the city, county, or city and county to comply with the above-described affordability requirements with respect to a for-sale unit by ensuring that the unit is purchased by a nonprofit housing corporation, as specified, for properties to be sold to and occupied by extremely low, very low, or lower income families who participate in a below market interest rate loan program, as described. By adding to the duties of local agencies to implement the Density Bonus Law, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Schultz (Coauthors: Assembly Members Solache and Wicks)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Transportation",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-01-14",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-01-14",
+     "ayes": 10,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-01-22",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-01-22",
+     "ayes": 13,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-01-29",
+   "vote": {
+    "ayes": 60,
+    "noes": 9
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2026-06-11",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-10",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-06-22",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-01-22",
+     "ayes": 13,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-26",
+   "vote": {
+    "ayes": 33,
+    "noes": 1
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2026-08-27",
+   "applies": true,
+   "vote": {
+    "ayes": 67,
+    "noes": 6
+   },
+   "pending": "2026-08-27",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-04",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-10",
+   "text": "Referred to Com. on TRANS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on TRANS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on H. & C.D. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 1.) (January 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-15",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-01-16",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Assembly Rule 63 suspended. (Page 3806.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "From committee: Do pass. (Ayes 13. Noes 2.) (January 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-29",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 60. Noes 9. Page 3873.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-29",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (June 10). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-22",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-23",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-18",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 33. Noes 1.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 67. Noes 6. Page 6685.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-04",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-01-14",
+   "ayes": 10,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-01-22",
+   "ayes": 13,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-01-29",
+   "ayes": 60,
+   "noes": 9,
+   "nvr": 11,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-10",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-26",
+   "ayes": 34,
+   "noes": 1,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-27",
+   "ayes": 67,
+   "noes": 6,
+   "nvr": 6,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-01-12",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-21",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-04",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-24",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-18",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-24",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-27",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-19",
+   "action": "Introduced",
+   "id": "20250AB93999INT"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Assembly",
+   "id": "20250AB93998AMD"
+  },
+  {
+   "date": "2026-01-15",
+   "action": "Amended Assembly",
+   "id": "20250AB93997AMD"
+  },
+  {
+   "date": "2026-08-17",
+   "action": "Amended Senate",
+   "id": "20250AB93996AMD"
+  },
+  {
+   "date": "2026-08-21",
+   "action": "Amended Senate",
+   "id": "20250AB93995AMD"
+  },
+  {
+   "date": "2026-09-01",
+   "action": "Enrolled",
+   "id": "20250AB93994ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB939",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB939",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB939",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB939",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB939",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB939",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB939&version=20250AB93994ENR"
+ }
+}

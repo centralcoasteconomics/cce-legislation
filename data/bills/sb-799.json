@@ -1,0 +1,688 @@
+{
+ "id": "202520260SB799",
+ "slug": "sb-799",
+ "label": "SB 799",
+ "type": "SB",
+ "number": 799,
+ "session": "20252026",
+ "subject": "Joint powers authorities: South Bay Regional Housing Trust.",
+ "title": "An act to amend Section 6539.9 of the Government Code, relating to joint powers.",
+ "authors": [
+  {
+   "name": "Allen",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-24",
+  "text": "Enrolled and presented to the Governor at 3 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-24",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "6539.9",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law authorizes the establishment of the South Bay Regional Housing Trust, a joint powers authority, by the County of Los Angeles and any or all of the cities within the jurisdiction of the South Bay Cities Council of Governments, with the stated purpose of funding housing to assist the homeless population and persons and families of extremely low, very low, and low income within the South Bay Cities region. Existing law authorizes the South Bay Regional Housing Trust to, among other things, fund planning and construction of housing of all types and tenures for the homeless population and persons and families of extremely low, very low, and low income.",
+  "This bill would expand the authority of the trust to also include funding the preservation of housing for these purposes. The bill would also expand the authority of the trust to include funding planning, construction, and preservation of housing for persons and families of moderate income, as defined, using any private resources and specified public resources.",
+  "Existing law requires that the South Bay Regional Housing Trust be governed by a board of directors consisting of an appropriate number of directors, to be determined by the governing board of the South Bay Cities Council of Governments. Existing law requires the board of directors to include mayors, council members, or County of Los Angeles supervisors, as described. Existing law requires that the board of directors to elect a chairperson and a vice chairperson from among its members at the first meeting held in each calendar year. Existing law requires the governing board of the South Bay Cities Council of Governments to appoint the board of directors and, in the case of a vacancy on the board of directors, qualified individuals to fill the vacancy, as specified.",
+  "This bill would instead require the joint powers agreement to establish the number of directors of the trust and the process for appointing directors and filling vacancies. The bill would additionally authorize the board of directors to include persons appointed and designated as alternate members of the board of directors, as specified. The bill would require all directors and alternates to be subject to the board of directors’ adopted conflict of interest code. The bill would prohibit each alternate that is currently not an elected official from participating as a voting member in more than 75% of all meetings in a calendar year. The bill would instead require the board of directors to elect a chairperson and a vice chairperson from among its members at the first meeting held in either the calendar or fiscal year.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for South Bay Cities region of the County of Los Angeles."
+ ],
+ "authorLine": "Introduced by Senator Allen",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary",
+    "Senate Revenue and Taxation",
+    "Senate Local Government"
+   ],
+   "done": "2026-01-14",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-08",
+     "ayes": 10,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Revenue and Taxation",
+     "date": "2025-04-23",
+     "ayes": 5,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Revenue and Taxation",
+     "date": "2025-04-23",
+     "ayes": 2,
+     "noes": 1,
+     "result": "Fail"
+    },
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-01-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-01-26",
+   "vote": {
+    "ayes": 39,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Local Government",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-06-25",
+   "votes": [
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-06-17",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-07-02",
+   "vote": {
+    "ayes": 70,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-19",
+   "applies": true,
+   "vote": {
+    "ayes": 38,
+    "noes": 0
+   },
+   "pending": "2026-07-02",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-24",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Set for hearing April 8 in JUD. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Coms. on JUD. and REV. & TAX.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee: Do pass as amended and re-refer to Com. on REV. & TAX. (Ayes 10. Noes 2. Page 707.) (April 8).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-17",
+   "text": "Set for hearing April 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "April 23 set for first hearing. Failed passage in committee. (Ayes 2. Noes 1. Page 873.) Reconsideration granted.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-07",
+   "text": "Set for hearing January 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 3225.) (January 14).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-15",
+   "text": "Read second time and amended. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-26",
+   "text": "Read third time. Passed. (Ayes 39. Noes 0. Page 3278.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-26",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-08",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. with recommendation: To consent calendar. (Ayes 10. Noes 0.) (June 17). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "From committee: Do pass. Ordered to consent calendar. (Ayes 11. Noes 0.) (June 24).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-29",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-07-02",
+   "text": "Read third time. Passed. (Ayes 70. Noes 0. Page 5985.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-03",
+   "text": "Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-03",
+   "text": "In Assembly. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Action rescinded whereby bill was read third time, passed, and ordered to the Senate.",
+   "house": null,
+   "where": null,
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read third time. Passed. (Ayes 74. Noes 0. Page 6207.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-18",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Assembly amendments concurred in. (Ayes 38. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS53",
+   "date": "2025-04-08",
+   "ayes": 10,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS83",
+   "date": "2025-04-23",
+   "ayes": 5,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Revenue and Taxation"
+  },
+  {
+   "location_code": "CS83",
+   "date": "2025-04-23",
+   "ayes": 2,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Fail",
+   "where": "Senate Revenue and Taxation"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2026-01-14",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-01-26",
+   "ayes": 39,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-06-17",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-07-02",
+   "ayes": 70,
+   "noes": 0,
+   "nvr": 9,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-17",
+   "ayes": 74,
+   "noes": 0,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-19",
+   "ayes": 38,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-04",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-21",
+   "committee": "Senate Revenue and Taxation",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-23",
+   "committee": "Senate Revenue and Taxation",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-01-09",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-01-15",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-16",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-07-30",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-07",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-12",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB79999INT"
+  },
+  {
+   "date": "2025-03-24",
+   "action": "Amended Senate",
+   "id": "20250SB79998AMD"
+  },
+  {
+   "date": "2025-04-10",
+   "action": "Amended Senate",
+   "id": "20250SB79997AMD"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Senate",
+   "id": "20250SB79996AMD"
+  },
+  {
+   "date": "2026-01-15",
+   "action": "Amended Senate",
+   "id": "20250SB79995AMD"
+  },
+  {
+   "date": "2026-06-08",
+   "action": "Amended Assembly",
+   "id": "20250SB79994AMD"
+  },
+  {
+   "date": "2026-08-10",
+   "action": "Amended Assembly",
+   "id": "20250SB79993AMD"
+  },
+  {
+   "date": "2026-08-20",
+   "action": "Enrolled",
+   "id": "20250SB79992ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB799",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB799",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB799",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB799",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB799",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB799",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB799&version=20250SB79992ENR"
+ }
+}

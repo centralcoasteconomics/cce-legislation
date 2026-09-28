@@ -1,0 +1,24 @@
+{
+  "_doc": "Session settings and the dated calendar the Legislative Log reads. Dates are verified against the source named on each row; the steward re-checks them and adds the 2027 calendar when the Legislature adopts it (normally early December). `stalledAfter` is the last day for each house to pass bills in the second year; after it an in-process bill cannot advance.",
+  "sessions": [
+    {
+      "key": "20252026",
+      "archiveYear": 2025,
+      "label": "2025-26 Regular Session",
+      "stalledAfter": "2026-08-31",
+      "adjournsSineDie": "2026-11-30"
+    }
+  ],
+  "housingCommittees": {
+    "CX10": "Assembly Housing and Community Development",
+    "CS75": "Senate Housing"
+  },
+  "measureTypes": ["AB", "SB", "ACA", "SCA"],
+  "calendar": [
+    {"date": "2026-08-31", "label": "Last day for each house to pass bills", "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"},
+    {"date": "2026-09-30", "label": "Last day for the Governor to sign or veto bills", "note": "A bill passed before Sept 1 and not returned by Sept 30 becomes law without his signature (Cal. Const. art. IV, sec. 10(b)(2)).", "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"},
+    {"date": "2026-11-30", "label": "2025-26 session adjourns sine die", "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"},
+    {"date": "2026-12-07", "label": "2027-28 session convenes", "note": "Noon on the first Monday in December of an even year (Cal. Const. art. IV, sec. 3(a)).", "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"},
+    {"date": "2027-01-01", "label": "Most 2026 statutes take effect", "note": "Non-urgency statutes take effect January 1 of the following year (Cal. Const. art. IV, sec. 8(c)).", "source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%208.&article=IV"}
+  ]
+}

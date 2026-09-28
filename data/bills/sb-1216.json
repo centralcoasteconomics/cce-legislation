@@ -1,0 +1,283 @@
+{
+ "id": "202520260SB1216",
+ "slug": "sb-1216",
+ "label": "SB 1216",
+ "type": "SB",
+ "number": 1216,
+ "session": "20252026",
+ "subject": "Budget Act of 2026.",
+ "title": "An act to amend the Budget Act of 2026 by amending Section 15.14 of that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",
+ "authors": [
+  {
+   "name": "Laird",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-06-15",
+  "text": "Re-referred to Com. on B. & F. R."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "Yes",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "Yes",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.1,
+ "digest": [
+  "The Budget Act of 2026 would make appropriations for the support of state government for the 2026–27 fiscal year.",
+  "This bill would amend the Budget Act of 2026 by amending a section relating to appropriations.",
+  "This bill would declare that it is to take effect immediately as a Budget Bill."
+ ],
+ "authorLine": "Introduced by Senator Laird",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Budget and Fiscal Review"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-06-15",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be acted upon on or after March 22.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-03-04",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-07",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "April 15 set for first hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Set for hearing April 21.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-13",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-20",
+   "text": "April 21 set for second hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-06-15",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "Re-referred to Com. on B. & F. R.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  }
+ ],
+ "votes": [],
+ "analyses": [
+  {
+   "date": "2026-04-16",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250SB121699INT"
+  },
+  {
+   "date": "2026-04-13",
+   "action": "Amended Senate",
+   "id": "20250SB121698AMD"
+  },
+  {
+   "date": "2026-06-11",
+   "action": "Amended Senate",
+   "id": "20250SB121697AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1216",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1216",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1216",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1216",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1216",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1216",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1216&version=20250SB121697AMD"
+ }
+}

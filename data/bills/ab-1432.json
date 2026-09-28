@@ -1,0 +1,254 @@
+{
+ "id": "202520260AB1432",
+ "slug": "ab-1432",
+ "label": "AB 1432",
+ "type": "AB",
+ "number": 1432,
+ "session": "20252026",
+ "subject": "Homelessness Accountability, Recovery, and Treatment Act.",
+ "title": "An act to add Chapter 6.6 (commencing with Section 8258) to Division 8 of the Welfare and Institutions Code, relating to homelessness.",
+ "authors": [
+  {
+   "name": "Hoover",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "died",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "homeless"
+ ],
+ "sections": [
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "8258",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "Existing law establishes and provides funding for various state programs in connection with assisting the homeless, including Housing First. Existing law establishes the core components of Housing First to include, among other things, tenant screening and selection practices that promote accepting applicants regardless of their sobriety or use of substances, completion of treatment, or participation in services.",
+  "This bill, the Homelessness Accountability, Recovery, and Treatment Act, would authorize a state agency to use up to 40 percent of existing noncontinuously appropriated funds allocated to a homelessness program on recovery housing that does not meet the core components of Housing First.",
+  "Existing law requires the Governor to create an Interagency Council on Homeless to create partnerships among state agencies and departments, local government agencies, and specified nonprofit entities to arrive at specific strategies to end homelessness and collect, compile, and make publicly available specified financial data provided to the council from all state-funded homelessness programs.",
+  "This bill would require a nonprofit that receives state or local government funding for homelessness programs to annually report to the relevant state agency or local government from which they receive funding specified standardized performance metrics. The bill would require a state agency, as defined, to develop a standardized reporting template and compile and publish an annual report summarizing the performance metrics. The bill would require a nonprofit to maintain records and documentation to support the performance metrics and make those records available for audit or review upon request by a local government or state agency. The bill would require a state agency, in collaboration with local governments, to establish procedures for certifying the accuracy of the performance metrics. To the extent that the bill would require a local government to cooperate fully with a state agency to establish those procedures, the bill would impose a state-mandated local program. The bill would require a state agency to provide technical assistance and resources to assist nonprofits, particularly smaller nonprofit organizations, in complying with these reporting requirements. The bill would require a state agency to adopt regulations to implement the act no later than January 1, 2027, and would require a nonprofit to begin reporting performance metrics beginning with the first full fiscal year following the adoption of regulations.",
+  "This bill would define various terms for purposes of the act.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Assembly Member Hoover",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Died",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-22",
+   "text": "From printer. May be heard in committee March 24.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-28",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [],
+ "analyses": [],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250AB143299INT"
+  },
+  {
+   "date": "2025-03-28",
+   "action": "Amended Assembly",
+   "id": "20250AB143298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1432",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1432",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1432",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1432",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1432",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1432",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1432&version=20250AB143298AMD"
+ }
+}

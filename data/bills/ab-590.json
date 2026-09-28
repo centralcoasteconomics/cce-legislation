@@ -1,0 +1,225 @@
+{
+ "id": "202520260AB590",
+ "slug": "ab-590",
+ "label": "AB 590",
+ "type": "AB",
+ "number": 590,
+ "session": "20252026",
+ "subject": "Social Housing Bond Act of 2026.",
+ "title": "An act to add Part 16.1 (commencing with Section 54050) to Division 31 of the Health and Safety Code, relating to the Social Housing Bond Act of 2026, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of those funds, and declaring the urgency thereof, to take effect immediately.",
+ "authors": [
+  {
+   "name": "Lee",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "54050",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "Yes",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.1,
+ "digest": [
+  "Under existing law, there are programs providing assistance for, among other things, emergency housing, multifamily housing, farmworker housing, home ownership, and downpayment assistance for first-time home buyers. Existing law also authorizes the issuance of bonds in specified amounts pursuant to the State General Obligation Bond Law and requires that proceeds from the sale of these bonds be used to finance various existing housing programs, capital outlay related to infill development, brownfield cleanup that promotes infill development, and housing-related parks.",
+  "This bill would enact the Social Housing Bond Act of 2026 which, if approved by the voters, would authorize the issuance of bonds in the amount of $950,000,000 pursuant to the State General Obligation Bond Law, to fund social housing programs, as specified. The bill would create the California Housing Authority, which would be governed by the California Housing Authority Board, to ensure that social housing developments that are produced and acquired align with specified goals and would authorize the authority to issue the bonds and, upon appropriation of the Legislature, utilize funds from other sources to build more low, very low, and extremely low income housing. The bill would create the Social Housing Revolving Loan Fund to be used, upon appropriation of the Legislature, to provide zero-interest loan for the purpose of constructing housing to accommodate a mix of household incomes.",
+  "The bill would provide for the submission of the bond act to the voters at the November 3, 2026, statewide general election.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "authorLine": "Introduced by Assembly Member Lee",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-12",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Died",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-12",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-13",
+   "text": "From printer. May be heard in committee March 15.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-03",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [],
+ "analyses": [],
+ "versions": [
+  {
+   "date": "2025-02-12",
+   "action": "Introduced",
+   "id": "20250AB59099INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB590",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB590",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB590",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB590",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB590",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB590",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB590&version=20250AB59099INT"
+ }
+}

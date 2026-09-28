@@ -1,0 +1,554 @@
+{
+ "id": "202520260SB749",
+ "slug": "sb-749",
+ "label": "SB 749",
+ "type": "SB",
+ "number": 749,
+ "session": "20252026",
+ "subject": "Mobilehome parks: closure, cessation, or change of use.",
+ "title": "An act to amend Sections 798.56 and 798.62 of the Civil Code, and to add Section 65863.15 to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Allen",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wahab",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2025-08-29",
+  "text": "August 29 hearing: Held in committee and under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "zoning"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.56",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.62",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.15",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "The Mobilehome Parks Act provides for the regulation of mobilehomes and related vehicle parks by the Department of Housing and Community Development. The Mobilehome Residency Law governs the terms and conditions of residency in mobilehome parks, and authorizes the management of a mobilehome park to terminate a tenancy for, among other reasons, a change of use of the park or any portion of the park if certain requirements are met. If the change of use does not require any local governmental permits, existing law requires the written notice of termination of tenancy to disclose and describe in detail the nature of the change of use, and to be given 12 months or more before the management’s determination that a change of use will occur.",
+  "The Planning and Zoning Law requires an owner of an assisted housing development, before the termination of a subsidy contract, the expiration of rental restrictions, or prepayment on an assisted housing development, to provide certain notices of the proposed change to each affected tenant household residing in the assisted housing development and affected public entities, as specified. Existing law defines “affected public entities” as the mayor or chair of the board of supervisors, as applicable, in which the assisted housing development is located, the appropriate local public housing authority, if any, and the Department of Housing and Community Development.",
+  "This bill would delete the above-described notification requirements applicable to a change of use of a mobilehome park that does not require any local governmental permits, and would revise the Planning and Zoning Law to, instead, require management, at least 12 months and at least 6 months prior to the anticipated date of closure, cessation, or change of use of a mobilehome park, to provide notices of the proposed change to each affected tenant, prospective tenant, and affected public entities, as provided. The bill would require the Director of Housing and Community Development to approve forms to be used by management to comply with these provisions, and would require management to use the approved forms once the director has approved the forms. The bill would provide for injunctive relief to any affected public entity or affected tenant, including a resident organization, as defined, who is aggrieved by a violation of these provisions.",
+  "The Planning and Zoning Law prohibits an owner from terminating a subsidy contract or prepayment of a mortgage unless the owner or its agent has provided specified entities an opportunity to submit an offer to purchase the development, as specified.",
+  "The Planning and Zoning Law also requires, before the conversion of a mobilehome park to another use, except as specified, or before closure of a mobilehome park or cessation of use of the land as a mobilehome park, the person or entity proposing the change in use to file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park. Existing law requires the impact report to include a replacement and relocation plan that adequately mitigates the impact upon the ability of the displaced residents of the mobilehome park to find adequate housing in a mobilehome park. Existing law requires the person proposing the change in use to provide a copy of the report to a resident of each mobilehome in the mobilehome park at least 60 days before a hearing on the report, as specified.",
+  "The Mobilehome Residency Law requires management of a mobilehome park to offer the previous homeowner, as defined, a right of first refusal to a renewed tenancy in the park if the park is destroyed due to a fire or other natural disaster and management elects to rebuild the park in the same location.",
+  "This bill would revise the Planning and Zoning Law to prohibit management of a mobilehome park from pursuing closure, cessation, or change of use of the mobilehome park unless management has provided resident organizations and certain nonprofit organizations and public agencies an opportunity to submit an offer to purchase, according to specified procedures. The bill would require an entity to be certified by the Department of Housing and Community Development to qualify as a purchaser under these provisions, and would require the department to, among various other duties, establish a process for that certification and maintain and update a list of certified entities. The bill would require a qualified entity that elects to purchase the mobilehome park to make a bona fide offer within 270 days of the notice of the opportunity to submit an offer that, among other things, certifies under penalty of perjury that the entity has been certified by the department. By expanding the scope of the crime of perjury, this bill would impose a state-mandated local program. The bill would provide that any affected tenant, resident organization, qualified entity, or affected public entity, as specified, may enforce these provisions either in law or in equity.",
+  "The bill would provide that previous homeowners shall receive specified notices required under certain provisions of the Planning and Zoning Law, as revised by the bill as described above, the Mobilehome Residency Law, and the Mobilehome Parks Act, as applicable, in the same manner as a current homeowner of the mobilehome park. The bill would also provide that previous homeowners are not obligated to pay rent during the time at which they are unable to live in the mobilehome park following a wildfire or other natural disaster.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Senator Allen (Coauthor: Senator Wahab)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-22",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-12",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-12",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-06-02",
+   "vote": {
+    "ayes": 27,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2025-07-09",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-07-02",
+     "ayes": 7,
+     "noes": 4,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-07-08",
+     "ayes": 9,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-08-20",
+   "held": "2025-08-29",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-12",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2025-08-29",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-25",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 22.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-17",
+   "text": "Set for hearing April 29 in JUD. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 8. Noes 2. Page 832.) (April 22). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 2. Page 943.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-02",
+   "text": "Set for hearing May 12.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-06",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-12",
+   "text": "May 12 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-16",
+   "text": "Set for hearing May 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 5. Noes 1. Page 1211.) (May 23).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time. Passed. (Ayes 27. Noes 10. Page 1395.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-09",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 4.) (July 2). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-09",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 2.) (July 8). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "August 29 hearing: Held in committee and under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-22",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-12",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-23",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-06-02",
+   "ayes": 27,
+   "noes": 10,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-07-02",
+   "ayes": 7,
+   "noes": 4,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-07-08",
+   "ayes": 9,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-17",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-25",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-11",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-26",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-30",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-03",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-18",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB74999INT"
+  },
+  {
+   "date": "2025-03-25",
+   "action": "Amended Senate",
+   "id": "20250SB74998AMD"
+  },
+  {
+   "date": "2025-05-06",
+   "action": "Amended Senate",
+   "id": "20250SB74997AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB749",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB749",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB749",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB749",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB749",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB749",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB749&version=20250SB74997AMD"
+ }
+}

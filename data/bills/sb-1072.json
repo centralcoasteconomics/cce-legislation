@@ -1,0 +1,761 @@
+{
+ "id": "202520260SB1072",
+ "slug": "sb-1072",
+ "label": "SB 1072",
+ "type": "SB",
+ "number": 1072,
+ "session": "20252026",
+ "subject": "Housing omnibus.",
+ "title": "An act to amend Sections 65589.5, 65863.10, 65863.11, and 66300 of, and to repeal Section 65584.6 of, the Government Code, to amend Sections 50199.7, 50199.15, 50408, 50676, 50827, and 50828 of the Health and Safety Code, and to amend Sections 12206, 17058, and 23610.5 of the Revenue and Taxation Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Committee on Housing",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Committee",
+   "party": null
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2026-09-18",
+  "text": "Chaptered by Secretary of State. Chapter 322, Statutes of 2026."
+ },
+ "chapter": {
+  "number": 322,
+  "year": 2026
+ },
+ "presented": "2026-09-08",
+ "approved": "2026-09-18",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "haa",
+  "zoning",
+  "element",
+  "taxcredit",
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65589.5",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.10",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.11",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66300",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.6",
+   "verb": "repeal"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50199.7",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50199.15",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50408",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50676",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50827",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50828",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "12206",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "17058",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "23610.5",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "(1)Existing law authorized the County of Napa, until June 30, 2007, to meet up to 15 percent of its existing share of the regional housing need for lower income households in a specified manner.",
+  "This bill would repeal this expired authority.",
+  "(2) The Housing Accountability Act, which is a part of the Planning and Zoning Law, among other things, prohibits a local agency from disapproving a housing development project, as described, unless it makes specified written findings. The act requires a petition to enforce its provisions to be brought pursuant to a specified procedure and be filed no later than 90 days from the later of (A) the effective date of a decision of the local agency imposing conditions on, disapproving, or any other final action taken on a housing development project or (B) the expiration of certain time periods specified in the Permit Streamlining Act.",
+  "This bill would also include in the above-described expiration of certain time periods, among other things, the expiration of specified time periods in the State Housing Law.",
+  "The Planning and Zoning Law requires the owner of land on which an assisted housing development is located, at least 12 months prior to an anticipated date of termination of a subsidy contract, an expiration of rental restrictions, or a prepayment on an assisted housing development, to provide notice of the proposed change to each affected tenant household residing in the assisted housing development at the time the notice is provided and to the affected public entities. If the owner decides to terminate a subsidy contract or prepay the mortgage pursuant to these provisions, or if the owner has an assisted housing development in which there will be the expiration of rental restrictions, existing law requires the owner to first give notice of the opportunity to specified entities. Existing law requires the Department of Housing and Community Development to monitor compliance with these provisions and provide a report to the Legislature, as prescribed, containing specified information. Existing law defines various terms for these purposes.",
+  "This bill would additionally require the owner to provide that notice to affected public entities, as defined. The bill would prescribe the process for serving the notice on a city, county, or city and county in which the assisted housing development is located, to the appropriate local public housing authority, if any, and the Department of Housing and Community Development. The bill would remove some of the information required to be in the report from the department described above. The bill would also make technical changes to these provisions.",
+  "(3)The Housing Crisis Act of 2019 prohibits an affected county or affected city, as defined, from enacting a development policy, standard, or condition that would change the general plan land use designation, specific plan land use designation, or zoning of a parcel or parcels of property to a less intensive use below what was allowed under the land use designation and zoning ordinances of the affected county or affected city in effect on January 1, 2018. However, the act authorized the City of San Jose, until the date that the City of San Jose’s housing element update for the 6th cycle was due, to proactively change a zoning ordinance to a more intensive use and use the added capacity to subsequently change a zoning ordinance applicable to an eligible parcel, as defined, to a less intensive use as long as there is no net loss in residential capacity.",
+  "This bill would remove that expired authority.",
+  "(4)Existing law establishes a low-income housing tax credit program pursuant to which the California Tax Credit Allocation Committee provides procedures and requirements for the allocation, in modified conformity with federal law, of state insurance, personal income, and corporation tax credit amounts to qualified low-income housing projects that have been allocated, or qualify for, a federal low-income housing tax credit and farmworker housing. Existing law defines “agricultural worker” or “farmworker” for these purposes to have the same meaning as “agricultural employee,” which is defined to mean one engaged in agriculture, as defined, and to exclude, among other persons, any person other than those employees excluded from the coverage under specified provisions of federal law.",
+  "This bill would revise the definition of “agricultural worker” or “farmworker” to mean an individual who derives, or prior to retirement or disability derived, a substantial portion of their income as an agricultural employee, as specified. The bill would also conform state tax law to changes relating to low-income housing tax credits for buildings financed by tax-exempt bonds subject to volume cap made by the federal One Big Beautiful Bill Act. The bill would specify the amount of credit to the taxpayer for each year, as prescribed. The bill would also make technical changes and correct cross-references in these provisions.",
+  "Existing law requires the committee to annually submit to the Legislature a report specifying, with respect to its activities during the previous calendar year, certain information, including, among other requirements, the total amount of low-income housing credits allocated by the committee. Existing law requires the committee to include in its annual report to the Legislature, an aggregation of the information submitted annually by housing sponsors for all projects that have received an allocation in previous years, specifying certain information, including, among other requirements, the total number of units assisted by the credit that are occupied by households whose income is 60% or less of the area median gross income.",
+  "For a project that has received an allocation on or after January 1, 2026, this bill would require the committee to include in the above-described aggregation, the total number of units assisted by the credit that meet each of specified conditions, including, among others, the unit is accessible to people with mobility disabilities or that the unit is accessible to people with vision and hearing disabilities.",
+  "(5)Existing law designates the Department of Housing and Community Development as the state agency responsible for administering funds received by the state from the federal Housing Trust Fund pursuant to the Housing and Economic Recovery Act of 2008, and requires the department to submit an allocation plan for the distribution of those funds, as specified, to the Assembly Committee on Housing and Community Development and the Senate Transportation and Housing Committees.",
+  "This bill would update the name of the Senate Housing Committee within these provisions.",
+  "Existing law requires the department to submit an annual report to the Governor and both houses of the Legislature on the operations and accomplishments during the previous fiscal year of the housing programs administered by the department, as specified. Existing law requires that report to include an evaluation of any program established by the department to meet the legal requirements of the federal Housing Trust Fund program guidelines.",
+  "This bill would remove the requirement to include that evaluation in the report.",
+  "Existing law generally governs the state’s implementation of the federal State Community Development Block Grant Program.",
+  "This bill would make nonsubstantive, technical changes to those provisions.",
+  "(6)This bill would incorporate additional changes to Section 65589.5 of the Government Code proposed by AB 1621 to be operative only if this bill and AB 1621 are enacted and this bill is enacted last.",
+  "The bill would incorporate additional changes to Sections 12206, 17058, and 23610.5 of the Revenue and Taxation Code proposed by AB 2270 to be operative only if this bill and AB 2270 are enacted and this bill is enacted last.",
+  "(7)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Committee on Housing (Senators Arreguín (Chair), Cabaldon, Caballero, Cortese, Durazo, Gonzalez, Grayson, Ochoa Bogh, Padilla, and Seyarto)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-13",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Revenue and Taxation"
+   ],
+   "done": "2026-04-27",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-21",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Revenue and Taxation",
+     "date": "2026-04-22",
+     "ayes": 5,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-11",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-14",
+   "vote": {
+    "ayes": 35,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Revenue and Taxation"
+   ],
+   "done": "2026-06-30",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Revenue and Taxation",
+     "date": "2026-06-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-05",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-27",
+   "vote": {
+    "ayes": 78,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-30",
+   "applies": true,
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "pending": "2026-08-27",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-08",
+   "done": "2026-09-18",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2026-09-18",
+   "chapter": {
+    "number": 322,
+    "year": 2026
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-13",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-17",
+   "text": "From printer. May be acted upon on or after March 16.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-26",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-17",
+   "text": "Set for hearing April 7.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-02",
+   "text": "April 7 hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-02",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-06",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-07",
+   "text": "April 15 hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-15",
+   "text": "Re-referred to Coms. on HOUSING and REV. & TAX.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 21.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 22 in REV. & TAX. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-21",
+   "text": "From committee: Do pass and re-refer to Com. on REV. & TAX. with recommendation: To consent calendar. (Ayes 10. Noes 0. Page 3975.) (April 21). Re-referred to Com. on REV. & TAX.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-27",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 5. Noes 0. Page 4015.) (April 22).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-28",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Set for hearing May 11.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-11",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-12",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Read third time. Passed. (Ayes 35. Noes 0. Page 4213.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-26",
+   "text": "Referred to Coms. on H. & C.D. and REV. & TAX.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-03",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "From committee: Do pass and re-refer to Com. on REV. & TAX. with recommendation: To consent calendar. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on REV. & TAX.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (June 29). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Read third time. Passed. (Ayes 78. Noes 0. Page 6703.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Ordered to special consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-08",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2026-09-18",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-18",
+   "text": "Chaptered by Secretary of State. Chapter 322, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-04-21",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS83",
+   "date": "2026-04-22",
+   "ayes": 5,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Revenue and Taxation"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-14",
+   "ayes": 35,
+   "noes": 0,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX19",
+   "date": "2026-06-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Revenue and Taxation"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-05",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-27",
+   "ayes": 78,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-30",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-20",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-21",
+   "committee": "Senate Revenue and Taxation",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-13",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Assembly Revenue and Taxation",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-07",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-21",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-09-16",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-13",
+   "action": "Introduced",
+   "id": "20250SB107299INT"
+  },
+  {
+   "date": "2026-04-06",
+   "action": "Amended Senate",
+   "id": "20250SB107298AMD"
+  },
+  {
+   "date": "2026-04-28",
+   "action": "Amended Senate",
+   "id": "20250SB107297AMD"
+  },
+  {
+   "date": "2026-06-03",
+   "action": "Amended Assembly",
+   "id": "20250SB107296AMD"
+  },
+  {
+   "date": "2026-08-21",
+   "action": "Amended Assembly",
+   "id": "20250SB107295AMD"
+  },
+  {
+   "date": "2026-09-01",
+   "action": "Enrolled",
+   "id": "20250SB107294ENR"
+  },
+  {
+   "date": "2026-09-18",
+   "action": "Chaptered",
+   "id": "20250SB107293CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1072",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1072",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1072",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1072",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1072",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1072",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1072&version=20250SB107293CHP"
+ }
+}

@@ -1,0 +1,332 @@
+{
+ "id": "202520260SB967",
+ "slug": "sb-967",
+ "label": "SB 967",
+ "type": "SB",
+ "number": 967,
+ "session": "20252026",
+ "subject": "Planning and zoning: housing element: interim housing units: acutely low income households.",
+ "title": "An act to amend Section 65583.05 of, and to add Section 65583.5 to, the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Blakespear",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Archuleta",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Davies",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-05-14",
+  "text": "May 14 hearing: Held in committee and under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.05",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.5",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "The Planning and Zoning Law requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of that county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development to determine the existing and projected regional housing need, as provided, and requires the appropriate council of governments, or for cities and counties without a council of governments, the department, to adopt a final regional housing need plan allocating a share of the regional housing need to each city or county, as provided. Existing law requires the housing element to include an analysis of any special housing needs, including, among others, families and persons in need of emergency shelter.",
+  "Existing law requires a city or county to provide by April 1 of each year an annual report to, among other entities, the department that includes, among other things, the city’s or county’s progress in meeting its share of regional housing needs, as specified, and number of units approved and disapproved in the prior year.",
+  "The bill would authorize a city or county that met or exceeded its need for emergency shelter capacity and that provides committed support for interim housing, as defined, to report the number of interim housing units receiving that support that are approved, as specified, as units approved or disapproved for acutely low income households, for purposes of the annual progress report. The bill would require the department to allow approved interim housing units to account for up to 50% of the city’s or county’s share of the regional need for housing for acutely low income households, as specified.",
+  "Existing law requires the department to publish, by December 31, 2026, advisory guidance, including, but not limited to, sample analyses and programs, pertaining to special housing needs for acutely low and extremely low income households and programs to assist in the development of adequate housing to meet the needs of acutely low income households, as specified.",
+  "This bill would require the guidance to include advice regarding the impact of the above-described requirements regarding interim housing and pertaining to acutely low and extremely low income households, specifically how interim housing, as defined, that does not meet the United States Census Bureau guidelines definition of a “housing unit” may be reported in the annual progress report."
+ ],
+ "authorLine": "Introduced by Senator Blakespear (Coauthor: Senator Archuleta) (Coauthor: Assembly Member Davies)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-03",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2026-04-16",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-15",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-04-27",
+   "held": "2026-05-14",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-04-27",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2026-05-14",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-03",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-04",
+   "text": "From printer. May be acted upon on or after March 6.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-11",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-26",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-13",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 3902.) (April 15). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 27.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-27",
+   "text": "April 27 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-08",
+   "text": "Set for hearing May 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "May 14 hearing: Held in committee and under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-04-15",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-04-27",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-09",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-24",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-03",
+   "action": "Introduced",
+   "id": "20250SB96799INT"
+  },
+  {
+   "date": "2026-03-26",
+   "action": "Amended Senate",
+   "id": "20250SB96798AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB967",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB967",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB967",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB967",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB967",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB967",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB967&version=20250SB96798AMD"
+ }
+}

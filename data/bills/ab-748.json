@@ -1,0 +1,509 @@
+{
+ "id": "202520260AB748",
+ "slug": "ab-748",
+ "label": "AB 748",
+ "type": "AB",
+ "number": 748,
+ "session": "20252026",
+ "subject": "Single-family and multifamily housing units: preapproved plans.",
+ "title": "An act to add Section 65852.29 to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Harabedian",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ward",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-08-13",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "zoning"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65852.29",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the adoption and administration of zoning laws, ordinances, rules and regulations by counties and cities and the implementation of those general plans as may be in effect in those counties or cities. In that regard, existing law requires each local agency, by January 1, 2025, to develop a program for the preapproval of accessory dwelling unit plans.",
+  "This bill would require each local agency, as defined, to develop a program for the preapproval of single-family and multifamily residential housing plans, whereby the local agency accepts single-family and multifamily plan submissions for preapproval and approves or denies the preapproval applications, as specified. The bill would require a large jurisdiction, as defined, to develop this program by July 1, 2027, and a small jurisdiction, as defined, to develop a program by January 1, 2029. The bill would require the local agency to post preapproved single-family or multifamily residential housing plans and the contact information of the applicant on the local agency’s internet website.",
+  "This bill would require a local agency to either approve or deny ministerially an application for a single-family or multifamily residential housing unit within 30 days if the lot meets certain conditions and the application utilizes specified plans that have been preapproved by the local agency or that are identical to a plan used in an application approved by the local agency. The bill would prohibit the preapproval program from applying to single-family or multifamily residential housing plans intended for use in certain communities and developments, as specified.",
+  "Existing law requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to, among other entities, the Office of Land Use and Climate Innovation. Existing law requires the annual report to include, among other things, the city’s or county’s progress in meeting its share of regional housing needs, as specified.",
+  "Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the ministerial review process established by the bill would apply to final, discretionary approval of an application for a single-family or multifamily housing unit, the bill would exempt those projects from CEQA.",
+  "This bill, beginning on April 1, 2028, for large jurisdictions and beginning on April 1, 2030, for small jurisdictions, would require the local agency to include in its annual report the number of units of residential housing that are approved using a preapproved housing plan pursuant to this act.",
+  "By imposing new duties on local agencies with regard to developing a preapproval program and its annual report, the bill would create a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Harabedian (Coauthors: Assembly Members Haney and Ward)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-18",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2026-01-14",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-01-14",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-01-14",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-01-22",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-03",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-01-26",
+   "vote": {
+    "ayes": 75,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Housing"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-06-17",
+     "ayes": 4,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-30",
+     "ayes": 8,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-08-03",
+   "held": "2026-08-13",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-03",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2026-08-13",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-18",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-19",
+   "text": "From printer. May be heard in committee March 21.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-01-06",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-08",
+   "text": "Assembly Rule 56 suspended. (Page 3717.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-08",
+   "text": "(Pending re-refer to Com. on L. GOV.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (January 14). Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (January 14). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Assembly Rule 63 suspended. (Page 3806.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (January 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-26",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0. Page 3832.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-27",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "Referred to Coms. on L. GOV. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 4. Noes 2.) (June 17). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (June 30). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-03",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "In committee: Held under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-01-14",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-01-14",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-01-22",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-01-26",
+   "ayes": 75,
+   "noes": 0,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2026-06-17",
+   "ayes": 4,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-30",
+   "ayes": 8,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-03",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-01-12",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-13",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-21",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-12",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-25",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-07-31",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-18",
+   "action": "Introduced",
+   "id": "20250AB74899INT"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Assembly",
+   "id": "20250AB74898AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB748",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB748",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB748",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB748",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB748",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB748",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB748&version=20250AB74898AMD"
+ }
+}

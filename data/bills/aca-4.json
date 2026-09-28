@@ -1,0 +1,361 @@
+{
+ "id": "202520260ACA4",
+ "slug": "aca-4",
+ "label": "ACA 4",
+ "type": "ACA",
+ "number": 4,
+ "session": "20252026",
+ "subject": "Homelessness and affordable housing.",
+ "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by adding Section 24 to Article XVI thereof, relating to homelessness.",
+ "authors": [
+  {
+   "name": "Jackson",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Quirk-Silva",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wicks",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "In committee: Set, first hearing. Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "homeless"
+ ],
+ "sections": [],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": null,
+  "taxLevy": null
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "The California Constitution authorizes the development, construction, or acquisition of developments composed of urban or rural dwellings, apartments, or other living accommodations for persons of low income financed in whole or in part by the federal government or a state public body, or to which the federal government or a state public body extends assistance, if a majority of the qualified electors of the city, town, or county in which the housing is proposed to be located approves the project by voting in favor thereof, as specified.",
+  "This measure, the Housing Opportunities Made Equal (HOME) Act, would create an account in the General Fund into which, beginning in the 2027–28 fiscal year, and each fiscal year thereafter until September 30, 2036, a sum would be transferred from the General Fund equal to or greater than 5% of the estimated amount of General Fund revenues for that fiscal year, as specified. The measure would require the moneys in the account to be appropriated by the Legislature to the Business, Consumer Services, and Housing Agency, and would authorize that agency to expend the moneys to fund prescribed matters related to homelessness and affordable housing, including housing and services to prevent and end homelessness.",
+  "This measure would require the agency to develop a 10-year investment strategy, with input from stakeholders, that demonstrates how moneys in the account will be used to produce affordable housing and end homelessness through specific performance measures and benchmarks. On or before October 1 of each year, and until October 1, 2036, the measure would require the agency to annually report to the Legislature on its progress in meeting those performance measures and benchmarks."
+ ],
+ "authorLine": "Introduced by Assembly Member Jackson (Coauthors: Assembly Members Lee, Quirk-Silva, and Wicks)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-27",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Human Services"
+   ],
+   "done": "2025-05-01",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-30",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Human Services",
+     "date": "2025-05-01",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": "2026-01-22",
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-01-22",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "sos",
+   "kind": "sos",
+   "house": "Secretary of State",
+   "done": null,
+   "state": "upcoming",
+   "label": "Secretary of State"
+  },
+  {
+   "key": "ballot",
+   "kind": "ballot",
+   "house": "Voters",
+   "done": null,
+   "state": "upcoming",
+   "label": "On a ballot"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-24",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-01-25",
+   "text": "From printer. May be heard in committee February 24.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-01-27",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-04-07",
+   "text": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Assembly Rule 56 suspended. (Page 1274.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "(Pending re-refer to Com. on HUM. S.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Be adopted, and re-refer to Com. on HUM. S. Re-referred. (Ayes 8. Noes 2.) (April 30). Re-referred to Com. on HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "From committee: Amend, and be adopted as amended, and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (May 1).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-05",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-05-06",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "In committee: Set, first hearing. Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-30",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX11",
+   "date": "2025-05-01",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Human Services"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-30",
+   "committee": "Assembly Human Services",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-24",
+   "action": "Introduced",
+   "id": "20250ACA499INT"
+  },
+  {
+   "date": "2025-05-05",
+   "action": "Amended Assembly",
+   "id": "20250ACA498AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260ACA4",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260ACA4",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260ACA4",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA4",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACA4",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260ACA4",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA4&version=20250ACA498AMD"
+ }
+}

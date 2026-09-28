@@ -1,0 +1,435 @@
+{
+ "id": "202520260AB2676",
+ "slug": "ab-2676",
+ "label": "AB 2676",
+ "type": "AB",
+ "number": 2676,
+ "session": "20252026",
+ "subject": "Housing Crisis Act of 2019.",
+ "title": "An act to amend Section 66300 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Lackey",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Quirk-Silva",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_x",
+ "currentLabel": "Policy committee",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-06-24",
+  "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66300",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.4,
+ "digest": [
+  "(1)Existing law, known as the Housing Crisis Act of 2019, with respect to land where housing is an allowable use and except as specified, prohibits a county or city, including the electorate exercising its local initiative or referendum power, in which specified conditions exist, determined as provided by the Department of Housing and Community Development, from enacting a development policy, standard, or condition, as defined, that would have certain effects. Under existing law, these proscribed policies, standards, or conditions include, among others, (A) changing the land use designation or zoning of a parcel or parcels of property to a less intensive use or reducing the intensity of land use within an existing zoning district below what was allowed under the general plan or specific plan land use designation and zoning ordinances of the county or city as in effect on January 1, 2018, and (B) imposing or enforcing a moratorium on housing development within all or a portion of the jurisdiction of the county or city, except as provided. Existing law states that these prohibitions apply to any zoning ordinance adopted or amended on or after the effective date of these provisions, and that any development policy, standard, or condition on or after that date that does not comply is deemed void.",
+  "Existing law prohibits a county or city subject to these provisions from enforcing a zoning ordinance imposing a moratorium or other similar restriction on or limitation of housing development until it has submitted the ordinance to, and received approval from, the Department of Housing and Community Development. Existing law requires the department to approve a zoning ordinance submitted to it only if the department determines that the zoning ordinance satisfies these requirements. If the department denies approval of the zoning ordinance, as specified, existing law states that the ordinance is deemed void.",
+  "This bill would expand the prohibition against enacting a development policy, standard, or condition that has the effect of imposing or enforcing a moratorium on housing development within all or a portion of the jurisdiction of the county or city to also prohibit these policies, standards, or conditions within the sphere of influence of a city, as defined. The bill would define “moratorium or similar restriction or limitation on housing development” for purposes of the Housing Crisis Act of 2019 to include, but not be limited to, the electorate of a county or city subject to these provisions from exercising its referendum power in a manner that has the effect of extending an existing moratorium or similar restriction or limitation on housing development.",
+  "The bill would prohibit a county or city subject to these provisions from enforcing an initiative or referendum imposing a moratorium or other similar restriction on or limitation of housing development until the initiative or referendum receives approval from the department pursuant to the approval process described above. The bill would state that if the department denies approval of the initiative or referendum, as specified, the initiative or referendum would be deemed void. The bill would provide that these provisions do not preclude, limit the enforceability of, or require department approval of a referendum or an initiative that requires voter approval of a proposed general plan amendment that would increase the intensity of land use allowed on lands designated for open space, agricultural, or rural land uses in the operative general plan, as specified.",
+  "Existing law defines “reducing the intensity of land use” for purposes of the Housing Crisis Act of 2019 to include reductions to height, density, or floor area ratio, new or increased open space or lot size requirements, new or increased setback requirements, minimum frontage requirements, or maximum lot coverage limitations, or any other action that would individually or cumulatively reduce the site’s residential development capacity.",
+  "This bill would revise the definition of “reducing the intensity of land use” to mean any action that would individually or cumulatively reduce the site’s residential development capacity, including reductions to height, density, or floor area ratio, new or increased open space or lot size requirements, new or increased setback requirements, minimum frontage requirements, or maximum lot coverage limitations.",
+  "This bill would also provide that an action or special proceeding brought to enforce these provisions is subject to a 3-year statute of limitations under specified law. The bill would provide that the bill’s provisions apply retroactively to any pending action or proceeding.",
+  "(2)The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(3)By imposing new requirements and duties on local planning officials with respect to housing development, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Members Lackey and Quirk-Silva",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2026-04-08",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-08",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-04-22",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-04-23",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-06",
+     "ayes": 14,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-28",
+   "vote": {
+    "ayes": 49,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-06-24",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-25",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (April 8).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-13",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "From committee: Do pass. (Ayes 14. Noes 0.) (May 6).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-07",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-22",
+   "text": "Read third time and amended. Ordered to third reading. (Page 5275.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-28",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 49. Noes 10. Page 5544.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-06-01",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "Referred to Coms. on HOUSING and L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-08",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-04-22",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-05-06",
+   "ayes": 14,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-28",
+   "ayes": 49,
+   "noes": 10,
+   "nvr": 21,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-06",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-21",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-08",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-22",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "action": "Introduced",
+   "id": "20250AB267699INT"
+  },
+  {
+   "date": "2026-03-24",
+   "action": "Amended Assembly",
+   "id": "20250AB267698AMD"
+  },
+  {
+   "date": "2026-04-09",
+   "action": "Amended Assembly",
+   "id": "20250AB267697AMD"
+  },
+  {
+   "date": "2026-05-22",
+   "action": "Amended Assembly",
+   "id": "20250AB267696AMD"
+  },
+  {
+   "date": "2026-06-24",
+   "action": "Amended Senate",
+   "id": "20250AB267695AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2676",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2676",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2676",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2676",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2676",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2676",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2676&version=20250AB267695AMD"
+ }
+}

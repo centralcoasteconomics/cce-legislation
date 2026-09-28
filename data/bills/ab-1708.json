@@ -1,0 +1,314 @@
+{
+ "id": "202520260AB1708",
+ "slug": "ab-1708",
+ "label": "AB 1708",
+ "type": "AB",
+ "number": 1708,
+ "session": "20252026",
+ "subject": "Homeless Housing, Assistance, and Prevention program: round 8: smaller jurisdictions.",
+ "title": "An act to add Article 4 (commencing with Section 50248) to Chapter 6.5 of Part 1 of Division 31 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Solache",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-05-14",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50248",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Existing law establishes the Homeless Housing, Assistance, and Prevention (HHAP) program for the purpose of providing jurisdictions with grant funds to support regional coordination and expand or develop local capacity to address their immediate homelessness challenges, as specified. Existing law provides for the allocation of funding under the program among continuums of care, cities, counties, and tribes in 6 rounds, with rounds 1 to 5, inclusive, administered by the Interagency Council on Homelessness and round 6 administered by the Department of Housing and Community Development, as provided. Existing law establishes round 7 of the program and states the intent of the Legislature to enact future legislation that specifies the parameters, as specified. To be eligible for round 5 or round 6 base program allocation, existing law requires a jurisdiction that is not a tribe to apply as part of a region and be signatory to a regionally coordinated homelessness action plan that meets specified requirements.",
+  "This bill would apply to the allocation of funding available under round 8 of the program and require a round 8 regionally coordinated homelessness action plan to include certain components, including a description of programs and interventions provided by smaller jurisdictions, as defined, that serve the objects and goals of the program, as specified. The bill would authorize a region receiving funding under round 8 to allocate a portion of that funding to smaller jurisdictions to support those programs. The bill would prescribe requirements for a smaller jurisdiction to be eligible to receive funding pursuant to these provisions."
+ ],
+ "authorLine": "Introduced by Assembly Member Solache",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-04",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Human Services"
+   ],
+   "done": "2026-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-15",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Human Services",
+     "date": "2026-04-23",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-05-06",
+   "held": "2026-05-14",
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-05-14",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-04",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-05",
+   "text": "From printer. May be heard in committee March 7.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-02-23",
+   "text": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-16",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-06",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-07",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-15",
+   "text": "From committee: Do pass and re-refer to Com. on HUM. S. (Ayes 12. Noes 0.) (April 15). Re-referred to Com. on HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (April 23). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-15",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX11",
+   "date": "2026-04-23",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Human Services"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-13",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-21",
+   "committee": "Assembly Human Services",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-04",
+   "action": "Introduced",
+   "id": "20250AB170899INT"
+  },
+  {
+   "date": "2026-04-06",
+   "action": "Amended Assembly",
+   "id": "20250AB170898AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1708",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1708",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1708",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1708",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1708",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1708",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1708&version=20250AB170898AMD"
+ }
+}

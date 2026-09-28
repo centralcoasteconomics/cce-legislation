@@ -1,0 +1,567 @@
+{
+ "id": "202520260SB772",
+ "slug": "sb-772",
+ "label": "SB 772",
+ "type": "SB",
+ "number": 772,
+ "session": "20252026",
+ "subject": "Infill Infrastructure Grant Program of 2019: applications: eligibility.",
+ "title": "An act to amend Sections 53559 and 53559.1 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Cabaldon",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Caloza",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-02",
+  "text": "Enrolled and presented to the Governor at 3 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-02",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "53559",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "53559.1",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes the Infill Infrastructure Grant Program of 2019 (program), which requires the Department of Housing and Community Development, upon appropriation of funds by the Legislature, to establish and administer a grant program to allocate those funds to eligible applicants to fund capital improvement projects that are an integral part of, or necessary to facilitate the development of, a qualifying infill project, qualifying infill area, or catalytic qualifying infill area. Existing law requires the department to administer a specified competitive application process for capital improvement projects for large jurisdictions, as defined. For these purposes, existing law defines a qualifying infill project to include a residential or mixed-use residential project located within an urbanized area on a vacant site where at least 75% of the perimeter of the site adjoins parcels that are developed with urban uses.",
+  "This bill would expand the definition of qualifying infill project to include a residential or mixed-use residential project located within an urbanized area on a vacant site where at least 75% of the perimeter of the site adjoins parcels that have been previously developed with urban uses.",
+  "Existing law requires the department to administer an over-the-counter application process for grants for capital improvement projects for small jurisdictions, as provided. For these purposes, existing law defines the term “qualifying infill area” as a contiguous area located within an urbanized area that meets one of specified alternative conditions, including that the capital improvement project for which funding is requested is necessary, as specified, to make the area suitable and available for residential development or to allow the area to accommodate housing for additional income levels, and that the area may be included on an inventory of land in the housing element, as specified.",
+  "This bill would expand the definition of “qualifying infill area” to additionally include a contiguous area located within an urbanized area for which the capital improvement project for which funding is requested under the program, as described above, is necessary and integral to make the area suitable and available for residential development pursuant to the Affordable Housing and High Road Jobs Act of 2022, which subjects a housing development to streamlined, ministerial approval under certain circumstances, as specified.",
+  "Existing law requires the department, in its review of applications, to rank affected qualifying infill areas and catalytic qualifying infill areas based on specified criteria, including the qualifying infill area’s or catalytic qualifying infill area’s inclusion of, or proximity to, a train station or major transit stop and the proximity of housing to existing or planned parks, employment or retail centers, schools, or social services.",
+  "This bill would revise these provisions to require the department to additionally rank applications, as described above, based on the qualifying infill area’s inclusion of, or proximity or accessibility to on-demand transit services, as specified, or walkability to essential services or businesses and based on the catalytic qualifying infill area’s inclusion of, or proximity or accessibility to walkability to essential services or businesses. The bill would additionally revise these provisions to require the department’s ranking to be based on the proximity of housing to services, rather than social services.",
+  "Existing law requires a qualifying infill project, qualifying infill area, or catalytic qualifying infill area for which a capital improvement project grant can be awarded under the program to meet specified conditions, including, among others, being located in an area designated for mixed-use or residential development, as specified.",
+  "This bill would additionally allow the project to be located in an area that allows for mixed-use or residential development pursuant to a housing development that is in compliance with certain provisions deeming a housing development an allowable use or subject to streamlined, ministerial approval.",
+  "Existing law defines various terms for the purposes of the program, including, “capital improvement project,” “catalytic qualifying infill area,” “eligible applicant,” “urbanized area,” and “urban uses.”",
+  "This bill would revise these definitions. The bill would additionally define the terms “on-demand transit service,” “major transit stop,” and “walkability.”"
+ ],
+ "authorLine": "Introduced by Senator Cabaldon (Coauthor: Assembly Member Caloza)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-12",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-05-15",
+   "vote": {
+    "ayes": 34,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-07-16",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2025-08-20",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-25",
+   "vote": {
+    "ayes": 78,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-27",
+   "applies": true,
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "pending": "2026-08-25",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-02",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-22",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Set for hearing April 29.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 11. Noes 0. Page 937.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-02",
+   "text": "Set for hearing May 12.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-12",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-13",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-15",
+   "text": "Read third time. Passed. (Ayes 34. Noes 0. Page 1091.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-15",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-29",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-08",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 16).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-17",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "August 29 hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Assembly Rule 63 suspended.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Read third time. Passed. (Ayes 78. Noes 0. Page 6469.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-25",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-02",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-05-15",
+   "ayes": 34,
+   "noes": 0,
+   "nvr": 6,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-07-16",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-13",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-25",
+   "ayes": 78,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-27",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-24",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-14",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-15",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-18",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-09-21",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB77299INT"
+  },
+  {
+   "date": "2025-04-22",
+   "action": "Amended Senate",
+   "id": "20250SB77298AMD"
+  },
+  {
+   "date": "2025-07-08",
+   "action": "Amended Assembly",
+   "id": "20250SB77297AMD"
+  },
+  {
+   "date": "2025-07-17",
+   "action": "Amended Assembly",
+   "id": "20250SB77296AMD"
+  },
+  {
+   "date": "2026-08-13",
+   "action": "Amended Assembly",
+   "id": "20250SB77295AMD"
+  },
+  {
+   "date": "2026-08-19",
+   "action": "Amended Assembly",
+   "id": "20250SB77294AMD"
+  },
+  {
+   "date": "2026-08-30",
+   "action": "Enrolled",
+   "id": "20250SB77293ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB772",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB772",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB772",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB772",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB772",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB772",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB772&version=20250SB77293ENR"
+ }
+}

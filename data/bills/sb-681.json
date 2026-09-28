@@ -1,0 +1,686 @@
+{
+ "id": "202520260SB681",
+ "slug": "sb-681",
+ "label": "SB 681",
+ "type": "SB",
+ "number": 681,
+ "session": "20252026",
+ "subject": "Housing.",
+ "title": "An act to amend Sections 714.3, 1950.6, 5850, and 5855 of, and to add Sections 1950.3 and 2924.13 to, the Civil Code, to amend Sections 54221, 65584.01, 65584.04, 65589.5, 65905.5, 65913.10, 65928, 65941.1, 65953, and 65956 of, to amend and repeal Sections 65940, 65943, and 65950 of, to add Section 8590.15.5 to, and to repeal Section 66301 of, the Government Code, to amend Section 30603 of, to add Section 30342 to, and to add and repeal Section 25402.15 of, the Public Resources Code, and to amend Section 17053.5 of the Revenue and Taxation Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Wahab",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Becker",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Grayson",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "McGuire",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Pérez",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_x",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2025-06-27",
+  "text": "July 2 hearing postponed by committee."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "surplus",
+  "element",
+  "haa",
+  "streamlining",
+  "permits"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "714.3",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1950.6",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5850",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5855",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1950.3",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "2924.13",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54221",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.01",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.04",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65589.5",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65905.5",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65913.10",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65928",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65941.1",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65953",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65956",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65940",
+   "verb": "repeal"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65943",
+   "verb": "repeal"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65950",
+   "verb": "repeal"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "8590.15.5",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66301",
+   "verb": "repeal"
+  },
+  {
+   "code": "PRC",
+   "name": "Public Resources Code",
+   "section": "30603",
+   "verb": "amend"
+  },
+  {
+   "code": "PRC",
+   "name": "Public Resources Code",
+   "section": "30342",
+   "verb": "add"
+  },
+  {
+   "code": "PRC",
+   "name": "Public Resources Code",
+   "section": "25402.15",
+   "verb": "repeal"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "17053.5",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.4,
+ "digest": [
+  "(1)Existing law, the Planning and Zoning Law, authorizes a local agency to provide for the creation of accessory dwelling units in single-family and multifamily residential zones by ordinance, and sets forth standards the ordinance is required to impose with respect to certain matters, including, among others, maximum unit size, parking, and height standards. Existing law authorizes a local agency to provide by ordinance for the creation of junior accessory dwelling units, as defined, in single-family residential zones and requires the ordinance to include, among other things, standards for the creation of a junior accessory dwelling unit, required deed restrictions, and occupancy requirements.",
+  "Existing law makes void and unenforceable any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in real property that either effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards established for those units. However, existing law permits reasonable restrictions that do not unreasonably increase the cost to construct, effectively prohibit the construction of, or extinguish the ability to otherwise construct, an accessory dwelling unit or junior accessory dwelling unit consistent with those aforementioned minimum standards provisions.",
+  "This bill would prohibit fees and other financial requirements from being included in the above-described reasonable restrictions.",
+  "(2)Existing law regulates the hiring of real property and imposes various requirements on landlords relating to the application for, and leasing of, residential rental property. Existing law places limitations on the amount of rent and security that a landlord can charge a tenant, as specified.",
+  "This bill would prohibit a landlord or their agent from charging certain fees, unless the fee is specified in the rental agreement. The bill would prohibit any fees charged, in total, from exceeding more than 5% of the monthly rental amount, except as specified. Under the bill, if a landlord or their agent charges and collects a fee from a tenant that is not authorized by law, the landlord or their agent would be liable to the tenant in a civil action for the cost of the fee, plus 5% interest compounded daily from the date the fee was collected.",
+  "Existing law authorizes a landlord or their agent to charge an applicant who requests to rent a residential housing unit an application screening fee to cover the costs of obtaining information about the applicant. Existing law prohibits the amount of the application screening fee from being greater that the actual out-of-pocket costs of gathering information concerning the applicant, including, but not limited to, the cost of using a tenant screening service or a consumer credit reporting service, and the reasonable value of time spent by the landlord or their agent in obtaining information on the applicant, as provided.",
+  "This bill, instead, would authorize the application screening fee to cover the actual costs of the screening, and would prohibit the amount of the application screening fee from being greater that the actual out-of-pocket costs of conducting the screening, including, but not limited to, the cost of using a tenant screening service or a consumer credit reporting service, as provided. The bill would thereby eliminate the authority of the landlord or their agent to charge, as part of the application screening fee, the reasonable value of time spent by the landlord or their agent in obtaining information on the applicant.",
+  "(3)Existing law prescribes various requirements to be satisfied before the exercise of a power of sale under a mortgage or deed of trust. Existing law authorizes a borrower to bring an action for injunctive relief to enjoin material violations of certain of these requirements, and requires that the injunction remain in place and any trustee’s sale be enjoined until the court determines that the violations have been corrected, as specified.",
+  "This bill would make certain conduct an unlawful practice in connection with a subordinate mortgage, including, among others, that the mortgage servicer did not provide the borrower with any communication regarding the loan secured by the mortgage for at least 3 years. The bill would prohibit a mortgage servicer from conducting or threatening to conduct a nonjudicial foreclosure until the mortgage servicer (A) records or causes to be recorded a certification, as specified, under penalty of perjury that either the mortgage servicer did not engage in an unlawful practice or the mortgage servicer lists all instances when it committed an unlawful practice and (B) the mortgage servicer sends the recorded certification and a notice to the borrower, as specified. By expanding the scope of a crime, this bill would impose a state-mandated local program.",
+  "(4)Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments. Existing law requires that a common interest development be managed by an association.",
+  "Existing law, if an association adopts or has adopted a policy imposing any monetary penalty on any association member for a violation of the governing documents, requires the board to adopt and distribute to each member a schedule of the monetary penalties that may be assessed for those violations, as provided, and prohibits an association from imposing a monetary penalty on a member for a violation of the governing documents in excess of that schedule. Existing law requires the board to notify a member 10 days before a meeting to consider or impose discipline on the member, as specified. Existing law requires the board to provide a member with written notification of a decision to impose discipline on the member within 15 days.",
+  "This bill would prohibit monetary fees from exceeding the lesser of that specified schedule or $100 per violation. The bill would require the board to give a member the opportunity to cure a violation prior to the meeting to consider or impose discipline, as specified. The bill would reduce the time to provide written notification of a decision to impose discipline from 15 days to 14 days.",
+  "(5)Existing law, until July 1, 2042, establishes the Seismic Retrofitting Program for Soft Story Multifamily Housing for the purposes of providing financial assistance to owners of soft story multifamily housing for seismic retrofitting to protect individuals living in multifamily housing that have been determined to be at risk of collapse in earthquakes, as specified. Existing law establishes the Seismic Retrofitting Program for Soft Story Multifamily Housing Fund, and its subsidiary account, the Seismic Retrofitting Account, within the State Treasury. Existing law requires the California Residential Mitigation Program, also known as the CRMP, to develop and administer the program, as specified.",
+  "This bill would require, upon appropriation by the Legislature, the CRMP to fund the seismic retrofitting of affordable multifamily housing, as specified. The bill would require the CRMP to prioritize affordable multifamily housing serving lower income households, as defined.",
+  "(6)Existing law prescribes requirements for the disposal of surplus land by a local agency. Existing law provides that an agency is not required to follow the requirements for disposal of surplus land for “exempt surplus land,” except as provided. Existing law defines “exempt surplus land” to mean, among other things, real property that a school district is required to appoint a district advisory committee prior to sale, lease, or rental of any excess real property, as specified, and real property that a school district may exchange for real property of another person or private business firm, as specified.",
+  "This bill would remove the above-described school district real property from the definition of “exempt surplus land,” thereby requiring that the disposal of that property be done in accordance with the above-described requirements for surplus land disposal.",
+  "(7)Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that contains certain mandatory elements, including a housing element. That law requires each local government to review its housing element and to revise the housing element in accordance with a specified schedule. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development to determine the existing and projected need for housing for each region, and requires the appropriate council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county, as provided. Existing law requires the department to meet and consult with the council of governments regarding the assumptions and methodology used to determine a region’s housing needs at least 26 months prior to the scheduled revision. Existing law requires the council of governments to provide certain data assumptions from the council’s projections, if available, including, among other things, the percentage of households that are overcrowded, the overcrowding rate for a comparable housing market, the percentage of households that are cost burdened, and the rate of housing cost burden for a healthy housing market.",
+  "This bill would revise these data assumptions requirements to, instead, require the council of governments to provide data on the percentage of households that are overcrowded within the region, the percentage of households that are overcrowded throughout the nation, the percentage of households that are cost burdened within the region, and the percentage of households that are cost burdened throughout the nation.",
+  "Existing law requires each council of governments, or delegate subregion, as applicable, to develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable, at least 2 years before a scheduled revision. This methodology is also referred to as the allocation methodology. Existing law requires the council of governments, or delegate subregion, as applicable, to publish a draft allocation methodology on its internet website and submit the draft allocation methodology to the department. Existing law requires the department to determine whether the methodology furthers the specified objectives within 60 days. If the department determines that the methodology is not consistent with the objectives, existing law requires the council of governments, or delegate subregion, as applicable, to either (A) revise the methodology to further the objectives and adopt a final regional, or subregional, housing need allocation methodology or (B) adopt the regional, or subregional, housing need allocation methodology without revisions and include within its resolution of adoption findings, supported by substantial evidence, as to why the council of governments, or delegate subregion, believes that the methodology furthers the objectives, despite the findings of the department.",
+  "This bill, if the department determines that the draft allocation methodology is not consistent with the objectives, would instead require the council of governments, or delegate subregion, to revise the methodology, in consultation with the department, to further the objectives within 45 days, receive department acceptance that the revised methodology furthers the objectives, and adopt a final regional, or subregional, housing need allocation methodology. The bill would remove the ability for a council of governments or delegate subregion to adopt the regional or subregional housing need allocation methodology without revision, as described above.",
+  "(8)Existing law, except as provided, generally requires that a public hearing be held on an application for a variance from the requirements of a zoning ordinance, an application for a conditional use permit or equivalent development permit, a proposed revocation or modification of a variance or use permit or equivalent development permit, or an appeal from the action taken on any of those applications. Existing law, until January 1, 2034, prohibits a city or county from conducting more than 5 hearings, as defined, held pursuant to these provisions, or any other law, ordinance, or regulation requiring a public hearing, if a proposed housing development project complies with the applicable objective general plan and zoning standards in effect at the time an application is deemed complete, as defined. Existing law, until January 1, 2034, requires the city or county to consider and either approve or disapprove the housing development project at any of the 5 hearings consistent with the applicable timelines under the Permit Streamlining Act.",
+  "This bill would remove the January 1, 2034, repeal date with respect to the requirements that a city or county conduct no more than 5 hearings on a housing development project, and either approve or disapprove that housing development at any of those hearings, as described above, thereby extending these provisions indefinitely.",
+  "(9)Existing law, until January 1, 2030, for purposes of any state or local law, ordinance, or regulation that requires a city or county to determine whether the site of a proposed housing development project is a historic site, requires the city or county to make that determination, which remains valid for the pendency of the housing development, at the time the application is deemed complete, except as provided.",
+  "This bill would remove the January 1, 2030, repeal date for these provisions, thereby extending them indefinitely.",
+  "(10)Existing law, the Housing Accountability Act, among other things, prohibits a local agency from disapproving a housing development project that complies with applicable objective general plan, zoning, and subdivision standards and criteria, or from imposing a condition that it be developed at a lower density, unless the local agency bases its decision on written findings supported by the preponderance of the evidence on the record that specified conditions exist, as provided. That act also prohibits a local agency from disapproving, or from conditioning approval in a manner that renders infeasible, a housing development project for very low, low-, or moderate-income households or an emergency shelter unless the local agency makes written findings, based on the preponderance of the evidence, that one of 6 specified conditions exists.",
+  "The act authorizes the applicant, a person who would be eligible to apply for residency in the housing development project or emergency shelter, or a housing organization to bring an action to enforce its provisions and authorizes a court to issue an order or judgment directing the local agency to approve the housing development project or emergency shelter under certain circumstances. Those circumstances include, among others and until January 1, 2030, that the local agency required or attempted to require a housing development project to comply with an ordinance, policy, or standard not adopted and in effect when a preliminary application was submitted, as specified.",
+  "This bill would remove the January 1, 2030, inoperative date for this provision of the act, thereby extending this provision of the Housing Accountability Act indefinitely.",
+  "The act, except as specified, requires that a housing development project be subject only to the ordinances, policies, and standards, as defined, adopted and in effect when a preliminary application, including specified information, required by specified law as described below, was submitted. The act makes this requirement inoperative on January 1, 2034.",
+  "This bill would remove the January 1, 2034, inoperative date for this requirement under the act, thereby extending this provision of the Housing Accountability Act indefinitely.",
+  "Among other terms, the act defines the term “deemed complete” for its purposes to mean, until January 1, 2030, that the applicant has submitted a preliminary application or a complete application, as specified, and requires that the local agency bear the burden of proof in establishing that the application is not complete. The act also defines the term “determined to be complete” for its purposes to mean, until January 1, 2030, that the applicant has submitted a complete application, as specified. The act also defines the term “objective” to mean, until January 1, 2030, involving no personal or subjective judgment by a public official and being uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the development applicant or proponent and the public official.",
+  "This bill would remove the January 1, 2030, inoperative date for each of these definitions, thereby extending their application under the Housing Accountability Act indefinitely.",
+  "(11)Existing law, the Permit Streamlining Act, requires public agencies to compile one or more lists that specify in detail the information that will be required from any applicant for a development project. The act requires a public agency to determine in writing whether the application is complete and to immediately transmit the determination to the applicant for the development project, not later than 30 calendar days after the public agency received the application for the development project. The act defines “development project” for purposes of its provisions to mean any project undertaken for the purpose of development, including a project involving the issuance of a permit for construction or reconstruction but not a permit to operate, and excludes from this definition any ministerial projects proposed to be carried out or approved by public agencies.",
+  "This bill, notwithstanding the exclusion for ministerial projects, would include in the definition of “development project” under the Permit Streamlining Act a housing development project that requires an entitlement from a local agency, regardless of whether the process for permitting that entitlement is discretionary or ministerial. The bill would also exclude from this definition a postentitlement phase permit, as defined by specified law.",
+  "The act requires a city or county to deem an applicant for a housing development project to have submitted a preliminary application upon providing specified information about the proposed project to the city or county from which approval for the project is being sought. Existing law also authorizes a development proponent that submits a preliminary application for a housing development project to request a preliminary fee and exaction estimate, as defined, and requires a city, county, or city and county to provide the estimate within 30 business days of the submission of the preliminary application. Existing law repeals these provisions as of January 1, 2030.",
+  "This bill would remove the January 1, 2030, repeal date for these provisions, thereby extending the provisions indefinitely.",
+  "No later than 30 calendar days after receiving an application for a development project, the act requires a local agency to determine in writing whether the application is complete and immediately transmit that determination to the applicant. The act, until January 1, 2030, requires a public agency, upon its determination that an application for a development project is incomplete, to provide the applicant with an exhaustive list of items that were not complete, as specified. The act, until January 1, 2030, requires each city and each county to make copies of any list compiled, as described above, with respect to information required from an applicant for a housing development project, as defined, available in writing to those persons to whom the agency is required to make information available, as provided, and publicly available on the internet website of the city or county.",
+  "This bill would remove the January 1, 2030, repeal date with respect to provision of an exhaustive list of requirements not complete, and availability of lists compiled with respect to housing development projects, thereby extending these provisions indefinitely.",
+  "The act requires public agencies to approve or disapprove of a development project within certain timeframes, as specified. The act, until January 1, 2030, generally requires that a public agency that is the lead agency for certain development projects approve or disapprove the project within 90 days from the date of certification by the lead agency of an environmental impact report prepared for the project, but reduces this time period to 60 days from the certification of an environmental impact report if the project meets certain additional conditions relating to affordability. The act, until January 1, 2030, defines the term “development project” for this purpose to mean a housing development project, as that term is defined for purposes of the Housing Accountability Act, except as specified. Beginning January 1, 2030, the act extends the above-described timelines from 90 days to 120 days, and from 60 days to 90 days, respectively, and defines the term “development project” to mean a use consisting of residential units only or certain mixed-use developments.",
+  "This bill would remove the January 1, 2030, repeal date for the 90-day and 60-day timelines described above and for the definition of “housing development project,” thereby extending these provisions indefinitely, and would make a conforming change by repealing the above-described provisions that take effect on January 1, 2030. The bill would also require that a public agency that is the lead agency for a development project approve or disapprove a project within 60 days from the date of receipt of a complete application, if the project is subject to ministerial review by the public agency.",
+  "The act authorizes an applicant for a permit for a development project, if any provision of law requires a lead agency or responsible agency to provide public notice of the development project or to hold a public hearing on the development project and the agency has not done so at least 60 days before the expiration of specified time limits, to file an action to compel the agency to provide the public notice or hold the hearing, as specified. In the event that a lead agency or a responsible agency fails to act to approve or to disapprove a development project within the time limits required by the act, existing law deems the failure to act as an approval of the permit application for the development project, only if the public notice required by law has occurred, as specified.",
+  "This bill would remove the requirement that the public notice required by law has occurred, in order for the failure to act to be deemed as an approval of the permit application for the development project.",
+  "The act provides that the time limits specified in the act are maximum time limits for approving or disapproving development projects. The act requires, if possible, public agencies to approve or disapprove development projects in shorter periods of time.",
+  "This bill would require that the time limits specified in the act only apply to the extent that the time limits are equal to or shorter than the applicable time limits for public agency review established in any other law.",
+  "(12)Existing law, known as the Housing Crisis Act of 2019, prohibits an affected county or an affected city, as defined and determined by the Department of Housing and Community Development, as specified, from enacting certain development policies, standards, or conditions with respect to land where housing is an allowable use, including policies, standards, or conditions that impose a moratorium or similar restriction or limitation on housing development or that limit the number of land use approvals or permits necessary for the approval and construction of housing that will be issued or allocated. The act also prohibits an affected city or an affected county from approving a housing development project that will require the demolition of one or more residential dwelling units, unless the project will create at least as many residential dwelling units as will be demolished, or from approving a development project that will require the demolition of occupied or vacant protected units or that is located on a site where protected units were demolished in the previous 5 years, unless specified conditions are met. The act repeals these provisions as of January 1, 2034.",
+  "This bill would remove the above-described January 1, 2034, repeal date, thereby extending application of the Housing Crisis Act of 2019 indefinitely.",
+  "(13)Existing law requires the State Energy Resources Conservation and Development Commission to prescribe, by regulation, building design and construction standards and energy and water conservation design standards for new residential and nonresidential buildings to reduce wasteful, uneconomic, inefficient, and unnecessary consumption of energy and to manage energy loads to help maintain electrical grid reliability. Existing law requires the commission to periodically review the standards and adopt revisions that it deems necessary.",
+  "This bill would require the commission, during the triennial update of the building energy efficiency standards, to review measures used to achieve a precise level of energy efficiency within a specific level of comfort, as specified. The bill would require the commission, on or before January 1, 2030, to report and make recommendations to the Legislature on how these measures could be incorporated into the building energy efficiency standards during their next available update.",
+  "(14)Existing law, the California Coastal Act of 1976, establishes the California Coastal Commission and prescribes the powers and responsibilities of the commission with regard to the regulation of development along the California coast.",
+  "This bill would require, no later than July 1, 2027, the commission to create an electronic submission process and accept submissions from any application pursuant to the California Coastal Act of 1976 through electronic mail or other electronic means.",
+  "The act prescribes procedures for the approval and certification of a local coastal program by the commission, and provides for the delegation of development review authority to a local government, as defined, with a certified local coastal program. Under the act, an action taken by a local government after certification of its local coastal program on a coastal development permit application may be appealed to the commission only on specified grounds and only for certain types of developments, including certain developments located in a sensitive coastal resource area and any development approved by a coastal county that is not designated as the principal permitted use under the zoning ordinance or zoning district map, as specified.",
+  "This bill would exempt a residential project, as defined, from the above provisions relating to the appeal of developments located in a sensitive coastal resource area and developments approved by a coastal county. The bill would also require the commission to submit an annual report to the Legislature that includes specified information relating to residential projects for the preceding calendar year, as specified.",
+  "(15)Existing law, the Personal Income Tax Law, authorizes various credits against the taxes imposed by that law, including a credit for qualified renters in the amount of $120 for spouses filing joint returns, heads of household, and surviving spouses if adjusted gross income is $50,000, as adjusted, or less, and in the amount of $60 for other individuals if adjusted gross income is $25,000, as adjusted, or less. Existing law requires any bill authorizing a new tax credit to contain, among other things, specific goals, purposes, and objectives that the tax credit will achieve, detailed performance indicators, and data collection requirements.",
+  "Existing law establishes the continuously appropriated Tax Relief and Refund Account in the General Fund and provides that payments required to be made to taxpayers or other persons from the Personal Income Tax Fund are to be paid from that account, including any amount allowable as an earned income tax credit in excess of any tax liabilities.",
+  "This bill, for taxable years beginning on or after January 1, 2026, and before January 1, 2031, and only when specified in a bill relating to the Budget Act, would increase the credit amount for a qualified renter to $250 and $500, as provided. In the event the increased credit amount is not specified in a bill relating to the Budget Act, the existing credit amounts of $120 and $60, as described above, respectively, would be the credit amounts for that taxable year. The bill would provide findings and declarations relating to the goals, purposes, and objectives of this credit.",
+  "The bill, for credits allowable for taxable years beginning on or after January 1, 2026, and before January 1, 2030, would provide that the credit amount in excess of the qualified renter’s liability would be refundable and paid from the Tax Relief and Refund Account to the qualified renter upon appropriation by the Legislature.",
+  "(16)By imposing additional duties on local officials, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "authorLine": "Introduced by Senator Wahab (Principal coauthors: Senators Becker, Grayson, McGuire, and Pérez)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-22",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-19",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-19",
+     "ayes": 5,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-06-04",
+   "vote": {
+    "ayes": 28,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2025-06-27",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-05",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-18",
+   "text": "Set for hearing April 22.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 30 in L. GOV. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-10",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-17",
+   "text": "Set for hearing April 29 in JUD. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on RLS. (Ayes 8. Noes 2. Page 832.) (April 22). Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 2. Page 942.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-09",
+   "text": "Set for hearing May 19.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-19",
+   "text": "May 19 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-20",
+   "text": "Set for hearing May 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass as amended. (Ayes 5. Noes 1. Page 1209.) (May 23).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-04",
+   "text": "Read third time. Passed. (Ayes 28. Noes 10. Page 1501.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-05",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-16",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-27",
+   "text": "July 2 hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-22",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-19",
+   "ayes": 5,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-23",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-06-04",
+   "ayes": 28,
+   "noes": 10,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-17",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-26",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-19",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-24",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB68199INT"
+  },
+  {
+   "date": "2025-04-10",
+   "action": "Amended Senate",
+   "id": "20250SB68198AMD"
+  },
+  {
+   "date": "2025-05-23",
+   "action": "Amended Senate",
+   "id": "20250SB68197AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB681",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB681",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB681",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB681",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB681",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB681",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB681&version=20250SB68197AMD"
+ }
+}

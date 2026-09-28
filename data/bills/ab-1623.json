@@ -1,0 +1,223 @@
+{
+ "id": "202520260AB1623",
+ "slug": "ab-1623",
+ "label": "AB 1623",
+ "type": "AB",
+ "number": 1623,
+ "session": "20252026",
+ "subject": "Planning and zoning: regional housing needs allocation and annual report: student housing quarters.",
+ "title": "An act to amend Section 65400 of, and to add Section 65584.2.4 to, the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Davies",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "Referred to Coms. on H. & C.D. and L. GOV."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "zoning",
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65400",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.2.4",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each city, county, or city and county to prepare and adopt a general plan for its jurisdiction that contains certain mandatory elements, including a housing element. Under existing law, a part of the housing element is an assessment of housing needs, which includes the locality’s share of the regional housing need. Under existing law, the appropriate council of governments, or for cities and counties without a council of governments, the Department of Housing and Community Development, adopts a final regional housing need plan that allocates a share of the regional housing need to each locality in the region.",
+  "Existing law authorizes a local government to conduct a review or appeal regarding allocation data provided by the department or the council of governments regarding, among other things, the locality’s share of the regional housing need.",
+  "This bill would require certain types of student housing quarters, as determined by the department, that are built within the jurisdiction of a local government, as defined, regardless of whether they have been issued a completed entitlement, a building permit, or a certificate of occupancy, to count toward a local government’s share of the locality’s lower income regional housing needs allocation. The bill would require the department to count the certain types of student housing quarters reported pursuant to specified provisions toward the local government’s regional housing needs allocation progress.",
+  "The Planning and Zoning law requires the planning agency in each city and county, after the legislative body has adopted all or part of a general plan, to provide by April 1 of each year an annual report to various entities that includes specified information.",
+  "This bill would require the report to include the number of certain types of student housing quarters, as determined by the department, that are built within the jurisdiction regardless of whether they have been issued a completed entitlement, a building permit, or a certificate of occupancy, as described above, thus far in the housing element cycle, and the income category, by area median income category, that each type of student housing quarters satisfies. By increasing the scope of data required to be reported in the annual report, the bill would impose a state-mandated local program.",
+  "The bill would include findings and declarations related to its provisions.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Davies",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-01-22",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-02-02",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-01-22",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-01-23",
+   "text": "From printer. May be heard in committee February 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-02-02",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  }
+ ],
+ "votes": [],
+ "analyses": [],
+ "versions": [
+  {
+   "date": "2026-01-22",
+   "action": "Introduced",
+   "id": "20250AB162399INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1623",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1623",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1623",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1623",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1623",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1623",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1623&version=20250AB162399INT"
+ }
+}

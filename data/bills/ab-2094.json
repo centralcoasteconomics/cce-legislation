@@ -1,0 +1,331 @@
+{
+ "id": "202520260AB2094",
+ "slug": "ab-2094",
+ "label": "AB 2094",
+ "type": "AB",
+ "number": 2094,
+ "session": "20252026",
+ "subject": "Social Housing Strategy and Implementation Program.",
+ "title": "An act to add Part 19 (commencing with Section 54915) to Division 31 of, and to repeal Section 54918 of, the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Harabedian",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "floor_o",
+ "currentLabel": "Floor vote",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-05-14",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "54915",
+   "verb": "add"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "54918",
+   "verb": "repeal"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.3,
+ "digest": [
+  "Existing law establishes the Department of Housing and Community Development (department) and, pursuant to the Governor’s Reorganization Plan No. 1 of 2025, which became effective on July 5, 2025, transfers the department to the California Housing and Homelessness Agency, effective July 1, 2026, for purposes of carrying out state housing policies and programs. Existing law, commonly referred to as the Surplus Land Act, prescribes requirements for the disposal of surplus land by a local agency, as defined, and requires, except as provided, a local agency disposing of surplus land to comply with certain notice requirements before disposing of the land or participating in negotiations to dispose of the land with a prospective transferee. As part of these procedures, existing law requires that the local agency send a notice of availability to housing sponsors, as defined, that have notified the department of their interest in surplus land, as specified.",
+  "This bill would require the department to establish a dedicated social housing coordinator to lead social housing strategy and implementation. In leading social housing strategy and implementation, the bill would require the dedicated social housing coordinator to, among other things, inventory and prioritize surplus public land suitable for social housing development. The bill would define “social housing development” as housing developed pursuant to the bill’s provisions that is owned by a public entity, provides housing affordable to a mix of household income levels, and preserves long-term affordability. The bill would require the dedicated social housing coordinator to compile findings for social housing strategy and implementation, as specified, and post the findings on the department’s internet website. The bill would require the department, by January 1, 2028, to submit a report to the Legislature with actionable recommendations based on the social housing strategy and implementation program findings, as described above."
+ ],
+ "authorLine": "Introduced by Assembly Members Harabedian and Lee",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-18",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-03-16",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-22",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-04-23",
+   "applies": true,
+   "suspense": "2026-05-06",
+   "held": null,
+   "votes": [],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "stalled",
+   "stoppedOn": "2026-05-14",
+   "reason": "Did not advance before the session deadline",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-18",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-19",
+   "text": "From printer. May be heard in committee March 21.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-16",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-17",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-02",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-22",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-18",
+   "action": "Introduced",
+   "id": "20250AB209499INT"
+  },
+  {
+   "date": "2026-03-16",
+   "action": "Amended Assembly",
+   "id": "20250AB209498AMD"
+  },
+  {
+   "date": "2026-04-08",
+   "action": "Amended Assembly",
+   "id": "20250AB209497AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2094",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2094",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2094",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2094",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2094",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2094",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2094&version=20250AB209497AMD"
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "id": "202520260AB1102",
+ "slug": "ab-1102",
+ "label": "AB 1102",
+ "type": "AB",
+ "number": 1102,
+ "session": "20252026",
+ "subject": "Sea level rise and groundwater rise: contaminated sites: report.",
+ "title": "An act to add and repeal Section 57014 of the Health and Safety Code, relating to contaminated sites.",
+ "authors": [
+  {
+   "name": "Boerner",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "57014",
+   "verb": "repeal"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Under existing law, the Department of Toxic Substances Control generally regulates the management and handling of hazardous substances, materials, and waste.",
+  "The bill would require, on or before January 1, 2027, the department and the State Water Resources Control Board to submit a report to the Legislature that includes specified information, including information relating to all contaminated sites that are vulnerable to sea level rise and groundwater rise."
+ ],
+ "authorLine": "Introduced by Assembly Member Boerner",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Environmental Safety and Toxic Materials"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Assembly Environmental Safety and Toxic Materials",
+     "date": "2025-04-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": "2025-05-23",
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Referred to Coms. on H. & C.D. and E.S & T.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-10",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "Re-referred to Com. on E.S & T.M. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-16",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX05",
+   "date": "2025-04-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Environmental Safety and Toxic Materials"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-25",
+   "committee": "Assembly Environmental Safety and Toxic Materials",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250AB110299INT"
+  },
+  {
+   "date": "2025-04-09",
+   "action": "Amended Assembly",
+   "id": "20250AB110298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1102",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1102",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1102",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1102",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1102",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1102",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1102&version=20250AB110298AMD"
+ }
+}

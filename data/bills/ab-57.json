@@ -1,0 +1,783 @@
+{
+ "id": "202520260AB57",
+ "slug": "ab-57",
+ "label": "AB 57",
+ "type": "AB",
+ "number": 57,
+ "session": "20252026",
+ "subject": "California Dream for All Program: descendants of formerly enslaved people.",
+ "title": "An act to amend Section 51523 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "McKinnor",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bonta",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Elhawary",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gipson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Jackson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ortega",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ransom",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Sharp-Collins",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wilson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Richardson",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Smallwood-Cuevas",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Weber Pierson",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "Consideration of Governor's veto stricken from file."
+ },
+ "chapter": null,
+ "presented": "2025-09-16",
+ "approved": null,
+ "vetoed": "2025-10-13",
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "51523",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes the California Housing Finance Agency in the Department of Housing and Community Development, and authorizes the agency to, among other things, make loans to finance affordable housing, including residential structures, housing developments, multifamily rental housing, special needs housing, and other forms of housing, as specified. Existing law establishes the California Dream for All Program to provide shared appreciation loans to qualified first-time homebuyers, as specified. Existing law establishes in the State Treasury the California Dream for All Fund, which is continuously appropriated for expenditure pursuant to the program, as specified.",
+  "This bill would require, upon establishment of the certification process for the descendants of American slavery established by the Bureau for Descendants of American Slavery, at least 10% of the moneys in the fund to be reserved for applicants who meet the requirements for a loan under the program and have been certified as descendants of formerly enslaved people, as specified.",
+  "This bill would become operative only if SB 518 of the 2025–26 Regular Session is enacted and takes effect on or before January 1, 2027, and establishes the Bureau for Descendants for American Slavery."
+ ],
+ "authorLine": "Introduced by Assembly Member McKinnor (Coauthors: Assembly Members Bonta, Bryan, Elhawary, Gipson, Jackson, Kalra, Ortega, Ransom, Sharp-Collins, and Wilson) (Coauthors: Senators Richardson, Smallwood-Cuevas, and Weber Pierson)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2024-12-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2025-04-22",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-03-26",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-04-22",
+     "ayes": 9,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-07",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-29",
+   "vote": {
+    "ayes": 52,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2025-07-09",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-06-17",
+     "ayes": 7,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-07-08",
+     "ayes": 11,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-29",
+   "applies": true,
+   "suspense": "2025-08-18",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-08",
+   "vote": {
+    "ayes": 28,
+    "noes": 9
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-09",
+   "applies": true,
+   "vote": {
+    "ayes": 60,
+    "noes": 10
+   },
+   "pending": "2025-09-08",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-16",
+   "done": null,
+   "vetoed": "2025-10-13",
+   "state": "failed",
+   "stoppedOn": "2025-10-13",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2024-12-03",
+   "text": "From printer. May be heard in committee January 2.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-02-25",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-03",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-04",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 8. Noes 0.) (March 26).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-03-27",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-22",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 2.) (April 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-07",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-07",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 11. Noes 1.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-29",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 52. Noes 10. Page 1777.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-29",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 2.) (June 17). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-06-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-09",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (July 8). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-18",
+   "text": "In committee: Referred to suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 28. Noes 9. Page 2615.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 10. Page 3100.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-16",
+   "text": "Enrolled and presented to the Governor at 2 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Consideration of Governor's veto pending.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Consideration of Governor's veto stricken from file.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-03-26",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-04-22",
+   "ayes": 9,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-29",
+   "ayes": 52,
+   "noes": 10,
+   "nvr": 17,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-06-17",
+   "ayes": 7,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-07-08",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-18",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-29",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-08",
+   "ayes": 28,
+   "noes": 9,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-09",
+   "ayes": 60,
+   "noes": 10,
+   "nvr": 10,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-24",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-17",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-12",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-04",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-15",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-09",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-10-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "action": "Introduced",
+   "id": "20250AB5799INT"
+  },
+  {
+   "date": "2025-02-24",
+   "action": "Amended Assembly",
+   "id": "20250AB5798AMD"
+  },
+  {
+   "date": "2025-03-03",
+   "action": "Amended Assembly",
+   "id": "20250AB5797AMD"
+  },
+  {
+   "date": "2025-03-27",
+   "action": "Amended Assembly",
+   "id": "20250AB5796AMD"
+  },
+  {
+   "date": "2025-04-23",
+   "action": "Amended Assembly",
+   "id": "20250AB5795AMD"
+  },
+  {
+   "date": "2025-06-24",
+   "action": "Amended Senate",
+   "id": "20250AB5794AMD"
+  },
+  {
+   "date": "2025-08-29",
+   "action": "Amended Senate",
+   "id": "20250AB5793AMD"
+  },
+  {
+   "date": "2025-09-11",
+   "action": "Enrolled",
+   "id": "20250AB5792ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 57 without my signature.",
+  "This bill would require that at least 10 percent of the California Dream for All Program's funds be reserved for descendants of formerly enslaved individuals, contingent on the enactment of Senate Bill 518 and the associated certification process created and administered by a new Bureau for Descendants of American Slavery.",
+  "I appreciate the author's leadership on this important issue. However, creating an ancestry-based set-aside presents legal risks and could jeopardize CalHFA's access to federal mortgage markets that are critical to providing housing assistance for thousands of Californians each year.",
+  "California has made historic investments to expand equitable access to homeownership, including through the Dream for All Program, which provides downpayment assistance to first-time buyers where at least one borrower is a first-generation homebuyer. In the last fiscal year, CalHFA data across all downpayment assistance programs show encouraging results, with Black or African American borrowers represented at rates well above their share of California homeowners.",
+  "Building on this progress, the upcoming funding round for new Dream for All applicants will include a programmatic set-aside designed to address long-standing inequality. In addition to the program's core eligibility criteria, 10 percent of Dream for All funds will be reserved for borrowers in Qualified Census Tracts, as defined by area median income, helping direct resources to areas where residents are more likely to face systemic inequities in lending, wealth-building, and housing access. This approach advances the equity goals of this measure while minimizing legal risks and protecting California's continued access to resources essential for expanding affordability and opportunity.",
+  "For these reasons, I am returning this bill without my signature.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB57",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB57",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB57",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB57",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB57",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB57",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB57&version=20250AB5792ENR"
+ }
+}

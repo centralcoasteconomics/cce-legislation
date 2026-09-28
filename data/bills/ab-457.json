@@ -1,0 +1,474 @@
+{
+ "id": "202520260AB457",
+ "slug": "ab-457",
+ "label": "AB 457",
+ "type": "AB",
+ "number": 457,
+ "session": "20252026",
+ "subject": "Farmworker housing: streamlined, ministerial approval: Counties of Fresno, Madera, and Merced.",
+ "title": "An act to amend Section 17021.8 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Soria",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Arambula",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Rivas",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-10",
+  "text": "Chaptered by Secretary of State - Chapter 490, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 490,
+  "year": 2025
+ },
+ "presented": "2025-09-02",
+ "approved": "2025-10-10",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "streamlining"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17021.8",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law authorizes a development proponent to submit an application for an eligible agricultural employee housing development that is subject to a streamlined, ministerial approval process, as specified, and is not subject to a conditional use permit if certain requirements are met, including that the development is located on specified land in the County of Santa Clara or the County of Santa Cruz and is within 15 miles of an area designated as farmland or grazing by the Department of Conservation and is not a site or adjoined to a site where more than 13 of the square footage on the site is dedicated to industrial use, as specified. The act defines an eligible agricultural housing development as an agricultural employee housing development that meets certain requirements, including that the development does not contain more than 36 units or spaces, or 150 units or spaces for developments located in the County of Santa Clara or the County of Santa Cruz, designed for use by a single family or household.",
+  "This bill would expand eligibility for the approval process under these provisions to include a development located in the Counties of Fresno, Madera, or Merced that meets the above-described requirements that it be located within 15 miles of an area designated as farmland or grazing and not on a site or adjoined to a site where more than 13 of the square footage on the site is dedicated to industrial use, as specified. The bill would also increase the maximum number of units in an eligible agricultural employee housing development from 36 units to 150 units if the development is located in the Counties of Fresno, Madera, or Merced. By expanding the scope of developments eligible for approval, thereby increasing the duties of local officials, the bill would impose a state-mandated local program.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the Counties of Fresno, Madera, and Merced.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Soria (Principal coauthor: Assembly Member Arambula) (Coauthor: Assembly Member Rivas)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-06",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-04-09",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-09",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-04-23",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-04-23",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-01",
+   "vote": {
+    "ayes": 76,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Local Government"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-06-17",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Local Government",
+     "date": "2025-07-16",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-19",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-04-23",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-08-25",
+   "vote": {
+    "ayes": 37,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "vote": null,
+   "pending": null,
+   "state": "skipped",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-02",
+   "done": "2025-10-10",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-10",
+   "chapter": {
+    "number": 490,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-06",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-07",
+   "text": "From printer. May be heard in committee March 9.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-03",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 9). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (April 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 1386.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "Referred to Coms. on HOUSING and L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 9. Noes 0.) (June 17). Re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-19",
+   "text": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-08-25",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2250.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-08-26",
+   "text": "In Assembly. Ordered to Engrossing and Enrolling.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Chaptered by Secretary of State - Chapter 490, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-09",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-04-23",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-01",
+   "ayes": 76,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-06-17",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2025-07-16",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-08-25",
+   "ayes": 37,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-07",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-21",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-12",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-21",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-06",
+   "action": "Introduced",
+   "id": "20250AB45799INT"
+  },
+  {
+   "date": "2025-08-27",
+   "action": "Enrolled",
+   "id": "20250AB45798ENR"
+  },
+  {
+   "date": "2025-10-10",
+   "action": "Chaptered",
+   "id": "20250AB45797CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB457",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB457",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB457",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB457",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB457",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB457",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB457&version=20250AB45797CHP"
+ }
+}

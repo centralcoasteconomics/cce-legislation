@@ -1,0 +1,446 @@
+{
+ "id": "202520260SB546",
+ "slug": "sb-546",
+ "label": "SB 546",
+ "type": "SB",
+ "number": 546,
+ "session": "20252026",
+ "subject": "Collection Licensing Act: exceptions: billing agents.",
+ "title": "An act to amend Section 100001 of the Financial Code, relating to debt collection.",
+ "authors": [
+  {
+   "name": "Grayson",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "floor_x",
+ "currentLabel": "Floor vote",
+ "location": "Assembly",
+ "statusRaw": "In Floor Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-08-17",
+  "text": "Ordered to inactive file on request of Assembly Member Aguiar-Curry."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "FIN",
+   "name": "Financial Code",
+   "section": "100001",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.6,
+ "digest": [
+  "The Debt Collection Licensing Act generally regulates the business of debt collection and prohibits a person from engaging in the business of debt collection in this state without first obtaining a license pursuant to the act. The act provides that it does not apply to certain institutions and persons.",
+  "This bill would provide that the act does not apply to billing agents, except as specified."
+ ],
+ "authorLine": "Introduced by Senator Grayson",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Banking and Financial Institutions"
+   ],
+   "done": "2026-01-07",
+   "votes": [
+    {
+     "committee": "Senate Banking and Financial Institutions",
+     "date": "2026-01-07",
+     "ayes": 5,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-01-20",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-01-26",
+   "vote": {
+    "ayes": 39,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Banking and Finance"
+   ],
+   "done": "2026-06-23",
+   "votes": [
+    {
+     "committee": "Assembly Banking and Finance",
+     "date": "2026-06-22",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-05",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "stalled",
+   "stoppedOn": "2026-08-17",
+   "reason": "Did not advance before the session deadline",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be acted upon on or after March 23.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-03-05",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-12-18",
+   "text": "Set for hearing January 7 in B. & F.I. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on B. & F.I.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-07",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 5. Noes 0. Page 3187.) (January 7). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-09",
+   "text": "Set for hearing January 20.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-20",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-21",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-26",
+   "text": "Read third time. Passed. (Ayes 39. Noes 0. Page 3286.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-26",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Referred to Com. on B. & F.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. & F.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-22",
+   "text": "Joint Rule 62(a) suspended.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-06-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (June 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Ordered to inactive file on request of Assembly Member Aguiar-Curry.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS69",
+   "date": "2026-01-07",
+   "ayes": 5,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Banking and Financial Institutions"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-01-26",
+   "ayes": 39,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX27",
+   "date": "2026-06-22",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Banking and Finance"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-05",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-01-05",
+   "committee": "Senate Banking and Financial Institutions",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-01-21",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-21",
+   "committee": "Assembly Banking and Finance",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-12",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250SB54699INT"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Senate",
+   "id": "20250SB54698AMD"
+  },
+  {
+   "date": "2026-06-11",
+   "action": "Amended Assembly",
+   "id": "20250SB54697AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB546",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB546",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB546",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB546",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB546",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB546",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB546&version=20250SB54697AMD"
+ }
+}

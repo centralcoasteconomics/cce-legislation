@@ -1,0 +1,209 @@
+{
+ "id": "202520260AB2295",
+ "slug": "ab-2295",
+ "label": "AB 2295",
+ "type": "AB",
+ "number": 2295,
+ "session": "20252026",
+ "subject": "Regional housing need: affordable housing.",
+ "title": "An act to add Section 65584.2.3 to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Johnson",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2026-03-09",
+  "text": "Referred to Coms. on H. & C.D. and L. GOV."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.2.3",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or delegate subregion as applicable, to develop and adopt a methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, as provided. Existing law also requires each council of governments and delegate subregion, as applicable, to adopt a final allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, based on that adopted methodology. Existing law requires that the housing element of a county’s or city’s general plan include, among other things, a quantification of the locality’s existing and projected housing needs for all income levels, which must include the locality’s share of the regional housing need, as provided. Existing law authorizes a local government within the same county as a federally recognized Native American tribe to enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation if certain conditions are met.",
+  "This bill would authorize a local government, as defined, to enter into a voluntary agreement with another local government to allow new housing development projects to count toward each locality’s share of the regional housing needs allocation if certain conditions are met, including that the project includes affordable housing units for very low and lower income households."
+ ],
+ "authorLine": "Introduced by Assembly Member Johnson",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-03-09",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  }
+ ],
+ "votes": [],
+ "analyses": [],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250AB229599INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2295",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2295",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2295",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2295",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2295",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2295",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2295&version=20250AB229599INT"
+ }
+}

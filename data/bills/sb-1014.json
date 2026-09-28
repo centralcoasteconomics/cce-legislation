@@ -1,0 +1,580 @@
+{
+ "id": "202520260SB1014",
+ "slug": "sb-1014",
+ "label": "SB 1014",
+ "type": "SB",
+ "number": 1014,
+ "session": "20252026",
+ "subject": "Development projects: preliminary estimate of required improvements: onsite and offsite improvements.",
+ "title": "An act to add Section 65941.3 to the Government Code, relating to development projects.",
+ "authors": [
+  {
+   "name": "Grayson",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-31",
+  "text": "Enrolled and presented to the Governor at 6 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-31",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "permits"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65941.3",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law, the Permit Streamlining Act (act), sets forth various procedures for the review and approval of development project applications, including, among other things, requiring each public agency to compile one or more lists that specify in detail the information that will be required from any applicant for a development project. The act also requires a city, county, or city and county to deem an applicant for a housing development project to have submitted a preliminary application upon providing specified information about the proposed project to the city, county, or city and county from which approval for the project is being sought.",
+  "This bill would permit an applicant who submits a preliminary application for a housing development project, as specified, or an application if a preliminary application is not submitted, to include in the preliminary application or application a request for a preliminary estimate of required improvements, as provided. The bill would require a city, county, or city and county that receives a request under these provisions to provide the preliminary estimate within 30 business days of the submission of the request, as provided. The bill would authorize, for improvements required by a public agency, as specified, the applicant to request, within 30 days of submission, a list of the types of improvements that may be required, as provided. The bill, within 30 business days of deeming an application for a postentitlement phase permit complete, would additionally require the city, county, or city and county to provide the applicant with an itemized list of all onsite and offsite improvements that will be required prior to issuance of, or otherwise in connection with, that permit, as provided. The bill would specify that its provisions do not relieve a city, county, or city and county of its obligation to comply with certain requirements before subjecting a housing development project to an improvement that was not in effect when a preliminary application was submitted, as provided. The bill would define various terms for these purposes.",
+  "By imposing new duties on local agencies, the bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Senator Grayson",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-10",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Housing"
+   ],
+   "done": "2026-04-22",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-04-15",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-21",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-11",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 14,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-19",
+   "vote": {
+    "ayes": 30,
+    "noes": 9
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Local Government",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-06-25",
+   "votes": [
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-06-17",
+     "ayes": 7,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-05",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 14,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-24",
+   "vote": {
+    "ayes": 66,
+    "noes": 2
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-26",
+   "applies": true,
+   "vote": {
+    "ayes": 30,
+    "noes": 10
+   },
+   "pending": "2026-08-24",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-31",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-10",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-11",
+   "text": "From printer. May be acted upon on or after March 13.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-18",
+   "text": "Referred to Coms. on L. GOV. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-02",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-15",
+   "text": "Set for hearing April 21 in HOUSING pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-15",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 5. Noes 2. Page 3904.) (April 15). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-22",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 2. Page 3975.) (April 21).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Set for hearing May 11.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-11",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-12",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-19",
+   "text": "Read third time. Passed. (Ayes 30. Noes 9. Page 4339.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-20",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-01",
+   "text": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-03",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 7. Noes 2.) (June 17). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "From committee: Do pass. (Ayes 14. Noes 0.) (August 5).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Read third time. Passed. (Ayes 66. Noes 2. Page 6374.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-24",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-31",
+   "text": "Enrolled and presented to the Governor at 6 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS82",
+   "date": "2026-04-15",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-04-21",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-19",
+   "ayes": 30,
+   "noes": 9,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-06-17",
+   "ayes": 7,
+   "noes": 2,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-05",
+   "ayes": 14,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-24",
+   "ayes": 66,
+   "noes": 2,
+   "nvr": 11,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-26",
+   "ayes": 30,
+   "noes": 10,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-10",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-20",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-13",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-16",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-17",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-07",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-09-14",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-10",
+   "action": "Introduced",
+   "id": "20250SB101499INT"
+  },
+  {
+   "date": "2026-04-08",
+   "action": "Amended Senate",
+   "id": "20250SB101498AMD"
+  },
+  {
+   "date": "2026-04-23",
+   "action": "Amended Senate",
+   "id": "20250SB101497AMD"
+  },
+  {
+   "date": "2026-06-03",
+   "action": "Amended Assembly",
+   "id": "20250SB101496AMD"
+  },
+  {
+   "date": "2026-08-17",
+   "action": "Amended Assembly",
+   "id": "20250SB101495AMD"
+  },
+  {
+   "date": "2026-08-28",
+   "action": "Enrolled",
+   "id": "20250SB101494ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1014",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1014",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1014",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1014",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1014",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1014",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1014&version=20250SB101494ENR"
+ }
+}

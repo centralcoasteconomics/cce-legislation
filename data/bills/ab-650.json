@@ -1,0 +1,764 @@
+{
+ "id": "202520260AB650",
+ "slug": "ab-650",
+ "label": "AB 650",
+ "type": "AB",
+ "number": 650,
+ "session": "20252026",
+ "subject": "Planning and zoning: housing element: regional housing needs allocation.",
+ "title": "An act to amend Sections 65583, 65584, 65584.01, 65584.03, 65584.04, 65584.05, and 65585 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Papan",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Pacheco",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wicks",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "Consideration of Governor's veto stricken from file."
+ },
+ "chapter": null,
+ "presented": "2025-09-23",
+ "approved": null,
+ "vetoed": "2025-10-13",
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.01",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.03",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.04",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.05",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65585",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "(1)Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. Existing law requires a public agency to administer its programs and activities relating to housing and community development in a manner to affirmatively further fair housing, and take no action that is materially inconsistent with its obligation to affirmatively further fair housing. Existing law defines “affirmatively furthering fair housing,” as provided.",
+  "The Planning and Zoning Law requires that a housing element include, among other things, a program that sets forth a schedule of actions during the planning period. Existing law requires the Department of Housing and Community Development to develop a standardized reporting format for programs and actions taken pursuant to the requirement to affirmatively further fair housing.",
+  "This bill would require the department to develop the above-described standardized reporting format on or before December 31, 2026.",
+  "(2)Existing law requires, for the 4th and subsequent revisions of the housing element, the department to determine the existing and projected need for housing for each region, as specified. Existing law requires the department, in consultation with the council of governments, to determine the existing and projected need of housing for each region at least 2 years prior to the scheduled revision of the housing element, as provided. Existing law requires the department to meet and consult with the council of governments regarding the assumptions and methodology to be used to determine the region’s housing needs at least 26 months prior to the scheduled revision of the housing element, as provided.",
+  "This bill, except as specified, would extend the above-described timeline for the department to determine the existing and projected need of housing for each region from 2 years to 3 years prior to the scheduled revision of the housing element. The bill would require the department to meet and consult with the council of governments, as described above, pursuant to prescribed deadlines. For the 7th revision of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision, except for specified councils of governments. For the 8th and subsequent revision of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision.",
+  "(3)Existing law authorizes at least 2 or more cities and a county, or counties, at least 28 months prior to the scheduled housing element revision, to form a subregional entity to allocate the subregion’s existing and projected housing need among its members. If the council of governments does not receive a notification of this formation at least 28 months prior to the update, existing law requires the council of governments to implement specified requirements regarding the regional housing need process. Existing law requires the council of governments to determine the share of regional housing need assigned to each delegate subregion at least 25 months prior to the scheduled revision.",
+  "This bill would extend the above-described timeline for cities and counties to form a subregional entity to allocate the subregion’s housing need, as provided, from 28 months to 34 months, and the above-described timeline for the council of governments to determine the share of regional housing need assigned to each subregion from 25 months to 31 months, respectively.",
+  "(4)Existing law, at least 2 years before a scheduled revision of the housing element, as specified, requires each council of governments, or delegate subregion as applicable, to develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to jurisdictions, as specified. Existing law, at least 1 12 years before a scheduled revision of the housing element, as specified, requires each council of governments and delegate subregion, as applicable, to distribute a draft allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, as specified.",
+  "This bill, except with respect to the 7th housing element cycle for councils of governments with a housing element revision due date during the 2027 calendar year, would instead require that the above-described methodology be developed from at least 2 12 years before a scheduled revision of the housing element, and that the distribution of the draft allocation plan be made at least 2 years before a scheduled revision of the housing element, respectively.",
+  "(5)Existing law requires a planning agency to submit a copy of its draft housing element or amendments to its housing element or housing element revision to the department for review, and requires the department to notify the city, county, or city and county with written findings if the department finds that the housing element or the amendment does not substantially comply with specified law. If the department finds that the draft housing element or draft amendment is not in substantial compliance, existing law requires the jurisdiction to either update the draft to substantially comply with specified law, or adopt the draft housing element or amendment without changes, as provided.",
+  "This bill would require the department, if the department finds that a draft element or draft amendment does not substantially comply, as described above, to (A) identify and explain the specific deficiencies in the draft element or draft amendment and (B) provide the specific analysis or text that the department expects the planning agency to include in the draft element or draft amendment to remedy those deficiencies, as specified. The bill would require a jurisdiction, in updating a noncompliant housing element or amendment under the above-described provisions, to include the specific analysis or text in its draft element or amendment.",
+  "(6)This bill would incorporate additional changes to Section 65583 of the Government Code proposed by SB 340 and AB 610 to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65584.01 of the Government Code proposed by SB 486 to be operative only if this bill and SB 486 are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65584.03 of the Government Code proposed by AB 1275 to be operative only if this bill and AB 1275 are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65584.04 of the Government Code proposed by SB 486 and AB 1275 to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65585 of the Government Code proposed by AB 507 to be operative only if this bill and AB 507 are enacted and this bill is enacted last.",
+  "(7)By imposing additional duties on local governments, this bill would create a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Papan (Coauthors: Assembly Members Pacheco, Haney, and Wicks)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-13",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2025-04-24",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2025-04-30",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-01",
+   "applies": true,
+   "suspense": "2025-05-21",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-07-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-02",
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2025-07-02",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-07-01",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-29",
+   "applies": true,
+   "suspense": "2025-07-14",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-07-14",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-10",
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-11",
+   "applies": true,
+   "vote": {
+    "ayes": 80,
+    "noes": 0
+   },
+   "pending": "2025-09-10",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-23",
+   "done": null,
+   "vetoed": "2025-10-13",
+   "state": "failed",
+   "stoppedOn": "2025-10-13",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-13",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-14",
+   "text": "From printer. May be heard in committee March 16.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-28",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Assembly Rule 56 suspended. (Page 1265.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "(Pending re-refer to Com. on L. GOV.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (April 24). Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-21",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Joint Rule 62(a), file notice suspended. (Page 1627.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1843.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-14",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-04",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-10",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2833.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 80. Noes 0. Page 3297.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-23",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Consideration of Governor's veto pending.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Consideration of Governor's veto stricken from file.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2025-04-30",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 14,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-02",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-07-01",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-07-14",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-10",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-11",
+   "ayes": 80,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-29",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-19",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-26",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-14",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-08",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-10",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-10-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-13",
+   "action": "Introduced",
+   "id": "20250AB65099INT"
+  },
+  {
+   "date": "2025-03-28",
+   "action": "Amended Assembly",
+   "id": "20250AB65098AMD"
+  },
+  {
+   "date": "2025-04-24",
+   "action": "Amended Assembly",
+   "id": "20250AB65097AMD"
+  },
+  {
+   "date": "2025-08-29",
+   "action": "Amended Senate",
+   "id": "20250AB65096AMD"
+  },
+  {
+   "date": "2025-09-03",
+   "action": "Amended Senate",
+   "id": "20250AB65095AMD"
+  },
+  {
+   "date": "2025-09-05",
+   "action": "Amended Senate",
+   "id": "20250AB65094AMD"
+  },
+  {
+   "date": "2025-09-15",
+   "action": "Enrolled",
+   "id": "20250AB65093ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 650 without my signature.",
+  "This bill would require the Department of Housing and Community Development (HCD), if it finds that a draft housing element is deficient, to provide the specific analysis and the draft text that should be included in the jurisdiction's housing element.",
+  "I share the author's interest in improving the housing element process. In partnership with the Legislature, we have enacted numerous reforms to strengthen this process by demanding more rigorous site inventories, enforceable rezoning, and stronger accountability mechanisms to uphold state law.",
+  "Although intended to build on these recent efforts, I am concerned that this bill would inappropriately shift responsibility for preparing housing elements from local jurisdictions to HCD. While HCD provides technical assistance when requested and in response to inadequate housing elements, that support is no substitute to the local government's fundamental responsibility to plan for its share of housing needs. Further, shifting these duties to the state would add at least $11 million in new annual costs.",
+  "Housing element law has advanced considerably through recent legislation, much of which is now being implemented in the current planning cycle. As these changes take hold, it is critical to preserve the fundamental structure of local planning responsibility under state oversight. However, I look forward to continuing to work with the Legislature on additional opportunities to further improve this process.",
+  "For these reasons, I cannot sign this bill.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB650",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB650",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB650",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB650",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB650",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB650",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB650&version=20250AB65093ENR"
+ }
+}

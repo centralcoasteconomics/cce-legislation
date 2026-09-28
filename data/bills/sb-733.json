@@ -1,0 +1,666 @@
+{
+ "id": "202520260SB733",
+ "slug": "sb-733",
+ "label": "SB 733",
+ "type": "SB",
+ "number": 733,
+ "session": "20252026",
+ "subject": "Sexual assault forensic evidence: testing.",
+ "title": "An act to amend Section 680 of the Penal Code, relating to evidence.",
+ "authors": [
+  {
+   "name": "Wahab",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ochoa Bogh",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-13",
+  "text": "Chaptered by Secretary of State. Chapter 783, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 783,
+  "year": 2025
+ },
+ "presented": "2025-09-23",
+ "approved": "2025-10-13",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "PEN",
+   "name": "Penal Code",
+   "section": "680",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law, the Sexual Assault Victims’ DNA Bill of Rights, requires law enforcement agencies, for sexual assault forensic evidence received on or after January 1, 2016, to either submit the evidence to a crime lab within 20 days after it is booked into evidence or ensure that a rapid turnaround deoxyribonucleic acid program is in place, as specified. However, existing law authorizes a sexual assault victim to request that a kit collected from them not be tested and prohibits a kit for which this request had been made from being tested.",
+  "This bill would instead authorize a sexual assault survivor who is 18 years of age or older and who is undecided whether to report to law enforcement at the time of an examination to request that all medical evidence collected from them not be tested. If the request is made at the time of the examination, the bill would prohibit the medical facility from submitting the kit to a crime laboratory and would require the investigating agency to retain the kit until the sexual assault survivor requests testing. If the request is made after the examination, the bill would either require the investigating agency to retain the kit or would require the crime laboratory to return the kit to the investigating agency to be retained. The bill would also authorize a sexual assault survivor who has requested that their kit not be tested to later request that it be tested. By creating a new duty for local investigating agencies, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Senator Wahab (Coauthor: Senator Ochoa Bogh)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2025-04-02",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-01",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-04-21",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-09-10",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-04-24",
+   "vote": {
+    "ayes": 37,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Public Safety"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Assembly Public Safety",
+     "date": "2025-07-15",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-08-21",
+   "vote": {
+    "ayes": 77,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2025-09-13",
+   "applies": true,
+   "vote": {
+    "ayes": 34,
+    "noes": 0
+   },
+   "pending": "2025-08-21",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-23",
+   "done": "2025-10-13",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-13",
+   "chapter": {
+    "number": 783,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-13",
+   "text": "Set for hearing April 1.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-02",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 11. Noes 0. Page 609.) (April 1). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 21.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-22",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Read third time. Passed. (Ayes 37. Noes 0. Page 888.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-12",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-17",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-19",
+   "text": "Re-referred to Com. on PUB. S. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass. Ordered to consent calendar. (Ayes 9. Noes 0.) (July 15).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-17",
+   "text": "Read second time. Ordered to consent calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-08-21",
+   "text": "Read third time. Passed. (Ayes 77. Noes 0. Page 2706.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-08-21",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-08-25",
+   "text": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-08-25",
+   "text": "From committee: Be re-referred to Com. on PUB. S. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 2242.) Re-referred to Com. on PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Ordered to unfinished business.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "In Assembly. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-09-04",
+   "text": "Action rescinded whereby bill was read third time, passed, and ordered to the Senate.",
+   "house": null,
+   "where": null,
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-04",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Assembly Rule 69(b)(1) suspended.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Re-referred to Com. on APPR. pursuant to Assembly Rule 77.2.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Joint Rule 62(a) suspended.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-09-09",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (September 10).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-13",
+   "text": "Joint Rule 61(a)(14) and 51(a)(4) suspended. (Ayes 59. Noes 20. Page 3413.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-13",
+   "text": "Read third time. Passed. (Ayes 79. Noes 0. Page 3459.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-13",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-13",
+   "text": "Assembly amendments concurred in. (Ayes 34. Noes 0. Page 3062.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-23",
+   "text": "Enrolled and presented to the Governor at 2 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Chaptered by Secretary of State. Chapter 783, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-01",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-04-24",
+   "ayes": 37,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX18",
+   "date": "2025-07-15",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Public Safety"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-08-21",
+   "ayes": 77,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-09-10",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-13",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-13",
+   "ayes": 34,
+   "noes": 0,
+   "nvr": 6,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-27",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-23",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-14",
+   "committee": "Assembly Public Safety",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-05",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-09",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-10",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-11",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-07-21",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB73399INT"
+  },
+  {
+   "date": "2025-06-17",
+   "action": "Amended Assembly",
+   "id": "20250SB73398AMD"
+  },
+  {
+   "date": "2025-09-05",
+   "action": "Amended Assembly",
+   "id": "20250SB73397AMD"
+  },
+  {
+   "date": "2025-09-08",
+   "action": "Amended Assembly",
+   "id": "20250SB73396AMD"
+  },
+  {
+   "date": "2025-09-09",
+   "action": "Amended Assembly",
+   "id": "20250SB73395AMD"
+  },
+  {
+   "date": "2025-09-18",
+   "action": "Enrolled",
+   "id": "20250SB73394ENR"
+  },
+  {
+   "date": "2025-10-13",
+   "action": "Chaptered",
+   "id": "20250SB73393CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB733",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB733",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB733",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB733",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB733",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB733",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB733&version=20250SB73393CHP"
+ }
+}

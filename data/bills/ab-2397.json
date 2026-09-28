@@ -1,0 +1,561 @@
+{
+ "id": "202520260AB2397",
+ "slug": "ab-2397",
+ "label": "AB 2397",
+ "type": "AB",
+ "number": 2397,
+ "session": "20252026",
+ "subject": "Local government: community facilities districts: financing.",
+ "title": "An act to add Section 53316.8 to the Government Code, relating to local government.",
+ "authors": [
+  {
+   "name": "Ta",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-15",
+  "text": "Enrolled and presented to the Governor at 3 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-15",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "53316.8",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law, the Mello-Roos Community Facilities Act of 1982, authorizes a local agency, as defined, to initiate proceedings to establish a community facilities district as an alternative method of financing certain public capital facilities and services, especially in developing areas undergoing rehabilitation, only if it has first considered and adopted local goals and policies, as prescribed. Existing law authorizes a local agency to take any actions or make any determinations which it determines are necessary or convenient to carry out the purposes of the act and which are not otherwise prohibited by law.",
+  "This bill would prohibit the legislative body of a local agency from taking certain actions with respect to a critical housing infrastructure district, as defined, including abandoning the proposed establishment of the district, as specified, unless prior to taking the action it makes certain findings based upon substantial evidence, including that establishment of the district, levying the special taxes, or incurring bonded indebtedness, as applicable, would have a specific adverse impact upon the public interest. The bill would specify that these provisions do not require or prohibit the legislative body from taking any other action authorized by the act with respect to a critical housing infrastructure district, as specified.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "authorLine": "Introduced by Assembly Member Ta",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Local Government",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-29",
+   "votes": [
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-04-22",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-29",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-07",
+   "vote": {
+    "ayes": 66,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Housing"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-06-10",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-30",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-19",
+   "vote": {
+    "ayes": 37,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2026-08-31",
+   "applies": true,
+   "vote": {
+    "ayes": 76,
+    "noes": 0
+   },
+   "pending": "2026-08-19",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-15",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-19",
+   "text": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-19",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-23",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-06",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-07",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 10. Noes 0.) (April 22). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-27",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-29",
+   "text": "From committee: Do pass. To Consent Calendar. (Ayes 12. Noes 0.) (April 29).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-30",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-07",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 66. Noes 0. Page 4967.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-07",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-20",
+   "text": "Referred to Coms. on L. GOV. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-03",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 7. Noes 0.) (June 10). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 9. Noes 0.) (June 30).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "Read second time and amended. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-03",
+   "text": "From Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-03",
+   "text": "Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-19",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-31",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 7048.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-15",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX15",
+   "date": "2026-04-22",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-04-29",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-07",
+   "ayes": 66,
+   "noes": 0,
+   "nvr": 14,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2026-06-10",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-30",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-19",
+   "ayes": 38,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-31",
+   "ayes": 76,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-21",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-27",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-05",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-25",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-20",
+   "action": "Introduced",
+   "id": "20250AB239799INT"
+  },
+  {
+   "date": "2026-03-19",
+   "action": "Amended Assembly",
+   "id": "20250AB239798AMD"
+  },
+  {
+   "date": "2026-04-06",
+   "action": "Amended Assembly",
+   "id": "20250AB239797AMD"
+  },
+  {
+   "date": "2026-04-23",
+   "action": "Amended Assembly",
+   "id": "20250AB239796AMD"
+  },
+  {
+   "date": "2026-06-03",
+   "action": "Amended Senate",
+   "id": "20250AB239795AMD"
+  },
+  {
+   "date": "2026-07-02",
+   "action": "Amended Senate",
+   "id": "20250AB239794AMD"
+  },
+  {
+   "date": "2026-08-13",
+   "action": "Amended Senate",
+   "id": "20250AB239793AMD"
+  },
+  {
+   "date": "2026-09-04",
+   "action": "Enrolled",
+   "id": "20250AB239792ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2397",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2397",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2397",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2397",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2397",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2397",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2397&version=20250AB239792ENR"
+ }
+}

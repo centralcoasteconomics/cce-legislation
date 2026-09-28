@@ -1,0 +1,659 @@
+{
+ "id": "202520260AB2329",
+ "slug": "ab-2329",
+ "label": "AB 2329",
+ "type": "AB",
+ "number": 2329,
+ "session": "20252026",
+ "subject": "Surplus residential property: condition-adjusted price of the fair market value: Cities of Pasadena and South Pasadena.",
+ "title": "An act to amend Sections 54235, 54236, 54237, 54237.10, 54238, 54238.8, 54239.5, and 54239.6 of, and to add Section 54238.2 to, the Government Code, relating to surplus residential property, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.",
+ "authors": [
+  {
+   "name": "Fong",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Pérez",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-10",
+  "text": "Enrolled and presented to the Governor at 3 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-10",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54235",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54236",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54237",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54237.10",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54238",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54238.8",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54239.5",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54239.6",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54238.2",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "Yes",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "Yes",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.8,
+ "digest": [
+  "(1)Existing law establishes priorities and procedures that any state agency disposing of surplus property is required to follow. Existing law requires the Department of Transportation to deposit proceeds from the sale of a surplus residential property from the department to a new owner into the SR-710 Rehabilitation Account. Existing law continuously appropriates the funds in the account to the department for the purpose of providing required repairs to certain surplus residential properties that are offered for sale, as provided. Existing law requires that the total funds maintained in the account not exceed a specified amount and that funds exceeding that amount, less any reimbursements due to the federal government, be transferred to the State Highway Account in the State Transportation Fund, to be used for allocation by the California Transportation Commission exclusively to fund projects located in specified cities and in the 90032 postal ZIP Code. Existing law also establishes the Affordable Housing Trust Account within the Housing Finance Fund, a continuously appropriated fund, and requires certain funds to be deposited in the account in accordance with specified provisions for the benefit of income restricted persons and families residing exclusively in the Cities of Pasadena, South Pasadena, Alhambra, La Cañada Flintridge, and the 90032 postal ZIP Code.",
+  "Existing law sets forth an order of priority for the disposal of specified surplus residential property, including that a state agency disposing of single-family surplus residential property first offer the property at the appraised fair market value to former owners and present occupants, and then offer the property at an affordable price to other present occupants who have occupied the property for a specified number of years and who meet certain income levels. Existing law sets certain parameters for the calculation of an affordable price for purposes of these provisions based on, among other things, the fair market value of the property.",
+  "This bill would, instead, require the first tier priority offer to be based on the appraised condition-adjusted price of the fair market value and would define “condition-adjusted price of the fair market value” to mean the fair market value of the property as of October 13, 2019, as determined by an independent appraiser and adjusted, as provided. The bill would revise the above-specified parameters for calculating an affordable price. The bill would establish requirements relating to the performance and cost of the inspection of the property, and define various terms for purposes of these provisions, including, among others, “guidelines.” The bill would also, for surplus residential property sold at a condition-adjusted fair market value, exempt the selling agency from providing repairs to the property, as specified.",
+  "This bill, among other changes, would authorize a present occupant or tenant purchasing a residence at an affordable price or condition-adjusted price of the fair market value to receive purchase assistance in accordance with certain procedures. The bill would provide that certain amounts repaid for those purposes constitute deferred proceeds from the department’s sale of the property and would be deposited into the Affordable Housing Trust Account, as prescribed.",
+  "(2)If the surplus residential property is not sold pursuant to the priorities described above, or pursuant to other specified priorities, existing law requires the property to then be sold at fair market value, with priority given first to purchasers who are present tenants in good standing, as provided, and then to former tenants who were in good standing at the time they vacated the premises, as provided.",
+  "This bill would, instead, require the property to be sold to those present or former tenants at condition-adjusted fair market value.",
+  "This bill would require the Department of Transportation, upon request, to provide certain documents related to the surplus residential property to all persons or entities offered or purchasing surplus residential property. The bill would require any surplus residential property purchased at the condition-adjusted price of the fair market value pursuant to the bill to be assessed at its condition-adjusted price of the fair market value for property tax purposes, as prescribed.",
+  "(3)Existing law contains provisions that are specific to the sale of surplus residential property located in the City of Pasadena. Those provisions, among other things, contain a priority requiring surplus residential property located in the city to be offered at fair market value to specified present tenants who are in good standing, as provided.",
+  "This bill would, instead, require the property to be offered to those present tenants at condition-adjusted price of the fair market value, as defined.",
+  "Existing law also requires the City of Pasadena to commence the construction, or complete acquisition, of affordable units in an amount at least equal to 3 times the number of unoccupied homes acquired by the city by December 31, 2026.",
+  "This bill would change the timing for this requirement to within 2 years from the date on which the proceeds from the subsequent sale of the unoccupied homes are received, as specified, and would make other related changes to these provisions.",
+  "(4)Existing law contains provisions that are specific to the sale of surplus residential property located in the City of South Pasadena. Those provisions, among other things, contain a priority requiring surplus residential property located in the city to be offered at fair market value to specified present tenants who are in good standing, as provided.",
+  "This bill would, instead, require the property to be offered to those present tenants at condition-adjusted price of the fair market value.",
+  "Existing law also requires the City of South Pasadena to commence the construction, or complete acquisition, of affordable units in an amount at least equal to three times the number of unoccupied homes acquired by the city by July 1, 2028.",
+  "This bill would, for unoccupied homes acquired by the City of South Pasadena after July 1, 2026, change the timing for this requirement to within 2 years from the date on which the proceeds from the subsequent sale of the unoccupied homes are received, as specified, and would make other related changes to these provisions.",
+  "By requiring new deposits into a continuously appropriated account, the bill would make an appropriation.",
+  "(5)This bill would make legislative findings and declarations as to the necessity of a special statute for the Cities of South Pasadena and Pasadena.",
+  "(6)By imposing new requirements on the Cities of South Pasadena and Pasadena, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "authorLine": "Introduced by Assembly Member Fong (Principal coauthor: Senator Pérez)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-22",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-05-13",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-03",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-13",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-27",
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Transportation"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Senate Transportation",
+     "date": "2026-06-30",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2026-08-03",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-03",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-13",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-30",
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2026-08-30",
+   "applies": true,
+   "vote": null,
+   "pending": "2026-08-30",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-10",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-13",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-14",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-13",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-18",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-27",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-28",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "Referred to Com. on TRANS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on TRANS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (June 30).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-03",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 13).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Ordered to special consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-30",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Page 6936.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-10",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-22",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-05-14",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-27",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS59",
+   "date": "2026-06-30",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Transportation"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-03",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-13",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-30",
+   "ayes": 78,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-30",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-20",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Senate Transportation",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-02",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-14",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-26",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-30",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250AB232999INT"
+  },
+  {
+   "date": "2026-04-13",
+   "action": "Amended Assembly",
+   "id": "20250AB232998AMD"
+  },
+  {
+   "date": "2026-06-18",
+   "action": "Amended Senate",
+   "id": "20250AB232997AMD"
+  },
+  {
+   "date": "2026-07-02",
+   "action": "Amended Senate",
+   "id": "20250AB232996AMD"
+  },
+  {
+   "date": "2026-08-13",
+   "action": "Amended Senate",
+   "id": "20250AB232995AMD"
+  },
+  {
+   "date": "2026-08-25",
+   "action": "Amended Senate",
+   "id": "20250AB232994AMD"
+  },
+  {
+   "date": "2026-09-03",
+   "action": "Enrolled",
+   "id": "20250AB232993ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2329",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2329",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2329",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2329",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2329",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2329",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2329&version=20250AB232993ENR"
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "id": "202520260AB2002",
+ "slug": "ab-2002",
+ "label": "AB 2002",
+ "type": "AB",
+ "number": 2002,
+ "session": "20252026",
+ "subject": "Local government assistance: Regional Early Action Planning Fund.",
+ "title": "An act to add Chapter 3.16 (commencing with Section 50515.11) to Part 2 of Division 31 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Solache",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-08-13",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50515.11",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine the existing and projected need for housing in each region and further requires the appropriate council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county, as provided. Existing law establishes the Local Government Planning Support Grants Program, administered by the department, for the purpose of providing regions and jurisdictions with one-time funding, including grants for planning activities to enable jurisdictions to meet the sixth cycle of the regional housing need assessment, as provided.",
+  "This bill would establish the Regional Early Action Planning Fund in the State Treasury for the purpose of providing councils of governments, regional entities, and jurisdictions with one-time funding, including grants for planning activities, to enable those entities to meet the 7th and subsequent cycles of the regional housing need assessment. The bill would require the department to allocate funds, upon appropriation by the Legislature, from the Regional Early Action Planning Fund to each council of governments or regional entity responsible for allocating regional housing need that applies and qualifies for those moneys, as specified. The bill would authorize a council of governments or regional entity to expend funds awarded for certain purposes, including for activities that support the development, improvement, or implementation of the methodology for the 7th and subsequent regional housing needs assessment cycles, and for providing jurisdictions with technical assistance, planning, temporary staffing, or consultant needs associated with updating local planning and zoning documents, as provided. The bill would require a jurisdiction that receives a suballocation of funds to only use that suballocation for housing-related planning activities, as provided. The bill would authorize the department to monitor expenditures and activities of an applicant, as the department deems necessary, to ensure compliance with program requirements. The bill would require each recipient of funds under the program to expend those funds no later than 3 years from the date of award of those funds, subject to an extension by the department.",
+  "Existing law, the Administrative Procedure Act, sets forth the requirements for the adoption, publication, review, and implementation of regulations, including emergency regulations, by state agencies.",
+  "This bill would require the department, in collaboration with stakeholders, to adopt emergency regulations to implement the above-described provisions. The bill would also make those emergency regulations effective until nonemergency regulations implementing the above-described provisions become effective."
+ ],
+ "authorLine": "Introduced by Assembly Member Solache",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-17",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-08",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-08",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-04-22",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-06-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-21",
+   "vote": {
+    "ayes": 68,
+    "noes": 1
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2026-06-17",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-16",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-06-29",
+   "held": "2026-08-13",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-06-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2026-08-13",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-17",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-18",
+   "text": "From printer. May be heard in committee March 20.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 8). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-22",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 13. Noes 0.) (May 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-18",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 1. Page 5216.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-21",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-03",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (June 16).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-29",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "In committee: Held under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-08",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-05-14",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-21",
+   "ayes": 68,
+   "noes": 1,
+   "nvr": 11,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-16",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-06-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-06",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-20",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-11",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-17",
+   "action": "Introduced",
+   "id": "20250AB200299INT"
+  },
+  {
+   "date": "2026-06-18",
+   "action": "Amended Senate",
+   "id": "20250AB200298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2002",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2002",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2002",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2002",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2002",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2002",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2002&version=20250AB200298AMD"
+ }
+}

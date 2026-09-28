@@ -1,0 +1,665 @@
+{
+ "id": "202520260SB786",
+ "slug": "sb-786",
+ "label": "SB 786",
+ "type": "SB",
+ "number": 786,
+ "session": "20252026",
+ "subject": "Planning and zoning: general plan: judicial challenges.",
+ "title": "An act to amend Sections 65587, 65700, 65753, 65754, 65755, 65757, and 65759 of, and to add Section 65585.02 to, the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Arreguín",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wicks",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-10",
+  "text": "Chaptered by Secretary of State. Chapter 526, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 526,
+  "year": 2025
+ },
+ "presented": "2025-09-17",
+ "approved": "2025-10-10",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65587",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65700",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65753",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65754",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65755",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65757",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65759",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65585.02",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and of certain land outside its boundaries, and requires the general plan to contain specified mandatory elements. Existing law specifies that these provisions generally do not apply to a charter city, but requires a charter city to adopt a general plan that contains the mandatory elements, among other things. Existing law prescribes a process to challenge the validity of a general plan. Among other things, existing law requires a petitioner to request a hearing or trial, as specified. Existing law requires a court to set a date for the hearing or trial to be heard no later than 120 days after the filing of the request, as specified. Existing law authorizes a court to continue for a reasonable time the date of the hearing or trial upon written motion and finding of good cause. Existing law requires a court to grant the petitioner temporary relief if the court grants a continuance to a respondent, as specified.",
+  "This bill would apply to the above-described process to challenge the validity of a general plan to a charter city and state that this is declaratory of existing law. The bill would limit the period for which a court may continue a trial or hearing, as described above, to no more than 60 days and would additionally authorize a court to grant a continuance on the court’s own motion. The bill would extend the requirement that a court grant temporary relief, as described above, in any instance in which the court orders a continuance, rather than only if the court grants a continuance to a respondent. The bill would require the court to consider ordering additional temporary relief if the court has already granted temporary relief.",
+  "Existing law requires the general plan to contain specified mandatory elements, including a housing element. Existing law requires the housing element to consist of an identification and analysis of existing and projected housing needs and a statement of goals, policies, quantified objectives, financial resources, and scheduled programs for the preservation, improvement, and development of housing. Existing law also requires the housing element to, among other things, identify adequate sites for housing, as provided, and to make adequate provision for the existing and projected needs of all economic segments of the community. In preparation of the housing element, existing law requires the city and county to consider certain guidelines adopted by the department. Existing law requires the department to review, according to a specified procedure, any action or failure to act by the city, county, or city and county that it determines is inconsistent with an adopted housing element or certain other requirements, including any failure to implement any program actions included in the housing element.",
+  "This bill would require, to the extent that a quantified development standard, as defined, in a general plan element is inconsistent with a quantified development standard in another element, the provisions of the most recently adopted element to supersede the previously adopted element. If a local agency has established a specific deadline to amend a local ordinance, development standard, condition, or policy applicable to quantified development standards, or timelines or processes relating to entitlement and permitting decisions, and the local agency has failed to make that amendment by the specified deadline, the bill would require the department to undertake the above-described review procedure.",
+  "Existing law requires each city, county, or city and county to bring its housing element into conformity with certain requirements by a specified deadline. Existing law also requires a city, county, or city and county, upon a finding by a court that an action of a city, county, or city and county, which is required to be consistent with its general plan, does not comply with its housing element, to bring its action into compliance within 60 days. Existing law requires the court to retain jurisdiction throughout the period for compliance to enforce its decision and authorizes the court to extend the time period for compliance by an additional 60 days upon a determination that the 60-day period for compliance would place an undue hardship on the city, county, or city and county.",
+  "This bill would extend the amount of time a city, county, or city and county has to bring its action into compliance to 120 days and would remove the above-described extension provision. The bill would also require the court to retain jurisdiction throughout the period for compliance with its order and to conform to certain requirements. The bill would authorize the court to grant a reasonable extension of time for the city, county, or city and county to comply if review by the Department of Housing and Community Development is required as part of the court order and that review is not timely completed, as specified.",
+  "Existing law requires a court, if that court finds that a city, county, or city and county failed to complete a specified rezoning by a certain deadline, to issue an order or judgment, after considering the equities of the circumstances presented by all parties, compelling the local government to complete the rezoning within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. Existing law also requires the court, if that court determines that its order or judgment is not carried out, to issue further orders to ensure that certain purposes and policies are fulfilled, including ordering, after considering the equities of the circumstances presented by all parties, that any required rezoning be completed within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. Existing law also authorizes the court to impose sanctions on the city, county, or city and county if the court determines that its order or judgment is not carried out.",
+  "This bill would extend the amount of time a local government has to complete the above-described rezoning under a court order or judgment to 120 days. The bill would also remove the requirement that a court issue further orders that any required rezoning be completed within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. The bill would instead require that the court impose sanctions on the city, county, or city and county if the court determines that its order or judgment is not carried out.",
+  "Existing law requires a county or city to bring the general plan or relevant mandatory element into compliance with state law within 120 days of a court issuing a final order or judgment in favor of a petitioner in any action brought to challenge the validity of that plan or element. Existing law also requires a county or city to bring its zoning ordinance into consistency with its general plan or relevant mandatory element within 120 days of bringing the general plan or relevant mandatory element into compliance with state law. Existing law authorizes a court to grant a county or city 2 extensions of time, as specified, to bring the general plan, relevant mandatory element, or zoning ordinance into compliance or consistency. Existing law requires a court, in the order or judgment, to include one or more specified remedies. Existing law also authorizes a court to grant these remedies as temporary relief, during a pendency of a challenge to the validity of a general plan, upon a showing of probable success on the merits, as specified.",
+  "This bill would instead require, in any order or judgment issued in an action brought to challenge the validity of the general plan of any city, county, or city and county, or any mandatory element thereof that resolves whether those plans or elements substantially comply with certain requirements, that order or judgment to be immediately appealable, regardless of whether any final judgment has been issued. The bill would instead require a county or city to comply with the above-described requirements if the court finds that the general plan or mandatory element does not substantially comply with certain requirements. The bill would remove a court’s above-described authority to grant a city or county 2 extensions of time. The bill would specify that the above-described remedies are not stayed during the pendency of an appeal of the order or judgment, but would authorize a court to stay remedies if there is a showing by a county or city that it would suffer irreparable harm. The bill would require, rather than authorize, a court to grant these remedies as temporary relief during a pendency of a challenge to the validity of the general plan. The bill would require that request for temporary relief to be made by noticed motion or application, as specified.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "authorLine": "Introduced by Senator Arreguín (Coauthors: Assembly Members Bryan and Wicks)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Judiciary"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2025-04-23",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-19",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-29",
+     "ayes": 11,
+     "noes": 4,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-05-29",
+   "vote": {
+    "ayes": 28,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2025-07-03",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-07-02",
+     "ayes": 7,
+     "noes": 3,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-07-15",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-07-16",
+   "applies": true,
+   "suspense": "2025-08-20",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-29",
+     "ayes": 11,
+     "noes": 4,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-09-08",
+   "vote": {
+    "ayes": 58,
+    "noes": 19
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2025-09-09",
+   "applies": true,
+   "vote": {
+    "ayes": 30,
+    "noes": 10
+   },
+   "pending": "2025-09-08",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-17",
+   "done": "2025-10-10",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-10",
+   "chapter": {
+    "number": 526,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-12",
+   "text": "Referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-25",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Coms. on L. GOV., JUD., and APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-10",
+   "text": "Set for hearing April 29 in JUD. pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 5. Noes 2. Page 871.) (April 23). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 2. Page 943.) (April 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-09",
+   "text": "Set for hearing May 19.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-19",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-20",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-29",
+   "text": "Read third time. Passed. (Ayes 28. Noes 10. Page 1334.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-29",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-16",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 3.) (July 2). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (July 15). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 29).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Read third time. Passed. (Ayes 58. Noes 19. Page 3010.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Assembly amendments concurred in. (Ayes 30. Noes 10. Page 2719.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-17",
+   "text": "Enrolled and presented to the Governor at 2 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Chaptered by Secretary of State. Chapter 526, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS82",
+   "date": "2025-04-23",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-05-29",
+   "ayes": 28,
+   "noes": 10,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-07-02",
+   "ayes": 7,
+   "noes": 3,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-07-15",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-08-29",
+   "ayes": 11,
+   "noes": 4,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-08",
+   "ayes": 58,
+   "noes": 19,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-09",
+   "ayes": 30,
+   "noes": 10,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-21",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-04-26",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-20",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-30",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-18",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-08",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-08",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB78699INT"
+  },
+  {
+   "date": "2025-03-25",
+   "action": "Amended Senate",
+   "id": "20250SB78698AMD"
+  },
+  {
+   "date": "2025-05-01",
+   "action": "Amended Senate",
+   "id": "20250SB78697AMD"
+  },
+  {
+   "date": "2025-09-02",
+   "action": "Amended Assembly",
+   "id": "20250SB78696AMD"
+  },
+  {
+   "date": "2025-09-12",
+   "action": "Enrolled",
+   "id": "20250SB78695ENR"
+  },
+  {
+   "date": "2025-10-10",
+   "action": "Chaptered",
+   "id": "20250SB78694CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB786",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB786",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB786",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB786",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB786",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB786",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB786&version=20250SB78694CHP"
+ }
+}

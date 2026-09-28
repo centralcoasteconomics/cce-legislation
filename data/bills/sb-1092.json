@@ -1,0 +1,536 @@
+{
+ "id": "202520260SB1092",
+ "slug": "sb-1092",
+ "label": "SB 1092",
+ "type": "SB",
+ "number": 1092,
+ "session": "20252026",
+ "subject": "Mobilehome parks: resident organizations: option to purchase.",
+ "title": "An act to add Sections 798.11.1 and 798.11.2 to, to add Article 7.5 (commencing with Section 798.83.1) to Chapter 2.5 of Title 2 of Part 2 of Division 2 of, and to repeal Section 798.80 of, the Civil Code, relating to mobilehome parks.",
+ "authors": [
+  {
+   "name": "Allen",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wahab",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-07-01",
+  "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 5.) (July 1). Re-referred to Com. on JUD."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.11.1",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.11.2",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.83.1",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.80",
+   "verb": "repeal"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "Existing law, the Mobilehome Residency Law, requires the owner of a mobilehome park who lists for sale or offers to sell the mobilehome park to any party to provide written notice of the owner’s intention to sell the mobilehome park to a resident organization formed by homeowners for purposes of converting the mobilehome park to condominium or stock cooperative ownership interests and for purchasing the mobilehome park, subject to specified conditions.",
+  "This bill would repeal those provisions and would instead require management of a mobilehome park to give notice to each resident household in the park, resident organization, as defined, and specified public entities, as provided, if certain events demonstrating management’s intent to sell occur, subject to specified exceptions. If that event is the receipt of an offer for the sale or transfer the park that management intends to accept or the conditional acceptance of an offer for the sale or transfer of the park, the bill would require the notice to include a statement from management that it has received an offer for sale, lease, or transfer of the park that it intends to accept, a statement of the homeowners’ rights under the bill and the deadlines for exercising those rights, and the price, terms, and conditions of the offer management has conditionally accepted or plans to accept.",
+  "This bill would authorize a resident organization or its assignee, to, no later than 120 days after notice of an offer that management intends to accept or conditional acceptance of an offer is sent, deliver a good faith, written purchase offer for the park to management, along with a statement that the homeowners of more than 50% of the mobilehomes in the park support the purchase offer. This bill would require management to consider the resident organization’s proposed purchase offer and negotiate with the resident organization in good faith to determine whether a mutual agreement can be reached that results in the resident organization purchasing the park, and, if the offer is rejected, provide a good faith reason for the rejection. This bill would, if the resident organization’s proposed purchase agreement matches the price and substantially the same terms and conditions as the offer management has conditionally accepted or plans to accept, grant the resident organization the right to purchase the park at the price, terms, and conditions stated in its proposed purchase agreement. The bill would provide specified requirements and restrictions on management and the resident organization with regard to the proposed purchase agreement.",
+  "This bill would authorize a resident organization that represents 50% or more of the homeowners of the mobilehome park to, at its election and subject to rescission at any time, assign its rights under the bill to the municipality in which the resident organization is located, a housing authority located in the municipality, a state agency, or a qualified entity for the purpose of continuing the use of the property as a park. The bill would require the Department of Housing and Community Development to establish a process for certifying specified entities as qualified entities, as provided, and to maintain and update annually a list of qualified entities to be made available to management for the purpose of distributing notices to qualified entities.",
+  "This bill would authorize a resident organization or public prosecutor, as specified, to bring an action against management that violates the bill for specified civil penalties and other relief. The bill would provide that its provisions shall be interpreted liberally and are severable."
+ ],
+ "authorLine": "Introduced by Senator Allen (Coauthor: Senator Wahab)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-13",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary",
+    "Senate Housing"
+   ],
+   "done": "2026-04-22",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2026-04-07",
+     "ayes": 10,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-21",
+     "ayes": 8,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-05-11",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-11",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-14",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-26",
+   "vote": {
+    "ayes": 29,
+    "noes": 7
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 6,
+     "noes": 4,
+     "result": "Fail"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-07-01",
+     "ayes": 7,
+     "noes": 5,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-07-01",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-07-01",
+   "reason": "Did not advance before the session deadline",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-13",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-17",
+   "text": "From printer. May be acted upon on or after March 16.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-26",
+   "text": "Referred to Coms. on JUD. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-19",
+   "text": "Set for hearing April 7.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee: Do pass as amended and re-refer to Com. on HOUSING. (Ayes 10. Noes 2. Page 3757.) (April 7).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-15",
+   "text": "Set for hearing April 21.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-22",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 1. Page 3975.) (April 21).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Set for hearing May 11.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-11",
+   "text": "May 11 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-12",
+   "text": "Set for hearing May 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 5. Noes 2. Page 4264.) (May 14).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-26",
+   "text": "Read third time. Passed. (Ayes 29. Noes 7. Page 4445.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-26",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-01",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "June 24 set for first hearing. Failed passage in committee. (Ayes 6. Noes 4.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-07-01",
+   "text": "July 1 hearing: Reconsideration granted. (Ayes 8. Noes 0.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 5.) (July 1). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS53",
+   "date": "2026-04-07",
+   "ayes": 10,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-04-21",
+   "ayes": 8,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-05-11",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-05-14",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-26",
+   "ayes": 29,
+   "noes": 7,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 6,
+   "noes": 4,
+   "nvr": 2,
+   "result": "Fail",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-07-01",
+   "ayes": 7,
+   "noes": 5,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-07-01",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-03",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-16",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-10",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-16",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-13",
+   "action": "Introduced",
+   "id": "20250SB109299INT"
+  },
+  {
+   "date": "2026-04-09",
+   "action": "Amended Senate",
+   "id": "20250SB109298AMD"
+  },
+  {
+   "date": "2026-04-23",
+   "action": "Amended Senate",
+   "id": "20250SB109297AMD"
+  },
+  {
+   "date": "2026-06-15",
+   "action": "Amended Assembly",
+   "id": "20250SB109296AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1092",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1092",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1092",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1092",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1092",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1092",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1092&version=20250SB109296AMD"
+ }
+}

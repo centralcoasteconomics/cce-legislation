@@ -1,0 +1,678 @@
+{
+ "id": "202520260SB692",
+ "slug": "sb-692",
+ "label": "SB 692",
+ "type": "SB",
+ "number": 692,
+ "session": "20252026",
+ "subject": "Vehicles: homelessness.",
+ "title": "An act to add Section 22851.35 to the Vehicle Code, relating to vehicles.",
+ "authors": [
+  {
+   "name": "Arreguín",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Richardson",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Mark González",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Nguyen",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-27",
+  "text": "Enrolled and presented to the Governor at 4:30 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-27",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "homeless"
+ ],
+ "sections": [
+  {
+   "code": "VEH",
+   "name": "Vehicle Code",
+   "section": "22851.35",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law makes it unlawful for a peace officer or an unauthorized person to remove an unattended vehicle from a highway, except as provided. Under existing law, the removal of a vehicle is a seizure, subject to the limits set forth in jurisprudence for the Fourth Amendment of the United States Constitution. Existing law authorizes a city, county, or city and county to adopt an ordinance establishing procedures for the abatement and removal, as public nuisances, of abandoned, wrecked, dismantled, or inoperative vehicles or parts of vehicles from private or public property.",
+  "Existing law, whenever a peace officer or other public employee removes an abandoned vehicle valued at $500 or less, requires the public agency that removed, or caused the removal of, the vehicle to cause the disposal of the vehicle subject to specified requirements, including providing notice, as specified, to the registered and legal owners and any other person known to have an interest in the vehicle, and a process for the owners and interested persons to request and have a poststorage hearing, as specified.",
+  "This bill would authorize a public agency of a city, county, or city and county to dismantle, or cause the dismantlement of, an abandoned vehicle, as defined, if the abandoned vehicle cannot be towed or otherwise moved and the vehicle has been declared a nuisance or hazard by a fire marshal, environmental health director, or public health officer of a city, county, or city and county, if various requirements are met, including attaching a distinctive notice to the vehicle at least 15 days prior to dismantlement that states the vehicle will be dismantled by the public agency if the hazard is not abated, sending a notice, within 48 hours of the attachment of the notice to the vehicle, to the owners and any other person known to have an interest in the vehicle informing them of specified information, including that the vehicle may be disposed of at least 15 days from the date of the notice and that they may have a hearing before the public agency if a request for a hearing is made within 10 days from the date of notice, as specified. This bill would require a requested hearing to be conducted within 5 business days of the request. If, after at least 15 days from the notification, the vehicle remains unclaimed, and if no request for a hearing was made or a hearing was not attended, the bill would require the public agency to provide the lienholder authorization to dismantle the vehicle. The bill would provide that a local government is not prevented from performing emergency summary abatement of an abandoned vehicle that is creating imminent health or safety hazards."
+ ],
+ "authorLine": "Introduced by Senator Arreguín (Principal coauthor: Senator Richardson) (Principal coauthor: Assembly Member Mark González) (Coauthor: Assembly Member Nguyen)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Public Safety",
+    "Senate Housing"
+   ],
+   "done": "2025-04-23",
+   "votes": [
+    {
+     "committee": "Senate Public Safety",
+     "date": "2025-04-22",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-05",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-05",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-06-03",
+   "vote": {
+    "ayes": 38,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Public Safety",
+    "Assembly Transportation"
+   ],
+   "done": "2025-07-15",
+   "votes": [
+    {
+     "committee": "Assembly Public Safety",
+     "date": "2025-07-01",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Transportation",
+     "date": "2025-07-14",
+     "ayes": 16,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-05",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-05",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-19",
+   "vote": {
+    "ayes": 77,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-24",
+   "applies": true,
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "pending": "2026-08-19",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-27",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "From printer. May be acted upon on or after March 24.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-05",
+   "text": "Referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-25",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Coms. on PUB. S. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "Set for hearing April 22.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 6. Noes 0. Page 842.) (April 22). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-25",
+   "text": "Set for hearing May 5.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-05",
+   "text": "May 5 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-16",
+   "text": "Set for hearing May 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass as amended. (Ayes 6. Noes 0. Page 1210.) (May 23).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Read third time. Passed. (Ayes 38. Noes 0. Page 1437.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-04",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-16",
+   "text": "Referred to Coms. on PUB. S. and TRANS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Do pass as amended and re-refer to Com. on TRANS. (Ayes 9. Noes 0.) (July 1).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "Read second time and amended. Re-referred to Com. on TRANS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-15",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (July 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time. Passed. (Ayes 77. Noes 0. Page 6261.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-19",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Enrolled and presented to the Governor at 4:30 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS72",
+   "date": "2025-04-22",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Public Safety"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-05",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-23",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-06-03",
+   "ayes": 38,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX18",
+   "date": "2025-07-01",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Public Safety"
+  },
+  {
+   "location_code": "CX22",
+   "date": "2025-07-14",
+   "ayes": 16,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Transportation"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-05",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-19",
+   "ayes": 77,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-24",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-18",
+   "committee": "Senate Public Safety",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-02",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-23",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-27",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-30",
+   "committee": "Assembly Public Safety",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Assembly Transportation",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-07",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-12",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250SB69299INT"
+  },
+  {
+   "date": "2025-03-25",
+   "action": "Amended Senate",
+   "id": "20250SB69298AMD"
+  },
+  {
+   "date": "2025-04-09",
+   "action": "Amended Senate",
+   "id": "20250SB69297AMD"
+  },
+  {
+   "date": "2025-05-23",
+   "action": "Amended Senate",
+   "id": "20250SB69296AMD"
+  },
+  {
+   "date": "2025-07-03",
+   "action": "Amended Assembly",
+   "id": "20250SB69295AMD"
+  },
+  {
+   "date": "2025-07-16",
+   "action": "Amended Assembly",
+   "id": "20250SB69294AMD"
+  },
+  {
+   "date": "2026-06-25",
+   "action": "Amended Assembly",
+   "id": "20250SB69293AMD"
+  },
+  {
+   "date": "2026-08-10",
+   "action": "Amended Assembly",
+   "id": "20250SB69292AMD"
+  },
+  {
+   "date": "2026-08-25",
+   "action": "Enrolled",
+   "id": "20250SB69291ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB692",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB692",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB692",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB692",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB692",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB692",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB692&version=20250SB69291ENR"
+ }
+}

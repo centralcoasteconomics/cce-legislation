@@ -1,0 +1,391 @@
+{
+ "id": "202520260AB1725",
+ "slug": "ab-1725",
+ "label": "AB 1725",
+ "type": "AB",
+ "number": 1725,
+ "session": "20252026",
+ "subject": "Residential buildings: oil well disclosures: methane mitigation systems.",
+ "title": "An act to add Sections 1102.151 and 1940.7.1 to the Civil Code, and to add Section 17926.5 to the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Caloza",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-05-14",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "building"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1102.151",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1940.7.1",
+   "verb": "add"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17926.5",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "(1)Existing law requires specified disclosures be made by sellers of residential real property and landlords of residential dwelling units, including, among other things, that they disclose knowledge of any area identified by an agency or instrumentality of the federal or state government as an area once used for military training purposes that may contain potentially explosive munitions within the neighborhood area, as specified.",
+  "This bill would require the seller of residential real property, or the landlord of a residential dwelling unit, located within either of 2 specified United States Census Bureau census tracts, or their agents, to give written notice to the prospective buyer or a prospective tenant describing the presence of active, idle, orphaned, or abandoned wells on or within 300 feet of the property that includes information on the associated hazards of living in close proximity to an oil well, including any potential health impacts and the increased risk of fire, toxic exposure, and methane gas emergency, as specified.",
+  "(2)Existing law, the State Housing Law, establishes statewide construction and occupancy standards for buildings used for human habitation. The State Housing Law requires the housing or building department or, if there is no building department, the health department, of every city or county or a specified environmental agency to enforce within its jurisdiction all of the State Housing Law, the building standards published in the California Building Standards Code, and other specified rules and regulations. Among other things, existing law requires an owner or owner’s agent of a dwelling unit intended for human occupancy who rents or leases the dwelling unit to a tenant to maintain carbon monoxide devices in that dwelling unit, as specified.",
+  "This bill would require an owner of a multifamily dwelling unit intended for human occupancy located within either of 2 specified United States Census Bureau census tracts, or the owner’s agent, who rents or leases the dwelling unit to a tenant to maintain a methane gas monitoring and alarm system in that dwelling unit if the unit is located where active, idle, orphaned, or abandoned wells are on or within 300 feet of the property, as specified, or where increased levels of methane are likely to be present due to commercial, industrial, geological, or environmental factors. The bill would make the owner or their agent responsible for ensuring that the methane gas monitoring or alarm system is operational, that it is inspected, updated, and tested to ensure that it remains in good working order, and to periodically submit certification of compliance with these provisions to the Department of Housing and Community Development or the local housing or building standards enforcement agency. Because the bill would require local officials to perform additional enforcement duties under the State Housing Law, it would impose a state-mandated local program.",
+  "(3)This bill would make legislative findings and declarations as to the necessity of a special statute for United States Bureau of the Census census tracts 06037208001 and 06037208002.",
+  "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Assembly Member Caloza",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-05",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Judiciary",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2026-04-14",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-22",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-05-13",
+   "held": "2026-05-14",
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-05-14",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-05",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-06",
+   "text": "From printer. May be heard in committee March 8.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-19",
+   "text": "Referred to Coms. on JUD. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-19",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-23",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-07",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-13",
+   "text": "Assembly Rule 56 suspended. (Page 4581.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-13",
+   "text": "(Pending re-refer to Com. on H. & C.D.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-15",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 9. Noes 3.) (April 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-16",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-20",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-27",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-28",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-13",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX13",
+   "date": "2026-04-14",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-04-22",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-10",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-05",
+   "action": "Introduced",
+   "id": "20250AB172599INT"
+  },
+  {
+   "date": "2026-03-19",
+   "action": "Amended Assembly",
+   "id": "20250AB172598AMD"
+  },
+  {
+   "date": "2026-04-16",
+   "action": "Amended Assembly",
+   "id": "20250AB172597AMD"
+  },
+  {
+   "date": "2026-04-27",
+   "action": "Amended Assembly",
+   "id": "20250AB172596AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1725",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1725",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1725",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1725",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1725",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1725",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1725&version=20250AB172596AMD"
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "id": "202520260AB20",
+ "slug": "ab-20",
+ "label": "AB 20",
+ "type": "AB",
+ "number": 20,
+ "session": "20252026",
+ "subject": "Homelessness: People First Housing Act of 2025.",
+ "title": "An act to amend Section 1954.09 of the Civil Code, to amend Section 65660 of the Government Code, to amend Section 50216 of, and to add Chapter 22.5 (commencing with Section 26280) to Division 20 of, the Health and Safety Code, and to amend Sections 5960.31, 8255, and 15771 of, to repeal and add Section 8256 of, and to amend the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to homelessness.",
+ "authors": [
+  {
+   "name": "DeMaio",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "died",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2025-05-21",
+  "text": "From committee: Without further action pursuant to Joint Rule 62(a)."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "funding",
+  "homeless"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1954.09",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65660",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50216",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "26280",
+   "verb": "add"
+  },
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "5960.31",
+   "verb": "amend"
+  },
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "8255",
+   "verb": "amend"
+  },
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "15771",
+   "verb": "amend"
+  },
+  {
+   "code": "WIC",
+   "name": "Welfare and Institutions Code",
+   "section": "8256",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "(1)Existing law prohibits various conduct within certain distances of specified locations including schools and hospitals. Existing federal law, as established in City of Grants Pass, Oregon v. Johnson, authorizes the enforcement of generally applicable laws that regulate camping on public property.",
+  "This bill would prohibit a homeless encampment from operating within 500 feet of a sensitive community area, including, but not limited to, a school, open space, or transit stop. The bill would prohibit a person from camping, as defined, in any public space, including a sidewalk, if a homeless shelter bed is available in the city where the public space is located.",
+  "(2)Existing law defines Housing First as the evidence-based model that uses housing as a tool, rather than a reward, for recovery and that centers on providing or connecting homeless people to permanent housing as quickly as possible and specifies the core components of Housing First. Existing law establishes the California Interagency Council on Homelessness to oversee the implementation of Housing First guidelines and regulations, and, among other things, identify resources, benefits, and services that can be accessed to prevent and end homelessness in California. Existing law requires a state agency or department that funds, implements, or administers a state program that provides housing or housing-related services to people experiencing homelessness or who are at risk of homelessness to revise or adopt guidelines and regulations to include enumerated Housing First policies.",
+  "This bill would delete the requirement that a state agency or department revise or adopt guidelines to include Housing First policies, as described above, and would repeal related provisions requiring adherence to Housing First, as specified. The bill would instead authorize a state program to review the suitability of an applicant based on their housing readiness, as defined, and impose program rules and requirements related to sobriety, substance abuse, completion of treatment, mental health, participation in services, and compliance with program rules. The bill would require an agency or department to allocate state program funding according to a specified priority and would require the agency or department to issue regulations to local agencies to prioritize use of funds for state programs that include drug testing, mandatory treatment, and work requirements for program participants. The bill would require a state program to include a work program that provides paid work opportunities from private or governmental entities or volunteer opportunities serving the community. The bill would also prohibit a motel that accepts homeless assistance from the California Work Opportunity and Responsibility to Kids program for 20% or more of rented rooms during the year from receiving payments unless the motel is approved by the city council of the city in which the motel is located."
+ ],
+ "authorLine": "Introduced by Assembly Member DeMaio",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2024-12-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 2,
+     "noes": 7,
+     "result": "Fail"
+    }
+   ],
+   "state": "failed",
+   "stoppedOn": "2025-05-21",
+   "reason": "Died",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2024-12-03",
+   "text": "From printer. May be heard in committee January 2.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-24",
+   "text": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-25",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "In committee: Set, first hearing. Failed passage.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-21",
+   "text": "From committee: Without further action pursuant to Joint Rule 62(a).",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 2,
+   "noes": 7,
+   "nvr": 3,
+   "result": "Fail",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "action": "Introduced",
+   "id": "20250AB2099INT"
+  },
+  {
+   "date": "2025-03-24",
+   "action": "Amended Assembly",
+   "id": "20250AB2098AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB20",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB20",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB20",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB20",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB20",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB20",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB20&version=20250AB2098AMD"
+ }
+}

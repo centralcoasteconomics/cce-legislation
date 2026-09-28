@@ -1,0 +1,288 @@
+{
+ "id": "202520260AB1055",
+ "slug": "ab-1055",
+ "label": "AB 1055",
+ "type": "AB",
+ "number": 1055,
+ "session": "20252026",
+ "subject": "Accessory dwelling units: proof of residential occupancy requirements.",
+ "title": "An act to amend Section 66315 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Boerner",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "adu"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66315",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.3,
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the creation of an accessory dwelling unit by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. Existing law similarly provides for the creation of junior accessory dwelling units by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in single-family residential zones in accordance with specified standards and conditions. Existing law generally prohibits a local agency from imposing additional standards, as specified, when evaluating a proposed accessory dwelling unit on a lot that includes a proposed or existing single-family dwelling. However, existing law authorizes a local agency to require that the property be used for rentals of terms 30 days or longer.",
+  "This bill would additionally authorize a local agency to require the property owner to certify, as specified, that the accessory dwelling unit will be occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would authorize the local agency to annually recertify, as specified, that the accessory dwelling unit is occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would require the local agency, in enforcing the annual recertification provisions described above, to include at least 2 notices to the owner of the accessory dwelling unit, and would prohibit the local agency from, among other things, charging more than a reasonable fine for failure to comply with the above-described annual certification provisions, as specified."
+ ],
+ "authorLine": "Introduced by Assembly Member Boerner",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Died",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-10",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-10",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-11",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Assembly Rule 56 suspended. (Page 1265.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "(Pending re-refer to Com. on L. GOV.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250AB105599INT"
+  },
+  {
+   "date": "2025-03-10",
+   "action": "Amended Assembly",
+   "id": "20250AB105598AMD"
+  },
+  {
+   "date": "2025-04-10",
+   "action": "Amended Assembly",
+   "id": "20250AB105597AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1055",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1055",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1055",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1055",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1055",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1055",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1055&version=20250AB105597AMD"
+ }
+}

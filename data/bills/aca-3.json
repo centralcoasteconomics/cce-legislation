@@ -1,0 +1,503 @@
+{
+ "id": "202520260ACA3",
+ "slug": "aca-3",
+ "label": "ACA 3",
+ "type": "ACA",
+ "number": 3,
+ "session": "20252026",
+ "subject": "University of California: home down payment loans for support staff.",
+ "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by adding Section 9.1 to Article IX thereof, relating to the University of California.",
+ "authors": [
+  {
+   "name": "Haney",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gipson",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Addis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ahrens",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Alanis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Arambula",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bonta",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Connolly",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Davies",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Garcia",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Mark González",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Jackson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Krell",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "McKinnor",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ortega",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Papan",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Pellerin",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Celeste Rodriguez",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Schultz",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Sharp-Collins",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Solache",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wallis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Wilson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Durazo",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Richardson",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wahab",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2025-05-23",
+  "text": "In committee: Hearing postponed by committee."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": null,
+  "taxLevy": null
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "The California Constitution provides that the University of California constitutes a public trust, and requires the university to be administered by the Regents of the University of California, a corporation in the form of a board, with full powers of organization and government, subject to legislative control only for specified purposes. These provisions grant the regents all the powers necessary or convenient for the effective administration of its trust.",
+  "This measure would require, on or before January 1, 2027, the regents to extend a portion of the homeownership assistance provided to senior executives and University of California faculty in the Academic Senate to eligible support staff, defined as career employees who have worked for the university for at least 5 years, are first-time homebuyers, and are not supervisors, managers, senior executives, or members of the University of California faculty in the Academic Senate, for the purpose of providing down payment loans, as specified. The measure would require, beginning in the 2027–28 fiscal year, the total number of down payment loans the regents provide to eligible support staff to equal the total number of all housing loans made to senior executives and University of California faculty in the Academic Senate during the 2023–24 fiscal year, and for each fiscal year thereafter, the total number of down payment loans for eligible support staff to equal the total number of housing loans made to senior executives and University of California faculty in the Academic Senate in the preceding fiscal year, except as provided. The measure would require 75% of the down payment loans provided to eligible support staff to be made available to staff whose household incomes are at or below the area median income, as defined. The measure would authorize the Legislature to enact laws or delegate to an appropriate body or agency the power to implement these provisions, as provided.",
+  "The measure would provide that its provisions are severable."
+ ],
+ "authorLine": "Introduced by Assembly Member Haney (Principal coauthor: Assembly Member Gipson) (Coauthors: Assembly Members Addis, Ahrens, Alanis, Arambula, Bonta, Bryan, Connolly, Davies, Garcia, Mark González, Jackson, Kalra, Krell, Lee, McKinnor, Ortega, Papan, Pellerin, Celeste Rodriguez, Schultz, Sharp-Collins, Solache, Wallis, and Wilson) ( Coauthors: Senators Durazo, Richardson, and Wahab)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-16",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Higher Education"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Higher Education",
+     "date": "2025-04-29",
+     "ayes": 7,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2025-05-23",
+   "reason": "Did not advance before the session deadline",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "sos",
+   "kind": "sos",
+   "house": "Secretary of State",
+   "done": null,
+   "state": "upcoming",
+   "label": "Secretary of State"
+  },
+  {
+   "key": "ballot",
+   "kind": "ballot",
+   "house": "Voters",
+   "done": null,
+   "state": "upcoming",
+   "label": "On a ballot"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-16",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-01-17",
+   "text": "From printer. May be heard in committee February 16.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-01-17",
+   "text": "Introduced measure version corrected.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-04-07",
+   "text": "Referred to Coms. on H. & C.D. and HIGHER ED.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Assembly Rule 56 suspended. (Page 1265.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "(Pending re-refer to Com. on HIGHER ED.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "From committee: Be adopted, and re-refer to Com. on HIGHER ED. Re-referred. (Ayes 10. Noes 0.) (April 24). Re-referred to Com. on HIGHER ED.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Be adopted, and re-refer to Com. on APPR. Re-referred. (Ayes 7. Noes 3.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX09",
+   "date": "2025-04-29",
+   "ayes": 7,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Higher Education"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Higher Education",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-16",
+   "action": "Introduced",
+   "id": "20250ACA399INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260ACA3",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260ACA3",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260ACA3",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACA3",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACA3",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260ACA3",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA3&version=20250ACA399INT"
+ }
+}

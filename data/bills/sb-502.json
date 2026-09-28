@@ -1,0 +1,353 @@
+{
+ "id": "202520260SB502",
+ "slug": "sb-502",
+ "label": "SB 502",
+ "type": "SB",
+ "number": 502,
+ "session": "20252026",
+ "subject": "Local education agency-owned land: development of affordable housing.",
+ "title": "An act to add Part 13.5 (commencing with Section 53569) to Division 31 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Arreguín",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Cortese",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "Died",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "Returned to Secretary of Senate pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "53569",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Existing law establishes the Department of Housing and Community Development (HCD) in the Business, Consumer Services, and Housing Agency for purposes of carrying out state housing policies and programs. Existing law prescribes requirements for the disposal of surplus land by a local agency, as defined, and requires, except as provided, a local agency disposing of surplus land to comply with certain notice requirements before disposing of the land or participating in negotiations to dispose of the land with a prospective transferee, particularly that the local agency send a notice of availability to housing sponsors, as defined, that have notified HCD of their interest in surplus land, as specified.",
+  "Existing law establishes the Department of General Services (DGS) in the Government Operations Agency for purposes of, among other things, planning, acquiring, constructing, and maintaining state buildings and property. Executive Order No. N-06-19 required DGS to create a digitized inventory of all state-owned parcels that are in excess of foreseeable needs, as provided. Existing law required DGS to develop, in consultation with HCD, no later than September 1, 2023, a set of criteria to consistently evaluate state-owned parcels for suitability as affordable housing sites. Existing law requires DGS to update the digitized inventory of all excess state land suitable for affordable housing after the conclusion of its review based on those criteria. Existing law also requires DGS to annually update the digitized inventory created pursuant to Executive Order No. N-06-19 of all excess state land, as defined, suitable for affordable housing identified by its review.",
+  "This bill would authorize a local education agency to submit a list of any available local education agency-owned land to HCD for purposes of determining the suitability for development of affordable housing. The bill would require HCD, in consultation with DGS, to conduct a review of the local education agency-owned land and determine the suitability of the land for the development of affordable housing, consistent with the above-described criteria. The bill would require any local education agency-owned land determined to be suitable for the development of affordable housing to be made publicly available through the digitized inventory created pursuant to Executive Order No. N-06-19 and the above-described contact list of housing sponsors that have notified HCD of their interest in surplus land. The bill would require that an affordable housing development constructed on local education agency-owned land determined to be suitable for the development of affordable housing to provide school district employees and local tenants with a right of first refusal to occupy the housing, as specified."
+ ],
+ "authorLine": "Introduced by Senator Arreguín (Coauthor: Senator Cortese)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Education"
+   ],
+   "done": "2025-04-23",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-04-22",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-05-12",
+   "held": "2025-05-23",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-12",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-19",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-20",
+   "text": "From printer. May be acted upon on or after March 22.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-26",
+   "text": "Referred to Coms. on HOUSING and ED.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-25",
+   "text": "Set for hearing April 1.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-03-26",
+   "text": "April 1 set for first hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-04",
+   "text": "Set for hearing April 22.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass as amended and re-refer to Com. on ED. (Ayes 9. Noes 1. Page 831.) (April 22).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Read second time and amended. Re-referred to Com. on ED.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-02",
+   "text": "Set for hearing May 12.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-12",
+   "text": "May 12 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-16",
+   "text": "Set for hearing May 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "May 23 hearing: Held in committee and under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2025-04-22",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-12",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-17",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-10",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-19",
+   "action": "Introduced",
+   "id": "20250SB50299INT"
+  },
+  {
+   "date": "2025-04-24",
+   "action": "Amended Senate",
+   "id": "20250SB50298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB502",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB502",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB502",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB502",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB502",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB502",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB502&version=20250SB50298AMD"
+ }
+}

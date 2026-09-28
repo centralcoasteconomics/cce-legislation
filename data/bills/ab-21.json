@@ -1,0 +1,392 @@
+{
+ "id": "202520260AB21",
+ "slug": "ab-21",
+ "label": "AB 21",
+ "type": "AB",
+ "number": 21,
+ "session": "20252026",
+ "subject": "Common interest developments: association management and meeting procedures.",
+ "title": "An act to amend Sections 4360, 4910, 4920, 4935, 4950, 4955, 5100, 5105, 5120, 5145, 5200, 5205, 5230, and 5235 of, and to add Sections 4921 and 4941 to, the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "DeMaio",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "died",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2025-04-28",
+  "text": "From committee: Without further action pursuant to Joint Rule 62(a)."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4360",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4910",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4920",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4935",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4950",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4955",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5100",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5105",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5120",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5145",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5200",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5205",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5230",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5235",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4921",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4941",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest by an association. If a provision of that act requires an association to deliver a document by “individual delivery” or “individual notice,” the act requires the association to deliver that document in accordance with the preferred delivery method specified by the member. Existing law also requires the board of an association to provide general notice of a proposed rule change at least 28 days before making the rule change, in accordance with certain procedures.",
+  "This bill would revise the above-described rule change provision to require the board to provide individual notice pursuant to the above-described provision governing document delivery.",
+  "Existing law prohibits the board of a common interest development from taking action on any item of business outside of a board meeting. Existing law also prohibits the board from conducting a meeting via a series of electronic transmissions, except in specified emergency circumstances.",
+  "This bill would prohibit a majority of the members of the board, outside an authorized meeting, from conducting communications of any kind, directly or through intermediaries, to discuss, deliberate, or take action on any item of business within the board’s subject matter jurisdiction.",
+  "Existing law requires a common interest development’s association to generally give notice of the time and place of a board meeting at least 4 days before the meeting and requires the notice to contain the agenda for the meeting.",
+  "This bill would also require the notice containing the agenda to have instructions on how a member may get a copy of the agenda packet for the open session portion of the meeting and would establish procedures for the board to follow in responding to those requests.",
+  "Existing law authorizes the board to adjourn to, or meet solely in, executive session to consider litigation and other specified matters. Existing law requires any matter discussed in executive session to be generally noted in the minutes of the immediately following meeting that is open to the entire membership.",
+  "This bill would require the board, if the association becomes involved in litigation, to announce the litigation at its subsequent meeting, including stating the name of the court and case number in the meeting minutes. The bill would also require the board, if the association files an insurance claim or has an insurance policy change, to announce the claim or policy change at its subsequent meeting, as specified. The bill would further require discussions regarding ongoing litigation to have the case name included as part of the executive session meeting minute notes.",
+  "This bill would require open session meetings of the board to be electronically recorded using audio, or audio and video, and would consider the recordings to be a record of the association and to be available to members on the same basis as written meeting minutes. The bill would require notice to be given at the beginning of every open session of the board that the meeting is being recorded.",
+  "Existing law requires the minutes, minutes proposed for adoption that are marked to indicate draft status, or a summary of the minutes of a board meeting, other than an executive session, to be available to members within 30 days of the meeting and distributed to a member upon request and upon reimbursement of the association’s cost for making that distribution.",
+  "This bill would require that there is no charge for minutes distributed electronically. The bill would require the minutes, or proposed minutes, to include specified information, including the date and time of the meeting and whether a quorum of directors was established.",
+  "Existing law authorizes a member to bring a civil action for declaratory or equitable relief for a violation by the association of specified provisions governing board meetings within one year of the date the cause of action accrues. Existing law entitles a member who prevails in a civil action under these provisions to reasonable attorney’s fees and court costs.",
+  "This bill would require a court to void any action taken by the board at a meeting shown to be conducted in violation of the above-described provisions. The bill would authorize a cause of action under those provisions to be brought in either superior court or small claims court. The bill would also require a member who prevails in a civil action brought in small claims court to be awarded court costs and reasonable attorney’s fees incurred.",
+  "Under the act, the operating rules are a part of the governing documents of a common interest development. The act requires an amendment to the governing documents of the development, among other actions, to be held by secret ballot in accordance with specified procedures.",
+  "This bill would exclude an amendment to the operating rules from the requirement that the amendment be held by secret ballot. The bill would also prohibit a member from being denied a ballot for any reason other than not being a member at the time when the ballots are distributed. The bill would update definitions and would make various other related and conforming changes to the act."
+ ],
+ "authorLine": "Introduced by Assembly Member DeMaio",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2024-12-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Fail"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Fail"
+    }
+   ],
+   "state": "failed",
+   "stoppedOn": "2025-04-28",
+   "reason": "Died",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2024-12-03",
+   "text": "From printer. May be heard in committee January 2.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-24",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-24",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-25",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "In committee: Set, first hearing. Failed passage.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "In committee: Reconsideration refused.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "From committee: Without further action pursuant to Joint Rule 62(a).",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 5,
+   "result": "Fail",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 5,
+   "result": "Fail",
+   "where": "Assembly Housing and Community Development"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "action": "Introduced",
+   "id": "20250AB2199INT"
+  },
+  {
+   "date": "2025-03-24",
+   "action": "Amended Assembly",
+   "id": "20250AB2198AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB21",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB21",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB21",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB21",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB21",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB21",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB21&version=20250AB2198AMD"
+ }
+}

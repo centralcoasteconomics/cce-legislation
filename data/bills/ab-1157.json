@@ -1,0 +1,441 @@
+{
+ "id": "202520260AB1157",
+ "slug": "ab-1157",
+ "label": "AB 1157",
+ "type": "AB",
+ "number": 1157,
+ "session": "20252026",
+ "subject": "Tenancy: just cause termination: rent increases.",
+ "title": "An act to amend Sections 1946.2, 1947.12, and 1947.13 of the Civil Code, relating to tenancy.",
+ "authors": [
+  {
+   "name": "Kalra",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bonta",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Elhawary",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Garcia",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Jackson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "McKinnor",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ortega",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ward",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Smallwood-Cuevas",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1946.2",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1947.12",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1947.13",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "(1)Existing law prohibits the owner of a residential real property from terminating a tenancy without just cause, as defined, after a tenant has continuously and lawfully occupied a residential real property for 12 months. Among other residential real properties or residential circumstances, existing law exempts from these provisions a residential real property, including a mobilehome, that is alienable separate from the title to any other dwelling unit if the owner meets specified criteria and the tenants have been provided a specified written notice of the exemption. Existing law repeals these provisions on January 1, 2030.",
+  "This bill would revise these provisions by removing the exemption for separately alienable residential real property and, instead, only exempting a mobilehome if the above-described criteria are met. The bill would delete the January 1, 2030, repeal date, thereby extending these provisions indefinitely.",
+  "(2)Existing law prohibits an owner of residential real property, except as specified, from increasing over the course of any 12-month period the gross rental rate for a dwelling or a unit more than 5% plus the percentage change in the cost of living, or 10%, whichever is lower, of the lowest gross rental rate charged for that dwelling or unit at any time during the 12 months prior to the effective date of the increase, as specified.",
+  "This bill would reduce the permissible gross rental rate increase under these provisions to the lesser of 2% plus the percentage change in the cost of living, or 5%.",
+  "Among other residential real properties, existing law exempts from these provisions a residential real property that is alienable separate from the title to any other dwelling unit, including a mobilehome, if the owner meets specified criteria and the tenants have been provided a specified written notice of the exemption.",
+  "This bill would revise these provisions by removing the exemption for separately alienable residential real property and, instead, only exempting a mobilehome if the above-described criteria are met.",
+  "Existing law repeals these provisions on January 1, 2030.",
+  "This bill would delete the January 1, 2030, repeal date, thereby extending these provisions indefinitely.",
+  "(3)Notwithstanding the above-described gross rental rate increase prohibition, existing law, upon the expiration of rental restrictions, as defined, authorizes the owner of affordable housing units that meet certain requirements to establish the initial rental rate for the unit, and also authorizes the owner of an assisted housing development who demonstrates compliance with certain requirements under penalty of perjury to establish the initial unassisted rental rate for units in the assisted housing development. Existing law repeals these provisions on January 1, 2030.",
+  "This bill would remove the January 1, 2030, repeal date, thereby extending the initial rental rate authorizations indefinitely. By extending provisions that require the owner of an assisted housing development to demonstrate compliance with specified requirements under penalty of perjury, the bill would impose a state-mandated program.",
+  "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Kalra (Coauthors: Assembly Members Bonta, Bryan, Elhawary, Garcia, Haney, Jackson, Lee, McKinnor, Ortega, and Ward) (Coauthor: Senator Smallwood-Cuevas)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Judiciary",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-04-24",
+   "votes": [
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2026-01-13",
+     "ayes": 4,
+     "noes": 3,
+     "result": "Fail"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 7,
+     "noes": 5,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Died",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be heard in committee March 23.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-10",
+   "text": "Referred to Coms. on JUD. and A.,E.,S., & T.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-27",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Re-referred to Coms. on H. & C.D. and JUD. pursuant to Assembly Rule 96.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 5.) (April 24). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Measure version as amended on March 27 corrected.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-29",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-13",
+   "text": "In committee: Set, second hearing. Failed passage.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 7,
+   "noes": 5,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2026-01-13",
+   "ayes": 4,
+   "noes": 3,
+   "nvr": 5,
+   "result": "Fail",
+   "where": "Assembly Judiciary"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-26",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-01-09",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250AB115799INT"
+  },
+  {
+   "date": "2025-03-27",
+   "action": "Amended Assembly",
+   "id": "20250AB115798AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1157",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1157",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1157",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1157",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1157",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1157",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1157&version=20250AB115798AMD"
+ }
+}

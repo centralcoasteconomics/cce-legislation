@@ -1,0 +1,522 @@
+{
+ "id": "202520260AB906",
+ "slug": "ab-906",
+ "label": "AB 906",
+ "type": "AB",
+ "number": 906,
+ "session": "20252026",
+ "subject": "Planning and zoning: housing elements: affirmatively furthering fair housing.",
+ "title": "An act to amend Sections 65583, 65583.1, and 65583.2 of, and to add Section 65583.01 to, the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Mark González",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-08-13",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.1",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.2",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65583.01",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "(1)The Planning and Zoning Law requires a city or county to adopt a general plan for land use development that includes, among other things, a housing element. Existing law requires the housing element to include, among other things, an inventory of land suitable and available for residential development, including specified sites, an analysis of the relationship of zoning and public facilities and services to these sites (first analysis), and an analysis of the relationship of the sites identified in the land inventory to the jurisdiction’s duty to affirmatively further fair housing (2nd analysis).",
+  "This bill would remove the requirement on cities and counties to include the 2nd analysis in their housing elements.",
+  "(2)Existing law requires a housing element to include a program that sets forth a schedule of actions during the planning period, each with a timeline for implementation such that there will be beneficial impacts of the programs within the planning period, that the local government is undertaking or intends to undertake to implement the policies and achieve the goals and objectives of the housing element through specified actions. Existing law requires this program to, among other things, identify actions that will be taken to make sites available, as provided, to accommodate that portion of the city’s or county’s share of the regional housing need for all income levels that could not be accommodated on sites identified in the inventory of sites without rezoning, and to comply with the certain zoning and rezoning requirements. If the inventory of sites does not identify adequate sites to accommodate the need for groups of all household income levels, as provided, existing law requires that the local government rezone those sites within specified time periods and requires the local government housing element program to identify sites that can be developed for housing within the planning period, as specified. Existing law also requires this program to affirmatively further fair housing and include an assessment that consists of specified components, including an analysis of available federal, state, and local data and knowledge to identify integration and segregation patterns and trends, racially or ethnically concentrated areas of poverty and affluence, disparities in access to opportunity, and disproportionate housing needs, including displacement risk. Under the above-described program, existing law requires the Department of Housing and Community Development to develop a standardized reporting format for certain programs and actions taken, and requires the standardized reporting format to enable the reporting of all of the assessment components and certain fields, including timelines for implementation.",
+  "This bill would additionally require the above-described program to identify actions that will be taken to make sites available to ensure that the distribution of sites across the jurisdiction affirmatively furthers fair housing. The bill would require those sites, after any required rezoning and among other things, to be distributed throughout the jurisdiction in a manner that affirmatively furthers fair housing, as specified. The bill would additionally require the local government to rezone the sites within specified time periods, as described above, and identify sites that can be developed for housing within the planning period, as described above, if the inventory of sites does not affirmatively further fair housing, as specified. For those additionally identified sites, the bill would require the jurisdiction to demonstrate that those sites will affirmatively further fair housing, as provided. By imposing additional duties on local entities, this bill would impose a state-mandated local program.",
+  "This bill would revise and recast the requirement that the program affirmatively further fair housing. The bill would require that program to include an assessment of fair housing that includes, among other things, an analysis of available federal, state, and local data and knowledge to identify and examine certain patterns, trends, areas, disparities, and needs, as specified. The bill would also require each city or county to make the draft assessment publicly available and solicit public comments for a period of at least 90 days. The bill would require the city or county to include, among other things, in its first draft revision of the housing element, the assessment, including any revisions made in response to the public comments, and specified strategies and actions to implement the jurisdiction’s fair housing priorities and goals. By imposing additional duties on local entities, this bill would impose a state-mandated local program.",
+  "This bill would instead require the department to develop a standardized format for describing those strategies and actions to be taken, and would require the standardized reporting format to address all of the assessment components and, in addition to the above-described certain fields, a field for which fair housing priority the program is intended to address, the intended impacts, and how the strategies and actions will result in those impacts.",
+  "(3)Existing law authorizes the Department of Housing and Community Development, in evaluating a proposed or adopted housing element for substantial compliance, to allow a city or county to identify adequate sites by a variety of methods, including, among others, redesignation of property to a more intense land use category. Existing law also authorizes the department to allow a city or county to identify sites for accessory dwelling units based on the number of accessory dwelling units developed in the prior housing element planning period whether or not the units are permitted by right, the need for these units in the community, the resources or incentives available for their development, and any other relevant factors, as determined by the department.",
+  "This bill would revise the department’s authorization to allow a city or county to identify sites for accessory dwelling units in each income category based on the number of accessory dwelling units developed in the prior housing element planning period in that income category whether or not the units are permitted by right, the need for these units in the community, the resources or incentives available for their development, and any other relevant factors, as determined by the department. The bill would also require the jurisdiction to provide proof of a recorded deed restriction requiring the continued affordability of the unit, as specified, for accessory dwelling units developed in the prior housing element period to count towards determining the number of sites for accessory dwelling units a jurisdiction can include in the lower income category.",
+  "(4)Existing law requires a city’s or county’s inventory of land suitable for residential development to be used to identify sites throughout the community, consistent with certain fair housing requirements, that can be developed for housing within the planning period, and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels.",
+  "This bill would instead require that a city’s or county’s inventory of land suitable for residential development be used to identify sites that can be developed for housing within the planning period, that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels, and that are distributed throughout the community in compliance with the requirement that the distribution affirmatively furthers fair housing, as specified. By imposing additional duties on local entities, this bill would impose a state-mandated local program.",
+  "(5)Existing law requires a city or county to determine whether each site in its inventory of suitable land, as described above, can accommodate the development of some portion of its share of the regional housing need by income level during the planning period. Existing law also requires the inventory to, among other things, specify for each site the number of units that can realistically be accommodated on that site.",
+  "This bill would additionally require those sites identified as described above to be distributed throughout the jurisdiction in a manner that affirmatively furthers fair housing by allowing for a reduction in residential segregation, based on a specified determination procedure. By imposing additional duties on local entities, this bill would impose a state-mandated local program.",
+  "This bill would require the department, by no later than April 1, 2027, to develop and publish an online tool to serve as the method for determining whether each city’s or county’s identification of sites adequate to accommodate its share of the regional housing need at all income levels meets the distribution requirement described above. The bill would authorize the department to grant an adjustment to the distribution requirement described above if underlying data for the jurisdiction renders the tool unreliable. The bill would require the department to include in its materials explaining the online tool a procedure for applying for an adjustment and the factors that the department will consider in determining whether or not to grant an adjustment.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member Mark González",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2025-05-01",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-30",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2025-04-30",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-21",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-10",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-03",
+   "vote": {
+    "ayes": 56,
+    "noes": 13
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2025-07-02",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-07-01",
+     "ayes": 9,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-08-10",
+   "held": "2026-08-13",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-10",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2026-08-13",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-10",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-16",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-22",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Assembly Rule 56 suspended. (Page 1265.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "(Pending re-refer to Com. on L. GOV.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 9. Noes 1.) (April 30). Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-21",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Joint Rule 62(a), file notice suspended. (Page 1627.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 11. Noes 2.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 13. Page 1984.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-04",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-23",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 2.) (July 1). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-14",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "In committee: Held under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-30",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2025-04-30",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-03",
+   "ayes": 56,
+   "noes": 13,
+   "nvr": 10,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-07-01",
+   "ayes": 9,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-10",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-29",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-19",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-26",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-10",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-19",
+   "action": "Introduced",
+   "id": "20250AB90699INT"
+  },
+  {
+   "date": "2025-04-21",
+   "action": "Amended Assembly",
+   "id": "20250AB90698AMD"
+  },
+  {
+   "date": "2025-06-23",
+   "action": "Amended Senate",
+   "id": "20250AB90697AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB906",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB906",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB906",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB906",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB906",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB906",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB906&version=20250AB90697AMD"
+ }
+}

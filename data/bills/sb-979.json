@@ -1,0 +1,230 @@
+{
+ "id": "202520260SB979",
+ "slug": "sb-979",
+ "label": "SB 979",
+ "type": "SB",
+ "number": 979,
+ "session": "20252026",
+ "subject": "Planning and zoning: housing element: regional housing needs allocation: judicial review.",
+ "title": "An act to amend Section 65584.05 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Strickland",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2026-04-06",
+  "text": "April 7 set for first hearing canceled at the request of author."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "element"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65584.05",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.3,
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. Existing law requires the department, in consultation with the council of governments, to determine the existing and projected need of housing for each region, as provided. Existing law requires the council of governments or delegate subregion, as applicable, to adopt a final regional housing needs plan that allocates a share of the regional housing need to each city, county, or city and county.",
+  "Existing law requires each council of governments and delegate subregion to distribute a draft allocation of regional housing needs to each local government in the region or subregion. Existing law authorizes a local government within the region or the delegate subregion or the department to appeal to the council of governments or the delegate subregion for a revision of the share of the regional housing need proposed to be allocated to one or more local governments, as specified. Existing law requires the council of governments or the delegate subregion to make a final determination that either accepts, rejects, or modifies each appeal, as provided.",
+  "This bill would provide that the final determination by the council of governments or the delegate subregion is subject to judicial review, as specified."
+ ],
+ "authorLine": "Introduced by Senator Strickland",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-04",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-04-06",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-04",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-05",
+   "text": "From printer. May be acted upon on or after March 7.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-11",
+   "text": "Referred to Coms. on HOUSING, JUD., and APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-17",
+   "text": "Set for hearing April 7.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-06",
+   "text": "April 7 set for first hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [],
+ "analyses": [
+  {
+   "date": "2026-04-02",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-04",
+   "action": "Introduced",
+   "id": "20250SB97999INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB979",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB979",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB979",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB979",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB979",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB979",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB979&version=20250SB97999INT"
+ }
+}

@@ -1,0 +1,577 @@
+{
+ "id": "202520260AB1237",
+ "slug": "ab-1237",
+ "label": "AB 1237",
+ "type": "AB",
+ "number": 1237,
+ "session": "20252026",
+ "subject": "Swimming pool safety: building codes: condominium units.",
+ "title": "An act to amend Sections 18942, 115921, 115922, 115925, 116025, 116049.1, and 116064.2 of the Health and Safety Code, relating to public safety.",
+ "authors": [
+  {
+   "name": "McKinnor",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_x",
+ "currentLabel": "Appropriations",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-08-13",
+  "text": "In committee: Held under submission."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "18942",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "115921",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "115922",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "115925",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "116025",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "116049.1",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "116064.2",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "(1)Existing law, the California Building Standards Law, requires the California Building Standards Commission to publish the California Building Standards Code, which contains, among others, the California Building Code and the California Residential Code, as provided. Existing law requires the commission to publish the text of the Swimming Pool Safety Act in the California Residential Code.",
+  "This bill would require, on or before March 1, 2027, the commission to also publish the text of the Swimming Pool Safety Act in the California Building Code, as specified.",
+  "(2)Under the Swimming Pool Safety Act, upon the issuance of a building permit for the construction of a new swimming pool or spa, or the remodeling of an existing pool or spa, at a private, single-family home, the pool or spa is required to be equipped with at least 2 of 7 specified drowning prevention safety features, as provided. The act does not apply to a public swimming pool.",
+  "This bill would, for purposes of the act, require a swimming pool or spa on or within a private balcony, patio, or terrace of, a condominium unit to meet the same requirements as a pool or spa at a private, single-family home. To the extent the bill would increase the number of building permits issued by local jurisdictions, the bill would impose a state-mandated local program.",
+  "(3)Existing law governs the construction, operation, and maintenance of a public swimming pool, as defined. Existing law, the Yasmin Paleso’o Memorial Swimming Pool Safety Law, requires an underwater lighting system in a public swimming pool, as defined, to be installed so that there is no shock hazard, as provided. Existing law governs the circulation system of a public swimming pool, as defined, including, but not limited to, requiring antientrapment devices, safety vacuum release systems, or automatic pump shutoff systems, as provided.",
+  "This bill would exclude a swimming pool or spa on or within a private balcony, patio, or terrace of, a condominium unit from these requirements on a public swimming pool. This bill would, on or before March 1, 2027, require the State Department of Public Health to adopt regulations, as necessary, to implement these changes, as specified. The bill would prohibit a swimming pool or spa on or within a private balcony, patio, or terrace of, a condominium unit, or at a private single-family home, from being subject to a requirement applicable to a “public swimming pool,” “public pool,” “public pool site,” or “spa,” as those terms are used in certain statutes and regulations relating to public swimming pools and the California Building Code.",
+  "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "authorLine": "Introduced by Assembly Member McKinnor",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Transportation",
+    "Assembly Arts, Entertainment, Sports, and Tourism"
+   ],
+   "done": "2025-04-22",
+   "votes": [
+    {
+     "committee": "Assembly Transportation",
+     "date": "2025-04-07",
+     "ayes": 12,
+     "noes": 3,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Arts, Entertainment, Sports, and Tourism",
+     "date": "2025-04-22",
+     "ayes": 6,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-19",
+   "vote": {
+    "ayes": 57,
+    "noes": 16
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Transportation",
+    "Senate Business, Professions and Economic Development",
+    "Senate Housing",
+    "Senate Health"
+   ],
+   "done": "2026-07-02",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-24",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Health",
+     "date": "2026-07-01",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": "2026-08-03",
+   "held": "2026-08-13",
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-03",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "stalled",
+   "stoppedOn": "2026-08-13",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-22",
+   "text": "From printer. May be heard in committee March 24.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-13",
+   "text": "Referred to Coms. on TRANS. and A.,E.,S., & T.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-01",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-02",
+   "text": "Re-referred to Com. on TRANS.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-08",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-08",
+   "text": "From committee: Do pass and re-refer to Com. on A.,E.,S., & T. (Ayes 12. Noes 3.) (April 7). Re-referred to Com. on A.,E.,S., & T.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-22",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 6. Noes 1.) (April 22).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-04-24",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Measure version as amended on April 23 corrected.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-19",
+   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 57. Noes 16. Page 1588.).",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-20",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-28",
+   "text": "Referred to Coms. on TRANS. and B. P. & E.D.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-05-29",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on TRANS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Re-referred to Coms. on B. P. & E.D. and TRANS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-11",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. P. & E.D.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-12",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-06-12",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "Re-referred to Coms. on HOUSING and HEALTH.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-25",
+   "text": "From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on HEALTH.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (July 1).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-03",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "In committee: Held under submission.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "held"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX22",
+   "date": "2025-04-07",
+   "ayes": 12,
+   "noes": 3,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Transportation"
+  },
+  {
+   "location_code": "CX37",
+   "date": "2025-04-22",
+   "ayes": 6,
+   "noes": 1,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Arts, Entertainment, Sports, and Tourism"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-19",
+   "ayes": 57,
+   "noes": 16,
+   "nvr": 6,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-24",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS60",
+   "date": "2026-07-01",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Health"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-03",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-04",
+   "committee": "Assembly Transportation",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-18",
+   "committee": "Assembly Arts, Entertainment, Sports, and Tourism",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-29",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-18",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-30",
+   "committee": "Senate Health",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-07-31",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250AB123799INT"
+  },
+  {
+   "date": "2025-04-01",
+   "action": "Amended Assembly",
+   "id": "20250AB123798AMD"
+  },
+  {
+   "date": "2025-04-23",
+   "action": "Amended Assembly",
+   "id": "20250AB123797AMD"
+  },
+  {
+   "date": "2025-05-29",
+   "action": "Amended Senate",
+   "id": "20250AB123796AMD"
+  },
+  {
+   "date": "2026-06-11",
+   "action": "Amended Senate",
+   "id": "20250AB123795AMD"
+  },
+  {
+   "date": "2026-07-02",
+   "action": "Amended Senate",
+   "id": "20250AB123794AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1237",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1237",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1237",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1237",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1237",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1237",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1237&version=20250AB123794AMD"
+ }
+}

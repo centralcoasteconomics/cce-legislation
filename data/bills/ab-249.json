@@ -1,0 +1,336 @@
+{
+ "id": "202520260AB249",
+ "slug": "ab-249",
+ "label": "AB 249",
+ "type": "AB",
+ "number": 249,
+ "session": "20252026",
+ "subject": "Housing: Homeless Housing, Assistance, and Prevention program: youth-specific processes and coordinated entry systems.",
+ "title": "An act to add Section 50245 to the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Ramos",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Caloza",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "died",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "Died",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-02-02",
+  "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50245",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Existing law requires the Governor to create the Homeless Coordinating and Financing Council, renamed the California Interagency Council on Homelessness, to, among other things, identify mainstream resources, benefits, and services that can be accessed to prevent and end homelessness in California and to serve as a statewide facilitator, coordinator, and policy development resource on ending homelessness in California. Existing law establishes the Homeless Housing, Assistance, and Prevention program, administered by the Interagency Council on Homelessness, with respect to rounds 1 through 5, inclusive, of the program, and Department of Housing and Community Development (department), with respect to round 6 of the program, for the purpose of providing jurisdictions, as defined, with one-time grant funds to support regional coordination and expand or develop local capacity to address their immediate homelessness challenges, as specified. Existing law requires the department, upon appropriation, to distribute certain amounts, as specified, for purposes of round 6 of the program. Existing law requires an applicant to submit an application containing specified information in order to apply for a program allocation. Existing law requires an applicant to use at least 10% of specified funds allocated for services for homeless youth populations.",
+  "This bill would require a continuum of care, upon appropriation and beginning with the 2026–27 fiscal year, to annually certify that they create or maintain a youth-specific process with their respective coordinated entry system, as specified, implement a youth-specific assessment tool, create a body or identify an existing body composed of youth with lived experience of homelessness that the continuum of care and other Homeless Housing, Assistance, and Prevention program grantees must consult with regularly, and identify an array of youth-specific housing inventory. The bill would require the continuum of care to document in their application how the housing assessment is youth-specific and their prioritization policy if the continuum of care states they already maintain a youth-specific coordinated entry system.",
+  "The bill would also make findings and declarations related to youth-specific programs and the Homeless Housing, Assistance, and Prevention program."
+ ],
+ "authorLine": "Introduced by Assembly Member Ramos (Coauthors: Assembly Members Caloza and Haney)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-15",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Human Services"
+   ],
+   "done": "2025-04-09",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-03-26",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Human Services",
+     "date": "2025-04-08",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": "2025-04-23",
+   "held": "2025-05-23",
+   "votes": [],
+   "state": "failed",
+   "stoppedOn": "2026-02-02",
+   "reason": "Held on the Appropriations suspense file",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-15",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-01-16",
+   "text": "From printer. May be heard in committee February 15.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-10",
+   "text": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on HUM. S. (Ayes 11. Noes 0.) (March 26).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-03-27",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Re-referred to Com. on HUM. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-09",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 8). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "In committee: Set, first hearing. Referred to suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "In committee: Held under submission.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "held"
+  },
+  {
+   "date": "2026-01-31",
+   "text": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "died"
+  },
+  {
+   "date": "2026-02-02",
+   "text": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "died"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-03-26",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX11",
+   "date": "2025-04-08",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Human Services"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-24",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-04",
+   "committee": "Assembly Human Services",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-21",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-15",
+   "action": "Introduced",
+   "id": "20250AB24999INT"
+  },
+  {
+   "date": "2025-03-27",
+   "action": "Amended Assembly",
+   "id": "20250AB24998AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB249",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB249",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB249",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB249",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB249",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB249",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB249&version=20250AB24998AMD"
+ }
+}

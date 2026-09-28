@@ -1,0 +1,283 @@
+{
+ "id": "202520260AB2252",
+ "slug": "ab-2252",
+ "label": "AB 2252",
+ "type": "AB",
+ "number": 2252,
+ "session": "20252026",
+ "subject": "Building standards: residential buildings.",
+ "title": "An act to amend Sections 17958, 17958.5, 17958.7, and 18941.5 of, and to add Section 17921.14 to, the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Lee",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wicks",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wiener",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_o",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-04-22",
+  "text": "In committee: Hearing for testimony only."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "building"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17958",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17958.5",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17958.7",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "18941.5",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "17921.14",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.1,
+ "digest": [
+  "Existing law establishes the Department of Housing and Community Development in the Business, Consumer Services, and Housing Agency. Existing law, the Governor’s Reorganization Plan No. 1 of 2025 (GRP), which became effective on July 5, 2025, transfers the Department of Housing and Community Development to the California Housing and Homelessness Agency, which the GRP also establishes, as of July 1, 2026. Existing law, the California Building Standards Law, establishes the California Building Standards Commission (commission) within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code (code). Existing law, the State Housing Law, establishes statewide construction and occupancy standards for buildings used for human habitation.",
+  "This bill would require the department to research, develop, and propose building standards for single-exit, single stairway multiunit residential buildings of up to 6 stories in height for inclusion in the next triennial edition of the code. In developing these standards, the bill would require the department to consult with the State Fire Marshal.",
+  "Existing law, from October 1, 2025, to June 1, 2031, inclusive, prohibits a city or county from making changes that are applicable to residential units to building standards that are published in the code, including to green building standards, unless a certain condition is met, including that the commission deems those changes or modifications necessary as emergency standards to protect health and safety.",
+  "Existing law, from October 1, 2025, to June 1, 2031, inclusive, requires the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county unless a certain condition is met, including that the commission deems those changes or modifications necessary as emergency standards to protect health and safety.",
+  "Existing law provides that neither the State Building Standards Law, nor the application of certain building standards, limits the authority of a city, county, or city and county to establish more restrictive building standards, including, but not limited to, green building standards, reasonably necessary because of local climatic, geological, or topographical conditions, and pursuant to making certain findings. Existing law, notwithstanding those provisions, from October 1, 2025, to June 1, 2031, inclusive, prohibits a city or county from establishing more restrictive building standards that are applicable to residential units, unless a certain condition is met, including that the commission deems those changes or modifications necessary as emergency standards to protect health and safety.",
+  "This bill would add a condition to each of the above-described provisions for changes or modifications that allow for single-exit, single stairway multiunit residential buildings of up to 6 stories in height."
+ ],
+ "authorLine": "Introduced by Assembly Members Lee and Wicks (Principal coauthor: Senator Wiener)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-04-22",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-16",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-16",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-17",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-22",
+   "text": "In committee: Hearing for testimony only.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [],
+ "analyses": [
+  {
+   "date": "2026-04-20",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250AB225299INT"
+  },
+  {
+   "date": "2026-03-16",
+   "action": "Amended Assembly",
+   "id": "20250AB225298AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2252",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2252",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2252",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2252",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2252",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2252",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2252&version=20250AB225298AMD"
+ }
+}

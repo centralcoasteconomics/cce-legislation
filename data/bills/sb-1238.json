@@ -1,0 +1,689 @@
+{
+ "id": "202520260SB1238",
+ "slug": "sb-1238",
+ "label": "SB 1238",
+ "type": "SB",
+ "number": 1238,
+ "session": "20252026",
+ "subject": "Common interest developments: management.",
+ "title": "An act to amend Sections 11500 and 11501 of the Business and Professions Code, and to amend Sections 4525, 5200, 5510, 5550, 5551, 5560, and 5565 of, and to add Section 5390 to, the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "Wahab",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Senate",
+ "statusRaw": "In Floor Process",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-20",
+  "text": "In Senate. Consideration of Governor's veto pending."
+ },
+ "chapter": null,
+ "presented": "2026-08-31",
+ "approved": null,
+ "vetoed": "2026-09-20",
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "BPC",
+   "name": "Business and Professions Code",
+   "section": "11500",
+   "verb": "amend"
+  },
+  {
+   "code": "BPC",
+   "name": "Business and Professions Code",
+   "section": "11501",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4525",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5200",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5510",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5550",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5551",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5560",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5565",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5390",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "(1)Existing law, the Davis-Stirling Common Interest Development Act (act), provides for the creation and regulation of common interest developments.",
+  "Existing law defines “management services” for purposes of a common interest development to mean specified acts performed or offered to be performed in an advisory capacity for an association, including implementing provisions of governing documents for the operation of the common interest development.",
+  "This bill would revise the above definition to specify that it means acts performed or offered to be performed by an agent, including a managing agent and its employees, in an advisory capacity for an association, as prescribed.",
+  "Existing law imposes certain fiduciary duties on managers and agents of common interest developments.",
+  "This bill would provide that a managing agent, including its employees, that facilitates specified activities, including reviewing association operating accounts, owes a duty of care that is prudent and provides the highest good faith effort to the association and its members.",
+  "(2)Existing law requires a common interest development to be managed by an association and requires the association to distribute to its members an annual budget that includes, among other things, a summary of the association’s property, general liability, earthquake, flood, and fidelity insurance policies, a review of the financial statement of the association, and an annual policy statement, as provided. Existing law requires the owner of a separate interest in a common interest development to provide specified documents to a prospective purchaser as soon as practicable before the transfer of title or execution of a real property sales contract, including a copy of the most recent distributed annual budget, review of the financial statement, and annual policy statement and a report issued pursuant to the most recent inspection conducted.",
+  "This bill would require the association, upon request, to provide the owner of a separate interest, or their agent, with those documents as soon as practicable. The bill would require the owner to provide additional information, including, among other things, if separately requested by the purchaser, the location on the first page of the report where certain facts about the exterior elevated elements and the number of units impacted may be found. The bill would make various other related and conforming changes to those provisions.",
+  "This bill would incorporate additional changes to Section 5200 of the Civil Code proposed by AB 739 to be operative only if this bill and AB 739 are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 5550 of the Civil Code proposed by AB 2050 to be operative only if this bill and AB 2050 are enacted and this bill is enacted last."
+ ],
+ "authorLine": "Introduced by Senator Wahab",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2026-04-22",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-04-15",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2026-04-21",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-11",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-11",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-19",
+   "vote": {
+    "ayes": 36,
+    "noes": 2
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2026-06-30",
+     "ayes": 9,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-26",
+   "vote": {
+    "ayes": 76,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-27",
+   "applies": true,
+   "vote": {
+    "ayes": 39,
+    "noes": 0
+   },
+   "pending": "2026-08-26",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-31",
+   "done": null,
+   "vetoed": "2026-09-20",
+   "state": "failed",
+   "stoppedOn": "2026-09-20",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be acted upon on or after March 22.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-03-04",
+   "text": "Referred to Coms. on HOUSING, JUD., and APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-17",
+   "text": "Set for hearing April 7.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-03-31",
+   "text": "April 7 hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-02",
+   "text": "Set for hearing April 15.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-16",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 9. Noes 0. Page 3902.) (April 15). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-16",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 21.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-22",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0. Page 3979.) (April 21).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Set for hearing May 11.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-11",
+   "text": "From committee: Do pass. (Ayes 5. Noes 1. Page 4188.) (May 11).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-12",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-19",
+   "text": "Read third time. Passed. (Ayes 36. Noes 2. Page 4340.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-20",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-26",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 9. Noes 0.) (June 24). Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Do pass as amended. (Ayes 9. Noes 3.) (June 30).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-03",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Read third time. Passed. (Ayes 76. Noes 0. Page 6552.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-26",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-31",
+   "text": "Enrolled and presented to the Governor at 6 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2026-09-20",
+   "text": "Vetoed by the Governor.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2026-09-20",
+   "text": "In Senate. Consideration of Governor's veto pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-04-15",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2026-04-21",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-05-11",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-19",
+   "ayes": 36,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2026-06-30",
+   "ayes": 9,
+   "noes": 3,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-26",
+   "ayes": 76,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-27",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-09",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-19",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-08",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-13",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-05",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-21",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-26",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250SB123899INT"
+  },
+  {
+   "date": "2026-04-16",
+   "action": "Amended Senate",
+   "id": "20250SB123898AMD"
+  },
+  {
+   "date": "2026-04-23",
+   "action": "Amended Senate",
+   "id": "20250SB123897AMD"
+  },
+  {
+   "date": "2026-07-02",
+   "action": "Amended Assembly",
+   "id": "20250SB123896AMD"
+  },
+  {
+   "date": "2026-08-19",
+   "action": "Amended Assembly",
+   "id": "20250SB123895AMD"
+  },
+  {
+   "date": "2026-08-21",
+   "action": "Amended Assembly",
+   "id": "20250SB123894AMD"
+  },
+  {
+   "date": "2026-08-30",
+   "action": "Enrolled",
+   "id": "20250SB123893ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Senate:",
+  "I am returning Senate Bill 1238 without my signature.",
+  "This bill would make several changes to the Davis-Stirling Common Interest Development Act, which governs homeowners associations (HOAs), including establishing a duty of care owed by an HOA's managing agent to both the association and its individual members.",
+  "A managing agent acts on behalf of the association, while the association owes duties to its members. Establishing a duty owed to both the association and its individual members could create conflicting obligations when a member's interests diverge from those of the community as a whole. The resulting uncertainty could invite litigation, the costs of which homeowners would ultimately bear.",
+  "This provision also leaves unclear how the new statutory duty of care would interact with a managing agent's existing obligations to the association under common law.",
+  "Several of the bill's remaining provisions overlap with existing requirements governing reserve planning and homeowners' access to association records, limiting their added benefit.",
+  "California should improve transparency and accountability in homeowners associations without creating legal uncertainty that could invite litigation and increase costs for homeowners.",
+  "For these reasons, I cannot sign this bill.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1238",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1238",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1238",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1238",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1238",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1238",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1238&version=20250SB123893ENR"
+ }
+}

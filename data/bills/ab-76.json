@@ -1,0 +1,516 @@
+{
+ "id": "202520260AB76",
+ "slug": "ab-76",
+ "label": "AB 76",
+ "type": "AB",
+ "number": 76,
+ "session": "20252026",
+ "subject": "Surplus land: exempt surplus land: sectional planning area.",
+ "title": "An act to amend Section 54221 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Alvarez",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "Consideration of Governor's veto stricken from file."
+ },
+ "chapter": null,
+ "presented": "2025-09-22",
+ "approved": null,
+ "vetoed": "2025-10-13",
+ "governorDeadline": null,
+ "areas": [
+  "surplus"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "54221",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law prescribes requirements for the disposal of surplus land by a local agency. Existing law defines terms for these purposes, including, among others, “surplus land” to mean land owned in fee simple by any local agency for which the local agency’s governing body takes formal action in a regular public meeting declaring that the land is surplus and is not necessary for the agency’s use. Existing law defines “exempt surplus land” to mean, among other things, land that is subject to a sectional planning area document, as described, and meets specified requirements, including that the land identified in the adopted sectional planning area document was dedicated prior to January 1, 2019, at least 25% of the units are dedicated to lower income households, as specified, and that the land is developed at an average density of at least 10 units per acre calculated with respect to the entire sectional planning area.",
+  "This bill would change those requirements so that at a minimum, 25% of units that are proposed by the sectional planning area document as adopted prior to January 1, 2019, and are not designated for students, faculty, or staff of an academic institution, or 500 units, whichever is greater, must be dedicated to lower income households, as specified, and that the land must be developed at an average density of at least 10 units per acre, in accordance with certain requirements and calculated with respect to the entire sectional planning area and inclusive of housing designated for students, faculty, and staff of an academic institution."
+ ],
+ "authorLine": "Introduced by Assembly Member Alvarez",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-06",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Local Government",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Assembly Local Government",
+     "date": "2025-04-09",
+     "ayes": 8,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-30",
+     "ayes": 10,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-08",
+   "vote": {
+    "ayes": 66,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2025-07-16",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-09",
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-10",
+   "applies": true,
+   "vote": {
+    "ayes": 78,
+    "noes": 0
+   },
+   "pending": "2025-09-09",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-22",
+   "done": null,
+   "vetoed": "2025-10-13",
+   "state": "failed",
+   "stoppedOn": "2025-10-13",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-16",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2024-12-17",
+   "text": "From printer. May be heard in committee January 16.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-01-06",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-03",
+   "text": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-28",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 8. Noes 1.) (April 9).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-22",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass. (Ayes 10. Noes 1.) (April 30).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-08",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 66. Noes 0. Page 1483.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-08",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-21",
+   "text": "Referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-09",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (July 16).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-17",
+   "text": "Read second time and amended. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2658.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 3211.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-22",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Consideration of Governor's veto pending.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Consideration of Governor's veto stricken from file.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX15",
+   "date": "2025-04-09",
+   "ayes": 8,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-04-30",
+   "ayes": 10,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-08",
+   "ayes": 66,
+   "noes": 0,
+   "nvr": 13,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2025-07-16",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-09",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-10",
+   "ayes": 78,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-08",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-02",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-14",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-10",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-10-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-16",
+   "action": "Introduced",
+   "id": "20250AB7699INT"
+  },
+  {
+   "date": "2025-03-28",
+   "action": "Amended Assembly",
+   "id": "20250AB7698AMD"
+  },
+  {
+   "date": "2025-04-21",
+   "action": "Amended Assembly",
+   "id": "20250AB7697AMD"
+  },
+  {
+   "date": "2025-07-09",
+   "action": "Amended Senate",
+   "id": "20250AB7696AMD"
+  },
+  {
+   "date": "2025-07-17",
+   "action": "Amended Senate",
+   "id": "20250AB7695AMD"
+  },
+  {
+   "date": "2025-09-12",
+   "action": "Enrolled",
+   "id": "20250AB7694ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 76 without my signature.",
+  "This bill reduces the affordable housing requirements for the University Innovation District (UID) in Chula Vista to qualify as exempt surplus land under the Surplus Land Act (SLA). Current law requires that at least 25 percent of all units be affordable to lower-income households. This measure instead excludes student, faculty, and university employee housing from those calculations - lowering the number of affordable homes required.",
+  "I support the vision of a University Innovation District in Chula Vista, as reflected in my signing of AB 662, which establishes a task force studying a mixed-use educational facility. But this effort should not come at the expense of the SLA's affordability framework, which since 2022 has been responsible for unlocking more than 34,000 homes - including 21,500 affordable units. Nor should it conflict with legislative efforts to expand affordable workforce housing by excluding faculty and staff units from affordability requirements.",
+  "With the AB 662 task force work set to begin, it is premature to alter this exemption before the task force completes its evaluation. Any subsequent proposal must ensure affordability requirements are maintained and the underlying use is consistent with the SLA's purpose of delivering broad public benefit.",
+  "For these reasons, I am returning this bill without my signature.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB76",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB76",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB76",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB76",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB76",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB76",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB76&version=20250AB7694ENR"
+ }
+}

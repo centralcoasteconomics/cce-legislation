@@ -1,0 +1,720 @@
+{
+ "id": "202520260AB239",
+ "slug": "ab-239",
+ "label": "AB 239",
+ "type": "AB",
+ "number": 239,
+ "session": "20252026",
+ "subject": "State-led County of Los Angeles disaster housing task force.",
+ "title": "An act to add and repeal Chapter 11 (commencing with Section 50350) of Part 1 of Division 31 of the Health and Safety Code, relating to housing, and declaring the urgency thereof, to take effect immediately.",
+ "authors": [
+  {
+   "name": "Harabedian",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Irwin",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Bryan",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Caloza",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Fong",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Mark González",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ransom",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Celeste Rodriguez",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Schiavo",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Schultz",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Zbur",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "vetoed",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-01-22",
+  "text": "Consideration of Governor's veto stricken from file."
+ },
+ "chapter": null,
+ "presented": "2025-09-15",
+ "approved": null,
+ "vetoed": "2025-10-13",
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50350",
+   "verb": "repeal"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "Yes",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes the Department of Housing and Community Development (HCD) and sets forth its powers and duties, including updating and revising the California Statewide Housing Plan, as provided. Existing law establishes the Office of Emergency Services (OES), which is responsible for the state’s emergency and disaster response services for natural, technological, or human-induced disasters and emergencies, including responsibility for activities necessary to prevent, respond to, recover from, and mitigate the effects of emergencies and disasters on people and property.",
+  "This bill would require HCD to convene a state-led County of Los Angeles disaster housing task force, as specified, for the purpose of coordinating and streamlining efforts between HCD, the Federal Emergency Management Agency, OES, and local governments to rebuild housing in communities impacted by the wildfires that began on January 7, 2025, in the County of Los Angeles. The bill would require the task force to appoint a state disaster housing coordinator to accelerate the delivery of resources to communities impacted by the wildfires, and report to the Legislature on the status of rebuilding housing in communities impacted by the wildfires on April 1, 2026, and annually thereafter, as specified. The bill would repeal these provisions on June 30, 2028.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the Counties of Los Angeles and Ventura.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "authorLine": "Introduced by Assembly Members Harabedian and Irwin (Principal coauthors: Assembly Members Bryan, Caloza, Fong, Mark González, Haney, Ransom, Celeste Rodriguez, Schiavo, Schultz, and Zbur)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-01-13",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Emergency Management"
+   ],
+   "done": "2025-04-08",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-03-26",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Emergency Management",
+     "date": "2025-04-07",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-04-30",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-02",
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Governmental Organization"
+   ],
+   "done": "2025-07-08",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Governmental Organization",
+     "date": "2025-07-08",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-29",
+   "applies": true,
+   "suspense": "2025-08-18",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-04",
+   "vote": {
+    "ayes": 39,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-08",
+   "applies": true,
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "pending": "2025-09-04",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-15",
+   "done": null,
+   "vetoed": "2025-10-13",
+   "state": "failed",
+   "stoppedOn": "2025-10-13",
+   "reason": "Vetoed",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-13",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-01-14",
+   "text": "From printer. May be heard in committee February 13.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-10",
+   "text": "Referred to Coms. on H. & C.D. and E.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-02-27",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on E.M. (Ayes 11. Noes 0.) (March 26).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-03-27",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Re-referred to Com. on E.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-08",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 7). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "In committee: Set, first hearing. Referred to suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Assembly Rule 63 suspended. (Ayes 51. Noes 16. Page 1644.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1898.).",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "Referred to Coms. on HOUSING and G.O.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-25",
+   "text": "From committee: Do pass and re-refer to Com. on G.O. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on G.O.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-08",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 15. Noes 0.) (July 8). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-18",
+   "text": "In committee: Referred to suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-04",
+   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 2518.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-04",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3022.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-15",
+   "text": "Enrolled and presented to the Governor at 4:30 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
+  },
+  {
+   "date": "2025-10-13",
+   "text": "Consideration of Governor's veto pending.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-22",
+   "text": "Consideration of Governor's veto stricken from file.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-03-26",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX81",
+   "date": "2025-04-07",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Emergency Management"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 4,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-02",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS48",
+   "date": "2025-07-08",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Governmental Organization"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-18",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-04",
+   "ayes": 39,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-08",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-24",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-03",
+   "committee": "Assembly Emergency Management",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-19",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-03",
+   "committee": "Senate Governmental Organization",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-15",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-04",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-10-23",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-13",
+   "action": "Introduced",
+   "id": "20250AB23999INT"
+  },
+  {
+   "date": "2025-03-27",
+   "action": "Amended Assembly",
+   "id": "20250AB23998AMD"
+  },
+  {
+   "date": "2025-05-23",
+   "action": "Amended Assembly",
+   "id": "20250AB23997AMD"
+  },
+  {
+   "date": "2025-08-29",
+   "action": "Amended Senate",
+   "id": "20250AB23996AMD"
+  },
+  {
+   "date": "2025-09-10",
+   "action": "Enrolled",
+   "id": "20250AB23995ENR"
+  }
+ ],
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 239 without my signature.",
+  "This bill would require the Department of Housing and Community Development (HCD) to convene a state-led County of Los Angeles disaster housing task force to coordinate and streamline efforts to rebuild housing in the communities impacted by the 2025 Los Angeles Wildfires.",
+  "I appreciate the author's intent to provide a strong and coordinated recovery in Los Angeles County. However, California already has a robust disaster housing coordination structure that delivers on this very goal. Following the Eaton and Palisades Fires, HCD and Cal OES created a Housing Task Force within the Joint Field Office, regularly convening state, federal, and local partners to accelerate delivery of resources and provide technical assistance in rebuilding efforts. That task force has launched resiliency centers, held rebuild workshops, and is actively advancing housing recovery for affected communities. This same framework has guided recovery from countless disasters - from the Camp Fire to the North Complex Fire and beyond - consistently showing that California has the tools and partnerships needed to drive recovery.",
+  "This bill would duplicate longstanding work already underway, create additional costs and reporting requirements, and limit the flexibility that has proven essential in disaster response.",
+  "My Administration remains fully committed to supporting Los Angeles County's wildfire recovery, and we will continue to build on the progress achieved through the existing task force framework by pursuing efforts that are additive to, rather than duplicative of, this proven structure.",
+  "For these reasons, I cannot sign this bill.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB239",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB239",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB239",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB239",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB239",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB239",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB239&version=20250AB23995ENR"
+ }
+}

@@ -1,0 +1,426 @@
+{
+ "id": "202520260SB1007",
+ "slug": "sb-1007",
+ "label": "SB 1007",
+ "type": "SB",
+ "number": 1007,
+ "session": "20252026",
+ "subject": "Common interest developments: annual reports: assessments: discipline.",
+ "title": "An act to amend Sections 5300, 5320, and 5605 of, and to add Section 5860 to, the Civil Code, relating to common interest developments.",
+ "authors": [
+  {
+   "name": "Menjivar",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gonzalez",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Grayson",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_x",
+ "currentLabel": "Policy committee",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2026-06-24",
+  "text": "June 24 set for first hearing canceled at the request of author."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5300",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5320",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5605",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "5860",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.5,
+ "digest": [
+  "Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments. Existing law requires that a common interest development be managed by an association. Existing law requires an association of a common interest development to levy regular and special assessments to perform its obligations under the governing documents and the act, as provided. Existing law requires an association to prepare an annual budget report and a policy statement, as specified. Existing law requires the association to either deliver to all members the full report or a summary of the report that includes specified information, on the first page, whenever the annual budget report or a policy statement is prepared, as provided.",
+  "This bill would require the annual budget report to include a comparison breakdown of the anticipated expenses of the previous fiscal year versus actual expenditures of the previous fiscal year and a statement regarding compensation of a management company, as provided. The bill would require a summary of an annual budget to also include the comparison breakdown and the statement regarding compensation of a management company, as specified.",
+  "Existing law prohibits increases in regular assessments for any fiscal year, unless the board complies with certain requirements, including certain information in its annual budget report. Existing law prohibits an association from increasing regular assessments by more than 20 percent, without the approval of a majority of a quorum of members.",
+  "This bill would prohibit an association from increasing a regular assessment, unless the board includes the above-referenced information pertaining to regular assessments. The bill would, instead, prohibit a board from increasing regular assessments by more than 8%, without the approval of the majority of a quorum of members.",
+  "Existing law requires the association to notify a member 10 days before a meeting to consider or impose discipline on a member, or a monetary charge, as a means of reimbursing the association for costs incurred by the association in the repair of damage to the common area and facilities caused by a member, as provided. Existing law requires the notification to include, among other information, the nature of the alleged violation, or nature of the damage to the common area and facilities.",
+  "This bill would require the association to make any physical evidence used to determine a violation of the governing documents has occurred available to the member at least 5 business days before the hearing or deadline for the member’s response, if the association seeks to impose a monetary penalty against a member for violation of the governing documents, as provided."
+ ],
+ "authorLine": "Introduced by Senator Menjivar (Coauthors: Senators Gonzalez and Grayson)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-02-09",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Judiciary"
+   ],
+   "done": "2026-04-29",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-03-17",
+     "ayes": 8,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2026-04-28",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-27",
+   "vote": {
+    "ayes": 24,
+    "noes": 13
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-06-24",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-09",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-10",
+   "text": "From printer. May be acted upon on or after March 12.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-18",
+   "text": "Referred to Coms. on HOUSING and JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-03",
+   "text": "Set for hearing March 17.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-03-18",
+   "text": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 8. Noes 2. Page 3589.) (March 17). Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-10",
+   "text": "Set for hearing April 28.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-29",
+   "text": "From committee: Do pass. (Ayes 9. Noes 1. Page 4085.) (April 28).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-30",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Read third time and amended.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-05-21",
+   "text": "Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-22",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-27",
+   "text": "Read third time. Passed. (Ayes 24. Noes 13. Page 4482.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-27",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-04",
+   "text": "Referred to Coms. on H. & C.D., JUD., and APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-15",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-24",
+   "text": "June 24 set for first hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-03-17",
+   "ayes": 8,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2026-04-28",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-27",
+   "ayes": 24,
+   "noes": 13,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-03-12",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-27",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-28",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-01",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-22",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-09",
+   "action": "Introduced",
+   "id": "20250SB100799INT"
+  },
+  {
+   "date": "2026-05-21",
+   "action": "Amended Senate",
+   "id": "20250SB100798AMD"
+  },
+  {
+   "date": "2026-06-15",
+   "action": "Amended Assembly",
+   "id": "20250SB100797AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1007",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1007",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1007",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1007",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1007",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1007",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1007&version=20250SB100797AMD"
+ }
+}

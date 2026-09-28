@@ -1,0 +1,370 @@
+{
+ "id": "202520260AB11",
+ "slug": "ab-11",
+ "label": "AB 11",
+ "type": "AB",
+ "number": 11,
+ "session": "20252026",
+ "subject": "The Social Housing Act.",
+ "title": "An act to add Title 6.91 (commencing with Section 64900) to the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Lee",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_x",
+ "currentLabel": "Policy committee",
+ "location": "Senate",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2025-06-26",
+  "text": "In committee: Set, first hearing. Hearing canceled at the request of author."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "64900",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.4,
+ "digest": [
+  "Existing law creates a housing authority in each county or city, which functions upon the adoption of a specified resolution by the relevant governing body. Existing law authorizes these housing authorities, within their jurisdictions, to construct, reconstruct, improve, alter, or repair all or part of any housing project. Existing law establishes various programs that provide housing assistance.",
+  "This bill would enact the Social Housing Act and would create the California Housing Authority as an independent state body, the mission of which would be to ensure that social housing developments that are produced and acquired align with the goals of eliminating the gap between housing production and regional housing needs assessment targets and preserving affordable housing. The bill would prescribe a definition of social housing that would describe, in addition to housing owned by the authority, housing owned by other entities, as specified, provided that all social housing developed or authorized by the authority would be owned by the authority.",
+  "This bill would prescribe the composition of the California Housing Authority Board, which would govern the authority, and which would be composed of appointed members and members who would be elected by residents of social housing developments, as specified. The bill would set forth the powers and duties of the authority and the board, including the requirement that the authority and the board annually prepare and submit a business plan and related information to the Governor and Legislature, as specified. The bill would also require the board to provide for regular audits of the authority’s accounts and records, as specified. The bill would require the authority to seek to achieve revenue neutrality, as defined, and would require the authority to seek to recuperate the cost of development and operations over the life of its properties through mechanisms that maximize the number of Californians who can be housed without experiencing rent burden.",
+  "This bill would require the authority to prioritize the development of specified property, including vacant parcels and parcels near transit, and would establish a process for the annual determination of required social housing units. Under the bill, social housing would accommodate a mix of household income ranges and would provide specified protections for residents, who would have the right to participate in the operation and management of the units in which they reside.",
+  "This bill would require the California Housing Authority to employ 2 leasing models in creating social housing, referred to as the rental model and the ownership model, and would specify the characteristics of both models. Under the rental model, the authority would extend a one-year lease to individuals who commit to a minimum of one year of residence and would require the authority to set rents, as specified. Under the ownership model, the authority would extend a 99-year lease, in the form of a limited equity arrangement, as defined, to individuals who commit to a minimum 5-year term of residence, and would authorize the authority to act as a lender for residents. The bill would specify how the units may be sold and transferred. The bill would establish eligibility requirements for social housing residents and would provide for the selection of residents by lottery, as specified, provided that people who may have been displaced from a property as part of its development would be granted a preference for occupancy. The bill, among other things, would require the authority to accept a local jurisdiction’s preference for a project parcel if specified conditions are met.",
+  "This bill would establish the Social Housing Revolving Loan Fund within the State Treasury to provide, upon appropriation by the Legislature, zero-interest loans for the purposes of constructing housing to accommodate a mix of household incomes. The bill would declare the intent of the Legislature to enact subsequent legislation to provide financing for the activities of the authority through the issuance of general obligation bonds. The bill would authorize the authority to issue revenue bonds, as specified."
+ ],
+ "authorLine": "Introduced by Assembly Member Lee (Coauthors: Assembly Members Haney and Kalra)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2024-12-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-04-28",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-24",
+     "ayes": 7,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-04-28",
+   "applies": true,
+   "suspense": "2025-05-07",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-02",
+   "vote": {
+    "ayes": 47,
+    "noes": 20
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2025-06-26",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2024-12-03",
+   "text": "From printer. May be heard in committee January 2.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-03",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-28",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-28",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 3.) (April 24). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-07",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 11. Noes 3.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 47. Noes 20. Page 1928.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "Referred to Coms. on HOUSING and G.O.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-26",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-24",
+   "ayes": 7,
+   "noes": 3,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 3,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-02",
+   "ayes": 47,
+   "noes": 20,
+   "nvr": 12,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-26",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-25",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-29",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "action": "Introduced",
+   "id": "20250AB1199INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB11",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB11",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB11",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB11",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB11",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB11",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB11&version=20250AB1199INT"
+ }
+}

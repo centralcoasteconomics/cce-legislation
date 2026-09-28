@@ -1,0 +1,436 @@
+{
+ "id": "202520260AB48",
+ "slug": "ab-48",
+ "label": "AB 48",
+ "type": "AB",
+ "number": 48,
+ "session": "20252026",
+ "subject": "Education finance: postsecondary education facilities: College Health and Safety Bond Act of 2026.",
+ "title": "An act to add Article 8 (commencing with Section 89800) to Chapter 6 of Part 55 of Division 8 of Title 3 of, to add Article 7 (commencing with Section 92170) to Chapter 2 of Part 57 of Division 9 of Title 3 of, and to add Part 71 (commencing with Section 101200) to Division 14 of Title 3 of, the Education Code, relating to education finance, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of these funds.",
+ "authors": [
+  {
+   "name": "Alvarez",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Fong",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Muratsuchi",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "policy_x",
+ "currentLabel": "Policy committee",
+ "location": "Senate",
+ "statusRaw": "Pending Referral",
+ "measureState": "Amended Assembly",
+ "lastAction": {
+  "date": "2025-06-05",
+  "text": "In Senate. Read first time. To Com. on RLS. for assignment."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "EDC",
+   "name": "Education Code",
+   "section": "89800",
+   "verb": "add"
+  },
+  {
+   "code": "EDC",
+   "name": "Education Code",
+   "section": "92170",
+   "verb": "add"
+  },
+  {
+   "code": "EDC",
+   "name": "Education Code",
+   "section": "101200",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.4,
+ "digest": [
+  "(1)The California Constitution prohibits the Legislature from creating a debt or liability that singly or in the aggregate with any previous debts or liabilities exceeds the sum of $300,000, except by an act that (A) authorizes the debt for a single object or work specified in the act, (B) has been passed by a 23 vote of all the Members elected to each house of the Legislature, (C) has been submitted to the people at a statewide general or primary election, and (D) has received a majority of all the votes cast for and against it at that election.",
+  "This bill would set forth the College Health and Safety Bond Act of 2026 as a state general obligation bond act that would provide $____ to construct and modernize education facilities, as specified. This bond act would become operative only if approved by the voters at an undefined statewide election. The bill would also provide for the submission of the bond act to the voters at that election.",
+  "(2)Existing law establishes the California State University, under the administration of the Trustees of the California State University, and the University of California, under the administration of the Regents of the University of California, as 2 of the segments of public postsecondary education in the state.",
+  "This bill would require the Trustees and the Regents to comply with certain conditions, as provided, before receiving funds from the 2026 University Capital Outlay Bond Fund established pursuant to the College Health and Safety Bond Act of 2026.",
+  "(3)This bill, except for the provision making the provisions of the bill severable, would become operative upon the adoption of the College Health and Safety Bond Act of 2026 by the voters at an undefined statewide election."
+ ],
+ "authorLine": "Introduced by Assembly Member Alvarez (Coauthors: Assembly Members Fong, Haney, and Muratsuchi)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2024-12-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Higher Education",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-05-01",
+   "votes": [
+    {
+     "committee": "Assembly Higher Education",
+     "date": "2025-04-22",
+     "ayes": 6,
+     "noes": 2,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-30",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
+     "noes": 3,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-04",
+   "vote": {
+    "ayes": 68,
+    "noes": 9
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2025-06-05",
+   "reason": "Did not advance before the session deadline",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2024-12-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2024-12-03",
+   "text": "From printer. May be heard in committee January 2.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-18",
+   "text": "Referred to Coms. on HIGHER ED. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-10",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HIGHER ED. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Re-referred to Com. on HIGHER ED.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-21",
+   "text": "Assembly Rule 56 suspended. (Page 1163.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "(Pending re-refer to Com. on H. & C. D.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 6. Noes 2.) (April 22). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 1.) (April 30). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 11. Noes 3.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-29",
+   "text": "Read third time and amended. Ordered to third reading. (Page 1787.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-04",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 9. Page 2075.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-05",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX09",
+   "date": "2025-04-22",
+   "ayes": 6,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Higher Education"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-04-30",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 3,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-04",
+   "ayes": 68,
+   "noes": 9,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-21",
+   "committee": "Assembly Higher Education",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-30",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2024-12-02",
+   "action": "Introduced",
+   "id": "20250AB4899INT"
+  },
+  {
+   "date": "2025-04-10",
+   "action": "Amended Assembly",
+   "id": "20250AB4898AMD"
+  },
+  {
+   "date": "2025-05-29",
+   "action": "Amended Assembly",
+   "id": "20250AB4897AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB48",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB48",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB48",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB48",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB48",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB48",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB48&version=20250AB4897AMD"
+ }
+}

@@ -1,0 +1,466 @@
+{
+ "id": "202520260AB456",
+ "slug": "ab-456",
+ "label": "AB 456",
+ "type": "AB",
+ "number": 456,
+ "session": "20252026",
+ "subject": "Mobilehome parks: sales or transfers: prospective purchasers of mobilehomes.",
+ "title": "An act to amend Sections 798.73.5, 798.74, 798.74.4, and 798.75 of the Civil Code, relating to mobilehomes.",
+ "authors": [
+  {
+   "name": "Connolly",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-07-28",
+  "text": "Chaptered by Secretary of State - Chapter 59, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 59,
+  "year": 2025
+ },
+ "presented": "2025-07-15",
+ "approved": "2025-07-28",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.73.5",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.74",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.74.4",
+   "verb": "amend"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.75",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks. Existing law, in the case of a sale or transfer of a mobilehome that will remain in the park, authorizes the management of a mobilehome park to only require repairs or improvements to, among other structures, a mobilehome, if specified conditions are met. Existing law requires the management to provide a homeowner with a written summary of repairs or improvements that management requires to, among other structures, the mobilehome no later than 10 business days following the receipt of a request for this information, as specified.",
+  "This bill would instead require the management to provide a homeowner with the written summary of repairs or improvements no later than 15 days following receipt of a request. The bill would deem the management to have voluntarily waived any and all rights to require repairs or improvements if the management fails or refuses to provide a homeowner the written summary, except as specified.",
+  "Existing law authorizes the management of a mobilehome park to require prior approval of a purchaser of a mobilehome that will remain in the park, as specified. Existing law requires management to notify the seller and the prospective purchaser, in writing, of either acceptance or rejection of the application within 15 days of receiving all of the information requested from the prospective purchaser.",
+  "This bill would deem management to have approved the application of the prospective purchaser if management fails or refuses to notify the seller and the prospective purchaser within 15 days of receiving the information.",
+  "Existing law requires the homeowner of a mobilehome or manufactured home in a mobilehome park to make certain real estate disclosures as part of a transfer or sale of a manufactured home or mobilehome in a mobilehome park, including the use of a Mobilehome Transfer Disclosure Statement.",
+  "This bill would require a homeowner to provide a copy of the Manufactured Home and Mobilehome Transfer Disclosure Statement to the management of a mobilehome park in the case of a sale or transfer of a mobilehome that would remain in the park.",
+  "Existing law requires an escrow, sale, or transfer agreement involving a mobilehome located in a park at the time of the sale, where the mobilehome is to remain in the park, to contain a copy of either a fully executed rental agreement or a statement signed by the park’s management and the prospective homeowner that the parties have agreed to the terms and conditions of a rental agreement. Under existing law, if the purchaser fails to execute the rental agreement, the purchaser does not have any rights to tenancy. Existing law considers an occupant of a mobilehome who has no rights to tenancy and is not otherwise entitled to occupy the mobilehome an unlawful occupant if the occupant refuses to surrender the mobilehome park site to management, as specified, and subjects an unlawful occupant to certain provisions related to unlawful detainer. Existing law exempts an occupant of a mobilehome from being considered an unlawful occupant if certain conditions are present, including, among other things, the management has determined that the occupant has the financial ability to pay rent and charges of the park and will comply with the rules and regulations of the park, as specified, and provisions regarding the sale and transfer of a mobilehome.",
+  "This bill, as an alternative to the above-specified condition, would exempt an occupant of a mobilehome from being considered an unlawful occupant if management failed or refused to timely notify the occupant of rejection or acceptance of the application of the prospective purchaser pursuant to the bill’s provisions."
+ ],
+ "authorLine": "Introduced by Assembly Member Connolly",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-06",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-05-08",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-05-07",
+     "ayes": 8,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-05",
+   "vote": {
+    "ayes": 74,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary"
+   ],
+   "done": "2025-07-02",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-07-01",
+     "ayes": 13,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-07-10",
+   "vote": {
+    "ayes": 37,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "vote": null,
+   "pending": null,
+   "state": "skipped",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-07-15",
+   "done": "2025-07-28",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-07-28",
+   "chapter": {
+    "number": 59,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-06",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-07",
+   "text": "From printer. May be heard in committee March 9.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-18",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-29",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-08",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 8. Noes 1.) (May 7).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-12",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-13",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-20",
+   "text": "Read third time and amended. Ordered to third reading. (Page 1623.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time and amended. Ordered to third reading. (Page 1951.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-05",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 74. Noes 0. Page 2102.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-09",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "Referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Do pass. To Consent Calendar. (Ayes 13. Noes 0.) (July 1).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-07-10",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2040.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-07-10",
+   "text": "In Assembly. Ordered to Engrossing and Enrolling.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2025-07-15",
+   "text": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-07-28",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-07-28",
+   "text": "Chaptered by Secretary of State - Chapter 59, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-05-07",
+   "ayes": 8,
+   "noes": 1,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-05",
+   "ayes": 74,
+   "noes": 0,
+   "nvr": 5,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-07-01",
+   "ayes": 13,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-07-10",
+   "ayes": 37,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-05-05",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-14",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-22",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-02",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-27",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-04",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-06",
+   "action": "Introduced",
+   "id": "20250AB45699INT"
+  },
+  {
+   "date": "2025-05-12",
+   "action": "Amended Assembly",
+   "id": "20250AB45698AMD"
+  },
+  {
+   "date": "2025-05-20",
+   "action": "Amended Assembly",
+   "id": "20250AB45697AMD"
+  },
+  {
+   "date": "2025-06-02",
+   "action": "Amended Assembly",
+   "id": "20250AB45696AMD"
+  },
+  {
+   "date": "2025-07-11",
+   "action": "Enrolled",
+   "id": "20250AB45695ENR"
+  },
+  {
+   "date": "2025-07-28",
+   "action": "Chaptered",
+   "id": "20250AB45694CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB456",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB456",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB456",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB456",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB456",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB456",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB456&version=20250AB45694CHP"
+ }
+}

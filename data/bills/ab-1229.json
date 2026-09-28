@@ -1,0 +1,606 @@
+{
+ "id": "202520260AB1229",
+ "slug": "ab-1229",
+ "label": "AB 1229",
+ "type": "AB",
+ "number": 1229,
+ "session": "20252026",
+ "subject": "Adult Reentry Grant Program.",
+ "title": "An act to add Chapter 2.6 (commencing with Section 50480) to Part 2 of Division 31 of the Health and Safety Code, and to add Section 5036 to the Penal Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Schultz",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Quirk-Silva",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ávila Farías",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Caloza",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Mark González",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Haney",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Kalra",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Lee",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "floor_x",
+ "currentLabel": "Floor vote",
+ "location": "Senate",
+ "statusRaw": "In Floor Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2025-09-03",
+  "text": "Ordered to inactive file at the request of Senator Cabaldon."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50480",
+   "verb": "add"
+  },
+  {
+   "code": "PEN",
+   "name": "Penal Code",
+   "section": "5036",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.6,
+ "digest": [
+  "The Budget Act of 2018 appropriated $50,000,000 to the Board of State and Community Corrections for a grant program, known as the Adult Reentry Grant Program, for the purpose of awarding competitive grants to community based organizations to support offenders formerly incarcerated in state prison. The Budget Act of 2018 allocated a specified amount of those funds for, among other things, rental assistance, rehabilitation of existing property or buildings, and to support the warm hand-off and reentry of offenders transitioning from prison to communities. Subsequent budget acts have continued to fund the program.",
+  "This bill, instead, commencing July 1, 2026, and upon appropriation of funds, would transfer the administration of the grant program to the Department of Housing and Community Development. The bill would require the department, on or before December 1, 2026, to modify the grant program to provide 5-year renewable grants to geographically diverse regional administrators responsible for funding permanent supportive housing and reentry services for eligible people, as specified. The bill would require the department to issue proposed guidelines or a draft notice, as specified, establishing the grant program and require the department to competitively score applicants applying for grant funds as regional administrators. The bill would require the department to work collaboratively with the State Department of Health Care Services, Department of Corrections and Rehabilitation, and homeless continuums of care, and seek to work collaboratively with county probation departments, to establish a process for referrals of people eligible to participate in the program, as specified. The bill would also require the department to establish specified benchmarks to promote and track ideal outcomes from the program.",
+  "This bill would require the department to distribute program funds by executing contracts with awarded regional administrators and would impose certain requirements on those regional administrators. The bill would prescribe eligibility requirements for a person scheduled for release from, or who has been be formerly incarcerated in, state prison, to participate in the program. The bill would require program funds to be used for specified purposes, including specified administrative fees, permanent housing, rental and operating subsidies, incentives to landlords, and voluntary multidisciplinary services, as specified. The bill would require the department, upon implementation of the program, to design an evaluation and hire an independent evaluator to assess outcomes from the program, and would require the evaluation to be submitted to specified committees of the Legislature.",
+  "This bill would require the board to continue to oversee and administer existing program grants that have not yet expired, using resources allocated to the board through funds allocated by the Budget Act of 2025.",
+  "This bill would require the Department of Corrections and Rehabilitation to establish a process to engage an individual scheduled for discharge, within at least 210 days of the scheduled release date, for the purpose of assessing the individual’s risk of homelessness upon discharge, as specified."
+ ],
+ "authorLine": "Introduced by Assembly Members Schultz and Quirk-Silva (Principal coauthors: Assembly Members Ávila Farías, Caloza, Mark González, Haney, Kalra, and Lee)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-24",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Public Safety"
+   ],
+   "done": "2025-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-03-26",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Public Safety",
+     "date": "2025-04-22",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-14",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-06-02",
+   "vote": {
+    "ayes": 62,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Public Safety"
+   ],
+   "done": "2025-07-15",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-07-01",
+     "ayes": 10,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Public Safety",
+     "date": "2025-07-15",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-29",
+   "applies": true,
+   "suspense": "2025-08-18",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-18",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-08-29",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "stalled",
+   "stoppedOn": "2025-09-03",
+   "reason": "Did not advance before the session deadline",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-21",
+   "text": "Introduced. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-22",
+   "text": "From printer. May be heard in committee March 24.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-24",
+   "text": "Read first time.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-13",
+   "text": "Referred to Coms. on H. & C.D. and PUB. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-26",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 8. Noes 0.) (March 26). Re-referred to Com. on PUB. S.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-14",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 11. Noes 2.) (May 23).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-27",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-02",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 62. Noes 10. Page 1883.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-03",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-11",
+   "text": "Referred to Coms. on HOUSING and PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-24",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 10. Noes 1.) (July 1). Re-referred to Com. on PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-02",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on PUB. S.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-15",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (July 15). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-18",
+   "text": "In committee: Referred to suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Ordered to inactive file at the request of Senator Cabaldon.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-03-26",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX18",
+   "date": "2025-04-22",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Public Safety"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-23",
+   "ayes": 11,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-06-02",
+   "ayes": 62,
+   "noes": 10,
+   "nvr": 7,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-07-01",
+   "ayes": 10,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS72",
+   "date": "2025-07-15",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Public Safety"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-18",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-08-29",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-03-24",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-04-21",
+   "committee": "Assembly Public Safety",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-28",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-19",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-26",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-13",
+   "committee": "Senate Public Safety",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-13",
+   "committee": "Senate Public Safety",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-17",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-21",
+   "action": "Introduced",
+   "id": "20250AB122999INT"
+  },
+  {
+   "date": "2025-07-02",
+   "action": "Amended Senate",
+   "id": "20250AB122998AMD"
+  },
+  {
+   "date": "2025-08-29",
+   "action": "Amended Senate",
+   "id": "20250AB122997AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1229",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1229",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1229",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1229",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1229",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1229",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1229&version=20250AB122997AMD"
+ }
+}

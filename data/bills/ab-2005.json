@@ -1,0 +1,630 @@
+{
+ "id": "202520260AB2005",
+ "slug": "ab-2005",
+ "label": "AB 2005",
+ "type": "AB",
+ "number": 2005,
+ "session": "20252026",
+ "subject": "Housing developments: urban lot split: owner-occupancy.",
+ "title": "An act to add and repeal Section 1102.6l of the Civil Code, and to amend, repeal, and add Section 66411.7 of the Government Code, relating to land use.",
+ "authors": [
+  {
+   "name": "Ahrens",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Arreguín",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Cortese",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wiener",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "floor_x",
+ "currentLabel": "Floor vote",
+ "location": "Senate",
+ "statusRaw": "In Floor Process",
+ "measureState": "Amended Senate",
+ "lastAction": {
+  "date": "2026-08-30",
+  "text": "Read second time. Ordered to third reading."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "adu"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1102",
+   "verb": "repeal"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "66411.7",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.6,
+ "digest": [
+  "(1)Under the Planning and Zoning Law, the legislative body of a city or county may adopt ordinances that, among other things, regulate the use of buildings, structures, and land, as provided. The Subdivision Map Act vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps.",
+  "Existing law requires a local agency to ministerially approve a parcel map for an urban lot split if the development or parcel meets specified requirements. Existing law requires the local agency to require an applicant for an urban lot split to sign an affidavit stating that the applicant intends to occupy one of the housing units as their principal residence for a minimum of 3 years from the date of the approval of the urban lot split. Existing law authorizes a local agency to adopt an ordinance to implement these provisions, as provided.",
+  "This bill would instead require the local agency to require an applicant to select one of 2 sets of owner-occupancy requirements. The first option would be for the applicant to sign, under penalty of perjury, the above-described affidavit stating that the applicant intends to occupy one of the housing units as their principal residence for a minimum of 3 years. The 2nd option would be for the applicant to sign an affidavit, under penalty of perjury, stating they intend to sell both parcels of an urban lot split after issuance of a certificate of occupancy within 3 years from the date of the approval of the urban lot split and to require that one of the units on both parcels of an urban lot split remain owner occupied for 3 years, beginning on the date a parcel or unit is conveyed by the applicant to a home buyer. By expanding the scope of the crime of perjury and increasing the duties of local agencies, the bill would impose a state-mandated local program.",
+  "This bill would require the home buyer designated by the applicant to satisfy this 2nd owner-occupancy requirement to provide the applicant with an affidavit or declaration, under penalty of perjury, stating the home buyer intends to occupy the parcel as their primary residence for 3 years, as provided. The bill would provide that, for the purposes of either owner-occupancy requirement, an applicant may be a trustee of a living trust of a natural person or a limited liability company of a natural person, except that a limited liability company shall not be an applicant if the parcel being subdivided is within the boundaries of the 2025 Palisades or Eaton Fires in the County of Los Angeles. The bill would provide that an applicant for an urban lot split that is a limited liability company that violates these provisions would be liable for civil penalties.",
+  "(2)Existing law requires that specified disclosures be made upon any transfer by sale, exchange, real property sales contract, lease with an option to purchase, any other option to purchase, or ground lease coupled with improvements, of any single-family residential property.",
+  "This bill would require the seller of an urban lot split subject to the second owner-occupancy requirement described above to disclose, in writing, any owner-occupancy requirement for three years after the conveyance of an urban lot split unit.",
+  "This bill would repeal its provisions on January 1, 2032.",
+  "(3)This bill would make legislative findings and declarations as to the necessity of a special statute for the boundaries of the 2025 Palisades and Eaton Fires in the County of Los Angeles.",
+  "(4)This bill would incorporate additional changes to Section 66411.7 of the Government Code proposed by AB 2601 to be operative only if this bill and AB 2601 are enacted and this bill is enacted last.",
+  "(5)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "authorLine": "Introduced by Assembly Member Ahrens (Coauthors: Senators Arreguín, Cortese, and Wiener)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-17",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2026-04-23",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-08",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-04-22",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-05-06",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-06",
+     "ayes": 14,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-14",
+   "vote": {
+    "ayes": 66,
+    "noes": 1
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Local Government",
+    "Senate Housing"
+   ],
+   "done": "2026-07-01",
+   "votes": [
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-06-10",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-30",
+     "ayes": 6,
+     "noes": 2,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-08-10",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-06",
+     "ayes": 14,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "stalled",
+   "stoppedOn": "2026-08-30",
+   "reason": "Did not advance before the session deadline",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-17",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-18",
+   "text": "From printer. May be heard in committee March 20.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-19",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-19",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-03-23",
+   "text": "Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-08",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (April 8).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-09",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-04-13",
+   "text": "Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-23",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-06",
+   "text": "From committee: Do pass. (Ayes 14. Noes 0.) (May 6).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-07",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-07",
+   "text": "Read third time and amended. Ordered to third reading. (Page 4973.)",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 66. Noes 1. Page 5047.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-03",
+   "text": "Referred to Coms. on L. GOV. and HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 5. Noes 1.) (June 10). Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-22",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 2.) (June 30). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-29",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-08-10",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-11",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-11",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-12",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-19",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-20",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Read third time. Refused passage. (Ayes 18. Noes 11.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Reconsideration granted. (Ayes 30. Noes 6.)",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-28",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2026-04-08",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-04-22",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-05-06",
+   "ayes": 14,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-14",
+   "ayes": 66,
+   "noes": 1,
+   "nvr": 13,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2026-06-10",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-30",
+   "ayes": 6,
+   "noes": 2,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-25",
+   "ayes": 18,
+   "noes": 11,
+   "nvr": 11,
+   "result": "Fail",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-06",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-21",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-08",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-08",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-05",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-25",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-19",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-20",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-30",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-17",
+   "action": "Introduced",
+   "id": "20250AB200599INT"
+  },
+  {
+   "date": "2026-03-19",
+   "action": "Amended Assembly",
+   "id": "20250AB200598AMD"
+  },
+  {
+   "date": "2026-04-09",
+   "action": "Amended Assembly",
+   "id": "20250AB200597AMD"
+  },
+  {
+   "date": "2026-05-07",
+   "action": "Amended Assembly",
+   "id": "20250AB200596AMD"
+  },
+  {
+   "date": "2026-06-22",
+   "action": "Amended Senate",
+   "id": "20250AB200595AMD"
+  },
+  {
+   "date": "2026-08-11",
+   "action": "Amended Senate",
+   "id": "20250AB200594AMD"
+  },
+  {
+   "date": "2026-08-19",
+   "action": "Amended Senate",
+   "id": "20250AB200593AMD"
+  },
+  {
+   "date": "2026-08-28",
+   "action": "Amended Senate",
+   "id": "20250AB200592AMD"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2005",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2005",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2005",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2005",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2005",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2005",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2005&version=20250AB200592AMD"
+ }
+}

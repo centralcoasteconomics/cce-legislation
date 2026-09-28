@@ -1,0 +1,471 @@
+{
+ "id": "202520260AB391",
+ "slug": "ab-391",
+ "label": "AB 391",
+ "type": "AB",
+ "number": 391,
+ "session": "20252026",
+ "subject": "Mobilehome parks: notices to homeowners and residents.",
+ "title": "An act to amend Section 798.14 of the Civil Code, relating to mobilehomes.",
+ "authors": [
+  {
+   "name": "Michelle Rodriguez",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-06",
+  "text": "Chaptered by Secretary of State - Chapter 339, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 339,
+  "year": 2025
+ },
+ "presented": "2025-09-09",
+ "approved": "2025-10-06",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.14",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "No",
+  "localProgram": "No",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "Existing law, the Mobilehome Residency Law, governs the terms and conditions of residency in mobilehome parks and prescribes the content of a rental agreement for a tenancy. Existing law requires that a copy of the Mobilehome Residency Law be provided as an exhibit and incorporated into the rental agreement by reference, as specified. Existing law also requires that a copy of a specified notice containing the rights and responsibilities of homeowners and park managers be included in the rental agreement and requires management to provide a copy of the notice to all homeowners each year, as specified. Existing law requires these and other notices required by the Mobilehome Residency Law to be either personally delivered to the homeowner or sent by mail, as specified, to the homeowner, unless otherwise provided. Existing law allows all notices required by the Mobilehome Residency Law to be delivered before February 1 of each year to be combined into one notice, as specified.",
+  "This bill would, instead, require notices required by the Mobilehome Residency Law to be delivered to both the homeowner and resident of the mobilehome. The bill would also authorize the notices required by the Mobilehome Residency Law to be delivered prior to February 1 of each year to be delivered by electronic mail if the homeowner or resident has provided affirmative, written consent, as defined. The bill would allow a homeowner or resident to revoke their consent to receive notices by electronic mail at any time, without any fee, charge, or penalty, and without any impact to the terms of their tenancy, as specified. The bill would require management to deliver personally or by mail to the homeowner or resident a notice stating that the homeowner or resident has agreed to receive notices by electronic mail and may revoke this agreement, as provided.",
+  "This bill would make nonsubstantive changes reflective of existing law, as provided."
+ ],
+ "authorLine": "Introduced by Assembly Member Michelle Rodriguez",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-02-03",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-05-07",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-05-07",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-15",
+   "vote": {
+    "ayes": 69,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary"
+   ],
+   "done": "2025-06-18",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-06-17",
+     "ayes": 12,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": false,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "skipped",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-02",
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-03",
+   "applies": true,
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "pending": "2025-09-02",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-09",
+   "done": "2025-10-06",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-06",
+   "chapter": {
+    "number": 339,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-03",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-04",
+   "text": "From printer. May be heard in committee March 6.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-02-18",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-29",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-07",
+   "text": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 12. Noes 0.) (May 7).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-08",
+   "text": "Read second time and amended. Ordered returned to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-12",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-15",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1570.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-15",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-28",
+   "text": "Referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-18",
+   "text": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 12. Noes 0.) (June 17).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-06-19",
+   "text": "Read second time and amended. Ordered to consent calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-27",
+   "text": "From Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-27",
+   "text": "Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-07-08",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-07-09",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2390.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-02",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 2856.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Enrolled and presented to the Governor at 3 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-06",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-06",
+   "text": "Chaptered by Secretary of State - Chapter 339, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-05-07",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-15",
+   "ayes": 69,
+   "noes": 0,
+   "nvr": 10,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-06-17",
+   "ayes": 12,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-02",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-03",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-05-05",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-13",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-27",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-09",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-02",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-03",
+   "action": "Introduced",
+   "id": "20250AB39199INT"
+  },
+  {
+   "date": "2025-05-08",
+   "action": "Amended Assembly",
+   "id": "20250AB39198AMD"
+  },
+  {
+   "date": "2025-06-19",
+   "action": "Amended Senate",
+   "id": "20250AB39197AMD"
+  },
+  {
+   "date": "2025-07-08",
+   "action": "Amended Senate",
+   "id": "20250AB39196AMD"
+  },
+  {
+   "date": "2025-09-05",
+   "action": "Enrolled",
+   "id": "20250AB39195ENR"
+  },
+  {
+   "date": "2025-10-06",
+   "action": "Chaptered",
+   "id": "20250AB39194CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB391",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB391",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB391",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB391",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB391",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB391",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB391&version=20250AB39194CHP"
+ }
+}

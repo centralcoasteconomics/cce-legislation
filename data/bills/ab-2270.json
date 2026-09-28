@@ -1,0 +1,634 @@
+{
+ "id": "202520260AB2270",
+ "slug": "ab-2270",
+ "label": "AB 2270",
+ "type": "AB",
+ "number": 2270,
+ "session": "20252026",
+ "subject": "Low-income housing tax credit: farmworker housing.",
+ "title": "An act to amend Section 50205 of the Health and Safety Code, and to amend Sections 12206, 17058, and 23610.5 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.",
+ "authors": [
+  {
+   "name": "Arambula",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Calderon",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Garcia",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Arreguín",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Ochoa Bogh",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Reyes",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-09-04",
+  "text": "Enrolled and presented to the Governor at 4 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-09-04",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "funding",
+  "taxcredit"
+ ],
+ "sections": [
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50205",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "12206",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "17058",
+   "verb": "amend"
+  },
+  {
+   "code": "RTC",
+   "name": "Revenue and Taxation Code",
+   "section": "23610.5",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Two Thirds",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "No",
+  "urgency": "Yes",
+  "taxLevy": "Yes"
+ },
+ "nextHearing": null,
+ "urgency": true,
+ "progress": 0.8,
+ "digest": [
+  "Existing law establishes a low-income housing tax credit program for which the California Tax Credit Allocation Committee (CTCAC) provides procedures and requirements for the allocation, in modified conformity with federal law, of state insurance, personal income, and corporation tax credit amounts to qualified low-income housing projects that have been allocated, or qualify for, a federal low-income housing tax credit, and farmworker housing. Existing law limits the total annual amount of the state low-income housing credit for which a federal low-income housing credit is required to the sum of $70,000,000, as increased by any percentage increase in the Consumer Price Index for the preceding calendar year, any unused credit for the preceding calendar years, and the amount of housing credit ceiling returned in the calendar year. Existing law governing the taxation of insurers, the Personal Income Tax Law, and the Corporation Tax Law provided an allocation of $500,000,000 for the 2020 calendar year and, for calendar years beginning in 2021, also provides for an additional amount that may be allocated, up to $500,000,000, to specified low-income housing projects that are new buildings that are federally subsidized, as specified. Existing law provides that this additional amount is only available for allocation pursuant to an authorization in the annual Budget Act. Existing law requires specified regulatory action by CTCAC aimed at increasing production and containing costs, including a scoring system that maximizes the efficient use of public subsidy and benefit created through the low-income housing tax credit program, as specified.",
+  "This bill would require CTCAC to consider amending the regulatory scoring system to establish a housing type for farmworker housing projects, as specified in the existing CTCAC regulation. The bill would also require the CTCAC to consider using the same point allocations provided for rural set-aside projects in assigning points to farmworker housing based on the proximity of amenities to an eligible farmworker housing project.",
+  "Existing federal immigration law authorizes employment of nonimmigrant agricultural workers, known as H-2A workers, if specified requirements are met, including that the employer furnish housing, as provided.",
+  "Existing law generally prohibits providing state funding to an employer or its agent who employs an H-2A worker for the purposes of funding housing and requires an employer that receives state funding for that purpose to reimburse the state by that amount, as specified. Existing law defines “state funding” for this purpose to exclude the allocation of federal or state low-income housing tax credits.",
+  "This bill, for taxable years beginning on or after January 1, 2027, would include the allocation of state low-income housing tax credits within the definition of “state funding” and would prohibit providing low-income housing tax credits for projects to provide farmworker housing used to comply with the above-described H2-A housing requirement.",
+  "This bill would incorporate additional changes to Sections 12206, 17058, and 23610.5 of the Revenue and Taxation Code proposed by Senate Bill 1072 to be operative only if this bill and Senate Bill 1072 are enacted and this bill is enacted last.",
+  "This bill would include a change in state statute that would result in a taxpayer paying a higher tax within the meaning of Section 3 of Article XIIIA of the California Constitution, and thus would require for passage the approval of 23 of the membership of each house of the Legislature.",
+  "This bill would take effect immediately as a tax levy."
+ ],
+ "authorLine": "Introduced by Assembly Member Arambula (Coauthors: Assembly Members Calderon and Garcia) (Coauthors: Senators Arreguín, Ochoa Bogh, and Reyes)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-19",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Revenue and Taxation",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-04-29",
+   "votes": [
+    {
+     "committee": "Assembly Revenue and Taxation",
+     "date": "2026-04-13",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-04-29",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-05-13",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-06-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-13",
+     "ayes": 6,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-05-27",
+   "vote": {
+    "ayes": 64,
+    "noes": 6
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing"
+   ],
+   "done": "2026-06-17",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-06-16",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2026-06-29",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-06-29",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-08-13",
+     "ayes": 6,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-08-26",
+   "vote": {
+    "ayes": 33,
+    "noes": 3
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2026-08-27",
+   "applies": true,
+   "vote": {
+    "ayes": 63,
+    "noes": 7
+   },
+   "pending": "2026-08-27",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-09-04",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-19",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-20",
+   "text": "From printer. May be heard in committee March 22.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Referred to Coms. on REV. & TAX. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-14",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 5. Noes 1.) (April 13). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-29",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 29).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-30",
+   "text": "Read second time and amended.",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": null
+  },
+  {
+   "date": "2026-05-04",
+   "text": "Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-13",
+   "text": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 12. Noes 1.) (May 14).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-18",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-27",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 6.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-28",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "Referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 1.) (June 16).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-29",
+   "text": "In committee: Referred to APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Do pass. (Ayes 6. Noes 1.) (August 13).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-21",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-26",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 33. Noes 3.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 63. Noes 7. Page 6690.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-09-04",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX19",
+   "date": "2026-04-13",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Revenue and Taxation"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-04-29",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-05-14",
+   "ayes": 12,
+   "noes": 1,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-05-27",
+   "ayes": 64,
+   "noes": 6,
+   "nvr": 9,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-06-16",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-06-29",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-08-13",
+   "ayes": 6,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-26",
+   "ayes": 34,
+   "noes": 3,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-27",
+   "ayes": 63,
+   "noes": 7,
+   "nvr": 9,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-04-10",
+   "committee": "Assembly Revenue and Taxation",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-04-27",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-12",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-05-20",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-11",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-14",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-24",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-08-27",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "action": "Introduced",
+   "id": "20250AB227099INT"
+  },
+  {
+   "date": "2026-04-30",
+   "action": "Amended Assembly",
+   "id": "20250AB227098AMD"
+  },
+  {
+   "date": "2026-06-18",
+   "action": "Amended Senate",
+   "id": "20250AB227097AMD"
+  },
+  {
+   "date": "2026-08-21",
+   "action": "Amended Senate",
+   "id": "20250AB227096AMD"
+  },
+  {
+   "date": "2026-09-01",
+   "action": "Enrolled",
+   "id": "20250AB227095ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2270",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2270",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2270",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2270",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2270",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2270",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2270&version=20250AB227095ENR"
+ }
+}

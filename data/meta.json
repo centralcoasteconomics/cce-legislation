@@ -1,0 +1,77 @@
+{
+ "generatedAt": "2026-09-28T20:45:35+00:00",
+ "today": "2026-09-28",
+ "session": {
+  "key": "20252026",
+  "archiveYear": 2025,
+  "label": "2025-26 Regular Session",
+  "stalledAfter": "2026-08-31",
+  "adjournsSineDie": "2026-11-30"
+ },
+ "source": {
+  "archive": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
+  "lastModified": "Mon, 28 Sep 2026 04:26:06 GMT",
+  "etag": "\"4c672aa1-65c8376ed5380\"",
+  "publisher": "Legislative Counsel of California"
+ },
+ "fetchedBytes": 0,
+ "counts": {
+  "stalled": 79,
+  "died": 23,
+  "law": 78,
+  "vetoed": 10,
+  "governor": 70
+ },
+ "total": 260,
+ "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",
+ "calendar": [
+  {
+   "date": "2026-08-31",
+   "label": "Last day for each house to pass bills",
+   "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Last day for the Governor to sign or veto bills",
+   "note": "A bill passed before Sept 1 and not returned by Sept 30 becomes law without his signature (Cal. Const. art. IV, sec. 10(b)(2)).",
+   "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"
+  },
+  {
+   "date": "2026-11-30",
+   "label": "2025-26 session adjourns sine die",
+   "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"
+  },
+  {
+   "date": "2026-12-07",
+   "label": "2027-28 session convenes",
+   "note": "Noon on the first Monday in December of an even year (Cal. Const. art. IV, sec. 3(a)).",
+   "source": "https://www.assembly.ca.gov/system/files/2026-03/2026-calendar-version-2.pdf"
+  },
+  {
+   "date": "2027-01-01",
+   "label": "Most 2026 statutes take effect",
+   "note": "Non-urgency statutes take effect January 1 of the following year (Cal. Const. art. IV, sec. 8(c)).",
+   "source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%208.&article=IV"
+  }
+ ],
+ "areas": {
+  "density": "Density bonus",
+  "streamlining": "By-right and streamlined approval",
+  "haa": "Housing Accountability Act",
+  "element": "Housing element and RHNA",
+  "adu": "ADUs and lot splits",
+  "zoning": "Zoning and land use",
+  "permits": "Permits and timelines",
+  "fees": "Impact fees",
+  "surplus": "Surplus land",
+  "homeless": "Homelessness and shelter",
+  "tenant": "Tenant protections",
+  "ceqa": "CEQA",
+  "taxcredit": "Tax credits and property tax",
+  "funding": "State housing programs",
+  "building": "Building standards",
+  "mobilehome": "Mobilehomes",
+  "redevelopment": "Redevelopment successors",
+  "other": "Other housing"
+ }
+}

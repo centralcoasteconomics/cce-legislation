@@ -1,0 +1,727 @@
+{
+ "id": "202520260SB222",
+ "slug": "sb-222",
+ "label": "SB 222",
+ "type": "SB",
+ "number": 222,
+ "session": "20252026",
+ "subject": "Residential heat pump water heater or heat pump HVAC systems.",
+ "title": "An act to add Section 4737 to the Civil Code, and to add Chapter 7.5 (commencing with Section 51297.50) to Part 1 of Division 1 of Title 5 of the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Wiener",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Allen",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Becker",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Stern",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-30",
+  "text": "Enrolled and presented to the Governor at 6 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-30",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "4737",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "51297.50",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "(1)Existing law establishes the State Energy Resources Conservation and Development Commission and prescribes the authorities, duties, and responsibilities of the commission pertaining to energy matters. Existing law requires the commission, on or before January 1, 2019, in consultation with the Contractors State License Board, local building officials, and other stakeholders, to approve a plan that promotes compliance with specified regulations relating to building energy efficiency standards in the installation of central air-conditioning and heat pumps, as specified. Existing law authorizes the commission to adopt regulations to increase compliance with permitting and inspection requirements for central air-conditioning and heat pumps, and associated sales and installations, consistent with the above-described plan.",
+  "This bill would establish various requirements and authorizations for the installation of a residential heat pump water heater or heat pump HVAC system, as defined, by, among other things, requiring a city, county, or city and county, beginning July 1, 2027, to adopt and offer asynchronous inspections for installations that do not require a licensed contractor and building inspector to be simultaneously present during the inspection. The bill would additionally require a city, county, or city and county, except as specified, to post specific information online, and on or before July 1, 2028, to implement an online automated permitting process for the installation of a residential heat pump water heater or heat pump HVAC system that issues permits in real time to a licensed contractor that meets certain criteria. The bill would require the criteria to include, among others, that the licensed contractor certify under penalty of perjury that they have performed a load calculation to properly size the new equipment, as specified. By expanding the crime of perjury, the bill would impose a state-mandated local program. By imposing these various new duties on the described local entities, the bill would impose a state-mandated local program.",
+  "The bill would authorize a city, county, or city and county, except as specified, to require up to one nondiscretionary permit per installation of a residential heat pump water heater or heat pump HVAC system in which the local entity administratively approves an application to install the residential heat pump water heater or heat pump HVAC system.",
+  "The bill would additionally authorize a city, county, or city and county to apply only certain planning or zoning or workforce labor standards on the installation of a residential heat pump water heater or heat pump HVAC system that are in addition to any state-level requirements. The bill would prohibit a local entity described above from requiring a permit or inspection for plug-in ready window air-conditioner or window heat pump HVAC systems, provided that certain requirements are met, including that the appliance has a voltage rating of 120 volts or less and the appliance is a self-contained unit. The bill would limit the amount a city, county, or city and county may charge as a permit fee for a residential heat pump water heater or heat pump HVAC system, as specified.",
+  "The bill would require a local entity described above that applies to receive any funding from the commission to self-certify to the commission its compliance with any applicable portions of the bill’s provisions.",
+  "The above provisions would not apply to new residential construction.",
+  "The bill would include findings and declarations related to these provisions.",
+  "(2)Existing law, the Davis-Stirling Common Interest Development Act, defines and regulates common interest developments. Among other things, the act makes a provision of the governing document or architectural or landscaping guidelines or policies void and unenforceable if, among other things, the provision prohibits, or includes conditions that have the effect of prohibiting, the use of low water-using plants as a group or as a replacement of existing turf.",
+  "This bill would additionally make any provision of the governing documents, architectural guidelines, or policies void and unenforceable if the provision prevents the replacement of a fuel-gas-burning appliance with an electric appliance. The bill would also make any covenant, restriction, or condition contained in any, among other specified agreements, deed, and any provision of a governing document, that effectively prohibits or restricts the installation or use of a residential heat pump water heater or heat pump HVAC system, void and unenforceable. The bill would prohibit an association, among other things, from prohibiting or restricting a member from installing, upgrading, replacing, or using a residential heat pump water heater or heat pump HVAC system in the member’s separate interest, except as specified.",
+  "(3)The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, with regard to certain mandates, no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Senator Wiener (Coauthors: Senators Allen, Becker, and Stern)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-01-27",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary",
+    "Senate Housing",
+    "Senate Local Government"
+   ],
+   "done": "2026-01-14",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-08",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-08",
+     "ayes": 5,
+     "noes": 2,
+     "result": "Fail"
+    },
+    {
+     "committee": "Senate Housing",
+     "date": "2026-01-06",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Local Government",
+     "date": "2026-01-14",
+     "ayes": 4,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-01-20",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 13,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-01-26",
+   "vote": {
+    "ayes": 29,
+    "noes": 8
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Local Government"
+   ],
+   "done": "2026-07-02",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-24",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Local Government",
+     "date": "2026-07-01",
+     "ayes": 8,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2026-08-05",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 13,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-24",
+   "vote": {
+    "ayes": 60,
+    "noes": 8
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-25",
+   "applies": true,
+   "vote": {
+    "ayes": 32,
+    "noes": 5
+   },
+   "pending": "2026-08-24",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-30",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-01-27",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-01-28",
+   "text": "From printer. May be acted upon on or after February 27.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-02-05",
+   "text": "Referred to Coms. on JUD. and INS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-25",
+   "text": "Set for hearing April 8.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-08",
+   "text": "April 8 set for first hearing. Failed passage in committee. (Ayes 5. Noes 2. Page 705.) Reconsideration granted.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Set for hearing January 6 in HOUSING pending receipt.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Withdrawn from committee.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Com. on RLS.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-05",
+   "text": "Re-referred to Coms. on HOUSING and L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-07",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 0. Page 3183.) (January 6). Re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-08",
+   "text": "Set for hearing January 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-14",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 4. Noes 1. Page 3224.) (January 14).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-15",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-01-15",
+   "text": "Set for hearing January 20.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-01-20",
+   "text": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-01-21",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-01-26",
+   "text": "Read third time. Passed. (Ayes 29. Noes 8. Page 3279.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-01-26",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-18",
+   "text": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-09",
+   "text": "June 10 hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-06-15",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "June 17 hearing postponed by committee.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-06-24",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on L. GOV.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-02",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "August 5 set for first hearing. Placed on suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Assembly Rule 63 suspended.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Do pass. (Ayes 13. Noes 1.) (August 13).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Read third time and amended.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-08-17",
+   "text": "Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Read third time. Passed. (Ayes 60. Noes 8. Page 6385.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-24",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Assembly amendments concurred in. (Ayes 32. Noes 5.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Enrolled and presented to the Governor at 6 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS53",
+   "date": "2025-04-08",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS53",
+   "date": "2025-04-08",
+   "ayes": 5,
+   "noes": 2,
+   "nvr": 0,
+   "result": "Fail",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2026-01-06",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2026-01-14",
+   "ayes": 4,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-01-26",
+   "ayes": 29,
+   "noes": 8,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-24",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX15",
+   "date": "2026-07-01",
+   "ayes": 8,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Local Government"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-13",
+   "ayes": 13,
+   "noes": 1,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-24",
+   "ayes": 60,
+   "noes": 8,
+   "nvr": 11,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-25",
+   "ayes": 32,
+   "noes": 5,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-04",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-12-30",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-01-09",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-01-21",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-22",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-30",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-07-01",
+   "committee": "Assembly Local Government",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-14",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-17",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-24",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-01-27",
+   "action": "Introduced",
+   "id": "20250SB22299INT"
+  },
+  {
+   "date": "2025-03-28",
+   "action": "Amended Senate",
+   "id": "20250SB22298AMD"
+  },
+  {
+   "date": "2026-01-05",
+   "action": "Amended Senate",
+   "id": "20250SB22297AMD"
+  },
+  {
+   "date": "2026-01-15",
+   "action": "Amended Senate",
+   "id": "20250SB22296AMD"
+  },
+  {
+   "date": "2026-06-15",
+   "action": "Amended Assembly",
+   "id": "20250SB22295AMD"
+  },
+  {
+   "date": "2026-08-17",
+   "action": "Amended Assembly",
+   "id": "20250SB22294AMD"
+  },
+  {
+   "date": "2026-08-27",
+   "action": "Enrolled",
+   "id": "20250SB22293ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB222",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB222",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB222",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB222",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB222",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB222",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB222&version=20250SB22293ENR"
+ }
+}

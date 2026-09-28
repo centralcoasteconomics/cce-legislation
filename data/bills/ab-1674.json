@@ -1,0 +1,259 @@
+{
+ "id": "202520260AB1674",
+ "slug": "ab-1674",
+ "label": "AB 1674",
+ "type": "AB",
+ "number": 1674,
+ "session": "20252026",
+ "subject": "Food Affordability Act.",
+ "title": "An act to add and repeal Chapter 15 (commencing with Section 49030) of Division 17 of the Food and Agricultural Code, and to add and repeal Section 65913.17 of the Government Code, relating to food, and making an appropriation therefor.",
+ "authors": [
+  {
+   "name": "Ahrens",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "stalled",
+ "current": "fiscal_o",
+ "currentLabel": "Appropriations",
+ "location": "Assembly",
+ "statusRaw": "In Committee Process",
+ "measureState": "Introduced",
+ "lastAction": {
+  "date": "2026-04-07",
+  "text": "In committee: Set, first hearing. Hearing canceled at the request of author."
+ },
+ "chapter": null,
+ "presented": null,
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "streamlining"
+ ],
+ "sections": [
+  {
+   "code": "FAC",
+   "name": "Food and Agricultural Code",
+   "section": "49030",
+   "verb": "repeal"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65913.17",
+   "verb": "repeal"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "Yes",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.2,
+ "digest": [
+  "Existing law creates the Office of Farm to Fork within the Department of Food and Agriculture, and requires the office, to the extent that resources are available, to work with various entities, as prescribed, to increase the amount of agricultural products available to underserved communities and schools in the state. Existing law requires the office, among other things, to identify distribution barriers that affect limited food access and work to overcome those barriers through various actions and to coordinate with school districts and representatives to increase the nutritional profile of foods provided in schools.",
+  "This bill, the Food Affordability Act, would create the Food Desert Elimination Grant Program under the administration of the department to expand access to healthy foods in food deserts, as defined, and areas at risk of becoming food deserts, by providing grants to developers and grocery store operators, as specified. The bill would create the Food Desert Elimination Fund and would authorize the department, upon appropriation by the Legislature, to expend moneys in the fund for the purpose of the program. The bill would authorize the department to collect nonstate, federal, and private moneys for the purpose of the program, require those moneys to be deposited into the California Equitable Food Access Account within the Food Desert Elimination Fund, which the bill would create, and continuously appropriate those moneys to the department for the purpose of the program. The bill would authorize the department to award grants for specified purposes to developers or grocery store operators seeking to locate grocery stores in food deserts or to existing grocery stores located in food deserts. The bill would require a developer or grocery store operator that received a grant to locate a grocery store in a food desert and opened a grocery store accordingly, to return any unused grant moneys to the department if the grocery store closes within 2 years of the date of opening. The bill would also authorize the department to award grants to grocery store operators of existing large grocery stores that provide essential food access to food deserts to support the retention, stabilization, or continued operation of the large grocery store, as specified. The bill would require the department, on or before January 1, 2028, to report the number of grants awarded under the program and the location of grant recipients to the relevant policy committees of the Legislature. The bill would authorize the department to adopt guidelines to implement these provisions.",
+  "The bill would also require a local government to require, for new housing development projects, as defined, proposed for approval by a local government in a food desert, or an area at risk of becoming a food desert, the applicant to demonstrate that the new housing development project does not reduce site capacity for a large grocery store, or, if site capacity is reduced, to provide equivalent mitigation, as provided. The bill would require local governments to report annually to the department on new housing development projects that meet these requirements, as specified. The bill would require the department to prioritize developers and grocery store operators seeking to locate a grocery store in a food desert as part of a new housing development project when awarding grants pursuant to these provisions. By placing new requirements on local governments relating to new housing development projects in food deserts or areas at risk of becoming food deserts, this bill would impose a state-mandated local program.",
+  "The bill would repeal its provisions on January 1, 2031.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Assembly Member Ahrens",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2026-02-02",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Agriculture",
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2026-03-26",
+   "votes": [
+    {
+     "committee": "Assembly Agriculture",
+     "date": "2026-03-25",
+     "ayes": 5,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "stalled",
+   "stoppedOn": "2026-04-07",
+   "reason": "Did not advance before the session deadline",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [],
+   "done": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": null,
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [],
+   "state": "upcoming",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": null,
+   "vote": null,
+   "state": "upcoming",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": null,
+   "applies": true,
+   "vote": null,
+   "pending": null,
+   "state": "upcoming",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": null,
+   "done": null,
+   "vetoed": null,
+   "state": "upcoming",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-02-02",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-02-03",
+   "text": "From printer. May be heard in committee March 5.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2026-03-02",
+   "text": "Referred to Coms. on AGRI. and H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-26",
+   "text": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 5. Noes 0.) (March 25). Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-07",
+   "text": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX01",
+   "date": "2026-03-25",
+   "ayes": 5,
+   "noes": 0,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Agriculture"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-03-24",
+   "committee": "Assembly Agriculture",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-02-02",
+   "action": "Introduced",
+   "id": "20250AB167499INT"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1674",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1674",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1674",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1674",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1674",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1674",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1674&version=20250AB167499INT"
+ }
+}

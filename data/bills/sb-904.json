@@ -1,0 +1,743 @@
+{
+ "id": "202520260SB904",
+ "slug": "sb-904",
+ "label": "SB 904",
+ "type": "SB",
+ "number": 904,
+ "session": "20252026",
+ "subject": "Recovery from a state of emergency.",
+ "title": "An act to add Sections 8608.2, 8608.3, and 8608.4 to the Government Code, relating to disaster recovery.",
+ "authors": [
+  {
+   "name": "Seyarto",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Hadwick",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Allen",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Alvarado-Gil",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Choi",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Niello",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Ochoa Bogh",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Rubio",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Alanis",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Flora",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Gallagher",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Lackey",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Patterson",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  },
+  {
+   "name": "Tangipa",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "R"
+  }
+ ],
+ "outcome": "governor",
+ "current": "governor",
+ "currentLabel": "Governor",
+ "location": "Governor",
+ "statusRaw": "Enrolled",
+ "measureState": "Enrolled",
+ "lastAction": {
+  "date": "2026-08-30",
+  "text": "Enrolled and presented to the Governor at 6 p.m."
+ },
+ "chapter": null,
+ "presented": "2026-08-30",
+ "approved": null,
+ "vetoed": null,
+ "governorDeadline": "2026-09-30",
+ "areas": [
+  "other"
+ ],
+ "sections": [
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "8608.2",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "8608.3",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "8608.4",
+   "verb": "add"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 0.8,
+ "digest": [
+  "Existing law, the California Emergency Services Act, authorizes the Governor to proclaim a state of emergency when specified conditions of disaster or extreme peril to the safety of persons and property exist, and authorizes the Governor to exercise certain powers in response to that emergency, including, but not limited to, suspending specified statutes, ordinances, orders, regulations, or rules.",
+  "This bill would impose specific duties on the Department of Housing and Community Development if the Office of Emergency Services makes a written determination, within 10 days after the date that the Governor declared a state of emergency relating to a wildfire, that the wildfire caused substantial structural damage requiring significant rebuilding efforts, as defined. The bill would require the department, under this condition, to consult with other specified state entities and local governments to identify state permitting requirements and local procedures that could be suspended or revised to support recovery and rebuilding efforts as a result of the wildfire, as specified. The bill would require the department to prepare and submit initial and periodic reports to the Governor and Legislature with the information and recommendations.",
+  "This bill, on or before July 1, 2028, would require the Department of Housing and Community Development, in consultation with other specified state entities, to convene a workgroup to review and provide a report to the Governor and the Legislature with recommendations regarding any provision of the California Building Standards Code that should be suspended for specified types of projects to facilitate rapid, safe, disaster-resilient, and cost-effective rebuilding and recovery guidance for any future state of emergency. The bill would require the workgroup to review and update the report to the Governor and Legislature after the release of every update to the California Building Standards Code.",
+  "This bill, starting January 1, 2028, would require, upon the Governor’s declaration of a state of emergency relating to a wildfire, every state agency or political subdivision, as defined, involved in postdisaster response, debris removal, reconstruction, housing, or land-use permitting to accept electronic submission of any application, form, plan set, appeal, or request for state agency or political subdivision action related to recovery efforts for that state of emergency, as provided. By imposing new duties on local agencies, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Senator Seyarto (Principal coauthor: Assembly Member Hadwick) (Coauthors: Senators Allen, Alvarado-Gil, Choi, Niello, Ochoa Bogh, and Rubio) (Coauthors: Assembly Members Alanis, Flora, Gallagher, Lackey, Patterson, and Tangipa)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2026-01-21",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Emergency Management"
+   ],
+   "done": "2026-04-15",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2026-03-17",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Emergency Management",
+     "date": "2026-04-14",
+     "ayes": 9,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2026-05-14",
+   "applies": true,
+   "suspense": "2026-04-27",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-04-27",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-14",
+     "ayes": 6,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2026-05-18",
+   "vote": {
+    "ayes": 38,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Emergency Management"
+   ],
+   "done": "2026-06-30",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2026-06-10",
+     "ayes": 11,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Emergency Management",
+     "date": "2026-06-29",
+     "ayes": 6,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2026-08-13",
+   "applies": true,
+   "suspense": "2026-08-05",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-04-27",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2026-05-14",
+     "ayes": 6,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2026-08-24",
+   "vote": {
+    "ayes": 71,
+    "noes": 1
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2026-08-25",
+   "applies": true,
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "pending": "2026-08-24",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2026-08-30",
+   "done": null,
+   "vetoed": null,
+   "state": "current",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": null,
+   "chapter": null,
+   "state": "upcoming",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-01-21",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-01-22",
+   "text": "From printer. May be acted upon on or after February 21.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2026-02-18",
+   "text": "Referred to Coms. on HOUSING and E.M.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-03",
+   "text": "Set for hearing March 17.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-03-09",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-03-18",
+   "text": "From committee: Do pass and re-refer to Com. on E.M. (Ayes 9. Noes 0. Page 3589.) (March 17). Re-referred to Com. on E.M.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-06",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.M.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-04-08",
+   "text": "Set for hearing April 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-15",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0. Page 3864.) (April 14). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-04-17",
+   "text": "Set for hearing April 27.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-04-27",
+   "text": "April 27 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-05-08",
+   "text": "Set for hearing May 14.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2026-05-14",
+   "text": "From committee: Do pass. (Ayes 6. Noes 1. Page 4256.) (May 14).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-05-14",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-05-18",
+   "text": "Read third time. Passed. (Ayes 38. Noes 0. Page 4312.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-05-19",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2026-05-26",
+   "text": "Referred to Coms. on H. & C.D. and E.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-05-27",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-10",
+   "text": "From committee: Do pass and re-refer to Com. on E.M. (Ayes 11. Noes 1.) (June 10). Re-referred to Com. on E.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-06-17",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.M.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-06-30",
+   "text": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (June 29).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-07-01",
+   "text": "Read second time and amended. Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2026-08-05",
+   "text": "August 5 set for first hearing. Placed on suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Assembly Rule 63 suspended.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-13",
+   "text": "From committee: Do pass. (Ayes 15. Noes 0.) (August 13).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2026-08-13",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-24",
+   "text": "Read third time. Passed. (Ayes 71. Noes 1. Page 6389.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2026-08-24",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2026-08-25",
+   "text": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Enrolled and presented to the Governor at 6 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS75",
+   "date": "2026-03-17",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS86",
+   "date": "2026-04-14",
+   "ayes": 9,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Emergency Management"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-04-27",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2026-05-14",
+   "ayes": 6,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-05-18",
+   "ayes": 38,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2026-06-10",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX81",
+   "date": "2026-06-29",
+   "ayes": 6,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Emergency Management"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2026-08-13",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2026-08-24",
+   "ayes": 71,
+   "noes": 1,
+   "nvr": 7,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2026-08-25",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2026-03-12",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-10",
+   "committee": "Senate Emergency Management",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-04-26",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-05-16",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2026-06-08",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-06-26",
+   "committee": "Assembly Emergency Management",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-03",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-14",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-08-24",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2026-01-21",
+   "action": "Introduced",
+   "id": "20250SB90499INT"
+  },
+  {
+   "date": "2026-03-09",
+   "action": "Amended Senate",
+   "id": "20250SB90498AMD"
+  },
+  {
+   "date": "2026-04-06",
+   "action": "Amended Senate",
+   "id": "20250SB90497AMD"
+  },
+  {
+   "date": "2026-05-27",
+   "action": "Amended Assembly",
+   "id": "20250SB90496AMD"
+  },
+  {
+   "date": "2026-06-17",
+   "action": "Amended Assembly",
+   "id": "20250SB90495AMD"
+  },
+  {
+   "date": "2026-07-01",
+   "action": "Amended Assembly",
+   "id": "20250SB90494AMD"
+  },
+  {
+   "date": "2026-08-27",
+   "action": "Enrolled",
+   "id": "20250SB90493ENR"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB904",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB904",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB904",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB904",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB904",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB904",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB904&version=20250SB90493ENR"
+ }
+}

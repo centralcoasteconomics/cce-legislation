@@ -1,0 +1,591 @@
+{
+ "id": "202520260AB1529",
+ "slug": "ab-1529",
+ "label": "AB 1529",
+ "type": "AB",
+ "number": 1529,
+ "session": "20252026",
+ "subject": "Housing omnibus.",
+ "title": "An act to amend Sections 1946.2 and 2924b of the Civil Code, to amend Sections 65863.10 and 65863.11 of the Government Code, and to amend Sections 50053 and 50710.7 of the Health and Safety Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Committee on Housing and Community Development",
+   "role": "LEAD_AUTHOR",
+   "house": "Assembly",
+   "type": "Committee",
+   "party": null
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-01",
+  "text": "Chaptered by Secretary of State - Chapter 203, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 203,
+  "year": 2025
+ },
+ "presented": "2025-09-23",
+ "approved": "2025-10-01",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "zoning",
+  "funding"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1946.2",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.10",
+   "verb": "amend"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.11",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50053",
+   "verb": "amend"
+  },
+  {
+   "code": "HSC",
+   "name": "Health and Safety Code",
+   "section": "50710.7",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "(1)Existing law governs the hiring of residential dwelling units. Existing law, the Tenant Protection Act of 2019, prohibits, until January 1, 2030, an owner of residential real property from terminating the tenancy of certain tenants without just cause, either at-fault or no-fault of the tenant, and requires just cause for terminating a tenancy to be stated in the written notice to terminate tenancy. The act requires an owner of residential real property subject to these provisions to provide the above-described notice to a tenant subject to specified requirements, including, for any tenancy commenced or renewed on or after July 1, 2020, as an addendum to the lease or rental agreement, or as a written notice signed by the tenant, with a copy provided to the tenant, except as specified.",
+  "This bill would allow the above-described notice to be provided in the lease or rental agreement.",
+  "(2)Existing law, the Planning and Zoning Law, requires an owner of an assisted housing development, as defined, that is within 3 years of a scheduled expiration of rental restrictions or a scheduled termination of a subsidy contract to provide notice of the scheduled expiration or termination to any prospective tenant at the time the prospective tenant is interviewed for eligibility, to existing tenants, as specified, and to affected public entities, as defined.",
+  "This bill would require a notice of a scheduled expiration of rental restrictions or a scheduled termination of a subsidy contract described above to remain posted until the expiration or termination has occurred, and would make technical changes relating to these provisions.",
+  "Existing law requires an owner of an assisted housing development, at least 12 months prior to the anticipated date of the termination of a subsidy contract, the expiration of rental restrictions, or prepayment on an assisted housing development, to provide a notice of the proposed change to each affected tenant household residing in the assisted housing development at the time the notice is provided and to the affected public entities, as specified. Existing law also requires an owner of an assisted housing development proposing to terminate a subsidy contract, or prepay the mortgage, or sell or otherwise dispose of the assisted housing development to provide a notice of the opportunity to offer to purchase, as provided. Existing law requires the notice of the opportunity to purchase to be given before or concurrently with the notice of the proposed change described above, as specified.",
+  "This bill would specify that the notice of the opportunity to purchase is required to be given before or concurrently with the 12-month notice of the proposed change, as specified.",
+  "Existing law requires that the initial notice of a bona fide opportunity to submit an offer to purchase contain certain information, including a statement addressing, among other things, whether the owner has an interest in selling the property. Existing law also requires that the initial notice include a statement that specified types of entities, or any combination of them, have the right to purchase the development under these provisions.",
+  "This bill would delete the requirement that the initial notice include a statement addressing whether the owner has an interest in selling the property. The bill would also clarify that the initial notice include a statement that the specified types of entities, as described above, have the right to submit a bona fide offer to purchase the development.",
+  "Existing law prescribes various requirements to be satisfied before the exercise of a power of sale under a mortgage or deed of trust and prescribes a procedure for the exercise of that power, including, among other things, that a trustee, mortgagee, or beneficiary, or any of their authorized agents, first file for record, in the office of the recorder of each county wherein the mortgaged or trust property or some part or parcel thereof is situated, a notice of default, as specified. Existing law requires the mortgagee, trustee, or other person authorized to record the notice of default or the notice of sale to mail the notice to specified individuals, including the office of the Controller, Sacramento, California, where, as of the recording date of the notice of default, a “Notice of Lien for Postponed Property Taxes” has been recorded against the real property to which the notice of default applies.",
+  "This bill would additionally require the mortgagee, trustee, or other person authorized to record the notice of default or the notice of sale to mail the notice to the office of the Director of Housing and Community Development, Sacramento, California, and the office of the Executive Director of the California Tax Credit Allocation Committee, Sacramento, California, where, as of the recording date of the notice of default, a use restriction, as defined, has been recorded against the real property to which the notice of default applies. The bill would prohibit any failure to comply with the above-described provisions from affecting the validity of a trustee’s sale or a sale in favor of a bona fide purchaser.",
+  "(3)Existing law, the Zenovich-Moscone-Chacon Housing and Home Finance Act, prohibits “affordable rent” for certain rental housing developments that receive assistance on or after January 1, 1991, from exceeding a specified percentage based on the area median income adjusted for family size appropriate for the unit and whether the household is an acutely low income household, extremely low income household, very low income household, lower income household, or moderate-income household. Existing law, for a rental housing development that dedicates 80% of units to lower income households, as specified, prohibits affordable rent from exceeding the rent prescribed by deed restrictions or regulatory agreements pursuant to the terms of public financing or public financial assistance for the rental housing development, if the rental housing development receives specified awards on or after January 1, 2025.",
+  "This bill would instead, for an above-described rental housing development that dedicates at least 80% of units to lower income households, as specified, prohibit affordable rent from exceeding an amount consistent with the maximum rent levels for lower income households, as those rents and incomes are determined by the California Tax Credit Allocation Committee. By revising the limit on “affordable rent” for certain housing developments, thereby revising the duties of local government officials with respect to administering various programs and requirements that require a determination of “affordable rent,” this bill would impose a state-mandated local program.",
+  "(4)Existing law requires the Department of Housing and Community Development, through its Office of Migrant Services, to assist in the development, construction, reconstruction, rehabilitation, or operation of migrant farm labor centers, as provided. Existing law requires the department to develop a report that analyzes the feasibility and impact of transitioning housing units at Office of Migrant Services centers to year-round availability, and to submit that report to specified committees of the Legislature by July 1, 2027, as provided. Existing law, by December 31, 2028, and following completion of that report, requires the department to coordinate with the Department of General Services and the Department of Food and Agriculture to identify available excess sites in proximity to migrant farm labor centers.",
+  "This bill would specify that, for the purposes of these provisions, the term “available excess sites” refers to prescribed previously identified sites, as provided.",
+  "(5)This bill would incorporate additional changes to Section 1946.2 of the Civil Code proposed by SB 522 to be operative only if this bill and SB 522 are enacted and this bill is enacted last.",
+  "(6)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Committee on Housing and Community Development",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Assembly",
+   "done": "2025-03-25",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-04-30",
+     "ayes": 10,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-05-07",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-07",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-05-15",
+   "vote": {
+    "ayes": 69,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Housing",
+    "Senate Local Government"
+   ],
+   "done": "2025-07-16",
+   "votes": [
+    {
+     "committee": "Senate Housing",
+     "date": "2025-06-24",
+     "ayes": 11,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Local Government",
+     "date": "2025-07-16",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-08-25",
+   "applies": true,
+   "suspense": null,
+   "held": null,
+   "votes": [
+    {
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-07",
+     "ayes": 15,
+     "noes": 0,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-09-10",
+   "vote": {
+    "ayes": 40,
+    "noes": 0
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Assembly",
+   "done": "2025-09-11",
+   "applies": true,
+   "vote": {
+    "ayes": 79,
+    "noes": 0
+   },
+   "pending": "2025-09-10",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-23",
+   "done": "2025-10-01",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-01",
+   "chapter": {
+    "number": 203,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-03-25",
+   "text": "Read first time. To print.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From printer. May be heard in committee April 25.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": null
+  },
+  {
+   "date": "2025-03-28",
+   "text": "Referred to Com. on H. & C.D.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-07",
+   "text": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 7).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-08",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-05-15",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1570.)",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-05-15",
+   "text": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-05-28",
+   "text": "Referred to Coms. on HOUSING and L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-17",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-06-25",
+   "text": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on L. GOV.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-01",
+   "text": "In committee: Hearing postponed by committee.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-08-19",
+   "text": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-08-25",
+   "text": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-26",
+   "text": "Read second time. Ordered to Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From Consent Calendar.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-08-29",
+   "text": "Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-05",
+   "text": "Read third time and amended. Ordered to second reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-08",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-10",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2797.).",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "In Assembly. Concurrence in Senate amendments pending.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-11",
+   "text": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3333.).",
+   "house": "Assembly",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-23",
+   "text": "Enrolled and presented to the Governor at 4 p.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-01",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-01",
+   "text": "Chaptered by Secretary of State - Chapter 203, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CX10",
+   "date": "2025-04-30",
+   "ayes": 10,
+   "noes": 0,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-05-07",
+   "ayes": 15,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-05-15",
+   "ayes": 69,
+   "noes": 0,
+   "nvr": 10,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "CS75",
+   "date": "2025-06-24",
+   "ayes": 11,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Housing"
+  },
+  {
+   "location_code": "CS82",
+   "date": "2025-07-16",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Local Government"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-10",
+   "ayes": 40,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-11",
+   "ayes": 79,
+   "noes": 0,
+   "nvr": 1,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-28",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-05-05",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-06-19",
+   "committee": "Senate Housing",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Senate Local Government",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-08-29",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-08",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-09-10",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-03-25",
+   "action": "Introduced",
+   "id": "20250AB152999INT"
+  },
+  {
+   "date": "2025-06-17",
+   "action": "Amended Senate",
+   "id": "20250AB152998AMD"
+  },
+  {
+   "date": "2025-08-19",
+   "action": "Amended Senate",
+   "id": "20250AB152997AMD"
+  },
+  {
+   "date": "2025-09-05",
+   "action": "Amended Senate",
+   "id": "20250AB152996AMD"
+  },
+  {
+   "date": "2025-09-15",
+   "action": "Enrolled",
+   "id": "20250AB152995ENR"
+  },
+  {
+   "date": "2025-10-01",
+   "action": "Chaptered",
+   "id": "20250AB152994CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1529",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1529",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB1529",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1529",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1529",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1529",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1529&version=20250AB152994CHP"
+ }
+}

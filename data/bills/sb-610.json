@@ -1,0 +1,739 @@
+{
+ "id": "202520260SB610",
+ "slug": "sb-610",
+ "label": "SB 610",
+ "type": "SB",
+ "number": 610,
+ "session": "20252026",
+ "subject": "Disaster assistance: tenants, mobilehome parks, and mortgages.",
+ "title": "An act to add Sections 798.64, 1941.8, and 1941.9 to the Civil Code, to add Section 338 to the Financial Code, and to amend Section 65863.7 of the Government Code, relating to housing.",
+ "authors": [
+  {
+   "name": "Pérez",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Allen",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Wahab",
+   "role": "LEAD_AUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Cervantes",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Durazo",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Gonzalez",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Menjivar",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Smallwood-Cuevas",
+   "role": "PRINCIPAL_COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Cabaldon",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Laird",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Reyes",
+   "role": "COAUTHOR",
+   "house": "Senate",
+   "type": "Legislator",
+   "party": "D"
+  },
+  {
+   "name": "Harabedian",
+   "role": "COAUTHOR",
+   "house": "Assembly",
+   "type": "Legislator",
+   "party": "D"
+  }
+ ],
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
+ "lastAction": {
+  "date": "2025-10-10",
+  "text": "Chaptered by Secretary of State. Chapter 547, Statutes of 2025."
+ },
+ "chapter": {
+  "number": 547,
+  "year": 2025
+ },
+ "presented": "2025-09-22",
+ "approved": "2025-10-10",
+ "vetoed": null,
+ "governorDeadline": null,
+ "areas": [
+  "tenant",
+  "zoning"
+ ],
+ "sections": [
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "798.64",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1941.8",
+   "verb": "add"
+  },
+  {
+   "code": "CIV",
+   "name": "Civil Code",
+   "section": "1941.9",
+   "verb": "add"
+  },
+  {
+   "code": "FIN",
+   "name": "Financial Code",
+   "section": "338",
+   "verb": "add"
+  },
+  {
+   "code": "GOV",
+   "name": "Government Code",
+   "section": "65863.7",
+   "verb": "amend"
+  }
+ ],
+ "flags": {
+  "vote": "Majority",
+  "appropriation": "No",
+  "fiscal": "Yes",
+  "localProgram": "Yes",
+  "urgency": "No",
+  "taxLevy": "No"
+ },
+ "nextHearing": null,
+ "urgency": false,
+ "progress": 1.0,
+ "digest": [
+  "(1)Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks.",
+  "Existing law, the Planning and Zoning Law, requires a person or entity proposing a change in use of a mobilehome park to file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park that includes a replacement and relocation plan, as specified. Existing law requires the legislative body or advisory agency to review the report before any change of use, as provided. Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing.",
+  "This bill would require, if a closure, cessation, or change of use is the result of damage or destruction of the mobilehome park by a disaster, as defined, the person or entity proposing that closure, cessation, or change of use to file an impact report, as described in the paragraph above, which also includes a technical service inspection report from the Department of Housing and Community Development that identifies the observed conditions within the park. By placing new requirements on local legislative bodies when approving permits for a change of use for mobilehome parks, this bill would impose a state-mandated local program.",
+  "Existing law requires the person or entity proposing the change of use of a mobilehome park to pay to the displaced resident the in-place market value of the displaced resident’s mobilehome, as provided.",
+  "This bill would provide that if the proposed closure, cessation, or change of use is related to damage or destruction by a disaster, the person or entity proposing the change of use of a mobilehome park is not required to pay to the displaced resident the in-place market value of the displaced resident’s mobilehome.",
+  "(2)Existing law regulates the terms and conditions of residential tenancies. Existing law requires the lessor of a building intended for human occupation to repair dilapidations, as specified, rendering it untenantable. Existing law requires a dwelling to be deemed untenantable if it substantially lacks certain affirmative standard characteristics.",
+  "This bill would impose a duty upon the landlord to undertake certain actions, within a reasonable time and according to specified cleaning protocols, as may be necessary to remediate any dilapidations that arise as a result of a disaster. The bill would establish a presumption that the presence at the rental unit of debris from the disaster renders the unit untenantable, until a determination has been made by a local public health agency or official that the debris does not contain toxic substances.",
+  "This bill would require the landlord to notify the tenant in writing that the landlord has fulfilled its duty to remediate dilapidations and that the tenant may view various reports, if requested. The bill would specify that these provisions do not require a landlord to rebuild a residential real property or any portion thereof that has sustained damage as a result of a disaster, and that, unless lawfully terminated by either party, the tenancy remains in effect and the tenant has the right to return to the rental unit, at the same rental rate in effect immediately prior to the disaster, as soon as it is safe and practicable.",
+  "(3)Existing law terminates the hiring of a thing by the destruction of the thing hired, or when the greater part of the thing hired perishes from any other cause than the want of ordinary care of the hirer.",
+  "This bill would require the landlord to return to the tenant any advance rental payments made by the tenant when the hiring of residential real property is terminated due to damage or destruction of the property. The bill would also require management of a mobilehome park to return to the homeowner any advance rental payments made by the homeowner when the mobilehome tenancy is terminated due to damage or the destruction of the mobilehome park or any space as a result of a disaster. The bill would discharge the tenant’s or homeowner’s obligation to pay rent during any period during which a tenant or homeowner is unable to occupy their rental unit due to a mandatory evacuation order pursuant to a disaster, as provided.",
+  "(4)Existing law makes the Commissioner of Financial Protection and Innovation the head of the Department of Financial Protection and Innovation, which executes the laws of this state relating to, among other things, residential mortgage lenders and servicers and mortgage loan originators employed or supervised by finance lenders or residential mortgage lenders.",
+  "This bill would require the commissioner to, upon the declaration of a state of emergency due to wildfire, as specified, coordinate with mortgage lenders and servicers subject to the commissioner’s jurisdiction operating in this state to facilitate and monitor the implementation and promotion of mortgage forbearance, foreclosure prevention, and loss mitigation programs available to borrowers who experience a material decrease in household income or a material increase in household expenses due, directly or indirectly, to the wildfire emergency.",
+  "(5)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "authorLine": "Introduced by Senators Pérez, Allen, and Wahab (Principal coauthors: Senators Cervantes, Durazo, Gonzalez, Menjivar, and Smallwood-Cuevas) (Coauthors: Senators Cabaldon, Laird, and Reyes) (Coauthor: Assembly Member Harabedian)",
+ "stages": [
+  {
+   "key": "introduced",
+   "kind": "introduced",
+   "house": "Senate",
+   "done": "2025-02-20",
+   "state": "done",
+   "label": "Introduced"
+  },
+  {
+   "key": "policy_o",
+   "kind": "policy",
+   "house": "Senate",
+   "committees": [
+    "Senate Judiciary"
+   ],
+   "done": "2025-04-30",
+   "votes": [
+    {
+     "committee": "Senate Judiciary",
+     "date": "2025-04-29",
+     "ayes": 11,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_o",
+   "kind": "fiscal",
+   "house": "Senate",
+   "done": "2025-05-23",
+   "applies": true,
+   "suspense": "2025-05-12",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-12",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_o",
+   "kind": "floor",
+   "house": "Senate",
+   "done": "2025-06-03",
+   "vote": {
+    "ayes": 28,
+    "noes": 10
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "policy_x",
+   "kind": "policy",
+   "house": "Assembly",
+   "committees": [
+    "Assembly Housing and Community Development",
+    "Assembly Judiciary"
+   ],
+   "done": "2025-07-03",
+   "votes": [
+    {
+     "committee": "Assembly Housing and Community Development",
+     "date": "2025-07-02",
+     "ayes": 8,
+     "noes": 1,
+     "result": "Pass"
+    },
+    {
+     "committee": "Assembly Judiciary",
+     "date": "2025-07-15",
+     "ayes": 9,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Policy committee"
+  },
+  {
+   "key": "fiscal_x",
+   "kind": "fiscal",
+   "house": "Assembly",
+   "done": "2025-07-16",
+   "applies": true,
+   "suspense": "2025-08-20",
+   "held": null,
+   "votes": [
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-12",
+     "ayes": 7,
+     "noes": 0,
+     "result": "Pass"
+    },
+    {
+     "committee": "Senate Appropriations",
+     "date": "2025-05-23",
+     "ayes": 5,
+     "noes": 1,
+     "result": "Pass"
+    }
+   ],
+   "state": "done",
+   "label": "Appropriations"
+  },
+  {
+   "key": "floor_x",
+   "kind": "floor",
+   "house": "Assembly",
+   "done": "2025-09-09",
+   "vote": {
+    "ayes": 59,
+    "noes": 11
+   },
+   "state": "done",
+   "label": "Floor vote"
+  },
+  {
+   "key": "concurrence",
+   "kind": "concurrence",
+   "house": "Senate",
+   "done": "2025-09-10",
+   "applies": true,
+   "vote": {
+    "ayes": 30,
+    "noes": 10
+   },
+   "pending": "2025-09-09",
+   "state": "done",
+   "label": "Concurrence"
+  },
+  {
+   "key": "governor",
+   "kind": "governor",
+   "house": "Governor",
+   "presented": "2025-09-22",
+   "done": "2025-10-10",
+   "vetoed": null,
+   "state": "done",
+   "label": "Governor"
+  },
+  {
+   "key": "chaptered",
+   "kind": "chaptered",
+   "house": "Secretary of State",
+   "done": "2025-10-10",
+   "chapter": {
+    "number": 547,
+    "year": 2025
+   },
+   "state": "done",
+   "label": "Chaptered"
+  }
+ ],
+ "history": [
+  {
+   "date": "2025-02-20",
+   "text": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-02-21",
+   "text": "From printer. May be acted upon on or after March 23.",
+   "house": "Senate",
+   "where": "Rules",
+   "event": null
+  },
+  {
+   "date": "2025-03-05",
+   "text": "Referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-03-26",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-08",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-11",
+   "text": "Set for hearing April 29.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-04-21",
+   "text": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-04-30",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1. Page 941.) (April 29). Re-referred to Com. on APPR.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-02",
+   "text": "Set for hearing May 12.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-12",
+   "text": "May 12 hearing: Placed on APPR. suspense file.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-05-16",
+   "text": "Set for hearing May 23.",
+   "house": "Senate",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-05-23",
+   "text": "From committee: Do pass. (Ayes 5. Noes 1. Page 1206.) (May 23).",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-05-23",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-06-03",
+   "text": "Read third time. Passed. (Ayes 28. Noes 10. Page 1456.) Ordered to the Assembly.",
+   "house": "Senate",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-06-04",
+   "text": "In Assembly. Read first time. Held at Desk.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "first_read"
+  },
+  {
+   "date": "2025-06-09",
+   "text": "Referred to Coms. on H. & C.D. and JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-03",
+   "text": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 8. Noes 1.) (July 2).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-07-07",
+   "text": "Read second time and amended. Re-referred to Com. on JUD.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "referred"
+  },
+  {
+   "date": "2025-07-16",
+   "text": "Coauthors revised.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": null
+  },
+  {
+   "date": "2025-07-16",
+   "text": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 1.) (July 15). Re-referred to Com. on APPR.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-08-20",
+   "text": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "house": "Assembly",
+   "where": "Committee",
+   "event": "suspense"
+  },
+  {
+   "date": "2025-08-29",
+   "text": "From committee: Do pass as amended. (Ayes 11. Noes 1.) (August 29).",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": "cmte_pass"
+  },
+  {
+   "date": "2025-09-02",
+   "text": "Read second time and amended. Ordered to second reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-03",
+   "text": "Read second time. Ordered to third reading.",
+   "house": "Assembly",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2025-09-09",
+   "text": "Read third time. Passed. (Ayes 59. Noes 11. Page 3088.) Ordered to the Senate.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "floor_pass"
+  },
+  {
+   "date": "2025-09-09",
+   "text": "In Senate. Concurrence in Assembly amendments pending.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": "concur_pending"
+  },
+  {
+   "date": "2025-09-10",
+   "text": "Assembly amendments concurred in. (Ayes 30. Noes 10. Page 2805.) Ordered to engrossing and enrolling.",
+   "house": "Senate",
+   "where": "E&E",
+   "event": "concurred"
+  },
+  {
+   "date": "2025-09-22",
+   "text": "Enrolled and presented to the Governor at 11 a.m.",
+   "house": "Governor",
+   "where": null,
+   "event": "enrolled"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2025-10-10",
+   "text": "Chaptered by Secretary of State. Chapter 547, Statutes of 2025.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
+  }
+ ],
+ "votes": [
+  {
+   "location_code": "CS53",
+   "date": "2025-04-29",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Judiciary"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-12",
+   "ayes": 7,
+   "noes": 0,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "CS61",
+   "date": "2025-05-23",
+   "ayes": 5,
+   "noes": 1,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Appropriations"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-06-03",
+   "ayes": 28,
+   "noes": 10,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Senate Floor"
+  },
+  {
+   "location_code": "CX10",
+   "date": "2025-07-02",
+   "ayes": 8,
+   "noes": 1,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Housing and Community Development"
+  },
+  {
+   "location_code": "CX13",
+   "date": "2025-07-15",
+   "ayes": 9,
+   "noes": 1,
+   "nvr": 2,
+   "result": "Pass",
+   "where": "Assembly Judiciary"
+  },
+  {
+   "location_code": "CX25",
+   "date": "2025-08-29",
+   "ayes": 11,
+   "noes": 1,
+   "nvr": 3,
+   "result": "Pass",
+   "where": "Assembly Appropriations"
+  },
+  {
+   "location_code": "AFLOOR",
+   "date": "2025-09-09",
+   "ayes": 59,
+   "noes": 11,
+   "nvr": 10,
+   "result": "Pass",
+   "where": "Assembly Floor"
+  },
+  {
+   "location_code": "SFLOOR",
+   "date": "2025-09-10",
+   "ayes": 30,
+   "noes": 10,
+   "nvr": 0,
+   "result": "Pass",
+   "where": "Senate Floor"
+  }
+ ],
+ "analyses": [
+  {
+   "date": "2025-04-25",
+   "committee": "Senate Judiciary",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-09",
+   "committee": "Senate Appropriations",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-05-26",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  },
+  {
+   "date": "2025-06-30",
+   "committee": "Assembly Housing and Community Development",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-07-11",
+   "committee": "Assembly Judiciary",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-08-18",
+   "committee": "Assembly Appropriations",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-03",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2025-09-09",
+   "committee": "Sen. Floor Analyses",
+   "house": "Senate"
+  }
+ ],
+ "versions": [
+  {
+   "date": "2025-02-20",
+   "action": "Introduced",
+   "id": "20250SB61099INT"
+  },
+  {
+   "date": "2025-03-26",
+   "action": "Amended Senate",
+   "id": "20250SB61098AMD"
+  },
+  {
+   "date": "2025-04-08",
+   "action": "Amended Senate",
+   "id": "20250SB61097AMD"
+  },
+  {
+   "date": "2025-04-21",
+   "action": "Amended Senate",
+   "id": "20250SB61096AMD"
+  },
+  {
+   "date": "2025-07-07",
+   "action": "Amended Assembly",
+   "id": "20250SB61095AMD"
+  },
+  {
+   "date": "2025-09-02",
+   "action": "Amended Assembly",
+   "id": "20250SB61094AMD"
+  },
+  {
+   "date": "2025-09-13",
+   "action": "Enrolled",
+   "id": "20250SB61093ENR"
+  },
+  {
+   "date": "2025-10-10",
+   "action": "Chaptered",
+   "id": "20250SB61092CHP"
+  }
+ ],
+ "veto": null,
+ "links": {
+  "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB610",
+  "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB610",
+  "history": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB610",
+  "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB610",
+  "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB610",
+  "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB610",
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB610&version=20250SB61092CHP"
+ }
+}
