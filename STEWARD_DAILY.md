@@ -32,7 +32,7 @@ Most mornings nothing moved, and the pass should take a minute.
 6. **Publish.** `git add editorial && git commit -m "editorial: <date> <what>" && git push`.
    The site reads the repo; no deploy is needed. Confirm from the edge within 15 minutes:
    `curl -s https://centralcoasteconomics.com/legislation | grep -c 'class="wcard'`.
-7. **One line to the steward log** (`~/Developer/CCE_PRIMER.md` §7g): date, changes seen,
+7. **One line to the steward log** (`~/Developer/CCE_PRIMER.md` §7c): date, changes seen,
    editorial edits made.
 
 ## Seasonal
