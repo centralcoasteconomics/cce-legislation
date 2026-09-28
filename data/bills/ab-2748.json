@@ -62,6 +62,7 @@
   "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Quirk-Silva",
  "stages": [
   {
@@ -100,12 +101,13 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 13,
+     "noes": 2,
      "result": "Pass"
     }
    ],
@@ -152,6 +154,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

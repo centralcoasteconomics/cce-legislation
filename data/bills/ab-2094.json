@@ -70,6 +70,7 @@
   "Existing law establishes the Department of Housing and Community Development (department) and, pursuant to the Governor’s Reorganization Plan No. 1 of 2025, which became effective on July 5, 2025, transfers the department to the California Housing and Homelessness Agency, effective July 1, 2026, for purposes of carrying out state housing policies and programs. Existing law, commonly referred to as the Surplus Land Act, prescribes requirements for the disposal of surplus land by a local agency, as defined, and requires, except as provided, a local agency disposing of surplus land to comply with certain notice requirements before disposing of the land or participating in negotiations to dispose of the land with a prospective transferee. As part of these procedures, existing law requires that the local agency send a notice of availability to housing sponsors, as defined, that have notified the department of their interest in surplus land, as specified.",
   "This bill would require the department to establish a dedicated social housing coordinator to lead social housing strategy and implementation. In leading social housing strategy and implementation, the bill would require the dedicated social housing coordinator to, among other things, inventory and prioritize surplus public land suitable for social housing development. The bill would define “social housing development” as housing developed pursuant to the bill’s provisions that is owned by a public entity, provides housing affordable to a mix of household income levels, and preserves long-term affordability. The bill would require the dedicated social housing coordinator to compile findings for social housing strategy and implementation, as specified, and post the findings on the department’s internet website. The bill would require the department, by January 1, 2028, to submit a report to the Legislature with actionable recommendations based on the social housing strategy and implementation program findings, as described above."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Harabedian and Lee",
  "stages": [
   {
@@ -108,6 +109,7 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "done",
    "label": "Appropriations"
@@ -141,6 +143,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

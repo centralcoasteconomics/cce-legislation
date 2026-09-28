@@ -1,0 +1,77 @@
+{
+ "_doc": "On the Ballot. Every figure is quoted from the Secretary of State's Quick Guide or the Legislative Analyst's analysis; nothing here is an endorsement. After election day, add `result` from the Secretary of State's certified or semi-official count with `asOf`.",
+ "updated": "2026-09-28",
+ "electionDate": "2026-11-03",
+ "measures": [
+  {
+   "number": "1",
+   "type": "Legislative statute · General obligation bond",
+   "title": "Authorizes Bonds for Housing Affordability Programs",
+   "amount": "$11.25 billion",
+   "amountNote": "in state general obligation bonds: $10 billion for state housing programs, repaid from the General Fund, and $1.25 billion for veterans' home loans, repaid by the veterans' loan payments",
+   "does": [
+    "Authorizes $11.25 billion in state general obligation bonds for housing affordability programs, including multifamily rental housing, mortgages for veterans, supportive housing, preservation of existing affordable housing, and downpayment assistance (Secretary of State summary)."
+   ],
+   "fiscal": "Increased state cost of $500 million to $600 million annually for about 25 years to repay the bond (Legislative Analyst).",
+   "why": "The $10 billion would fund a variety of state housing programs (Legislative Analyst): the state gap-financing layer most affordable rental projects depend on.",
+   "sources": [
+    {
+     "label": "Voter guide: Prop 1",
+     "href": "https://voterguide.sos.ca.gov/propositions/1/"
+    },
+    {
+     "label": "Legislative Analyst's analysis",
+     "href": "https://lao.ca.gov/BallotAnalysis/Proposition?number=1&year=2026"
+    },
+    {
+     "label": "Text of the measure (PDF)",
+     "href": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop1.pdf"
+    }
+   ]
+  },
+  {
+   "number": "37",
+   "type": "Initiative statute · Revenue bond",
+   "title": "Creates Loan Program for Middle-Income Buyers of Qualified New Homes",
+   "amount": "$25 billion",
+   "amountNote": "in revenue bonds, repaid by homeowners' loan payments",
+   "does": [
+    "Authorizes $25 billion in bonds to offer eligible buyers fixed-rate mortgages for up to 17% of the purchase price of a newly constructed home priced below about $1.5 million (Secretary of State summary).",
+    "Buyers must be California residents who occupy the home, meet income limits and put at least 3% down."
+   ],
+   "fiscal": "No direct state or local costs (Legislative Analyst).",
+   "why": "A demand-side program tied to new construction: it applies only to newly built homes, so its reach depends on the for-sale product being built.",
+   "sources": [
+    {
+     "label": "Voter guide: Prop 37",
+     "href": "https://voterguide.sos.ca.gov/propositions/37/"
+    },
+    {
+     "label": "Legislative Analyst's analysis",
+     "href": "https://lao.ca.gov/BallotAnalysis/Proposition?number=37&year=2026"
+    }
+   ]
+  },
+  {
+   "number": "45",
+   "type": "Initiative statute",
+   "title": "Modifies Environmental Review for Certain Projects",
+   "does": [
+    "Amends the California Environmental Quality Act to expedite environmental review for certain projects, including most housing, transportation, water and health projects, by setting deadlines to complete environmental review and to resolve lawsuits challenging project approvals (Secretary of State summary)."
+   ],
+   "fiscal": "Initial costs for state and local governments likely in the high tens of millions of dollars, potentially exceeding $100 million, annually, partly covered by fees; uncertain, potentially more significant positive or negative longer-term fiscal effects (Legislative Analyst).",
+   "why": "Deadlines on CEQA review and litigation change the schedule risk that entitlement and financing timelines are built around.",
+   "sources": [
+    {
+     "label": "Voter guide: Prop 45",
+     "href": "https://voterguide.sos.ca.gov/propositions/45/"
+    },
+    {
+     "label": "Legislative Analyst's analysis",
+     "href": "https://lao.ca.gov/BallotAnalysis/Proposition?number=45&year=2026"
+    }
+   ]
+  }
+ ],
+ "also": []
+}

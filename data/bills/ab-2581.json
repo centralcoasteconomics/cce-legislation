@@ -57,6 +57,7 @@
   "Existing law prescribes the general responsibilities and roles of the Department of Housing and Community Development and the California Housing Finance Agency in carrying out state housing policies and programs. Existing law establishes various programs to promote development of affordable housing for tenants and homeowners, including the Multifamily Housing Program, low-income housing tax credits, and the Joe Serna, Jr. Farmworker Housing Grant Program.",
   "This bill would, by January 1, 2028, require the department and the agency to develop and implement strategies, as specified, to promote the movement of tenants of deed-restricted affordable housing into home ownership through existing home ownership programs implemented by the department or the agency."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Soria",
  "stages": [
   {
@@ -95,6 +96,7 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-05-14",
@@ -128,6 +130,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

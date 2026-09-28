@@ -61,6 +61,7 @@
   "This bill would require a local agency to additionally include in its annual report specified information related to, among other things, the disposal of surplus land.",
   "This bill would incorporate additional changes to Section 65400 of the Government Code proposed by SB 1116 to be operative only if this bill and SB 1116 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ta",
  "stages": [
   {
@@ -107,18 +108,12 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-06-29",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -166,6 +161,7 @@
    "applies": true,
    "suspense": "2026-06-29",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

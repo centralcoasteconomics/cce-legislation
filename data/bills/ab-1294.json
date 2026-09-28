@@ -82,6 +82,7 @@
   "This bill would provide that, notwithstanding those provisions, no appropriation is made and the state shall not reimburse local agencies for property tax revenues lost by them pursuant to the bill.",
   "This bill would take effect immediately as a tax levy."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney (Principal coauthors: Senators Arreguín and Wiener)",
  "stages": [
   {
@@ -128,18 +129,12 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-10",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -196,6 +191,7 @@
    "applies": true,
    "suspense": "2026-08-10",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

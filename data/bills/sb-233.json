@@ -103,6 +103,7 @@
   "This bill would require the department to meet and consult with the council of governments, as described above, pursuant to prescribed deadlines. For the 7th revision of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision, except for specified councils of governments. For the 8th and subsequent revision of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision.",
   "This bill would incorporate additional changes to Section 65584.01 of the Government Code proposed by SB 486 to be operative only if this bill and SB 486 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Seyarto (Coauthors: Senators Niello, Ochoa Bogh, and Valladares) (Coauthors: Assembly Members Alanis, Castillo, and Lackey)",
  "stages": [
   {
@@ -141,15 +142,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-20",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-04-07",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -201,6 +195,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

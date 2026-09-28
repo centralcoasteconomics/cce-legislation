@@ -85,6 +85,7 @@
   "This bill would authorize a resident organization that represents 50% or more of the homeowners of the mobilehome park to, at its election and subject to rescission at any time, assign its rights under the bill to the municipality in which the resident organization is located, a housing authority located in the municipality, a state agency, or a qualified entity for the purpose of continuing the use of the property as a park. The bill would require the Department of Housing and Community Development to establish a process for certifying specified entities as qualified entities, as provided, and to maintain and update annually a list of qualified entities to be made available to management for the purpose of distributing notices to qualified entities.",
   "This bill would authorize a resident organization or public prosecutor, as specified, to bring an action against management that violates the bill for specified civil penalties and other relief. The bill would provide that its provisions shall be interpreted liberally and are severable."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Allen (Coauthor: Senator Wahab)",
  "stages": [
   {
@@ -131,6 +132,7 @@
    "applies": true,
    "suspense": "2026-05-11",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -205,6 +207,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-07-01",

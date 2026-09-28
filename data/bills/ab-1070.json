@@ -66,6 +66,10 @@
   "This bill would require the department to initiate a study no later than January 31, 2027, evaluating the conditions under which residential developments of between 3 and 10 units may be designed and constructed under the requirements of the California Residential Code, as specified. The bill would require the department to contract with external experts or an independent third party for this purpose. The bill would require the department, no later than December 31, 2028, to provide a one-time report of its findings to the Legislature in the annual report described above. The bill, if the report identifies and recommends amendments to building standards, would require the department to research, develop, and consider proposing the standards for adoption by the commission, as specified. For the purposes of these provisions, the bill would authorize the department to exceed the scope and application of the International Residential Code to evaluate and propose amendments to allow residential developments of between 3 and 10 units to be designed and constructed under the requirements of the California Residential Code.",
   "The bill would additionally require the department to perform a review of construction cost pressures for single-family and multifamily residential construction as a result of new or existing building standards and provide its findings to the Legislature in its above-described annual report on or before December 31, 2027."
  ],
+ "began": {
+  "subject": "Transit districts: governing boards: compensation: nonvoting members.",
+  "changedOn": "2026-01-05"
+ },
  "authorLine": "Introduced by Assembly Member Ward",
  "stages": [
   {
@@ -105,11 +109,12 @@
    "applies": true,
    "suspense": "2026-01-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-01-22",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -157,6 +162,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

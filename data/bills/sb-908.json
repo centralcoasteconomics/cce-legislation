@@ -39,6 +39,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
+  "cid",
   "zoning"
  ],
  "sections": [
@@ -80,6 +81,10 @@
   "(6)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Housing development: transit-oriented development.",
+  "changedOn": "2026-03-23"
+ },
  "authorLine": "Introduced by Senator Wiener (Coauthor: Senator Wahab)",
  "stages": [
   {
@@ -126,15 +131,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-08-05",
-     "ayes": 14,
-     "noes": 1,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-05-11",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -186,6 +184,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

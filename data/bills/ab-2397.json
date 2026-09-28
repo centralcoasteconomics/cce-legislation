@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "finance"
  ],
  "sections": [
   {
@@ -58,6 +58,10 @@
   "This bill would prohibit the legislative body of a local agency from taking certain actions with respect to a critical housing infrastructure district, as defined, including abandoning the proposed establishment of the district, as specified, unless prior to taking the action it makes certain findings based upon substantial evidence, including that establishment of the district, levying the special taxes, or incurring bonded indebtedness, as applicable, would have a specific adverse impact upon the public interest. The bill would specify that these provisions do not require or prohibit the legislative body from taking any other action authorized by the act with respect to a critical housing infrastructure district, as specified.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": {
+  "subject": "Planning and zoning.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Assembly Member Ta",
  "stages": [
   {
@@ -104,6 +108,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -156,6 +161,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

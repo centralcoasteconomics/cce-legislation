@@ -80,6 +80,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Hazardous waste: discarded appliances.",
+  "changedOn": "2025-06-12"
+ },
  "authorLine": "Introduced by Assembly Member Connolly",
  "stages": [
   {
@@ -118,6 +122,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -163,6 +168,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": "2025-08-19",
    "votes": [],
    "state": "done",
    "label": "Appropriations"

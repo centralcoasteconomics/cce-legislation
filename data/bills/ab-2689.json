@@ -64,6 +64,10 @@
   "Existing law, in modified conformity with federal income tax laws, establishes a low-income housing tax credit program through which the California Tax Credit Allocation Committee allocates low-income housing tax credits aimed at providing affordable low-income housing within and throughout the state. Existing federal law sets limitations and guidelines regarding what projects are eligible for credits, including a requirement that an extended low-income housing commitment is in effect, and a prohibition against eviction except for good cause.",
   "This bill would specify, for housing projects where the low-income housing commitment requires 100% of the units, not including any manager’s units, to be restricted to lower income households, as defined, that good cause for nonrenewal of a lease includes cases where the nonrenewal relates to a household whose income exceeds 140% of the area median income for at least 2 consecutive years and 30% of the household’s monthly income exceeds the fair market rent, determined as specified. The bill would require an owner to provide notice of the potential of good cause for nonrenewal described above if the household’s income exceeds 140% of the area median income during any income certification, as specified. The bill would also require an owner electing to not renew a lease as described above to issue a notice of nonrenewal describing the basis of good cause for nonrenewal at least 90 days prior to the expiration of the lease, as specified."
  ],
+ "began": {
+  "subject": "California Community Colleges Economic and Workforce Development Program.",
+  "changedOn": "2026-04-06"
+ },
  "authorLine": "Introduced by Assembly Member Ávila Farías (Coauthor: Senator Caballero)",
  "stages": [
   {
@@ -102,6 +106,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -154,6 +159,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

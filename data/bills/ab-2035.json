@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -58,6 +58,7 @@
   "Existing law authorizes the association, or any member, to petition the superior court of the county in which the common interest development is located for an order reducing the percentage of the affirmative votes necessary for an amendment, if in order to amend a declaration, the declaration requires members having more than 50 percent of the votes in the association, in a single class voting structure, to vote in favor of the amendment. Existing law authorizes a court to grant the petition if it finds, among other things, members having more than 50 percent of the votes, in a single class voting structure, voted in favor of the amendment.",
   "This bill would lower the threshold to more than 37 percent of the votes if the court finds that the common interest development is a senior citizen housing development, as defined, the separate interests in the common interest development meet specified criteria, and the declaration has not been amended in at least 35 years."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Dixon",
  "stages": [
   {
@@ -104,6 +105,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -156,6 +158,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

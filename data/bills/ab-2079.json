@@ -72,6 +72,7 @@
   "Existing law authorizes a city or special district to pay to the city or county, or city and county, an amount equal to the amount of ad valorem property tax revenue allocated to that city or special district, but not the actual allocation, derived from the taxation of that portion of the total assessed value of that real property that is in excess of the property’s valuation at the time of the proponent’s initial request for funding, for the purpose of subsidizing the affordable housing units required pursuant to the Office to Housing Conversion Act.",
   "This bill would expand the authorization for a city or special district to pay to the city or county, or city and county, as described above, for the purpose of subsidizing the project’s housing units."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Elhawary",
  "stages": [
   {
@@ -104,6 +105,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -135,6 +137,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

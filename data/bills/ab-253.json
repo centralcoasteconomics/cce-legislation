@@ -126,6 +126,7 @@
   "This bill would provide that no reimbursement is required by this act for specified reasons.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Ward, Quirk-Silva, and Rivas (Coauthors: Assembly Members Patel, Patterson, Wallis, and Wicks)",
  "stages": [
   {
@@ -172,18 +173,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-03-19",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -239,6 +234,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

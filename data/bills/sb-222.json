@@ -53,7 +53,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -95,6 +95,10 @@
   "This bill would provide that, with regard to certain mandates, no reimbursement is required by this act for a specified reason.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
+ "began": {
+  "subject": "Climate disasters: civil actions. ",
+  "changedOn": "2026-01-05"
+ },
  "authorLine": "Introduced by Senator Wiener (Coauthors: Senators Allen, Becker, and Stern)",
  "stages": [
   {
@@ -156,15 +160,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-08-13",
-     "ayes": 13,
-     "noes": 1,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-01-20",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -216,6 +213,7 @@
    "applies": true,
    "suspense": "2026-08-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

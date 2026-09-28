@@ -53,7 +53,7 @@
  "vetoed": "2026-09-20",
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -94,6 +94,7 @@
   "Existing law provides that assessments, including the costs of collection, late charges, and interest, are a lien on the member’s separate interest when the association records a notice of delinquent assessment and follows a specified process, including providing the owner of record a specified notice, at least 30 days prior to recording a lien upon the separate interest. Existing law requires that an association that fails to comply with these procedures recommence the required notice process, prior to recording a lien, and bear the cost of recommencing the notice process.",
   "The bill would make the association liable to the member for specified fees if the association fails to comply with these procedures. If the association fails to comply with these procedures, as specified, and the failure is the 3rd failure within a 5-year period, the bill would make the board liable to the member for a civil penalty of $1,000 and would require it to notify members by general notice of its failure to comply."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Blanca Rubio and Lowenthal (Coauthors: Assembly Members Kalra and Pacheco)",
  "stages": [
   {
@@ -140,6 +141,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -192,6 +194,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

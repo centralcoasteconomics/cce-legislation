@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -62,6 +62,7 @@
   "Existing law authorizes an owner of a separate interest of a common interest development to install an electric vehicle charging station in a common area for the exclusive use of the owner under specified circumstances and subject to certain requirements. In this regard, existing law makes the owner and each successive owner of the electric vehicle charging station responsible for costs for damage to the electric vehicle charging station, the common area, or separate interests resulting from the installation, maintenance, repair, removal, or replacement of the electric vehicle charging station.",
   "This bill would additionally make the owner and each successive owner responsible for the costs for the above-specified damages resulting from the use of the electric vehicle charging station. The bill would require that the installer of the electric vehicle charging station indemnify or reimburse the association or its members for loss or damage caused by the installation of the electric vehicle charging station."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Allen",
  "stages": [
   {
@@ -108,6 +109,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -160,6 +162,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -75,6 +75,7 @@
   "This bill would require the California Housing Authority to employ 2 leasing models in creating social housing, referred to as the rental model and the ownership model, and would specify the characteristics of both models. Under the rental model, the authority would extend a one-year lease to individuals who commit to a minimum of one year of residence and would require the authority to set rents, as specified. Under the ownership model, the authority would extend a 99-year lease, in the form of a limited equity arrangement, as defined, to individuals who commit to a minimum 5-year term of residence, and would authorize the authority to act as a lender for residents. The bill would specify how the units may be sold and transferred. The bill would establish eligibility requirements for social housing residents and would provide for the selection of residents by lottery, as specified, provided that people who may have been displaced from a property as part of its development would be granted a preference for occupancy. The bill, among other things, would require the authority to accept a local jurisdiction’s preference for a project parcel if specified conditions are met.",
   "This bill would establish the Social Housing Revolving Loan Fund within the State Treasury to provide, upon appropriation by the Legislature, zero-interest loans for the purposes of constructing housing to accommodate a mix of household incomes. The bill would declare the intent of the Legislature to enact subsequent legislation to provide financing for the activities of the authority through the issuance of general obligation bonds. The bill would authorize the authority to issue revenue bonds, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Lee (Coauthors: Assembly Members Haney and Kalra)",
  "stages": [
   {
@@ -113,6 +114,7 @@
    "applies": true,
    "suspense": "2025-05-07",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -159,6 +161,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

@@ -58,6 +58,7 @@
   "The law caps the amount by which management of a qualified mobilehome park may increase the gross rental rate for a tenancy over the course of any 12-month period. The cap is the lower of 5% of the lowest gross rental rate charge for a tenancy at any time during the preceding 12 months or 3% of that amount plus the percentage change in the cost of living. Under that law, a mobilehome park is subject to that cap if it is located within and governed by the jurisdictions of 2 or more incorporated cities.",
   "This bill would instead make any mobilehome park subject to that cap. The bill would make conforming changes related to these provisions."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Quirk-Silva",
  "stages": [
   {
@@ -90,6 +91,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -121,6 +123,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

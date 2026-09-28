@@ -66,6 +66,7 @@
   "This bill would require the agency, on or before October 1, 2030, to report to the Legislature on the finance plans and performance metrics described above, and to publish goals on its internet website and update any progress toward the goals. The bill would also make related findings and declarations.",
   "The bill would make its provisions operative upon appropriation by the Legislature."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Gipson (Coauthor: Senator Arreguín)",
  "stages": [
   {
@@ -104,19 +105,13 @@
    "applies": true,
    "suspense": "2026-01-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-06-22",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 5,
-     "noes": 0,
+     "committee": "Assembly Appropriations",
+     "date": "2026-01-22",
+     "ayes": 11,
+     "noes": 3,
      "result": "Pass"
     }
    ],
@@ -163,6 +158,7 @@
    "applies": true,
    "suspense": "2026-06-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

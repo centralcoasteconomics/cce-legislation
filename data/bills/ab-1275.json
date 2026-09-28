@@ -92,6 +92,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Elhawary",
  "stages": [
   {
@@ -138,6 +139,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -190,15 +192,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-05-14",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-07-14",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

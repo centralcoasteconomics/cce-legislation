@@ -81,6 +81,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
+ "began": {
+  "subject": "The Affordable Housing Bond Act of 2026.",
+  "changedOn": "2026-06-22"
+ },
  "authorLine": "Introduced by Assembly Members Mark González and Wicks and Senators Gonzalez and Grayson",
  "stages": [
   {
@@ -119,19 +123,13 @@
    "applies": true,
    "suspense": "2025-04-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-11",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-14",
-     "ayes": 5,
-     "noes": 0,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
+     "noes": 2,
      "result": "Pass"
     }
    ],
@@ -179,6 +177,7 @@
    "applies": true,
    "suspense": "2026-05-11",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -57,6 +57,7 @@
   "Under existing law, the Department of Toxic Substances Control generally regulates the management and handling of hazardous substances, materials, and waste.",
   "The bill would require, on or before January 1, 2027, the department and the State Water Resources Control Board to submit a report to the Legislature that includes specified information, including information relating to all contaminated sites that are vulnerable to sea level rise and groundwater rise."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Boerner",
  "stages": [
   {
@@ -96,6 +97,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [],
    "state": "failed",
    "stoppedOn": "2026-02-02",
@@ -129,6 +131,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

@@ -177,6 +177,41 @@ def main():
         if day(h["hearing_date"]) and day(h["hearing_date"]) >= today:
             hearings[h["bill_id"]].append({"date": day(h["hearing_date"]), "committee": loc_names.get(h["location_code"], h["location_code"])})
 
+    # Gut and amend. A bill heard in a housing committee can be emptied and refilled with an
+    # unrelated subject afterwards (AB 760: mobilehome parks -> a Garden Grove income tax
+    # exclusion). Such a bill is no longer a housing bill. The reverse also happens: a spot
+    # bill on another subject is refilled with housing content (AB 939: a transportation
+    # bond -> density bonuses); that one stays, and its page says what it began as.
+    HOUSING_WORDS = re.compile(r"hous|residen|tenan|\brent|dwelling|\bhome|homeless|mobilehome|apartment|lodging|develop|zoning|planning|land use|building|construction|propert|real estate|lease|landlord|transfer tax|financing district|facilities district|infrastructure|subdivision|covenant|common interest|condominium|shelter|coordinated entry|supportive", re.I)
+    def words(t):
+        return {w for w in re.sub(r"[^a-z ]", " ", (t or "").lower()).split() if len(w) > 4}
+    def version_at(bid, date):
+        vs = sorted(versions[bid], key=lambda x: (x["bill_version_action_date"] or "", -int(x["version_num"] or 0)))
+        at = [x for x in vs if (x["bill_version_action_date"] or "") <= date]
+        return (at[-1] if at else vs[0]) if vs else None
+    began, left_housing = {}, []
+    for bid in list(housing):
+        vs = sorted(versions[bid], key=lambda x: (x["bill_version_action_date"] or "", -int(x["version_num"] or 0)))
+        if not vs:
+            continue
+        now = vby.get(bills[bid]["latest_bill_version_id"]) or vs[-1]
+        first = vs[0]
+        if first["subject"] and now["subject"] and not (words(first["subject"]) & words(now["subject"])):
+            changed_on = next((x["bill_version_action_date"] for x in vs if x["subject"] and words(x["subject"]) & words(now["subject"])), None)
+            began[bid] = {"subject": first["subject"], "changedOn": day(changed_on)}
+        # What a housing committee actually voted on decides it. A bill can be formally
+        # re-referred to the committee on the same day it is gutted (SB 715: RHNA ->
+        # "Elections"), without ever being heard in its new form.
+        hc_votes = [v["date"] for v in votes[bid] if v["location_code"] in hc and v["date"]]
+        hc_dates = [h["action_date"] for h in hist[bid] if {h["primary_location"], h["secondary_location"], h["ternary_location"]} & hc]
+        if not hc_dates or bid in include:
+            continue
+        then = version_at(bid, max(hc_votes) + " 23:59:59" if hc_votes else min(hc_dates))
+        if then and then["subject"] and now["subject"] and not (words(then["subject"]) & words(now["subject"])) \
+                and not HOUSING_WORDS.search(now["subject"]):
+            housing.remove(bid)
+            left_housing.append({"id": bid, "label": label(bills[bid]), "heardAs": then["subject"], "now": now["subject"]})
+
     # latest bill text for every housing bill, and veto messages: one range read each
     lob_names = []
     for bid in housing:
@@ -240,8 +275,9 @@ def main():
         full = {
             **rec,
             "digest": xmlinfo.get("digest", []),
+            "began": began.get(bid),
             "authorLine": xmlinfo.get("authorLine", ""),
-            "stages": [{k: (day(val) if k in ("done", "suspense", "held", "presented", "pending", "vetoed", "stoppedOn") and isinstance(val, str) else val)
+            "stages": [{k: (day(val) if k in ("done", "suspense", "held", "presented", "pending", "vetoed", "stoppedOn", "rule288") and isinstance(val, str) else val)
                         for k, val in st.items()} for st in tl["stages"]],
             "history": [{"date": day(h["action_date"]), "text": re.sub(r"\s+", " ", h["action"]).strip(),
                          "house": h["primary_location"], "where": h["secondary_location"],
@@ -282,6 +318,7 @@ def main():
         "fetchedBytes": arc.fetched, "counts": dict(counts), "total": len(rows),
         "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",
         "calendar": cfg["calendar"], "areas": T.AREA_LABEL,
+        "leftHousing": sorted(left_housing, key=lambda x: x["label"]),
     }
     (ROOT / "data/index.json").write_text(json.dumps({"meta": meta, "bills": rows}, ensure_ascii=False, indent=1))
     (ROOT / "data/meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))

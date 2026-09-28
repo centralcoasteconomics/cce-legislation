@@ -69,6 +69,7 @@
   "Under this bill, the continued occupancy of a resident of a lodging, as defined, would not be considered a person who hires, nor have their lodging constitute a new tenancy for purposes of an unlawful detainer action, until the guest has resided in the lodging for 270 days, if the guest is residing in the lodging as a result of a disaster, as defined, that substantially damaged, destroyed, or otherwise made uninhabitable their prior housing, as specified. The bill would repeal these provisions on January 1, 2031.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Gabriel and Rivas",
  "stages": [
   {
@@ -107,6 +108,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -151,6 +153,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

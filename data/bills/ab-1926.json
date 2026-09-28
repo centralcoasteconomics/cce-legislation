@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -66,6 +66,10 @@
   "Existing law, the Administrative Procedure Act (APA), sets forth requirements for the adoption, publication, review, and implementation of regulations by state agencies. The APA requires the Office of Administrative Law to review all regulations adopted, amended, or repealed and submitted to it for publication in the California Code of Regulations and for transmittal to the Secretary of State and to make determinations using specified standards, as defined.",
   "This bill would prohibit a new regulation, or the amendment or repeal of a regulation, that could increase construction costs for single-family and multifamily residential construction from being valid or effective unless it is submitted by, or approved in writing by, the Department of Housing and Community Development before transmittal to the Secretary of State or the Office of Administrative Law."
  ],
+ "began": {
+  "subject": "Health Care Payments Data Program.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Assembly Member Pacheco",
  "stages": [
   {
@@ -104,6 +108,7 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-05-14",
@@ -137,6 +142,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

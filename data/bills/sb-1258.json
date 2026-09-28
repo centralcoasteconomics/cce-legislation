@@ -57,6 +57,7 @@
   "Existing law authorizes, when a release of waste occurs and remedial action is required, a responsible party, as defined, to request a local officer to supervise the remedial action if the site is not already overseen by the Department of Toxic Substances Control or a regional water quality control board. Existing law authorizes the department or a regional water quality control board to retain or assume oversight authority from a local officer, as specified.",
   "This bill would require the State Water Resources Control Board, working jointly with the department and in consultation with the Office of Land Use and Climate Innovation, to develop guidelines for developers and for agencies overseeing development-specific site remediations and making determinations of site suitability, as provided. The bill would require the board, in conjunction with the department, to develop thresholds of significance for contaminants from different sources and for different future uses, as provided. The bill would specify that sites with contamination above those thresholds shall be deemed not suitable for residential use."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Wiener",
  "stages": [
   {
@@ -96,6 +97,7 @@
    "applies": true,
    "suspense": "2026-05-04",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -137,6 +139,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

@@ -58,6 +58,10 @@
   "This bill would provide that a transit-oriented development alternative plan may reduce the capacity in up to one transit-oriented development zone in total units or residential floor area by more than 50% if certain requirements are met.",
   "This bill would incorporate additional changes to Section 65912.161 of the Government Code proposed by AB 2576 to be operative only if this bill and AB 2576 are enacted and this bill is enacted last."
  ],
+ "began": {
+  "subject": "Air ambulance services.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Assembly Member Hoover",
  "stages": [
   {
@@ -104,6 +108,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -156,6 +161,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

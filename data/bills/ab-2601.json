@@ -89,6 +89,7 @@
   "This bill would incorporate additional changes to Section 66411.7 of the Government Code proposed by AB 2005 to be operative only if this bill and AB 2005 are enacted and this bill is enacted last.",
   "This bill would incorporate additional changes to Section 66499.41 of the Government Code proposed by SB 1090 and SB 1116 to be operative only if this bill and either or both SB 1090 and SB 1116 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Lee",
  "stages": [
   {
@@ -135,6 +136,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -187,6 +189,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -61,6 +61,7 @@
   "This bill would permit a local agency to include in its annual report the number of units of existing deed-restricted affordable housing within a specified affordability threshold that are at least 15 years old and have been substantially rehabilitated with at least $60,000 per unit in funds awarded from the city or county, as specified. The bill would prohibit any of the units included in the annual report from being considered when determining affordability requirements for the purposes of eligibility for streamlined approvals, as specified. The bill would also make a nonsubstantive change to update a reference to the Office of Land Use and Climate Innovation in these provisions.",
   "This bill would incorporate additional changes to Section 65400 of the Government Code proposed by AB 670 to be operative only if this bill and AB 670 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ávila Farías",
  "stages": [
   {
@@ -107,18 +108,12 @@
    "applies": true,
    "suspense": "2025-04-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -166,6 +161,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

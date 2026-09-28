@@ -46,7 +46,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -93,6 +93,7 @@
   "Existing law requires the association to notify a member 10 days before a meeting to consider or impose discipline on a member, or a monetary charge, as a means of reimbursing the association for costs incurred by the association in the repair of damage to the common area and facilities caused by a member, as provided. Existing law requires the notification to include, among other information, the nature of the alleged violation, or nature of the damage to the common area and facilities.",
   "This bill would require the association to make any physical evidence used to determine a violation of the governing documents has occurred available to the member at least 5 business days before the hearing or deadline for the member’s response, if the association seeks to impose a monetary penalty against a member for violation of the governing documents, as provided."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Menjivar (Coauthors: Senators Gonzalez and Grayson)",
  "stages": [
   {
@@ -139,6 +140,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -177,6 +179,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

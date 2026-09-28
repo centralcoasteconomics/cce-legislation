@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -60,6 +60,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member McKinnor",
  "stages": [
   {
@@ -99,6 +100,7 @@
    "applies": true,
    "suspense": "2025-05-21",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -145,6 +147,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

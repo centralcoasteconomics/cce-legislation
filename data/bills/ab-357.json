@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "coastal"
  ],
  "sections": [
   {
@@ -72,6 +72,7 @@
   "The California Coastal Act of 1976, which is administered by the California Coastal Commission, requires a person wishing to perform or undertake any development in the coastal zone to obtain a coastal development permit. The act provides for the submission and approval of long-range land use development plans as an alternative to project-by-project review to promote greater efficiency for the planning of public works or state university or college or private university development projects and provides for amendments to those plans. The act places limits on the conditions the commission may impose on projects contained in a plan that has been certified by the commission. The act authorizes the commission to, after a public hearing, by regulation, adopt procedures for the issuance by the executive director of the commission of waivers from coastal development permit requirements for any development that is de minimis, as specified.",
   "This bill would require the commission to defer to the state university or college or private university in determining the number of vehicle parking spaces necessary for residents of student, faculty, or staff housing facilities, as provided. The bill would authorize the executive director to determine that a proposed amendment to a public works plan or long-range development plan is de minimis and would provide the procedures for the determination and approval of amendments that are de minimis. The bill would require the commission to track and publish on a public portion of its internet website any public works plans or long-range development plans, amendments to public works plans or long-range development plans, and notices of impending development submitted by a state university or college or private university to the commission for approval, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Alvarez",
  "stages": [
   {
@@ -110,6 +111,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -163,15 +165,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-05-23",
-     "ayes": 14,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-08-25",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

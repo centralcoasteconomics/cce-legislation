@@ -59,6 +59,10 @@
   "Existing law requires, subject to an appropriation, the department to award grants to preserve or expand the capacity of residential adult and senior care facilities through the acquisition, construction, or rehabilitation of property and requires counties and tribes receiving funds for this purpose to provide matching funds or real property.",
   "This bill would exempt a tribe from providing real property if federal restrictions limit tribal property ownership."
  ],
+ "began": {
+  "subject": "Government-to-Government Consultation Act: state-tribal consultation.",
+  "changedOn": "2026-03-25"
+ },
  "authorLine": "Introduced by Senator Richardson",
  "stages": [
   {
@@ -98,6 +102,7 @@
    "applies": true,
    "suspense": "2026-04-27",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -158,18 +163,12 @@
    "applies": true,
    "suspense": "2026-08-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-04-27",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-14",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 11,
      "noes": 0,
      "result": "Pass"
     }

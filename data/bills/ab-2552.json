@@ -129,6 +129,7 @@
   "This bill would authorize a lead agency for a land use project to require an applicant to contribute to the Transit-Oriented Development Implementation Fund if certain cost conditions are met and the department and the office have validated the reductions in vehicle miles traveled that are attributable to the project, as specified.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ávila Farías (Principal coauthor: Senator Valladares) (Coauthors: Assembly Members Alanis, Alvarez, Dixon, Jeff Gonzalez, Hadwick, Hoover, Ransom, and Wallis) (Coauthor: Senator Niello)",
  "stages": [
   {
@@ -175,6 +176,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-04-29",
@@ -208,6 +210,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

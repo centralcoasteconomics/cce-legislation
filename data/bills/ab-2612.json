@@ -39,7 +39,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -65,6 +65,7 @@
   "Existing law, until January 1, 2033, requires the commission and the department, commencing with the next triennial edition of the code adopted after January 1, 2023, to research and develop, and authorizes the commission and the department to propose for adoption by the commission, mandatory building standards for the installation of electric vehicle charging stations in existing multifamily dwellings, hotels, motels, and nonresidential developments, as specified.",
   "This bill would authorize the commission, commencing with the first triennial edition of the code adopted after June 1, 2031, to adopt, approve, codify, and publish building energy standards for building electrical circuit features to enable a qualified plug-in photovoltaic system, as defined, to function as an energy source within the electrical circuit of a single-family residential dwelling, multiunit residential dwelling, or nonresidential development, that is constructed after that edition is adopted, as specified. The bill would, for purposes of that requirement, require the department to research, develop, and propose for adoption building standards for a qualified plug-in photovoltaic system to function as an energy source within the electrical circuit of a single-family residential dwelling, multiunit residential dwelling, or nonresidential development, as specified. The bill would require the commission and the department, in satisfying those requirements, to, among other things, consult with certain interested parties and invite the participation of the public at large in the development of those building energy standards through open consensus-based processes."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Schultz (Coauthor: Assembly Member Rogers)",
  "stages": [
   {
@@ -111,12 +112,13 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 11,
+     "noes": 1,
      "result": "Pass"
     }
    ],
@@ -163,6 +165,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

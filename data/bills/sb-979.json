@@ -58,6 +58,7 @@
   "Existing law requires each council of governments and delegate subregion to distribute a draft allocation of regional housing needs to each local government in the region or subregion. Existing law authorizes a local government within the region or the delegate subregion or the department to appeal to the council of governments or the delegate subregion for a revision of the share of the regional housing need proposed to be allocated to one or more local governments, as specified. Existing law requires the council of governments or the delegate subregion to make a final determination that either accepts, rejects, or modifies each appeal, as provided.",
   "This bill would provide that the final determination by the council of governments or the delegate subregion is subject to judicial review, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Strickland",
  "stages": [
   {
@@ -90,6 +91,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -121,6 +123,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

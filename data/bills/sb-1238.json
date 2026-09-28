@@ -32,7 +32,7 @@
  "vetoed": "2026-09-20",
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -118,6 +118,7 @@
   "This bill would incorporate additional changes to Section 5200 of the Civil Code proposed by AB 739 to be operative only if this bill and AB 739 are enacted and this bill is enacted last.",
   "This bill would incorporate additional changes to Section 5550 of the Civil Code proposed by AB 2050 to be operative only if this bill and AB 2050 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Wahab",
  "stages": [
   {
@@ -164,6 +165,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -224,6 +226,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

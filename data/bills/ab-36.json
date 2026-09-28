@@ -61,6 +61,7 @@
   "This bill would instead require HCD to designate jurisdictions as prohousing pursuant to permanent regulations adopted by HCD to implement these provisions, as specified. Beginning with the 7th housing element cycle, upon request by a small rural jurisdiction, to the extent feasible, the bill would require HCD to evaluate materials from the small rural jurisdiction’s housing element submission when determining whether the jurisdiction qualifies as prohousing, but only with respect to those small rural jurisdictions that have a compliant housing element. The bill would also prohibit HCD from requiring small rural jurisdictions to renew their prohousing designation for at least 4 years. The bill would define “small rural jurisdiction” for these purposes to mean either a city with a population of fewer than 25,000 persons or a county with a population of fewer than 200,000 persons.",
   "This bill would incorporate additional changes to Section 65589.9 of the Government Code proposed by SB 262 to be operative only if this bill and SB 262 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Soria",
  "stages": [
   {
@@ -107,6 +108,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -159,15 +161,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-04-30",
-     "ayes": 14,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-08-25",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

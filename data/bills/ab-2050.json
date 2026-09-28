@@ -46,7 +46,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -78,6 +78,7 @@
   "This bill would, beginning January 1, 2032, revise the requirement to perform a study of the reserve account requirements to, among other things, include the minimum reserve contribution level to prevent the projected association reserve account balance from falling below zero over the following 30 years. The bill would require an association to fund the reserve account on an annual basis in at least the minimum reserve contribution level. If an association’s reserve balance account is projected to fall below zero at any time over the following 30 years, the bill would require the association to transfer 15% of its gross annual budget to its reserve account each year, as prescribed. If the association is unable to fund the reserve account in at least the minimum reserve contribution level through its gross annual budget, the bill would require the association to levy a reserve funding special assessment, as provided.",
   "This bill would incorporate additional changes to Section 5550 of the Civil Code proposed by SB 1238 to be operative only if this bill and SB 1238 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Caloza (Coauthors: Assembly Members Dixon and Zbur)",
  "stages": [
   {
@@ -124,6 +125,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -176,6 +178,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -53,6 +53,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
+  "cid",
   "adu"
  ],
  "sections": [
@@ -97,6 +98,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Regional housing need allocation process.",
+  "changedOn": "2025-03-17"
+ },
  "authorLine": "Introduced by Assembly Member Quirk-Silva (Coauthors: Assembly Members Carrillo and Wicks) (Coauthor: Senator Wiener)",
  "stages": [
   {
@@ -150,6 +155,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -210,15 +216,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-05-14",
-     "ayes": 12,
-     "noes": 2,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-08-03",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

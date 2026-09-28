@@ -77,6 +77,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Quirk-Silva and Wicks",
  "stages": [
   {
@@ -123,6 +124,7 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -183,15 +185,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-05-14",
-     "ayes": 11,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-08-10",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

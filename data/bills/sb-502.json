@@ -65,6 +65,10 @@
   "Existing law establishes the Department of General Services (DGS) in the Government Operations Agency for purposes of, among other things, planning, acquiring, constructing, and maintaining state buildings and property. Executive Order No. N-06-19 required DGS to create a digitized inventory of all state-owned parcels that are in excess of foreseeable needs, as provided. Existing law required DGS to develop, in consultation with HCD, no later than September 1, 2023, a set of criteria to consistently evaluate state-owned parcels for suitability as affordable housing sites. Existing law requires DGS to update the digitized inventory of all excess state land suitable for affordable housing after the conclusion of its review based on those criteria. Existing law also requires DGS to annually update the digitized inventory created pursuant to Executive Order No. N-06-19 of all excess state land, as defined, suitable for affordable housing identified by its review.",
   "This bill would authorize a local education agency to submit a list of any available local education agency-owned land to HCD for purposes of determining the suitability for development of affordable housing. The bill would require HCD, in consultation with DGS, to conduct a review of the local education agency-owned land and determine the suitability of the land for the development of affordable housing, consistent with the above-described criteria. The bill would require any local education agency-owned land determined to be suitable for the development of affordable housing to be made publicly available through the digitized inventory created pursuant to Executive Order No. N-06-19 and the above-described contact list of housing sponsors that have notified HCD of their interest in surplus land. The bill would require that an affordable housing development constructed on local education agency-owned land determined to be suitable for the development of affordable housing to provide school district employees and local tenants with a right of first refusal to occupy the housing, as specified."
  ],
+ "began": {
+  "subject": "Building Homes and Jobs Trust Fund: allocations. ",
+  "changedOn": "2025-04-24"
+ },
  "authorLine": "Introduced by Senator Arreguín (Coauthor: Senator Cortese)",
  "stages": [
   {
@@ -104,6 +108,7 @@
    "applies": true,
    "suspense": "2025-05-12",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -145,6 +150,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

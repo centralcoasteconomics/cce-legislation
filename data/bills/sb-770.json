@@ -42,7 +42,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -67,6 +67,10 @@
   "Existing law, the Davis-Stirling Common Interest Development Act, defines and regulates common interest developments, which include community apartment projects, condominium projects, planned developments, and stock cooperatives. Existing law imposes various requirements regarding the installation and use of an electric vehicle (EV) charging station placed in a common area or an exclusive use common area of a common interest development, including that the owner is required to provide a certificate of insurance that names the association as an additional insured party.",
   "This bill would delete the requirement that the insurance policy name the association as an additional insured party, and would correct an erroneous cross-reference regarding the amount of that insurance."
  ],
+ "began": {
+  "subject": "Dance studio lessons.",
+  "changedOn": "2025-03-24"
+ },
  "authorLine": "Introduced by Senator Allen (Coauthor: Assembly Member Zbur)",
  "stages": [
   {
@@ -113,6 +117,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -165,6 +170,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

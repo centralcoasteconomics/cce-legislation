@@ -247,6 +247,7 @@
   "This measure would require, on or before January 1, 2027, the regents to extend a portion of the homeownership assistance provided to senior executives and University of California faculty in the Academic Senate to eligible support staff, defined as career employees who have worked for the university for at least 5 years, are first-time homebuyers, and are not supervisors, managers, senior executives, or members of the University of California faculty in the Academic Senate, for the purpose of providing down payment loans, as specified. The measure would require, beginning in the 2027–28 fiscal year, the total number of down payment loans the regents provide to eligible support staff to equal the total number of all housing loans made to senior executives and University of California faculty in the Academic Senate during the 2023–24 fiscal year, and for each fiscal year thereafter, the total number of down payment loans for eligible support staff to equal the total number of housing loans made to senior executives and University of California faculty in the Academic Senate in the preceding fiscal year, except as provided. The measure would require 75% of the down payment loans provided to eligible support staff to be made available to staff whose household incomes are at or below the area median income, as defined. The measure would authorize the Legislature to enact laws or delegate to an appropriate body or agency the power to implement these provisions, as provided.",
   "The measure would provide that its provisions are severable."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney (Principal coauthor: Assembly Member Gipson) (Coauthors: Assembly Members Addis, Ahrens, Alanis, Arambula, Bonta, Bryan, Connolly, Davies, Garcia, Mark González, Jackson, Kalra, Krell, Lee, McKinnor, Ortega, Papan, Pellerin, Celeste Rodriguez, Schultz, Sharp-Collins, Solache, Wallis, and Wilson) ( Coauthors: Senators Durazo, Richardson, and Wahab)",
  "stages": [
   {
@@ -293,6 +294,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2025-05-23",
@@ -326,6 +328,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

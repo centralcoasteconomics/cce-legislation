@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -76,6 +76,7 @@
   "Notwithstanding the secret balloting requirement, existing law authorizes an association to consider qualified candidates to be considered elected by acclamation if the number of qualified candidates is not more than the number of vacancies to be elected and, among other things, the association provides individual notice of the election and procedure for nominating candidates, as specified, including providing a specified initial notice at least 90 days before the deadline for submitting nominations and a specified reminder notice between 7 and 30 days before the deadline for submitting nominations.",
   "This bill would, instead, require the association to provide the initial notice at least 30 days before the deadline and the reminder notice not less 10 days before the deadline."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Davies",
  "stages": [
   {
@@ -122,6 +123,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -174,6 +176,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

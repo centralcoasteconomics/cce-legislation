@@ -39,7 +39,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "surplus"
  ],
  "sections": [
   {
@@ -131,6 +131,7 @@
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Fong (Principal coauthor: Senator Pérez)",
  "stages": [
   {
@@ -169,18 +170,12 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -228,6 +223,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-28T20:45:35+00:00",
+  "generatedAt": "2026-09-28T20:58:25+00:00",
   "today": "2026-09-28",
   "session": {
    "key": "20252026",
@@ -17,13 +17,13 @@
   },
   "fetchedBytes": 0,
   "counts": {
-   "stalled": 79,
+   "stalled": 76,
    "died": 23,
-   "law": 78,
-   "vetoed": 10,
-   "governor": 70
+   "law": 72,
+   "vetoed": 9,
+   "governor": 66
   },
-  "total": 260,
+  "total": 246,
   "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",
   "calendar": [
    {
@@ -73,8 +73,98 @@
    "building": "Building standards",
    "mobilehome": "Mobilehomes",
    "redevelopment": "Redevelopment successors",
+   "cid": "Common interest developments",
+   "coastal": "Coastal Act",
+   "finance": "Infrastructure finance districts",
+   "authorities": "Housing authorities",
    "other": "Other housing"
-  }
+  },
+  "leftHousing": [
+   {
+    "id": "202520260AB1026",
+    "label": "AB 1026",
+    "heardAs": "Planning and zoning: housing development projects: postentitlement phase permits.",
+    "now": "Public utilities: electrical corporations: energization."
+   },
+   {
+    "id": "202520260AB1152",
+    "label": "AB 1152",
+    "heardAs": "Housing Crisis Act of 2019: development policy, standard, or condition.",
+    "now": "Controlled substances: human chorionic gonadotropin."
+   },
+   {
+    "id": "202520260AB1359",
+    "label": "AB 1359",
+    "heardAs": "Planning and zoning: development conditions: housing-forward jurisdictions.",
+    "now": "Jury service exemptions."
+   },
+   {
+    "id": "202520260AB282",
+    "label": "AB 282",
+    "heardAs": "Discrimination: housing: source of income.",
+    "now": "Elections: seizure of election materials."
+   },
+   {
+    "id": "202520260AB647",
+    "label": "AB 647",
+    "heardAs": "Housing development approvals: residential units.",
+    "now": "Abandoned recreational vehicles."
+   },
+   {
+    "id": "202520260AB760",
+    "label": "AB 760",
+    "heardAs": "Mobilehome parks: rental restrictions: exemptions: emergencies.",
+    "now": "Income taxes: exclusions: 2026 Garden Grove chemical leak."
+   },
+   {
+    "id": "202520260SB1216",
+    "label": "SB 1216",
+    "heardAs": "Planning and Zoning Law: housing leadership designation.",
+    "now": "Budget Act of 2026."
+   },
+   {
+    "id": "202520260SB492",
+    "label": "SB 492",
+    "heardAs": "Youth Housing Bond Act of 2025.",
+    "now": "Wildfire."
+   },
+   {
+    "id": "202520260SB546",
+    "label": "SB 546",
+    "heardAs": "Common interest developments: accounting.",
+    "now": "Collection Licensing Act: exceptions: billing agents."
+   },
+   {
+    "id": "202520260SB574",
+    "label": "SB 574",
+    "heardAs": "Streamlined housing approvals.",
+    "now": "Attorneys, arbitrators, judicial officers, and alternative resolution providers."
+   },
+   {
+    "id": "202520260SB623",
+    "label": "SB 623",
+    "heardAs": "Veterans’ Bond Act of 2026.",
+    "now": "Automobile accidents: civil actions: transportation network companies."
+   },
+   {
+    "id": "202520260SB627",
+    "label": "SB 627",
+    "heardAs": "Planning and zoning: housing: postentitlement phase permits.",
+    "now": "Law enforcement: masks."
+   },
+   {
+    "id": "202520260SB715",
+    "label": "SB 715",
+    "heardAs": "Regional housing need: methodology: distribution.",
+    "now": "Elections."
+   },
+   {
+    "id": "202520260SB733",
+    "label": "SB 733",
+    "heardAs": "Planning and zoning: annual progress report: Low Barrier Navigation Centers.",
+    "now": "Sexual assault forensic evidence: testing."
+   }
+  ]
  },
  "bills": [
   {
@@ -343,7 +433,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -1258,65 +1348,6 @@
    "progress": 0.8
   },
   {
-   "id": "202520260AB282",
-   "slug": "ab-282",
-   "label": "AB 282",
-   "type": "AB",
-   "number": 282,
-   "session": "20252026",
-   "subject": "Elections: seizure of election materials.",
-   "title": "An act to add Section 18579 to the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.",
-   "authors": [
-    {
-     "name": "Pellerin",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2026-09-19",
-    "text": "Chaptered by Secretary of State - Chapter 330, Statutes of 2026."
-   },
-   "chapter": {
-    "number": 330,
-    "year": 2026
-   },
-   "presented": "2026-09-09",
-   "approved": "2026-09-19",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "18579",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Two Thirds",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "Yes",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": true,
-   "progress": 1.0
-  },
-  {
    "id": "202520260AB299",
    "slug": "ab-299",
    "label": "AB 299",
@@ -1587,7 +1618,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "coastal"
    ],
    "sections": [
     {
@@ -2412,7 +2443,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -2845,62 +2876,6 @@
      "name": "Health and Safety Code",
      "section": "18803.1",
      "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 0.8
-  },
-  {
-   "id": "202520260AB647",
-   "slug": "ab-647",
-   "label": "AB 647",
-   "type": "AB",
-   "number": 647,
-   "session": "20252026",
-   "subject": "Abandoned recreational vehicles.",
-   "title": "An act to amend Section 22851.5 of the Vehicle Code, relating to vehicles.",
-   "authors": [
-    {
-     "name": "Mark González",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
-   "lastAction": {
-    "date": "2026-08-27",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
-   },
-   "chapter": null,
-   "presented": "2026-08-27",
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "VEH",
-     "name": "Vehicle Code",
-     "section": "22851.5",
-     "verb": "amend"
     }
    ],
    "flags": {
@@ -3590,7 +3565,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -3821,124 +3796,6 @@
    "nextHearing": null,
    "urgency": false,
    "progress": 1.0
-  },
-  {
-   "id": "202520260AB760",
-   "slug": "ab-760",
-   "label": "AB 760",
-   "type": "AB",
-   "number": 760,
-   "session": "20252026",
-   "subject": "Income taxes: exclusions: 2026 Garden Grove chemical leak.",
-   "title": "An act to add and repeal Sections 17138.9 and 24309.8 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.",
-   "authors": [
-    {
-     "name": "Ta",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Strickland",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Chen",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Davies",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Dixon",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Quirk-Silva",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Sanchez",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Choi",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "R"
-    },
-    {
-     "name": "Umberg",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
-   "lastAction": {
-    "date": "2026-09-14",
-    "text": "Enrolled and presented to the Governor at 1:30 p.m."
-   },
-   "chapter": null,
-   "presented": "2026-09-14",
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "RTC",
-     "name": "Revenue and Taxation Code",
-     "section": "17138.9",
-     "verb": "repeal"
-    },
-    {
-     "code": "RTC",
-     "name": "Revenue and Taxation Code",
-     "section": "24309.8",
-     "verb": "repeal"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "Yes",
-    "taxLevy": "Yes"
-   },
-   "nextHearing": null,
-   "urgency": true,
-   "progress": 0.8
   },
   {
    "id": "202520260AB768",
@@ -5005,6 +4862,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
+    "cid",
     "adu"
    ],
    "sections": [
@@ -5231,76 +5089,6 @@
    "nextHearing": null,
    "urgency": false,
    "progress": 1.0
-  },
-  {
-   "id": "202520260AB1026",
-   "slug": "ab-1026",
-   "label": "AB 1026",
-   "type": "AB",
-   "number": 1026,
-   "session": "20252026",
-   "subject": "Public utilities: electrical corporations: energization.",
-   "title": "An act to add Section 934.5 to the Public Utilities Code, relating to electricity.",
-   "authors": [
-    {
-     "name": "Wilson",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Haney",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Wicks",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "vetoed",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Assembly",
-   "statusRaw": "Vetoed",
-   "measureState": "Enrolled",
-   "lastAction": {
-    "date": "2026-01-22",
-    "text": "Consideration of Governor's veto stricken from file."
-   },
-   "chapter": null,
-   "presented": "2025-09-11",
-   "approved": null,
-   "vetoed": "2025-10-03",
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "934.5",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 0.8
   },
   {
    "id": "202520260AB1050",
@@ -5749,65 +5537,6 @@
    "progress": 0.5
   },
   {
-   "id": "202520260AB1152",
-   "slug": "ab-1152",
-   "label": "AB 1152",
-   "type": "AB",
-   "number": 1152,
-   "session": "20252026",
-   "subject": "Controlled substances: human chorionic gonadotropin.",
-   "title": "An act to amend Section 11056 of the Health and Safety Code, relating to controlled substances.",
-   "authors": [
-    {
-     "name": "Patterson",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2025-10-01",
-    "text": "Chaptered by Secretary of State - Chapter 183, Statutes of 2025."
-   },
-   "chapter": {
-    "number": 183,
-    "year": 2025
-   },
-   "presented": "2025-09-24",
-   "approved": "2025-10-01",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "HSC",
-     "name": "Health and Safety Code",
-     "section": "11056",
-     "verb": "amend"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 1.0
-  },
-  {
    "id": "202520260AB1154",
    "slug": "ab-1154",
    "label": "AB 1154",
@@ -6115,7 +5844,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -6450,7 +6179,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -6605,7 +6334,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "taxcredit"
    ],
    "sections": [
     {
@@ -7016,72 +6745,6 @@
    "progress": 1.0
   },
   {
-   "id": "202520260AB1359",
-   "slug": "ab-1359",
-   "label": "AB 1359",
-   "type": "AB",
-   "number": 1359,
-   "session": "20252026",
-   "subject": "Jury service exemptions.",
-   "title": "An act to amend, repeal, and add Section 204 of the Code of Civil Procedure, relating to jury service.",
-   "authors": [
-    {
-     "name": "Ahrens",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Bryan",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2026-09-15",
-    "text": "Chaptered by Secretary of State - Chapter 195, Statutes of 2026."
-   },
-   "chapter": {
-    "number": 195,
-    "year": 2026
-   },
-   "presented": "2026-08-27",
-   "approved": "2026-09-15",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "CCP",
-     "name": "Code of Civil Procedure",
-     "section": "204",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 1.0
-  },
-  {
    "id": "202520260AB1385",
    "slug": "ab-1385",
    "label": "AB 1385",
@@ -7300,7 +6963,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "finance"
    ],
    "sections": [
     {
@@ -7959,7 +7622,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -8493,7 +8156,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "coastal"
    ],
    "sections": [
     {
@@ -8715,7 +8378,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -8965,7 +8628,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -9258,7 +8921,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -9483,7 +9146,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -9814,7 +9477,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -9873,7 +9536,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -9949,7 +9612,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -10128,7 +9791,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -10681,7 +10344,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "authorities"
    ],
    "sections": [
     {
@@ -11967,7 +11630,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "surplus"
    ],
    "sections": [
     {
@@ -12265,7 +11928,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "finance"
    ],
    "sections": [
     {
@@ -12524,7 +12187,7 @@
    "vetoed": "2026-09-20",
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -12975,7 +12638,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -13251,7 +12914,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "building"
    ],
    "sections": [
     {
@@ -13492,7 +13155,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -14434,7 +14097,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -14739,7 +14402,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -15263,7 +14926,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "coastal"
    ],
    "sections": [
     {
@@ -15427,259 +15090,6 @@
    "nextHearing": null,
    "urgency": false,
    "progress": 1.0
-  },
-  {
-   "id": "202520260SB492",
-   "slug": "sb-492",
-   "label": "SB 492",
-   "type": "SB",
-   "number": 492,
-   "session": "20252026",
-   "subject": "Wildfire.",
-   "title": "An act to add Sections 6150 and 6152.55 to the Business and Professions Code, to amend Section 11126 of, and to add Section 7928.725 to, the Government Code, to add Section 929.4 to the Insurance Code, to amend Section 4124.5 of, to add Sections 4209.6, 4209.8, and 4209.9 to, and to repeal and add Section 4137 of, the Public Resources Code, to amend Sections 850, 3280, 3283, 3292, 3298, 3298.1, 3299.3, 8385, and 8389 of, to add Sections 719.7 and 8389.1 to, to add Chapter 7 (commencing with Section 3299.200) to Part 6 of Division 1 of, the Public Utilities Code, and to amend Sections 80524, 80540, 80542, 80544, 80544.5, and 80550 of the Water Code, relating to wildfire, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.",
-   "authors": [
-    {
-     "name": "Becker",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Petrie-Norris",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Padilla",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Reyes",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Bryan",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Ransom",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "stalled",
-   "current": "policy_x",
-   "currentLabel": "Policy committee",
-   "location": "Assembly",
-   "statusRaw": "In Floor Process",
-   "measureState": "Amended Assembly",
-   "lastAction": {
-    "date": "2026-08-30",
-    "text": "Ordered to third reading."
-   },
-   "chapter": null,
-   "presented": null,
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "BPC",
-     "name": "Business and Professions Code",
-     "section": "6150",
-     "verb": "add"
-    },
-    {
-     "code": "BPC",
-     "name": "Business and Professions Code",
-     "section": "6152.55",
-     "verb": "add"
-    },
-    {
-     "code": "GOV",
-     "name": "Government Code",
-     "section": "11126",
-     "verb": "amend"
-    },
-    {
-     "code": "GOV",
-     "name": "Government Code",
-     "section": "7928.725",
-     "verb": "add"
-    },
-    {
-     "code": "INS",
-     "name": "Insurance Code",
-     "section": "929.4",
-     "verb": "add"
-    },
-    {
-     "code": "PRC",
-     "name": "Public Resources Code",
-     "section": "4124.5",
-     "verb": "amend"
-    },
-    {
-     "code": "PRC",
-     "name": "Public Resources Code",
-     "section": "4209.6",
-     "verb": "add"
-    },
-    {
-     "code": "PRC",
-     "name": "Public Resources Code",
-     "section": "4209.8",
-     "verb": "add"
-    },
-    {
-     "code": "PRC",
-     "name": "Public Resources Code",
-     "section": "4209.9",
-     "verb": "add"
-    },
-    {
-     "code": "PRC",
-     "name": "Public Resources Code",
-     "section": "4137",
-     "verb": "add"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "850",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3280",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3283",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3292",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3298",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3298.1",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3299.3",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "8385",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "8389",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "719.7",
-     "verb": "add"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "8389.1",
-     "verb": "add"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "3299.200",
-     "verb": "add"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80524",
-     "verb": "amend"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80540",
-     "verb": "amend"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80542",
-     "verb": "amend"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80544",
-     "verb": "amend"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80544.5",
-     "verb": "amend"
-    },
-    {
-     "code": "WAT",
-     "name": "Water Code",
-     "section": "80550",
-     "verb": "amend"
-    }
-   ],
-   "flags": {
-    "vote": "Two Thirds",
-    "appropriation": "Yes",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "Yes",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": true,
-   "progress": 0.4
   },
   {
    "id": "202520260SB502",
@@ -16019,62 +15429,6 @@
    "progress": 1.0
   },
   {
-   "id": "202520260SB546",
-   "slug": "sb-546",
-   "label": "SB 546",
-   "type": "SB",
-   "number": 546,
-   "session": "20252026",
-   "subject": "Collection Licensing Act: exceptions: billing agents.",
-   "title": "An act to amend Section 100001 of the Financial Code, relating to debt collection.",
-   "authors": [
-    {
-     "name": "Grayson",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "stalled",
-   "current": "floor_x",
-   "currentLabel": "Floor vote",
-   "location": "Assembly",
-   "statusRaw": "In Floor Process",
-   "measureState": "Amended Assembly",
-   "lastAction": {
-    "date": "2026-08-17",
-    "text": "Ordered to inactive file on request of Assembly Member Aguiar-Curry."
-   },
-   "chapter": null,
-   "presented": null,
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "FIN",
-     "name": "Financial Code",
-     "section": "100001",
-     "verb": "amend"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 0.6
-  },
-  {
    "id": "202520260SB565",
    "slug": "sb-565",
    "label": "SB 565",
@@ -16135,93 +15489,6 @@
    "nextHearing": null,
    "urgency": false,
    "progress": 0.1
-  },
-  {
-   "id": "202520260SB574",
-   "slug": "sb-574",
-   "label": "SB 574",
-   "type": "SB",
-   "number": 574,
-   "session": "20252026",
-   "subject": "Attorneys, arbitrators, judicial officers, and alternative resolution providers.",
-   "title": "An act to amend Section 6173 of, and to add Section 6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.",
-   "authors": [
-    {
-     "name": "Umberg",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Macedo",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "R"
-    }
-   ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
-   "lastAction": {
-    "date": "2026-09-09",
-    "text": "Enrolled and presented to the Governor at 2 p.m."
-   },
-   "chapter": null,
-   "presented": "2026-09-09",
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "BPC",
-     "name": "Business and Professions Code",
-     "section": "6173",
-     "verb": "amend"
-    },
-    {
-     "code": "BPC",
-     "name": "Business and Professions Code",
-     "section": "6068.1",
-     "verb": "add"
-    },
-    {
-     "code": "CCP",
-     "name": "Code of Civil Procedure",
-     "section": "128.7",
-     "verb": "amend"
-    },
-    {
-     "code": "CCP",
-     "name": "Code of Civil Procedure",
-     "section": "180",
-     "verb": "add"
-    },
-    {
-     "code": "CCP",
-     "name": "Code of Civil Procedure",
-     "section": "1282.1",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 0.8
   },
   {
    "id": "202520260SB606",
@@ -16448,84 +15715,6 @@
    "progress": 1.0
   },
   {
-   "id": "202520260SB623",
-   "slug": "sb-623",
-   "label": "SB 623",
-   "type": "SB",
-   "number": 623,
-   "session": "20252026",
-   "subject": "Automobile accidents: civil actions: transportation network companies.",
-   "title": "An act to add Section 3333.9 to the Civil Code, and to amend Section 5445.2 of, and to add Section 5451 to, the Public Utilities Code, relating to transportation.",
-   "authors": [
-    {
-     "name": "Umberg",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Papan",
-     "role": "LEAD_AUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2026-06-25",
-    "text": "Chaptered by Secretary of State. Chapter 17, Statutes of 2026."
-   },
-   "chapter": {
-    "number": 17,
-    "year": 2026
-   },
-   "presented": "2026-06-25",
-   "approved": "2026-06-25",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "CIV",
-     "name": "Civil Code",
-     "section": "3333.9",
-     "verb": "add"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "5445.2",
-     "verb": "amend"
-    },
-    {
-     "code": "PUC",
-     "name": "Public Utilities Code",
-     "section": "5451",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 1.0
-  },
-  {
    "id": "202520260SB625",
    "slug": "sb-625",
    "label": "SB 625",
@@ -16625,7 +15814,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -16644,302 +15833,6 @@
      "code": "GOV",
      "name": "Government Code",
      "section": "65914.200",
-     "verb": "add"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 1.0
-  },
-  {
-   "id": "202520260SB627",
-   "slug": "sb-627",
-   "label": "SB 627",
-   "type": "SB",
-   "number": 627,
-   "session": "20252026",
-   "subject": "Law enforcement: masks.",
-   "title": "An act to add Chapter 17.45 (commencing with Section 7289) to Division 7 of Title 1 of the Government Code, and to add Section 185.5 to the Penal Code, relating to law enforcement.",
-   "authors": [
-    {
-     "name": "Wiener",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Arreguín",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Pérez",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Wahab",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Bryan",
-     "role": "PRINCIPAL_COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Ashby",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Becker",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Caballero",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Gonzalez",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "McNerney",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Menjivar",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Padilla",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Smallwood-Cuevas",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Stern",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Weber Pierson",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Bonta",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Carrillo",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Connolly",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Elhawary",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Garcia",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Gipson",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Mark González",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Haney",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Jackson",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Kalra",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Lee",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "McKinnor",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Ortega",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Quirk-Silva",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Rogers",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Schultz",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Sharp-Collins",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Solache",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Wilson",
-     "role": "COAUTHOR",
-     "house": "Assembly",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2025-09-20",
-    "text": "Chaptered by Secretary of State. Chapter 125, Statutes of 2025."
-   },
-   "chapter": {
-    "number": 125,
-    "year": 2025
-   },
-   "presented": "2025-09-17",
-   "approved": "2025-09-20",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "GOV",
-     "name": "Government Code",
-     "section": "7289",
-     "verb": "add"
-    },
-    {
-     "code": "PEN",
-     "name": "Penal Code",
-     "section": "185.5",
      "verb": "add"
     }
    ],
@@ -17282,11 +16175,14 @@
    "governorDeadline": null,
    "areas": [
     "tenant",
+    "cid",
     "surplus",
     "element",
     "haa",
     "streamlining",
-    "permits"
+    "permits",
+    "coastal",
+    "taxcredit"
    ],
    "sections": [
     {
@@ -17610,236 +16506,6 @@
    "progress": 0.8
   },
   {
-   "id": "202520260SB715",
-   "slug": "sb-715",
-   "label": "SB 715",
-   "type": "SB",
-   "number": 715,
-   "session": "20252026",
-   "subject": "Elections.",
-   "title": "An act to amend Sections 6041, 6340, 6520, 6722, 6852, 8020, 8020.5, 8022, 8024, 8027, 8028, 8121, 8147.5, 8903, 10220, 10224, 10225, 10229, 10403, 10407, 10510, 10516, 10603, 10604, 10703, 12101, 12262, 13112, 13107.3, and 13307 of the Elections Code, relating to elections.",
-   "authors": [
-    {
-     "name": "Allen",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
-   "lastAction": {
-    "date": "2026-09-09",
-    "text": "Enrolled and presented to the Governor at 2 p.m."
-   },
-   "chapter": null,
-   "presented": "2026-09-09",
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "6041",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "6340",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "6520",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "6722",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "6852",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8020",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8020.5",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8022",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8024",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8027",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8028",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8121",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8147.5",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "8903",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10220",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10224",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10225",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10229",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10403",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10407",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10510",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10516",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10603",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10604",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "10703",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "12101",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "12262",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "13112",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "13107.3",
-     "verb": "amend"
-    },
-    {
-     "code": "ELEC",
-     "name": "Elections Code",
-     "section": "13307",
-     "verb": "amend"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 0.8
-  },
-  {
    "id": "202520260SB722",
    "slug": "sb-722",
    "label": "SB 722",
@@ -18016,72 +16682,6 @@
    "nextHearing": null,
    "urgency": false,
    "progress": 0.5
-  },
-  {
-   "id": "202520260SB733",
-   "slug": "sb-733",
-   "label": "SB 733",
-   "type": "SB",
-   "number": 733,
-   "session": "20252026",
-   "subject": "Sexual assault forensic evidence: testing.",
-   "title": "An act to amend Section 680 of the Penal Code, relating to evidence.",
-   "authors": [
-    {
-     "name": "Wahab",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    },
-    {
-     "name": "Ochoa Bogh",
-     "role": "COAUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "R"
-    }
-   ],
-   "outcome": "law",
-   "current": "chaptered",
-   "currentLabel": "Chaptered",
-   "location": "Secretary of State",
-   "statusRaw": "Chaptered",
-   "measureState": "Chaptered",
-   "lastAction": {
-    "date": "2025-10-13",
-    "text": "Chaptered by Secretary of State. Chapter 783, Statutes of 2025."
-   },
-   "chapter": {
-    "number": 783,
-    "year": 2025
-   },
-   "presented": "2025-09-23",
-   "approved": "2025-10-13",
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [
-    {
-     "code": "PEN",
-     "name": "Penal Code",
-     "section": "680",
-     "verb": "amend"
-    }
-   ],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "No",
-    "fiscal": "Yes",
-    "localProgram": "Yes",
-    "urgency": "No",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": false,
-   "progress": 1.0
   },
   {
    "id": "202520260SB748",
@@ -18429,7 +17029,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -19135,6 +17735,7 @@
    "vetoed": null,
    "governorDeadline": "2026-09-30",
    "areas": [
+    "cid",
     "zoning"
    ],
    "sections": [
@@ -19528,7 +18129,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -20340,55 +18941,6 @@
    "progress": 0.2
   },
   {
-   "id": "202520260SB1216",
-   "slug": "sb-1216",
-   "label": "SB 1216",
-   "type": "SB",
-   "number": 1216,
-   "session": "20252026",
-   "subject": "Budget Act of 2026.",
-   "title": "An act to amend the Budget Act of 2026 by amending Section 15.14 of that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",
-   "authors": [
-    {
-     "name": "Laird",
-     "role": "LEAD_AUTHOR",
-     "house": "Senate",
-     "type": "Legislator",
-     "party": "D"
-    }
-   ],
-   "outcome": "stalled",
-   "current": "policy_o",
-   "currentLabel": "Policy committee",
-   "location": "Senate",
-   "statusRaw": "In Committee Process",
-   "measureState": "Amended Senate",
-   "lastAction": {
-    "date": "2026-06-15",
-    "text": "Re-referred to Com. on B. & F. R."
-   },
-   "chapter": null,
-   "presented": null,
-   "approved": null,
-   "vetoed": null,
-   "governorDeadline": null,
-   "areas": [
-    "other"
-   ],
-   "sections": [],
-   "flags": {
-    "vote": "Majority",
-    "appropriation": "Yes",
-    "fiscal": "Yes",
-    "localProgram": "No",
-    "urgency": "Yes",
-    "taxLevy": "No"
-   },
-   "nextHearing": null,
-   "urgency": true,
-   "progress": 0.1
-  },
-  {
    "id": "202520260SB1238",
    "slug": "sb-1238",
    "label": "SB 1238",
@@ -20422,7 +18974,7 @@
    "vetoed": "2026-09-20",
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {
@@ -20591,7 +19143,7 @@
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
-    "other"
+    "cid"
    ],
    "sections": [
     {

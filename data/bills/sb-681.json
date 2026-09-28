@@ -61,11 +61,14 @@
  "governorDeadline": null,
  "areas": [
   "tenant",
+  "cid",
   "surplus",
   "element",
   "haa",
   "streamlining",
-  "permits"
+  "permits",
+  "coastal",
+  "taxcredit"
  ],
  "sections": [
   {
@@ -290,6 +293,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
+ "began": {
+  "subject": "Planning and zoning: annual progress report: density bonus ordinances.",
+  "changedOn": "2025-04-10"
+ },
  "authorLine": "Introduced by Senator Wahab (Principal coauthors: Senators Becker, Grayson, McGuire, and Pérez)",
  "stages": [
   {
@@ -336,6 +343,7 @@
    "applies": true,
    "suspense": "2025-05-19",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -389,6 +397,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

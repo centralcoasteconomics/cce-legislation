@@ -121,7 +121,7 @@ def build(bill: dict, hist: list[dict], votes: list[dict], version: dict | None,
 
     def house_stages(house: str, events: list, key: str) -> list[dict]:
         """policy, fiscal, floor for one house."""
-        cmtes, fiscal_seen, suspense, held_at = [], False, None, None
+        cmtes, fiscal_seen, suspense, held_at, rule288 = [], False, None, None, None
         policy_done = fiscal_done = floor_done = None
         floor_vote = None
         cur_cmte = None
@@ -136,6 +136,7 @@ def build(bill: dict, hist: list[dict], votes: list[dict], version: dict | None,
             if "senate rule 28.8" in (h["action"] or "").lower():
                 fiscal_seen = True
                 fiscal_done = fiscal_done or h["action_date"]
+                rule288 = h["action_date"]
             if in_cmte:
                 cur_cmte = loc3
                 if loc3 in APPR:
@@ -170,7 +171,8 @@ def build(bill: dict, hist: list[dict], votes: list[dict], version: dict | None,
         if fiscal_done and floor_done and fiscal_done > floor_done:
             fiscal_done = floor_done
         cvotes = []
-        for c in cmtes + ([next(iter(APPR & set(vote_by_loc)))] if fiscal_seen and APPR & set(vote_by_loc) else []):
+        own_appr = "CX25" if house == "Assembly" else "CS61"  # this house's Appropriations only
+        for c in cmtes + ([own_appr] if fiscal_seen else []):
             for v in vote_by_loc.get(c, []):
                 cvotes.append({"committee": cname(c), "date": v["date"], "ayes": v["ayes"], "noes": v["noes"], "result": v["result"]})
         fv = [v for v in vote_by_loc.get("AFLOOR" if house == "Assembly" else "SFLOOR", [])]
@@ -181,7 +183,7 @@ def build(bill: dict, hist: list[dict], votes: list[dict], version: dict | None,
              "votes": [v for v in cvotes if v["committee"] in [cname(c) for c in cmtes]]},
             {"key": f"fiscal_{key}", "kind": "fiscal", "house": house, "done": fiscal_done,
              "applies": fiscal_seen or (fiscal_flag == "Yes" and not floor_done),
-             "suspense": suspense, "held": held_at if not fiscal_done else None,
+             "suspense": suspense, "held": held_at if not fiscal_done else None, "rule288": rule288,
              "votes": [v for v in cvotes if v["committee"] not in [cname(c) for c in cmtes]]},
             {"key": f"floor_{key}", "kind": "floor", "house": house, "done": floor_done, "vote": floor_meta},
         ]

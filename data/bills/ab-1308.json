@@ -80,6 +80,10 @@
   "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Planning and Zoning Law.",
+  "changedOn": "2025-03-24"
+ },
  "authorLine": "Introduced by Assembly Member Hoover (Coauthor: Assembly Member Wicks)",
  "stages": [
   {
@@ -126,6 +130,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -186,15 +191,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-05-14",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-08-19",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

@@ -131,6 +131,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Discontinuance of parks.",
+  "changedOn": "2025-03-28"
+ },
  "authorLine": "Introduced by Assembly Member Papan (Coauthors: Assembly Members Pacheco, Haney, and Wicks)",
  "stages": [
   {
@@ -177,18 +181,12 @@
    "applies": true,
    "suspense": "2025-05-21",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -236,6 +234,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

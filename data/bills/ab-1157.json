@@ -156,6 +156,10 @@
   "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Nuisance: motion pictures: enforcement.",
+  "changedOn": "2025-03-27"
+ },
  "authorLine": "Introduced by Assembly Member Kalra (Coauthors: Assembly Members Bonta, Bryan, Elhawary, Garcia, Haney, Jackson, Lee, McKinnor, Ortega, and Ward) (Coauthor: Senator Smallwood-Cuevas)",
  "stages": [
   {
@@ -202,6 +206,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "failed",
    "stoppedOn": "2026-02-02",
@@ -235,6 +240,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

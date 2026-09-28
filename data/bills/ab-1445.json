@@ -49,7 +49,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "finance"
  ],
  "sections": [
   {
@@ -151,6 +151,10 @@
   "Existing law requires a certain portion of any ad valorem property tax revenue annually allocated to the local government that is specified in the adopted financing plan, as described, to be allocated to and, when collected, apportioned to a special fund of the district for all lawful purposes of the district. Existing law also requires those revenues to be allocated and apportioned to the local government when the district ceases to exist pursuant to the financing plan.",
   "This bill would remove those provisions."
  ],
+ "began": {
+  "subject": "Affordable housing.",
+  "changedOn": "2025-03-28"
+ },
  "authorLine": "Introduced by Assembly Member Haney (Coauthors: Assembly Members Kalra and Lee)",
  "stages": [
   {
@@ -197,6 +201,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -249,6 +254,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

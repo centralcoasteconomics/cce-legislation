@@ -117,6 +117,7 @@
   "This bill would include a change in state statute that would result in a taxpayer paying a higher tax within the meaning of Section 3 of Article XIIIA of the California Constitution, and thus would require for passage the approval of 23 of the membership of each house of the Legislature.",
   "This bill would take effect immediately as a tax levy."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Arambula (Coauthors: Assembly Members Calderon and Garcia) (Coauthors: Senators Arreguín, Ochoa Bogh, and Reyes)",
  "stages": [
   {
@@ -163,18 +164,12 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-06-29",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 12,
      "noes": 1,
      "result": "Pass"
     }
@@ -222,6 +217,7 @@
    "applies": true,
    "suspense": "2026-06-29",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

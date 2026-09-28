@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "coastal"
  ],
  "sections": [
   {
@@ -62,6 +62,7 @@
   "This bill would require the commission, in consultation with the Department of Housing and Community Development, by July 1, 2027, to identify, based on specified considerations, infill areas within at least 3 local jurisdictions that do not have a certified local coastal program for a categorical exclusion from the coastal development permitting requirement. Specifically, until June 30, 2037, if a development in one of those identified infill areas is a residential housing project comprised only of units that are deed restricted for persons of very low, low, or moderate income, as specified, this bill would categorically exclude the development from that requirement. The bill would exempt the categorically excluded infill areas from the above-described regulation. The bill would require, before commencing development, a proponent of the development to request from the commission, and for the commission to issue, a notice of exclusion.",
   "This bill would require the commission, on or before August 1, 2027, to post on its internet website clearly defined maps of the categorical exclusion areas. The bill would also require the commission, on or before January 1, 2035, to report to the Legislature the number of projects that were constructed or are currently under construction pursuant to this categorical exclusion."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Laird",
  "stages": [
   {
@@ -108,6 +109,7 @@
    "applies": true,
    "suspense": "2025-05-19",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -175,18 +177,12 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-19",
-     "ayes": 5,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-29",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }

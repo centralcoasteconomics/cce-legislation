@@ -67,6 +67,7 @@
   "The Planning and Zoning Law provides for the creation of an accessory dwelling unit by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. The law requires a local agency to submit an accessory dwelling unit ordinance to the Department of Housing and Community Development within 60 days after adoption. The law authorizes the department to submit written findings to a local agency as to whether the ordinance complies with the standards. If the department finds that the ordinance does not comply with the standards, the law requires the department to provide a local agency reasonable time, no longer than 30 days, to respond to its findings. If the local agency does not amend its ordinance in response to those findings or does not adopt a resolution with findings explaining the reason the ordinance complies with the standards and addressing the department’s findings, the law requires the department to notify the local agency and authorizes the department to notify the Attorney General that the local agency is in violation of state law.",
   "This bill would invalidate the ordinance if the local agency fails to submit a copy of the ordinance to the department within 60 days of adoption or fails to respond to the department’s findings that the ordinance does not comply with the standards within 30 days, as described above."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Arreguín (Coauthor: Senator McNerney)",
  "stages": [
   {
@@ -113,6 +114,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -165,6 +167,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

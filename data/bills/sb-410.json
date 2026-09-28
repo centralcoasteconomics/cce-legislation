@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -86,6 +86,10 @@
   "Existing law requires an association to make association records available for inspection and copying by a member of the association or the member’s designated representative, as specified. Existing law defines the term association records for this purpose to include, among other things, any financial document or statement required to be provided pursuant to certain provisions governing the prospective purchase of a separate interest, as described above. Existing law provides specified time periods for member inspection of certain association records, including those described above, and generally requires any association records from the current fiscal year and the prior 2 fiscal years to be available for inspection, except as provided.",
   "This bill would include in the definition of association records the above-described inspector’s reports and would require those reports to be available for member inspection for 2 inspection cycles, as provided."
  ],
+ "began": {
+  "subject": "Planning and zoning: general plan: zoning ordinance.",
+  "changedOn": "2025-03-20"
+ },
  "authorLine": "Introduced by Senator Grayson",
  "stages": [
   {
@@ -132,6 +136,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -184,6 +189,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

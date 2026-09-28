@@ -58,6 +58,7 @@
   "Existing law requires the council to set and measure progress toward goals to prevent and end homelessness among domestic violence survivors and their children and among unaccompanied women in California, as specified. The bill would require initial goals to be established by January 1, 2025, and those goals to be evaluated at least every 2 years to determine whether updated goals are needed.",
   "This bill would instead require the council to evaluate the above-described goals at least every year."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Rubio",
  "stages": [
   {
@@ -104,6 +105,7 @@
    "applies": true,
    "suspense": "2025-05-12",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -145,6 +147,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

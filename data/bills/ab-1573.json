@@ -64,6 +64,7 @@
   "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development that includes, among other things, a housing element containing specified information, including an analysis of its special housing, emergency shelter, and supportive housing needs, as defined. Existing law defines the term “target population” for purposes of requirements applicable to the housing element to include certain persons, including persons with low incomes who have one or more disabilities and individuals eligible for specified developmental disability services.",
   "This bill, the Unseen and Unheard Housing Act, would provide that the definition of the term “target population” for the purposes of requirements applicable to the housing element, as described above, may include victims of domestic violence, victims of sexual assault, and victims of human trafficking, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Bryan (Principal coauthor: Assembly Member Stefani)",
  "stages": [
   {
@@ -110,6 +111,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -154,6 +156,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

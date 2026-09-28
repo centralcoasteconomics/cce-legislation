@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "taxcredit"
  ],
  "sections": [
   {
@@ -74,6 +74,7 @@
   "This bill would include findings and reporting requirements in compliance with this requirement.",
   "This bill would take effect immediately as a tax levy."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney",
  "stages": [
   {
@@ -120,18 +121,12 @@
    "applies": true,
    "suspense": "2025-05-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-01-22",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -179,6 +174,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

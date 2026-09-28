@@ -61,6 +61,7 @@
   "This bill would, instead, require notices required by the Mobilehome Residency Law to be delivered to both the homeowner and resident of the mobilehome. The bill would also authorize the notices required by the Mobilehome Residency Law to be delivered prior to February 1 of each year to be delivered by electronic mail if the homeowner or resident has provided affirmative, written consent, as defined. The bill would allow a homeowner or resident to revoke their consent to receive notices by electronic mail at any time, without any fee, charge, or penalty, and without any impact to the terms of their tenancy, as specified. The bill would require management to deliver personally or by mail to the homeowner or resident a notice stating that the homeowner or resident has agreed to receive notices by electronic mail and may revoke this agreement, as provided.",
   "This bill would make nonsubstantive changes reflective of existing law, as provided."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Michelle Rodriguez",
  "stages": [
   {
@@ -99,6 +100,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -143,6 +145,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

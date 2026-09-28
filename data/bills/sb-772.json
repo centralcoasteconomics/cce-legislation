@@ -78,6 +78,7 @@
   "Existing law defines various terms for the purposes of the program, including, “capital improvement project,” “catalytic qualifying infill area,” “eligible applicant,” “urbanized area,” and “urban uses.”",
   "This bill would revise these definitions. The bill would additionally define the terms “on-demand transit service,” “major transit stop,” and “walkability.”"
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Cabaldon (Coauthor: Assembly Member Caloza)",
  "stages": [
   {
@@ -116,15 +117,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-08-13",
-     "ayes": 11,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-12",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -168,6 +162,7 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

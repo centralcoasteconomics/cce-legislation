@@ -87,6 +87,7 @@
   "Existing law, the Special Occupancy Parks Act, establishes requirements for the construction, maintenance, occupancy, use, and design of special occupancy parks. Existing law defines “special occupancy park” to mean a recreational vehicle park, temporary recreational vehicle park, incidental camping area, or tent camp.",
   "This bill would specify that, for purposes of that act, a special occupancy park does not include a low-impact camping area, as specified, that is located in a county that has enacted an ordinance, as specified, authorizing low-impact camping and meeting specified requirements. The bill would impose specified requirements on owners of private property offering low-impact camping area sites and on online hosting platforms. The bill would define a “low-impact camping area” to mean any area of private property that provides for the transient occupancy rental of a temporary sleeping accommodation, as defined, for recreational purposes that is not a commercial lodging facility. The bill would specify that a low-impact camping area is not a special occupancy park if, among other things, it meets certain requirements, including compliance with applicable local requirements relating to waste disposal and quiet hours, as specified. The bill would require that a county that has authorized low-impact camping to take specified actions, including, among others, to establish a registry of low-impact camping areas, as specified, and to notify the Department of Housing and Community Development of the county’s choice to authorize low-impact camping areas. The bill would also require all state and local eviction processes applicable to a special occupancy park to apply to a low-impact camping area."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ward (Coauthors: Assembly Members Connolly, Ortega, and Rogers)",
  "stages": [
   {
@@ -125,6 +126,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -169,6 +171,7 @@
    "applies": true,
    "suspense": "2025-08-25",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

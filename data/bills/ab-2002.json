@@ -59,6 +59,7 @@
   "Existing law, the Administrative Procedure Act, sets forth the requirements for the adoption, publication, review, and implementation of regulations, including emergency regulations, by state agencies.",
   "This bill would require the department, in collaboration with stakeholders, to adopt emergency regulations to implement the above-described provisions. The bill would also make those emergency regulations effective until nonemergency regulations implementing the above-described provisions become effective."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Solache",
  "stages": [
   {
@@ -97,11 +98,12 @@
    "applies": true,
    "suspense": "2026-04-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-06-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -149,6 +151,7 @@
    "applies": true,
    "suspense": "2026-06-29",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

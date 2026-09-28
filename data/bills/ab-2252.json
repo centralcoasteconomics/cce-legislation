@@ -99,6 +99,10 @@
   "Existing law provides that neither the State Building Standards Law, nor the application of certain building standards, limits the authority of a city, county, or city and county to establish more restrictive building standards, including, but not limited to, green building standards, reasonably necessary because of local climatic, geological, or topographical conditions, and pursuant to making certain findings. Existing law, notwithstanding those provisions, from October 1, 2025, to June 1, 2031, inclusive, prohibits a city or county from establishing more restrictive building standards that are applicable to residential units, unless a certain condition is met, including that the commission deems those changes or modifications necessary as emergency standards to protect health and safety.",
   "This bill would add a condition to each of the above-described provisions for changes or modifications that allow for single-exit, single stairway multiunit residential buildings of up to 6 stories in height."
  ],
+ "began": {
+  "subject": "Housing: Single stair entry and exit.",
+  "changedOn": "2026-03-16"
+ },
  "authorLine": "Introduced by Assembly Members Lee and Wicks (Principal coauthor: Senator Wiener)",
  "stages": [
   {
@@ -131,6 +135,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -162,6 +167,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

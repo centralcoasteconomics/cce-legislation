@@ -98,7 +98,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -144,6 +144,7 @@
   "(5)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
+ "began": null,
  "authorLine": "Introduced by Senators Wahab and Richardson (Principal coauthors: Senators Archuleta, Caballero, Cervantes, Cortese, Pérez, Reyes, and Umberg) (Coauthor: Senator Laird)",
  "stages": [
   {
@@ -190,15 +191,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-20",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-12",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -250,6 +244,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

@@ -74,6 +74,7 @@
   "This bill would make any covenant, restriction, or condition contained in any rental agreement or other instrument affecting the tenancy of a homeowner or resident in a mobilehome park, in a subdivision, cooperative, or condominium for mobilehomes, or in a resident-owned mobilehome park that effectively prohibits or restricts the installation, upgrade, replacement, or use of a cooling system, as defined, in a mobilehome void and unenforceable. The bill would make it unlawful for the management or the ownership to prohibit or restrict a homeowner or resident from installing, upgrading, replacing, or using a cooling system in their mobilehome or to take other specified actions in connection with the installation, upgrade, replacement, or use of a cooling system, subject to specified exceptions.",
   "This bill would prohibit the termination of tenancy for the installation, upgrade, replacement, or use of a cooling system. The bill would make any entity that willfully violates these provisions in a subdivision, cooperative, or condominium for mobilehomes, or a resident-owned mobilehome park liable to the homeowner, resident, or other party for actual damages occasioned thereby, and for a civil penalty paid to the homeowner, resident, or other party in an amount not to exceed $2,000."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Connolly (Coauthor: Assembly Member Kalra)",
  "stages": [
   {
@@ -120,6 +121,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -164,6 +166,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -68,6 +68,10 @@
   "This bill would also exclude from the provisions described above, a contributing site within a historic district included on the State Historic Resources Inventory designated before January 1, 2025, and a parcel individually listed as a historical resource included on the State Historic Resources Inventory designated before January 1, 2025.",
   "This bill would incorporate additional changes to Section 65912.161 of the Government Code proposed by AB 2415 to be operative only if this bill and AB 2415 are enacted and this bill is enacted last."
  ],
+ "began": {
+  "subject": "Local planning: housing element.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Assembly Member Harabedian (Principal coauthor: Senator Pérez)",
  "stages": [
   {
@@ -114,6 +118,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -166,6 +171,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

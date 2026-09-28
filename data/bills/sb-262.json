@@ -68,6 +68,7 @@
   "This bill would include in the definition of “prohousing local policies” policies that keep people housed, and would include additional examples of prohousing local policies under the above-described provisions, as specified.",
   "This bill would incorporate additional changes to Section 65589.9 of the Government Code proposed by AB 36 to be operative only if this bill and AB 36 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Wahab (Coauthor: Assembly Member Garcia)",
  "stages": [
   {
@@ -106,15 +107,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-20",
-     "ayes": 11,
-     "noes": 4,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-04-07",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -166,6 +160,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

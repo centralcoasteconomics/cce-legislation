@@ -57,6 +57,7 @@
   "The Mobilehome Residency Law governs the terms of conditions of residency in mobilehome parks and authorizes the management of a mobilehome park to terminate a tenancy for, among other reasons, conduct by the homeowner or resident upon the park premises that constitutes a substantial annoyance to other homeowners or residents.",
   "This bill would instead authorize the management to terminate a tenancy for conduct by the homeowner or resident upon the park premises that constitutes a substantial annoyance to other homeowners, residents, park staff, park employees, or other individuals who have contracted with, or regularly provide services for, the park."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Solache",
  "stages": [
   {
@@ -89,6 +90,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -120,6 +122,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

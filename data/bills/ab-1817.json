@@ -57,6 +57,7 @@
   "Existing law prohibits mobilehome park management from terminating a tenancy except for specified reasons, including, among other reasons, failure of the homeowner or resident to comply with a reasonable rule or regulation of the park that is part of the rental agreement. Existing law provides that an act or omission of a homeowner or resident does not constitute a failure to comply with a reasonable rule or regulation until management has given the homeowner written notice of the alleged rule or regulation violation and the homeowner or resident has failed to adhere to the rule or regulation within seven days. Existing law further provides these provisions do not relieve management from its obligations to demonstrate that a rule or regulation has in fact been violated.",
   "This bill would, instead, require that the management serve the homeowner with the written notice, as prescribed, and would require the notice to include the language of each rule or regulation for which the homeowner is alleged to be in violation, along with specific facts, as provided, and any action required to adhere to the rule or regulation. The bill would, instead, provide that these provisions do not relieve the management from its burden of demonstrating that a rule or regulation has in fact been in fact violated."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Addis",
  "stages": [
   {
@@ -103,6 +104,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -147,6 +149,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -72,6 +72,7 @@
   "This measure, the Housing Opportunities Made Equal (HOME) Act, would create an account in the General Fund into which, beginning in the 2027–28 fiscal year, and each fiscal year thereafter until September 30, 2036, a sum would be transferred from the General Fund equal to or greater than 5% of the estimated amount of General Fund revenues for that fiscal year, as specified. The measure would require the moneys in the account to be appropriated by the Legislature to the Business, Consumer Services, and Housing Agency, and would authorize that agency to expend the moneys to fund prescribed matters related to homelessness and affordable housing, including housing and services to prevent and end homelessness.",
   "This measure would require the agency to develop a 10-year investment strategy, with input from stakeholders, that demonstrates how moneys in the account will be used to produce affordable housing and end homelessness through specific performance measures and benchmarks. On or before October 1 of each year, and until October 1, 2036, the measure would require the agency to annually report to the Legislature on its progress in meeting those performance measures and benchmarks."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Jackson (Coauthors: Assembly Members Lee, Quirk-Silva, and Wicks)",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": "2026-01-22",
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-01-22",
@@ -151,6 +153,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

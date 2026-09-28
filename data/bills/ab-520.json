@@ -85,6 +85,7 @@
   "Existing law provides funding for homelessness prevention and mental health services through various state programs, such as Housing First, and the Early Psychosis Intervention Plus Program. Existing law establishes the State Department of Health Care Services and, among other things, requires the department to implement certain mental health services through contracts with a county or counties acting jointly. Existing law requires the Governor to create a California Interagency Council on Homelessness to serve as a statewide facilitator, coordinator, and policy development resource on ending homelessness in California, among other things. Existing law requires the council to create a statewide data system with a goal of matching data on homelessness to programs impacting homeless recipients of state programs.",
   "This bill would require the Controller, by January 1, 2027, in collaboration with the department and the council to develop, publish, and maintain an online search portal that contains specified information relating to state funding for programs as described above. The bill would require the portal to include funding amounts provided in the current fiscal year and the previous 10 fiscal years, as well as specified information about the state program that received the funds and the department or agency that administers the program. The bill would require the Controller, the department and the council to each include a link to the online portal on their internet websites. The bill would authorize the Controller, the department and the portal to request any relevant information from a state agency or department for the purpose of reporting accurate information within the portal."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Castillo (Coauthors: Assembly Members DeMaio, Essayli, and Macedo) (Coauthor: Senator Choi)",
  "stages": [
   {
@@ -117,6 +118,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -148,6 +150,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

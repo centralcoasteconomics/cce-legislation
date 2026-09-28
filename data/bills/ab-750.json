@@ -64,6 +64,10 @@
   "Existing law authorizes the Department of Housing and Community Development, upon appropriation, to make loans or grants, or both loans and grants, to rehabilitate, capitalize operating subsidy reserves for, and extend the long-term affordability of department-funded housing projects that have an affordability restriction that has expired, that have an affordability restriction with a remaining term of less than 10 years, or are otherwise at risk of conversion to market-rate housing.",
   "This bill would also authorize the department to make those loans and grants to rehabilitate, capitalize operating subsidy reserves for, and extend the long-term affordability of housing projects that qualify as a challenged development, as defined. The bill would require the department to grant priority for these loans and grants to housing projects that are department funded and have an affordability restriction that has expired or have a remaining term of less than 10 years, or are otherwise at risk for conversion, as defined. The bill would authorize the department to establish separate selection and underwriting standards for these projects and projects that are challenged developments. The bill would require, prior to allocating program funds, the department to evaluate the above-described developments to help inform program guidelines and allocation decisions. The bill would require the department to allocate at least 10% of funds of every round to challenged developments that are not department-funded, as specified."
  ],
+ "began": {
+  "subject": "Homeless shelters: safety regulations.",
+  "changedOn": "2026-04-29"
+ },
  "authorLine": "Introduced by Assembly Member Quirk-Silva (Coauthor: Assembly Member Haney)",
  "stages": [
   {
@@ -117,18 +121,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2025-04-30",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -184,6 +182,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

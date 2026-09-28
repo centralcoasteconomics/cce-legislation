@@ -57,6 +57,7 @@
   "Existing law prescribes requirements for the disposal of surplus land by a local agency. Existing law defines terms for these purposes, including, among others, “surplus land” to mean land owned in fee simple by any local agency for which the local agency’s governing body takes formal action in a regular public meeting declaring that the land is surplus and is not necessary for the agency’s use. Existing law defines “exempt surplus land” to mean, among other things, land that is subject to a sectional planning area document, as described, and meets specified requirements, including that the land identified in the adopted sectional planning area document was dedicated prior to January 1, 2019, at least 25% of the units are dedicated to lower income households, as specified, and that the land is developed at an average density of at least 10 units per acre calculated with respect to the entire sectional planning area.",
   "This bill would change those requirements so that at a minimum, 25% of units that are proposed by the sectional planning area document as adopted prior to January 1, 2019, and are not designated for students, faculty, or staff of an academic institution, or 500 units, whichever is greater, must be dedicated to lower income households, as specified, and that the land must be developed at an average density of at least 10 units per acre, in accordance with certain requirements and calculated with respect to the entire sectional planning area and inclusive of housing designated for students, faculty, and staff of an academic institution."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Alvarez",
  "stages": [
   {
@@ -103,6 +104,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -147,6 +149,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -59,6 +59,7 @@
   "The bill would provide for the submission of the bond act to the voters at the November 3, 2026, statewide general election.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Lee",
  "stages": [
   {
@@ -91,6 +92,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -122,6 +124,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

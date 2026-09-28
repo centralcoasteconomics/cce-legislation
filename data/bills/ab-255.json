@@ -80,6 +80,7 @@
   "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs that provide services to homeless individuals.",
   "This bill would require the department to adopt the most recent standards approved by the National Alliance for Recovery Residences or other national standards as the minimum standard for supportive-recovery residences that receive public funds under these provisions. The bill would require the department to establish a separate process for determining if the supportive-recovery residence complies with the core components of Housing First. The bill would require the department to verify compliance with the core components of Housing First for residences seeking Housing First certification, as specified. The bill would authorize the department to charge an annual fee to verify that supportive-recovery residences comply with the core components of Housing First in an amount not to exceed the reasonable cost of administering the program, not to exceed $100, and would establish the Supportive-Recovery Residence Program Fund for collection of the fee, to be available upon appropriation by the Legislature."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney (Principal coauthor: Assembly Member Stefani) (Coauthor: Senator Allen)",
  "stages": [
   {
@@ -126,18 +127,12 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -186,6 +181,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

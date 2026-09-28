@@ -85,6 +85,7 @@
   "The Bergeson-Peace Infrastructure and Economic Development Bank Act creates within the Governor’s Office of Business and Economic Development the California Infrastructure and Economic Development Bank (bank) and requires it to administer the act, which, among other things, provides for the financing of certain economic development projects.",
   "This bill would establish, upon appropriation by the Legislature, the Multifamily Backstop Financing Program (program), for purposes of supporting multifamily projects through the provision of state-backed credit backstops that would enable surety companies to issue payment and performance bonds to qualified offsite housing factories in the state. The bill would authorize the bank to provide credit backstops to surety companies and surety insurers that issue construction bonds according to specified parameters. The bill would require the bank to adopt rules and regulations necessary to implement the program."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Carrillo and Wicks (Coauthors: Assembly Members Mark González, Hoover, and Quirk-Silva)",
  "stages": [
   {
@@ -123,18 +124,12 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -190,6 +185,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

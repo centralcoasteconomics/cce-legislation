@@ -67,7 +67,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -171,6 +171,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Wicks and Quirk-Silva (Coauthors: Assembly Members Caloza, Mark González, Harabedian, and Hoover)",
  "stages": [
   {
@@ -209,18 +210,12 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -268,6 +263,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

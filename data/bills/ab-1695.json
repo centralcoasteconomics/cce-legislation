@@ -57,6 +57,7 @@
   "Existing law prohibits the smoking of tobacco products in various public and private places and also authorizes a landlord of a residential dwelling unit to prohibit the smoking of tobacco products on the property or in any building or portion of the building, including in any dwelling unit, in accordance with specified requirements.",
   "This bill would prohibit the smoking of tobacco products in a state-subsidized multiunit housing development, as defined, for which a certificate of occupancy is issued on or after January 1, 2027."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ortega",
  "stages": [
   {
@@ -89,6 +90,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -120,6 +122,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

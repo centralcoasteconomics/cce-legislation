@@ -79,6 +79,7 @@
   "This bill would exclude housing built to replace a previous housing unit that was subject to the Tenant Protection Act of 2019, was substantially damaged or destroyed by a disaster, as defined, and was issued a certificate of occupancy before that housing unit was substantially damaged or destroyed, from the above-described exemption from the just cause requirements.",
   "This bill would incorporate additional changes to Section 1946.2 of the Civil Code proposed by AB 1529 to be operative only if this bill and AB 1529 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Wahab (Coauthor: Senator Allen) (Coauthors: Assembly Members Garcia and Kalra)",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -170,6 +172,7 @@
    "applies": false,
    "suspense": null,
    "held": "2025-07-02",
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -35,7 +35,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -67,6 +67,7 @@
   "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Government Operations Agency. Existing law requires any building standard adopted or proposed by state agencies to be submitted to, and approved or adopted by, the commission before codification, in compliance with certain procedures, including, among others, the above-described requirement that an initial statement of reasons for a regulation that is a building standard include the estimated cost of compliance, the estimated potential benefits, and the related assumptions used to determine the estimates.",
   "This bill, if the commission finds that the initial statement of reasons is submitted without a completed statement of estimated cost of compliance, as specified, would prohibit the commission from approving or adopting the proposed or adopted building standard. The bill would also make nonsubstantive, conforming changes."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Petrie-Norris",
  "stages": [
   {
@@ -105,6 +106,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -157,15 +159,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-05-06",
-     "ayes": 14,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-08-03",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

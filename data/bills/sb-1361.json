@@ -78,6 +78,10 @@
   "Existing law requires a housing development project to be an allowed use as a transit-oriented housing development if certain requirements are met. Existing law provides that these provisions do not apply to a local agency until July 1, 2026, unless the local agency takes specified actions. Existing law defines various terms for these purposes. Existing law prohibits a local government from adopting any requirement that applies to a project solely or partially on the basis that the project is seeking approval as a transit-oriented housing development, as specified.",
   "This bill would additionally prohibit a local government with an existing or planned transit-oriented development stop from taking specified actions with respect to transit agencies and transit projects."
  ],
+ "began": {
+  "subject": "Community facilities districts.",
+  "changedOn": "2026-03-25"
+ },
  "authorLine": "Introduced by Senator Durazo (Coauthors: Senators Arreguín and Wiener) (Coauthor: Assembly Member McKinnor)",
  "stages": [
   {
@@ -124,6 +128,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -176,6 +181,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

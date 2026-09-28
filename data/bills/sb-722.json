@@ -124,6 +124,7 @@
   "This bill would additionally prohibit the development from being located on an existing parcel of land or site governed under the Mobilehome Residency Law, the Recreational Vehicle Park Occupancy Law, the Mobilehome Parks Act, or the Special Occupancy Parks Act.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Senators Wahab and Wiener (Principal coauthor: Assembly Member Ahrens) (Coauthors: Senators Cervantes, Rubio, Allen, Caballero, Cortese, and Umberg) (Coauthor: Assembly Member Wallis)",
  "stages": [
   {
@@ -185,15 +186,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-06-24",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-01-20",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -245,6 +239,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

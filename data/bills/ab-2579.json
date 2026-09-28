@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -73,6 +73,10 @@
   "Existing law requires the board to notify a member in writing at least 10 days before a meeting to consider or impose discipline or a monetary charge on a member, as specified. Existing law requires the board to give a member the opportunity to cure a violation prior to the meeting, and prohibits the board from imposing discipline if the member cures the violation prior to the meeting or, if curing the violation would take longer than the time between the notice provided and the meeting, the member provides financial commitment to cure the violation.",
   "This bill would specify that a member engaged in habitual, repeated, or continuing violations is not deemed to have cured a violation simply because the violation is not occurring at the time of the hearing."
  ],
+ "began": {
+  "subject": "Civil actions: compensatory relief.",
+  "changedOn": "2026-03-16"
+ },
  "authorLine": "Introduced by Assembly Member Petrie-Norris",
  "stages": [
   {
@@ -119,6 +123,7 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -160,6 +165,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

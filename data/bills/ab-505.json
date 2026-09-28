@@ -85,6 +85,7 @@
   "Existing law establishes the Multifamily Housing Program administered by the Department of Housing and Community Development. Existing law requires that specified funds appropriated to provide housing for individuals and families who are experiencing homelessness or who are at risk of homelessness and who are inherently impacted by or at increased risk for medical diseases or conditions due to the COVID-19 pandemic or other communicable diseases be disbursed in accordance with the Multifamily Housing Program for specified uses. This disbursement program is referred to as Homekey.",
   "This bill would require the Legislative Analyst’s Office to conduct an evaluation of the Homekey disbursement program described above to review the effectiveness of the program in relation to sustaining people experiencing homelessness, including, among other things, the number of housing units and projects funded since the program’s inception, and the timeliness of the allocation of program funds provided to localities participating in the program, including, among other things, the average time between application submission and fund disbursement. The bill would require the office, on or before July 1, 2027, to submit a report to the Legislature, subject to specified requirements, with the results of the above-described evaluation described that includes policy recommendations to address any issues identified during the evaluation. The bill would repeal its provisions on January 1, 2031, pursuant to specified provisions."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Castillo (Coauthors: Assembly Members DeMaio and Essayli) (Coauthors: Senators Choi and Grove)",
  "stages": [
   {
@@ -117,6 +118,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -148,6 +150,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

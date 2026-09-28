@@ -64,6 +64,10 @@
   "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including the Multifamily Housing Program, pursuant to which the department provides assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects, as provided.",
   "This bill would establish the Affordable Housing Risk Reduction Program, administered by the department, to provide technical assistance and supportive resources to affordable housing providers to help them mitigate risk in their portfolio and secure more affordable insurance options. The bill would require the department to develop technical assistance to support affordable housing providers, and would authorize the department and third-party consultants to provide both individual technical assistance to affordable housing providers and develop technical assistance tools that can be made broadly accessible to those providers."
  ],
+ "began": {
+  "subject": "Local agencies: improvement and maintenance of natural habitat.",
+  "changedOn": "2026-06-11"
+ },
  "authorLine": "Introduced by Senator Durazo (Coauthor: Assembly Member Caloza)",
  "stages": [
   {
@@ -102,6 +106,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -148,6 +153,7 @@
    "applies": true,
    "suspense": "2026-08-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

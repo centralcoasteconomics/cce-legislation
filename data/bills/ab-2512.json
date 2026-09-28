@@ -68,6 +68,10 @@
   "This bill would require, if an exemption is granted to the City of Anaheim for the disposition of surplus land involving the sale or lease of Angel Stadium to the Los Angeles Angels, that any materials refer to that team as the Anaheim Angels. The bill would express the intent of the Legislature not to apply this requirement if the City of Anaheim is able to come to an agreement with the Major League Baseball team known as the Los Angeles Angels about their affiliation.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Anaheim."
  ],
+ "began": {
+  "subject": "Local government.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Assembly Member Valencia (Coauthor: Assembly Member Pacheco)",
  "stages": [
   {
@@ -114,6 +118,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -158,6 +163,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

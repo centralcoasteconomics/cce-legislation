@@ -67,6 +67,7 @@
   "Existing law requires the Governor to create an Interagency Council on Homelessness, consisting of specified members. Among other goals, existing law requires the council to serve as a facilitator and create partnerships among federal, state, and local governments, nonprofit entities working to end homelessness, homeless services providers, and the private sector, for the purpose of arriving at specific strategies to end homelessness. Existing law also requires the council to make policy and procedural recommendations to legislators and other governmental entities.",
   "This bill would require the council to coordinate with representatives from LGBTQ+ communities to identify recommended policies and best practices for providing inclusive and culturally competent services to LGBTQ+ people experiencing homelessness and develop recommendations to, among other things, expand data collection to understand the needs and experiences of LGBTQ+ people in state homelessness programs, as defined. The bill would require the council, on or before July 1, 2027, to submit a report to specific committees of the Legislature on these recommendations."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Lee (Coauthor: Assembly Member Haney)",
  "stages": [
   {
@@ -105,18 +106,12 @@
    "applies": true,
    "suspense": "2025-05-07",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
      "noes": 0,
      "result": "Pass"
     }
@@ -172,6 +167,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

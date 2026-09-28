@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -64,6 +64,7 @@
   "This bill would require the board of directors of the association to review, on an annual basis, a statement of fees charged by the managing agent, as specified. The bill would include this statement of fees as association records.",
   "This bill would incorporate additional changes to Section 5200 of the Civil Code proposed by SB 1238 to be operative only if this bill and SB 1238 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Jackson",
  "stages": [
   {
@@ -110,6 +111,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "done",
    "label": "Appropriations"
@@ -162,6 +164,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

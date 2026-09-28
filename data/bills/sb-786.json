@@ -125,6 +125,10 @@
   "This bill would instead require, in any order or judgment issued in an action brought to challenge the validity of the general plan of any city, county, or city and county, or any mandatory element thereof that resolves whether those plans or elements substantially comply with certain requirements, that order or judgment to be immediately appealable, regardless of whether any final judgment has been issued. The bill would instead require a county or city to comply with the above-described requirements if the court finds that the general plan or mandatory element does not substantially comply with certain requirements. The bill would remove a court’s above-described authority to grant a city or county 2 extensions of time. The bill would specify that the above-described remedies are not stayed during the pendency of an appeal of the order or judgment, but would authorize a court to stay remedies if there is a showing by a county or city that it would suffer irreparable harm. The bill would require, rather than authorize, a court to grant these remedies as temporary relief during a pendency of a challenge to the validity of the general plan. The bill would require that request for temporary relief to be made by noticed motion or application, as specified.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": {
+  "subject": "Housing.",
+  "changedOn": "2025-03-25"
+ },
  "authorLine": "Introduced by Senator Arreguín (Coauthors: Assembly Members Bryan and Wicks)",
  "stages": [
   {
@@ -171,15 +175,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-29",
-     "ayes": 11,
-     "noes": 4,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-19",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -231,6 +228,7 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

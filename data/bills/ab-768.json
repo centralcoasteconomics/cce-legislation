@@ -60,6 +60,7 @@
   "Existing law provides that, for purposes of the above provisions, a mobilehome is deemed to be the principal residence of the homeowner unless a review of state or county records demonstrate otherwise, as specified. Existing law provides that before modifying the rent or other terms of tenancy as a result of learning that the mobilehome space is not the principal residence of the homeowner through the above-described review, the management, as defined, shall notify the homeowner, in writing, of the proposed changes and provide the homeowner with a copy of the documents upon which management relied. Existing law prohibits management from modifying the rent or other terms of tenancy as described above if the homeowner provides documentation reasonably establishing that the information provided by management is incorrect or that the homeowner is not the same person identified in the documents, as specified.",
   "This bill would, instead, provide that before modifying the rent or other terms of tenancy as a result of learning that the mobilehome space is not used as permanent housing as described above, the management shall notify the homeowner, as specified, and shall provide the homeowner with an explanation of its determination and a copy of the documents upon which management relied in making its determination. The bill would, instead, prohibit management from modifying the rent or other terms of tenancy as described above if the homeowner provides a statement refuting management’s claim that the mobilehome is not being used as permanent housing as described above. The bill would, in that regard, create a rebuttable presumption in favor of the homeowner’s statement."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ávila Farías",
  "stages": [
   {
@@ -106,6 +107,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -144,6 +146,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

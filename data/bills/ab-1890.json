@@ -66,6 +66,7 @@
   "This bill would instead require the department to award, annually, up to $500,000 in matching funds to the Napa County Housing Authority upon demonstration that the Napa County Housing Authority is capable of continuing to effectively serve the housing needs of migrant or other farmworkers in the County of Napa. The bill would require all funds awarded under its provisions to comply with specified prohibitions against state funding, loans, grants, or other state subsidies for an employer that employs certain workers, as provided, and would require that employer to reimburse the state or state agency that provided the funding, as provided. The bill would, instead of requiring the department to use specified funds allocated from the Building Homes and Jobs Trust Fund, provide that this bill is not operative until funding is appropriated by the Legislature in the Budget Act or any other measure for the purposes of the bill.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the County of Napa."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Aguiar-Curry (Principal coauthor: Senator Cabaldon)",
  "stages": [
   {
@@ -104,18 +105,12 @@
    "applies": true,
    "suspense": "2026-04-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-06-22",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -163,6 +158,7 @@
    "applies": true,
    "suspense": "2026-06-22",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -66,6 +66,7 @@
   "This bill would require the department to convene a working group no later than December 31, 2026, to research and consider identifying and recommending amendments to state building standards allowing residential developments to be built under the requirements of the California Residential Code, as specified. The bill would require the department, no later than December 31, 2028, to provide a one-time report of its findings to the Legislature in the annual report described above. The bill, if the report identifies and recommends amendments to building standards, would require the department to research, develop, and consider proposing the standards for adoption by the commission, as specified. For the purposes of these provisions, the bill would authorize the department to exceed the scope and application of the International Residential Code to allow residential developments of between 3 and 10 units to be designed and constructed under the requirements of the California Residential Code.",
   "The bill would additionally require the department to perform a review of construction cost pressures for single-family and multifamily residential construction as a results of new or existing building standards and provide its findings to the Legislature in its above-described annual report on or before December 31, 2026. The bill would require the department to perform the same review every 3 years to revise or update standards, as needed, to reduce construction costs, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ward",
  "stages": [
   {
@@ -104,11 +105,12 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -156,6 +158,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": "2025-08-29",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

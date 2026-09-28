@@ -126,6 +126,7 @@
   "Existing law repeals the above-described provisions relating to the Mobilehome Residency Law Protection Program on January 1, 2027.",
   "This bill would extend that repeal date to June 30, 2033."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ahrens (Principal coauthor: Assembly Member Krell) (Principal coauthor: Senator Umberg) (Coauthors: Assembly Members Harabedian and Kalra)",
  "stages": [
   {
@@ -172,18 +173,12 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-10",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
      "noes": 2,
      "result": "Pass"
     }
@@ -239,6 +234,7 @@
    "applies": true,
    "suspense": "2026-08-10",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -61,6 +61,7 @@
   "Existing law authorizes the use of a digital signature in any written communication with a public entity, as defined, in which a signature is required or used. Existing law provides that a digital signature shall have the same force and effect as the use of a manual signature only if it embodies certain attributes, including, among other things, that it is under the sole control of the person using it.",
   "This bill would require the department, on or before January 1, 2028, to accept a verified signature executed electronically on a document submitted to release or satisfy a security interest held by a legal owner pursuant to the above-described provisions of the Manufactured Housing Act of 1980 and to treat that signature as having the same force and effect as an original signature. The bill would define “verified signature executed electronically” as a digital signature that embodies all of the above-described attributes required to have the same force and effect as the use of a manual signature. The bill would prohibit the department from requiring submission of a wet signature to release or satisfy a legal owner’s security interest pursuant to the above-described provisions of the Manufactured Housing Act of 1980."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Johnson",
  "stages": [
   {
@@ -99,32 +100,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-06",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -180,6 +161,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

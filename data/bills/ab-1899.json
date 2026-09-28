@@ -59,6 +59,7 @@
   "This bill would require the office, on or before December 15, 2027, to create and post on its internet website a publicly accessible dashboard tracking the office’s progress toward these goals. The bill would require the office to consult with an advisory committee, as provided, and would require the Secretary of California Housing and Homelessness to appoint the members of the advisory committee by March 1, 2027. The bill would establish the Office of Youth Homelessness Prevention Fund and require that, upon appropriation, moneys deposited into the fund be made available to the council, as provided. The bill would require the office to submit a report on its progress toward achieving its goals to the Legislature and the council on or before December 15, 2027, and annually thereafter, as provided.",
   "This bill would make related findings and declarations."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Caloza",
  "stages": [
   {
@@ -105,11 +106,12 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -165,6 +167,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -80,6 +80,7 @@
   "Existing law requires the department to publish, by December 31, 2026, advisory guidance, including, but not limited to, sample analyses and programs, pertaining to special housing needs for acutely low and extremely low income households and programs to assist in the development of adequate housing to meet the needs of acutely low income households, as specified.",
   "This bill would require the guidance to include advice regarding the impact of the above-described requirements regarding interim housing and pertaining to acutely low and extremely low income households, specifically how interim housing, as defined, that does not meet the United States Census Bureau guidelines definition of a “housing unit” may be reported in the annual progress report."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Blakespear (Coauthor: Senator Archuleta) (Coauthor: Assembly Member Davies)",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": true,
    "suspense": "2026-04-27",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -159,6 +161,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

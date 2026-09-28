@@ -79,6 +79,7 @@
   "Existing law, whenever a peace officer or other public employee removes an abandoned vehicle valued at $500 or less, requires the public agency that removed, or caused the removal of, the vehicle to cause the disposal of the vehicle subject to specified requirements, including providing notice, as specified, to the registered and legal owners and any other person known to have an interest in the vehicle, and a process for the owners and interested persons to request and have a poststorage hearing, as specified.",
   "This bill would authorize a public agency of a city, county, or city and county to dismantle, or cause the dismantlement of, an abandoned vehicle, as defined, if the abandoned vehicle cannot be towed or otherwise moved and the vehicle has been declared a nuisance or hazard by a fire marshal, environmental health director, or public health officer of a city, county, or city and county, if various requirements are met, including attaching a distinctive notice to the vehicle at least 15 days prior to dismantlement that states the vehicle will be dismantled by the public agency if the hazard is not abated, sending a notice, within 48 hours of the attachment of the notice to the vehicle, to the owners and any other person known to have an interest in the vehicle informing them of specified information, including that the vehicle may be disposed of at least 15 days from the date of the notice and that they may have a hearing before the public agency if a request for a hearing is made within 10 days from the date of notice, as specified. This bill would require a requested hearing to be conducted within 5 business days of the request. If, after at least 15 days from the notification, the vehicle remains unclaimed, and if no request for a hearing was made or a hearing was not attended, the bill would require the public agency to provide the lienholder authorization to dismantle the vehicle. The bill would provide that a local government is not prevented from performing emergency summary abatement of an abandoned vehicle that is creating imminent health or safety hazards."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Arreguín (Principal coauthor: Senator Richardson) (Principal coauthor: Assembly Member Mark González) (Coauthor: Assembly Member Nguyen)",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": true,
    "suspense": "2025-05-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -185,18 +187,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-05",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }

@@ -92,6 +92,10 @@
   "Existing law establishes the California Interagency Council on Homelessness (council), which has various goals, including, among other things, to serve as a statewide facilitator, coordinator, and policy development resource on ending homelessness in California.",
   "This bill would require the council to, by July 1, 2028, complete a comprehensive statewide study of the coordinated entry system and its role in connecting individuals and families experiencing homelessness to affordable housing, as specified. The bill would require the council, in conducting the study, to meaningfully consult with a geographically representative group of stakeholders, as described, and would require the council, by July 1, 2028, to post the report on its internet website and submit the report to the Legislature and any relevant policy committees."
  ],
+ "began": {
+  "subject": "Multifamily Housing Program: Homekey.",
+  "changedOn": "2026-08-21"
+ },
  "authorLine": "Introduced by Assembly Member Stefani (Coauthors: Assembly Members Caloza, Haney, Harabedian, Quirk-Silva, and Zbur)",
  "stages": [
   {
@@ -130,19 +134,13 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 5,
-     "noes": 2,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-13",
+     "ayes": 12,
+     "noes": 1,
      "result": "Pass"
     }
    ],
@@ -189,6 +187,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

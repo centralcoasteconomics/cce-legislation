@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -160,6 +160,10 @@
   "Under the act, the operating rules are a part of the governing documents of a common interest development. The act requires an amendment to the governing documents of the development, among other actions, to be held by secret ballot in accordance with specified procedures.",
   "This bill would exclude an amendment to the operating rules from the requirement that the amendment be held by secret ballot. The bill would also prohibit a member from being denied a ballot for any reason other than not being a member at the time when the ballots are distributed. The bill would update definitions and would make various other related and conforming changes to the act."
  ],
+ "began": {
+  "subject": "Taxpayer Protection Act of 2025.",
+  "changedOn": "2025-03-24"
+ },
  "authorLine": "Introduced by Assembly Member DeMaio",
  "stages": [
   {
@@ -207,6 +211,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -238,6 +243,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

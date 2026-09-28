@@ -72,6 +72,7 @@
   "This bill would require a continuum of care, upon appropriation and beginning with the 2026–27 fiscal year, to annually certify that they create or maintain a youth-specific process with their respective coordinated entry system, as specified, implement a youth-specific assessment tool, create a body or identify an existing body composed of youth with lived experience of homelessness that the continuum of care and other Homeless Housing, Assistance, and Prevention program grantees must consult with regularly, and identify an array of youth-specific housing inventory. The bill would require the continuum of care to document in their application how the housing assessment is youth-specific and their prioritization policy if the continuum of care states they already maintain a youth-specific coordinated entry system.",
   "The bill would also make findings and declarations related to youth-specific programs and the Homeless Housing, Assistance, and Prevention program."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ramos (Coauthors: Assembly Members Caloza and Haney)",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": true,
    "suspense": "2025-04-23",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [],
    "state": "failed",
    "stoppedOn": "2026-02-02",
@@ -151,6 +153,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

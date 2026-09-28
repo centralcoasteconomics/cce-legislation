@@ -57,6 +57,10 @@
   "Existing law defines the duties of the Treasurer, which include, but are not limited to, keeping an account of all money received and disbursed. Existing law requires, as soon as April 1, 2022, but no later than specified, the Treasurer, in consultation with the California Housing Finance Agency, the Department of Housing and Community Development, and other relevant stakeholders, to develop a framework for the California Dream For All Program in accordance with the goals and intent of the program, including, among other things, making home ownership more affordable by reducing the cost of home ownership by up to 45 percent for lower and moderate-income Californians, and submit a report outlining the program framework to the Legislature, as specified.",
   "This bill, upon appropriation by the Legislature, on or before January 1, 2027, would require the Treasurer, in consultation with the California Housing Finance Agency, the Department of Housing and Community Development, and other stakeholders deemed relevant by the Treasurer, to develop the Building Home Ownership for All Program in accordance with the goals of the program, including, among other things, expanding access to home ownership and maximizing wealth-building opportunities by making it affordable for lower and moderate-income Californians to buy a home, as specified, and with the elements of the program, including, among other things, certain eligibility limits for persons obtaining housing under the program and for housing eligible under the program, as specified. The bill would require, on or before January 1, 2028, and annually thereafter, the Legislative Analyst to collaborate with the California Tax Allocation Committee to review the effectiveness of the program. The bill would repeal these provisions on December 31, 2031."
  ],
+ "began": {
+  "subject": "Personal Income Tax Law: rehabilitation of certified historic structures.",
+  "changedOn": "2025-03-24"
+ },
  "authorLine": "Introduced by Assembly Member Carrillo",
  "stages": [
   {
@@ -95,6 +99,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [],
    "state": "failed",
    "stoppedOn": "2026-02-02",
@@ -128,6 +133,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

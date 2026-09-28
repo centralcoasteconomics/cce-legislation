@@ -72,6 +72,7 @@
   "Existing law, the Housing Accountability Act, among other things, prohibits a local agency from disapproving, or conditioning approval in a manner that renders infeasible, a housing development project for very low, low-, or moderate-income households unless the local agency makes written findings as to one of certain sets of conditions, as specified. One set of conditions is that (1) the jurisdiction has adopted a housing element that is in substantial compliance with the Housing Element Law, and (2) the jurisdiction has met or exceeded its share of the regional housing need allocation for the planning period for the income category proposed for the housing development project. Existing law requires a housing element or amendment to be considered in substantial compliance with the Housing Element Law only if the element or amendment was determined to be in substantial compliance when a preliminary application or complete application was submitted, as specified.",
   "This bill would require, if a court of competent jurisdiction finds an adopted housing element or amendment to be to be out of compliance despite the department’s findings of substantial compliance, that the housing element or amendment be considered in substantial compliance until either the date the department finds that a newly adopted housing element or amendment is in substantial compliance, or 275 days after a court order, writ, or judgment is issued requiring the local agency to bring its housing element into substantial compliance, whichever is earlier."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Muratsuchi",
  "stages": [
   {
@@ -118,6 +119,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -151,6 +153,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

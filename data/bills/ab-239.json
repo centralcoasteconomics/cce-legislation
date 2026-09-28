@@ -136,6 +136,7 @@
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the Counties of Los Angeles and Ventura.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Harabedian and Irwin (Principal coauthors: Assembly Members Bryan, Caloza, Fong, Mark González, Haney, Ransom, Celeste Rodriguez, Schiavo, Schultz, and Zbur)",
  "stages": [
   {
@@ -182,18 +183,12 @@
    "applies": true,
    "suspense": "2025-04-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
      "noes": 0,
      "result": "Pass"
     }
@@ -249,6 +244,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

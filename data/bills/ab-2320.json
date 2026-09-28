@@ -58,6 +58,7 @@
   "Existing law, upon appropriation, requires Homekey awards to be expended within 8 months of the date of the award, as provided.",
   "This bill would, for Homekey awards made on or after July 1, 2026, require the department to consider allowing applicants that utilize funds for adaptive reuse projects if the adaptive reuse involves substantial rehabilitation, reconstruction, or demolition of an existing structure, as defined and specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ta",
  "stages": [
   {
@@ -96,6 +97,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -148,15 +150,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-05-06",
-     "ayes": 14,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-06-22",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

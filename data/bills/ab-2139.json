@@ -58,6 +58,7 @@
   "This bill would expand the definition of “exempt surplus land” to include certain land owned by the City of Ontario that satisfies specified requirements. The bill would require that these requirements be contained in a covenant or restriction recorded against the surplus land at the time of disposition, as provided. The bill would require that the city meet specified requirements to declare exempt surplus land pursuant to these provisions, including depositing funds from the deposition into a local housing-specific set-aside account, as provided. The bill would require the city to provide the Department of Housing and Community Development a written notification of its declaration and findings at least 30 days prior to disposing of land declared “exempt surplus land” pursuant to these provisions, and would require the department to notify the city if the department has determined the city is in violation of these provisions, as provided. The bill would provide that a violation these provisions would be considered a 2nd or subsequent violation of the requirements for the disposal of surplus land, as provided.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Ontario."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Garcia",
  "stages": [
   {
@@ -104,6 +105,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -150,6 +152,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

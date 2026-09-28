@@ -32,7 +32,7 @@
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
-  "other"
+  "building"
  ],
  "sections": [
   {
@@ -99,6 +99,10 @@
   "(4)The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "County of Los Angeles: sporting events: ticket charge: public transit.",
+  "changedOn": "2026-06-11"
+ },
  "authorLine": "Introduced by Assembly Member McKinnor",
  "stages": [
   {
@@ -145,6 +149,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -199,6 +204,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": "2026-08-13",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

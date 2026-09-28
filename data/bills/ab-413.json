@@ -60,6 +60,7 @@
   "Existing law establishes the Department of Housing and Community Development (department) in the Business, Consumer Services, and Housing Agency. Existing law grants the department various powers, including the power to provide bilingual staff in connection with services of the department and make available departmental publications in a language other than English when necessary to effectively serve groups for which the services or publications are made available. Existing law authorizes the department to adopt and amend guidelines for various purposes, including for the preparation of housing elements or to implement uniform standards or criteria, as provided.",
   "This bill would require the department to review all guidelines it has adopted or amended to determine whether those guidelines explain rights or services available to the public. For guidelines that meet that criteria, the bill would require the department to translate those guidelines into any non-English languages spoken by a substantial number of non-English-speaking people, as defined."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Fong",
  "stages": [
   {
@@ -98,18 +99,12 @@
    "applies": true,
    "suspense": "2025-05-07",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-06-30",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 13,
      "noes": 0,
      "result": "Pass"
     }
@@ -157,6 +152,7 @@
    "applies": true,
    "suspense": "2025-06-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

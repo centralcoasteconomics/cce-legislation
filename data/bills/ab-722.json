@@ -59,6 +59,7 @@
   "The bill would require the department to score applicants to the program competitively according to specified criteria. The bill would require recipients of funds from the program to use those funds for, among other things, long-term rental assistance in permanent housing, incentives to landlords, and innovative or evidence-based services to assist participants in accessing permanent supportive housing. The bill would require the department to distribute funds allocated by executing contracts with awarded entities for a term of 5 years, subject to automatic renewal.",
   "The bill would require a recipient of the program to submit an annual report to the department. The bill would require the department to hire an independent evaluator to assess outcomes from the program and would require the department to submit that analysis to specified committees of the Legislature."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ávila Farías",
  "stages": [
   {
@@ -97,6 +98,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": "2025-05-23",
+   "rule288": null,
    "votes": [],
    "state": "failed",
    "stoppedOn": "2026-02-02",
@@ -130,6 +132,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

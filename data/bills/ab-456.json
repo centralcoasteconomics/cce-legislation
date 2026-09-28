@@ -84,6 +84,7 @@
   "Existing law requires an escrow, sale, or transfer agreement involving a mobilehome located in a park at the time of the sale, where the mobilehome is to remain in the park, to contain a copy of either a fully executed rental agreement or a statement signed by the park’s management and the prospective homeowner that the parties have agreed to the terms and conditions of a rental agreement. Under existing law, if the purchaser fails to execute the rental agreement, the purchaser does not have any rights to tenancy. Existing law considers an occupant of a mobilehome who has no rights to tenancy and is not otherwise entitled to occupy the mobilehome an unlawful occupant if the occupant refuses to surrender the mobilehome park site to management, as specified, and subjects an unlawful occupant to certain provisions related to unlawful detainer. Existing law exempts an occupant of a mobilehome from being considered an unlawful occupant if certain conditions are present, including, among other things, the management has determined that the occupant has the financial ability to pay rent and charges of the park and will comply with the rules and regulations of the park, as specified, and provisions regarding the sale and transfer of a mobilehome.",
   "This bill, as an alternative to the above-specified condition, would exempt an occupant of a mobilehome from being considered an unlawful occupant if management failed or refused to timely notify the occupant of rejection or acceptance of the application of the prospective purchaser pursuant to the bill’s provisions."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Connolly",
  "stages": [
   {
@@ -122,6 +123,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -166,6 +168,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

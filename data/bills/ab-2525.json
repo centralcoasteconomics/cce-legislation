@@ -66,6 +66,7 @@
   "This bill would require that the city meet specified requirements to declare exempt surplus land pursuant to these provisions, including depositing funds from the deposition into a local housing-specific set-aside account, as provided. The bill would provide that a violation of these provisions would be considered a 2nd or subsequent violation of the requirements for the disposal of surplus land, as provided. The bill would require that these requirements be contained in a covenant or restriction recorded against the surplus land at the time of disposition, as provided.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for Mission Bay Park."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ward",
  "stages": [
   {
@@ -112,6 +113,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -153,6 +155,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

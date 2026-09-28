@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T20:45:35+00:00",
+ "generatedAt": "2026-09-28T20:58:25+00:00",
  "today": "2026-09-28",
  "session": {
   "key": "20252026",
@@ -16,13 +16,13 @@
  },
  "fetchedBytes": 0,
  "counts": {
-  "stalled": 79,
+  "stalled": 76,
   "died": 23,
-  "law": 78,
-  "vetoed": 10,
-  "governor": 70
+  "law": 72,
+  "vetoed": 9,
+  "governor": 66
  },
- "total": 260,
+ "total": 246,
  "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",
  "calendar": [
   {
@@ -72,6 +72,96 @@
   "building": "Building standards",
   "mobilehome": "Mobilehomes",
   "redevelopment": "Redevelopment successors",
+  "cid": "Common interest developments",
+  "coastal": "Coastal Act",
+  "finance": "Infrastructure finance districts",
+  "authorities": "Housing authorities",
   "other": "Other housing"
- }
+ },
+ "leftHousing": [
+  {
+   "id": "202520260AB1026",
+   "label": "AB 1026",
+   "heardAs": "Planning and zoning: housing development projects: postentitlement phase permits.",
+   "now": "Public utilities: electrical corporations: energization."
+  },
+  {
+   "id": "202520260AB1152",
+   "label": "AB 1152",
+   "heardAs": "Housing Crisis Act of 2019: development policy, standard, or condition.",
+   "now": "Controlled substances: human chorionic gonadotropin."
+  },
+  {
+   "id": "202520260AB1359",
+   "label": "AB 1359",
+   "heardAs": "Planning and zoning: development conditions: housing-forward jurisdictions.",
+   "now": "Jury service exemptions."
+  },
+  {
+   "id": "202520260AB282",
+   "label": "AB 282",
+   "heardAs": "Discrimination: housing: source of income.",
+   "now": "Elections: seizure of election materials."
+  },
+  {
+   "id": "202520260AB647",
+   "label": "AB 647",
+   "heardAs": "Housing development approvals: residential units.",
+   "now": "Abandoned recreational vehicles."
+  },
+  {
+   "id": "202520260AB760",
+   "label": "AB 760",
+   "heardAs": "Mobilehome parks: rental restrictions: exemptions: emergencies.",
+   "now": "Income taxes: exclusions: 2026 Garden Grove chemical leak."
+  },
+  {
+   "id": "202520260SB1216",
+   "label": "SB 1216",
+   "heardAs": "Planning and Zoning Law: housing leadership designation.",
+   "now": "Budget Act of 2026."
+  },
+  {
+   "id": "202520260SB492",
+   "label": "SB 492",
+   "heardAs": "Youth Housing Bond Act of 2025.",
+   "now": "Wildfire."
+  },
+  {
+   "id": "202520260SB546",
+   "label": "SB 546",
+   "heardAs": "Common interest developments: accounting.",
+   "now": "Collection Licensing Act: exceptions: billing agents."
+  },
+  {
+   "id": "202520260SB574",
+   "label": "SB 574",
+   "heardAs": "Streamlined housing approvals.",
+   "now": "Attorneys, arbitrators, judicial officers, and alternative resolution providers."
+  },
+  {
+   "id": "202520260SB623",
+   "label": "SB 623",
+   "heardAs": "Veterans’ Bond Act of 2026.",
+   "now": "Automobile accidents: civil actions: transportation network companies."
+  },
+  {
+   "id": "202520260SB627",
+   "label": "SB 627",
+   "heardAs": "Planning and zoning: housing: postentitlement phase permits.",
+   "now": "Law enforcement: masks."
+  },
+  {
+   "id": "202520260SB715",
+   "label": "SB 715",
+   "heardAs": "Regional housing need: methodology: distribution.",
+   "now": "Elections."
+  },
+  {
+   "id": "202520260SB733",
+   "label": "SB 733",
+   "heardAs": "Planning and zoning: annual progress report: Low Barrier Navigation Centers.",
+   "now": "Sexual assault forensic evidence: testing."
+  }
+ ]
 }

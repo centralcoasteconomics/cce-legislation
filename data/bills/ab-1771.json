@@ -57,6 +57,7 @@
   "Existing law, the State Housing Law, establishes statewide building standards relating to occupancy, use, and maintenance of hotels, motels, lodging houses, apartment houses, and dwellings, and authorizes the Department of Housing and Community Development to adopt rules and regulations for this purpose. Pursuant to that authority, existing law requires a manager or other responsible person to reside upon the premises and have charge of every apartment house in which there are 16 or more apartments, as specified.",
   "This bill would require the department to analyze the efficacy of the above-described manager residence requirement and to submit a report to the Legislature with recommendations on whether to maintain, modify, or repeal the requirement no later than January 1, 2029, as specified. The bill would require the department to engage and solicit feedback from specified stakeholders for this purpose. The bill would repeal its provisions on January 1, 2031."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Alvarez",
  "stages": [
   {
@@ -95,6 +96,7 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-05-14",
@@ -128,6 +130,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

@@ -82,6 +82,7 @@
   "This bill would require a state agency to comply with the above-described provisions relating to postentitlement phase permits applicable to a local agency. The bill would require a state agency to make the information list, as described above, and the above-described examples of a complete, approved application and a complete set of postentitlement phase permits available on the agency’s internet website by January 1, 2026. The bill would deem a postentitlement phase permit approved, and all related reviews complete, if a state agency fails to meet the time limits for review of an application for that permit. The bill would revise the definition of “postentitlement phase permit” for purposes of these provisions to, among other things, include permits issued by a state agency and any postentitlement review by a state agency that is necessary to begin construction of a development that is intended to be at least 23 residential, excluding certain discretionary and ministerial permits and reviews and subject to specified exceptions, and would define the term “state agency” for these purposes.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Schiavo and Rivas (Principal coauthors: Assembly Members Haney and Wicks)",
  "stages": [
   {
@@ -120,6 +121,7 @@
    "applies": true,
    "suspense": "2025-03-19",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -172,15 +174,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-03-19",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-07-07",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

@@ -66,6 +66,10 @@
   "This bill would additionally make any mobilehome park that is located in the City of Torrance subject to that cap, as specified, and would extend the repeal of these rent cap provisions to January 1, 2036. For a mobilehome park that is located in the City of Torrance, the bill would cap the rent on January 1, 2027, at the amount of rent as of January 5, 2026, plus the maximum permissible increase described above.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Torrance."
  ],
+ "began": {
+  "subject": "Teacher credentialing: clinical practice: student teacher compensation.",
+  "changedOn": "2026-06-10"
+ },
  "authorLine": "Introduced by Assembly Members Muratsuchi and Quirk-Silva",
  "stages": [
   {
@@ -104,6 +108,7 @@
    "applies": true,
    "suspense": "2025-04-23",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -157,6 +162,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

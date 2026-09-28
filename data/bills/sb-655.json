@@ -75,6 +75,7 @@
   "Existing law establishes the Department of Housing and Community Development (department) in the Business, Consumer Services, and Housing Agency. Existing law, the State Housing Law, requires the department to propose the adoption, amendment, or repeal of building standards to the commission and to adopt, amend, or repeal rules and regulations for the protection of the health, safety, and general welfare of the occupant and the public relating to specified residential structures, as provided, which apply throughout the state.",
   "This bill would declare it to be the established policy of the state that all dwelling units, as defined, are required to be able to attain and maintain a safe maximum indoor temperature. The bill would require all relevant state agencies to consider this state policy when revising, adopting, or establishing policies, programs, and criteria, including grant criteria, that are relevant to achieving the state policy and, beginning January 1, 2027, when revising, adopting, or establishing regulations that are relevant to achieving this state policy."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Stern (Coauthors: Assembly Members: Calderon and Haney)",
  "stages": [
   {
@@ -113,6 +114,7 @@
    "applies": true,
    "suspense": "2025-05-12",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -172,18 +174,12 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-12",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-29",
+     "ayes": 11,
      "noes": 0,
      "result": "Pass"
     }

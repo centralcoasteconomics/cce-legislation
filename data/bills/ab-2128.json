@@ -39,7 +39,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "authorities"
  ],
  "sections": [
   {
@@ -64,6 +64,7 @@
   "The Housing Authorities Law establishes a housing authority within each county and city and authorizes the authority to, among other things, prepare, carry out, acquire, lease, and operate housing projects and housing developments for persons of low income, as provided.",
   "This bill would, unless required by federal law, and except as specified, prohibit a housing authority or other covered housing provider, as defined, from establishing or implementing any rules, policies, or procedures that impose term limits or work requirements, as defined, as a condition of eligibility for any covered housing or that impact the amount of the rent subsidy or assistance provided to covered housing tenants. The bill would, however, permit a covered housing provider to establish or implement a voluntary employment or job training program if specified conditions apply. The bill would provide that its provisions do not limit or alter the operation of specified federal housing programs and requirements."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney (Coauthor: Assembly Member Quirk-Silva)",
  "stages": [
   {
@@ -102,6 +103,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -146,6 +148,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

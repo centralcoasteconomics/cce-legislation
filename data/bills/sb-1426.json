@@ -112,6 +112,7 @@
   "This bill would make nonsubstantive changes and reorganize various provisions relating to the annual report requirements, including the requirements described above, and would make related nonsubstantive conforming changes.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Committee on Housing (Senators Arreguín (Chair), Cabaldon, Caballero, Cortese, Durazo, Gonzalez, Grayson, Ochoa Bogh, Padilla, and Seyarto)",
  "stages": [
   {
@@ -150,6 +151,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -194,6 +196,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

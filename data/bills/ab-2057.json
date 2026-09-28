@@ -73,6 +73,7 @@
   "This bill would prohibit a city or county from making a change or modification to the above-described building standards that prohibits the use of natural gas in a residential unit. The bill would also require the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county that prohibits the use of natural gas in that residential unit.",
   "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member DeMaio",
  "stages": [
   {
@@ -105,6 +106,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -136,6 +138,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

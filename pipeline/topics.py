@@ -91,6 +91,16 @@ AREAS = [
     ("building", "Building standards", "HSC", "18000", "18153.99"),
     ("mobilehome", "Mobilehomes", "HSC", "18200", "18700"),
     ("redevelopment", "Redevelopment successors", "HSC", "33000", "34191.99"),
+    ("cid", "Common interest developments", "CIV", "4000", "6150"),
+    ("building", "Building standards", "HSC", "19960", "19997.99"),
+    ("building", "Building standards", "HSC", "18900", "18949.99"),
+    ("surplus", "Surplus land", "GOV", "54235", "54238.99"),
+    ("coastal", "Coastal Act", "PRC", "30000", "30900"),
+    ("taxcredit", "Tax credits and property tax", "RTC", "17053", "17053.99"),
+    ("taxcredit", "Tax credits and property tax", "RTC", "23600", "23699.99"),
+    ("finance", "Infrastructure finance districts", "GOV", "53311", "53368.99"),
+    ("finance", "Infrastructure finance districts", "GOV", "53398.50", "53398.88"),
+    ("authorities", "Housing authorities", "HSC", "34200", "34380"),
 ]
 AREA_LABEL = {k: l for k, l, *_ in AREAS}
 
@@ -101,7 +111,9 @@ _KEYWORDS = [
     ("homeless", r"homeless|shelter"), ("surplus", r"surplus land"),
     ("taxcredit", r"tax credit|welfare exemption|property tax"), ("fees", r"impact fee|development fee|mitigation fee"),
     ("element", r"housing element|regional housing need"), ("streamlining", r"ministerial|by right|use by right|streamlin"),
-    ("mobilehome", r"mobilehome|manufactured home"), ("permits", r"permit streamlining|post-entitlement"),
+    ("mobilehome", r"mobilehome|manufactured home"), ("cid", r"common interest development"),
+    ("building", r"factory-built|building standards|heat pump"), ("coastal", r"coastal"),
+    ("finance", r"community facilities district|financing district"), ("permits", r"permit streamlining|post-entitlement"),
 ]
 
 

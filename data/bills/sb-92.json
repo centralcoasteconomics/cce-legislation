@@ -74,6 +74,7 @@
   "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct specified units and meets other requirements.",
   "This bill would specify that a concession and incentive shall not result in a proposed project, as prescribed, with a specified commercial floor area ratio. The bill would also specify that certain provisions of the Density Bonus Law do not require a city, county, or city and county to approve, grant a concession or incentive requiring approval of, or waive or reduce development standards otherwise applicable to, transient lodging as part of a housing development, except as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Blakespear (Coauthors: Assembly Members Quirk-Silva and Ward)",
  "stages": [
   {
@@ -120,6 +121,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "done",
    "label": "Appropriations"
@@ -172,6 +174,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

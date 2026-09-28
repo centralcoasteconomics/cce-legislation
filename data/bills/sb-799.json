@@ -60,6 +60,10 @@
   "This bill would instead require the joint powers agreement to establish the number of directors of the trust and the process for appointing directors and filling vacancies. The bill would additionally authorize the board of directors to include persons appointed and designated as alternate members of the board of directors, as specified. The bill would require all directors and alternates to be subject to the board of directors’ adopted conflict of interest code. The bill would prohibit each alternate that is currently not an elected official from participating as a voting member in more than 75% of all meetings in a calendar year. The bill would instead require the board of directors to elect a chairperson and a vice chairperson from among its members at the first meeting held in either the calendar or fiscal year.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for South Bay Cities region of the County of Los Angeles."
  ],
+ "began": {
+  "subject": "State government: local costs.",
+  "changedOn": "2026-01-05"
+ },
  "authorLine": "Introduced by Senator Allen",
  "stages": [
   {
@@ -121,6 +125,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -173,6 +178,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

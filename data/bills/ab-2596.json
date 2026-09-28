@@ -64,6 +64,7 @@
   "Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks. Existing law authorizes a local agency to be responsible for the enforcement of certain requirements governing mobilehome parks.",
   "This bill would specify that, in the event that a mobilehome park operator, owner, or management fails to, or elects not to, comply with federal law or other federal requirements imposed in connection with a federally approved housing program, the mobilehome park operator, owner, or management shall ensure ongoing compliance with the Mobilehome Residency Law, the prescribed provisions of the Unruh Civil Rights Act, and all other applicable state and local laws and ordinances. If a mobilehome park operator, owner, or management fails to, or elects not to, conduct the age verification requirement under prescribed federal law, the bill would authorize a local agency to conduct age verification, as provided, and grant the local agency with the right to access and inspect records of the mobilehome park operator, owner, and management to conduct that verification."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Gipson (Coauthor: Senator Cabaldon)",
  "stages": [
   {
@@ -110,6 +111,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -154,6 +156,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

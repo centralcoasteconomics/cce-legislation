@@ -82,6 +82,7 @@
   "Existing law requires grant recipients to report specified data to their local Homeless Management Information System and as required by the department. Existing law requires the department to evaluate the data and outcomes reported by recipients to assess efficacy of programs and identify scalable best practices for encampment resolution that can be replicated across the state. Existing law requires the department to report to the chairs of the relevant fiscal and policy committees of the Legislature on the outcomes, learnings, and best practices models identified through the program. Existing law requires a recipient of program funding appropriated in the 2024–25 and 2025–26 fiscal years to submit to the department a final report of certain data elements no later than April 1 of the year following the expiration of the encumbrance period of funds, as provided. Existing law requires the department to submit an annual report to the Governor and both houses of the Legislature on the operations and accomplishments during the previous fiscal year of the housing programs administered by the department, as specified.",
   "This bill would remove the requirement that the department report to the chairs of the relevant fiscal and policy committees of the Legislature. The bill would require the department to report in the annual report to the Governor and both houses of the Legislature a summary of the data elements required in the final report submitted by recipients of program funding appropriated in the 2024–25 and 2025–26 fiscal years, as provided. The bill would require the department to evaluate the data and outcomes reported by the department in the annual report, instead of reported by recipients, to assess efficacy to assess the efficacy of programs and identify scalable best practices for encampment resolution that can be replicated across the state."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Richardson (Coauthors: Assembly Members Haney and Tangipa)",
  "stages": [
   {
@@ -128,15 +129,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-29",
-     "ayes": 11,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-12",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -188,6 +182,7 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

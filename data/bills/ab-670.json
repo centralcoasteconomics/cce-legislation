@@ -69,6 +69,7 @@
   "This bill would, beginning with the report due by April 1, 2027, for purposes of the housing element portion of the report, authorize a planning agency to include the number of units in an existing multifamily building that were converted to affordable housing by imposition of long-term affordability covenants and restrictions that require the unit to be available to persons or families of low, very low, extremely low, or acutely low income at an affordable rent or affordable housing cost for at least 55 years, if the units meet certain criteria.",
   "This bill would incorporate additional changes to Section 65400 of the Government Code proposed by AB 726 to be operative only if this bill and AB 726 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Quirk-Silva",
  "stages": [
   {
@@ -115,18 +116,12 @@
    "applies": true,
    "suspense": "2025-04-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 12,
      "noes": 0,
      "result": "Pass"
     }
@@ -174,6 +169,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

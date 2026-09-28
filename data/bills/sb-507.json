@@ -61,6 +61,10 @@
   "This bill would authorize a local government within the same county as a tribe to enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation, as specified. The bill would prohibit a local government from requiring a tribe to waive sovereign immunity in order to enter into a voluntary agreement pursuant to these provisions. The bill would define various terms for these provisions. The bill would state the intent of the Legislature that the Department of Housing and Community Development be encouraged to approve units in a tribal housing development as counting toward the locality’s regional housing needs allocation, as specified.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": {
+  "subject": "Childcare and development programs.",
+  "changedOn": "2025-03-25"
+ },
  "authorLine": "Introduced by Senator Limón",
  "stages": [
   {
@@ -99,15 +103,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-20",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-19",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -159,6 +156,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

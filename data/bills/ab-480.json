@@ -72,6 +72,7 @@
   "Existing law establishes a low-income housing tax credit program pursuant to which the California Tax Credit Allocation Committee (CTCAC) provides procedures and requirements for the allocation, in modified conformity with federal law, of state insurance, personal income, and corporation tax credit amounts to qualified low-income housing projects that have been allocated, or qualify for, a federal low-income housing tax credit, and farmworker housing. Existing law limits the total annual amount of the state low-income housing credit for which a federal low-income housing credit is required, as specified. That law authorizes a taxpayer to make an election in its application to the CTCAC to sell all or any portion of any credit allowed.",
   "This bill would instead authorize a taxpayer to make that election in the manner prescribed by the CTCAC, as provided."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Quirk-Silva",
  "stages": [
   {
@@ -118,18 +119,12 @@
    "applies": true,
    "suspense": "2025-04-28",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-25",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -185,6 +180,7 @@
    "applies": true,
    "suspense": "2025-08-25",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

@@ -93,6 +93,7 @@
   "This bill would require the Trustees and the Regents to comply with certain conditions, as provided, before receiving funds from the 2026 University Capital Outlay Bond Fund established pursuant to the College Health and Safety Bond Act of 2026.",
   "(3)This bill, except for the provision making the provisions of the bill severable, would become operative upon the adoption of the College Health and Safety Bond Act of 2026 by the voters at an undefined statewide election."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Alvarez (Coauthors: Assembly Members Fong, Haney, and Muratsuchi)",
  "stages": [
   {
@@ -139,6 +140,7 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -183,6 +185,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

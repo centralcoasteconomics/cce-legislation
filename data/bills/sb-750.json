@@ -148,6 +148,7 @@
   "Existing law establishes the California Housing Finance Agency for the primary purpose of meeting the housing needs of persons and families of low or moderate income, and sets forth various programs administered by the agency to fulfill that purpose.",
   "This bill would require the agency to conduct a comprehensive assessment of potential credit enhancement mechanisms designed to reduce borrowing costs for housing projects receiving state financial assistance that includes specified evaluations. The bill would require the agency to submit an interim report by January 1, 2028, and a final report by July 1, 2028, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Cortese (Coauthors: Senators Arreguín, Becker, Cabaldon, Durazo, Umberg, and Wiener) (Coauthors: Assembly Members Haney, Kalra, Papan, Pellerin, Quirk-Silva, Stefani, and Wilson)",
  "stages": [
   {
@@ -194,6 +195,7 @@
    "applies": true,
    "suspense": "2025-05-19",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -261,18 +263,12 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-19",
-     "ayes": 5,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 11,
      "noes": 0,
      "result": "Pass"
     }

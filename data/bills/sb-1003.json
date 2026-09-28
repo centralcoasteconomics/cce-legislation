@@ -64,6 +64,10 @@
   "Existing law authorizes the legislative body of a city or county to designate a proposed enhanced infrastructure financing district to finance public capital facilities or other specified projects of communitywide significance that provide significant benefits to the district or the surrounding community, including, among other things, the acquisition, construction, or rehabilitation of housing for persons of very low, low, and moderate income for rent or purchase, as specified. Existing law authorizes an infrastructure financing plan to contain a provision for the division of taxes levied upon taxable property in the area included within the district, and authorizes the public financing authority of the district to issue bonds, as provided.",
   "This bill would authorize a city or county that is designated as prohousing to establish a prohousing enhanced infrastructure financing district if certain requirements are met, as specified. The bill would prescribe requirements applicable to those districts. The bill would expand the definition of “prohousing local policies” for purposes of the above-described provisions to include the establishment of one of these districts, and would require that the jurisdiction that established, and projects located within, a district receive enhanced points or preference than the baseline provided to other prohousing jurisdictions."
  ],
+ "began": {
+  "subject": "Development projects.",
+  "changedOn": "2026-03-19"
+ },
  "authorLine": "Introduced by Senator Grayson",
  "stages": [
   {
@@ -110,6 +114,7 @@
    "applies": true,
    "suspense": "2026-05-11",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -177,19 +182,13 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-11",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-05",
+     "ayes": 15,
      "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-14",
-     "ayes": 5,
-     "noes": 2,
      "result": "Pass"
     }
    ],

@@ -57,6 +57,7 @@
   "Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, as specified, pursuant to which the department provides financial assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects. Existing law sets forth various general powers of the department in implementing these programs, including authorizing the department to enter into long-term contracts or agreements of up to 30 years for the purpose of servicing loans or grants or enforcing regulatory agreements or other security documents.",
   "This bill would permit the department to, subject to prescribed requirements, authorize the transfer of the department residual receipts share or excess reserves, as defined, from one rental housing development to another rental housing development with the same owner, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Gabriel",
  "stages": [
   {
@@ -95,18 +96,12 @@
    "applies": true,
    "suspense": "2026-04-29",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-03",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-08-13",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -154,6 +149,7 @@
    "applies": true,
    "suspense": "2026-08-03",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

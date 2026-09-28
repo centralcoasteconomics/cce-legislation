@@ -115,6 +115,7 @@
   "This bill would require the board to continue to oversee and administer existing program grants that have not yet expired, using resources allocated to the board through funds allocated by the Budget Act of 2025.",
   "This bill would require the Department of Corrections and Rehabilitation to establish a process to engage an individual scheduled for discharge, within at least 210 days of the scheduled release date, for the purpose of assessing the individual’s risk of homelessness upon discharge, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Members Schultz and Quirk-Silva (Principal coauthors: Assembly Members Ávila Farías, Caloza, Mark González, Haney, Kalra, and Lee)",
  "stages": [
   {
@@ -161,18 +162,12 @@
    "applies": true,
    "suspense": "2025-05-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
      "noes": 2,
      "result": "Pass"
     }
@@ -228,6 +223,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

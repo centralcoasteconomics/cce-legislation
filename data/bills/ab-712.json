@@ -60,6 +60,7 @@
   "Existing law within the Planning and Zoning Law describes various reforms and incentives enacted by the Legislature to facilitate and expedite the construction of affordable housing. Existing law within the Planning and Zoning Law, in certain civil actions or proceedings against a public entity that has issued specified approvals for a housing development, authorizes a court to award all reasonably incurred costs of suit to a prevailing public entity or nonprofit housing corporation that is a real party in interest and the permit applicant of the low- or moderate-income housing if the court makes specified findings.",
   "This bill, where the applicant for a housing development is a prevailing party in an action brought by the applicant to enforce the public agency’s compliance with a housing reform law as applied to the applicant’s housing development project, would entitle an applicant for a housing development project to reasonable attorney’s fees and costs and would require a court to impose fines on a local agency, as specified. The bill would extend any period of limitation for actions under any state law for a period of 60 days beginning on the date the applicant provides written notice to the local agency indicating its intent to commence an action. The bill would prohibit a public agency from requiring the applicant to indemnify, defend, or hold harmless the public agency in any action alleging the public agency violated the applicant’s rights or deprived the applicant of the benefits or protection provide by a housing reform law. The bill would define housing reform law as a law that establishes or facilitates protections for the benefit of applicants for housing development projects or imposes limitations on a public agency for the benefit of housing development projects."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Wicks",
  "stages": [
   {
@@ -106,6 +107,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",
@@ -166,15 +168,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-04-30",
-     "ayes": 12,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-08-19",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

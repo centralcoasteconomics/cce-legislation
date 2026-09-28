@@ -46,7 +46,7 @@
  "vetoed": null,
  "governorDeadline": "2026-09-30",
  "areas": [
-  "other"
+  "cid"
  ],
  "sections": [
   {
@@ -73,6 +73,7 @@
   "This bill would, under the Davis-Stirling Common Interest Development Act, make any provision of the governing documents or architectural guidelines void and unenforceable if the provision prohibits or restricts the installation, upgrade, replacement, or use of a cooling system that complies with all applicable state and local building codes. The bill would also make any covenant, restriction, or condition contained in any, among other specified agreements, deed that effectively prohibits or restricts the installation, upgrade, replacement, or use of a cooling system, void and unenforceable. The bill would make it unlawful for an association to prohibit or restrict a member from installing, upgrading, replacing, or using a cooling system in the member’s separate interest, or to take other specified actions in connection with the installation, upgrade, replacement, or use of a cooling system, subject to specified exceptions.",
   "This bill would make an association that willfully violates these provisions liable to the member for actual damages occasioned thereby, for a civil penalty paid to the member in an amount not to exceed $2,000, and reasonable attorney’s fees and court costs, as provided."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ward (Coauthors: Assembly Members Connolly and Kalra)",
  "stages": [
   {
@@ -119,6 +120,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -171,6 +173,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

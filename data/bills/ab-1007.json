@@ -77,6 +77,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
+ "began": {
+  "subject": "Permit Streamlining Act.",
+  "changedOn": "2025-03-24"
+ },
  "authorLine": "Introduced by Assembly Member Blanca Rubio (Coauthors: Assembly Members Ward and Wicks)",
  "stages": [
   {
@@ -123,18 +127,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-14",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }
@@ -182,6 +180,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

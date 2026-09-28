@@ -92,6 +92,7 @@
   "Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks. Existing law prohibits an action based upon the management’s alleged failure to maintain the physical improvement in the common facilities in good working order or condition or alleged reduction of service from being commenced by a homeowner unless the management has been given at least 30 days’ prior notice of the intention to commence the action.",
   "This bill would authorize management to move to dismiss with prejudice a claim that alleges a failure to maintain, or a reduction of service regarding, a physical improvement, as described above, if that physical improvement is not actually present within the mobilehome park, nor provided or under the control of the park owner or manager. The bill would, upon petition by the management, require a court that grants a motion to dismiss for this reason to award the management reasonable attorney’s fees and impose a civil penalty and other sanctions to be paid by the attorney filing the action, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Blanca Rubio (Coauthors: Assembly Members Macedo and Michelle Rodriguez) (Coauthors: Senators Grayson, Grove, and Ochoa Bogh)",
  "stages": [
   {
@@ -131,6 +132,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -169,6 +171,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

@@ -80,6 +80,7 @@
   "Existing law requires the Department of Housing and Community Development to develop and publish specified reports, including, among others, a study of farmworker housing conditions, needs, and solutions. Existing law authorizes the department to provide technical assistance for specified purposes, including in developing housing for students and faculty of universities and colleges, as provided.",
   "This bill would require the department, on or before January 1, 2027, to make available on its internet website a form that enables a local educational agency to notify the department of the agency’s interest in using real property that it owns for a housing project. The bill would require the department to review the information submitted via the form and make the information available on its internet website. The bill would also require the department to provide technical assistance, as specified, to a local educational agency that submits the notice described above and requests technical assistance, for the purpose of supporting predevelopment activities related to a housing project located on real property owned by the local educational agency."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Bonta (Coauthors: Assembly Members Haney and Lee)",
  "stages": [
   {
@@ -126,18 +127,12 @@
    "applies": true,
    "suspense": "2025-05-21",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-06-30",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
      "noes": 2,
      "result": "Pass"
     }
@@ -185,6 +180,7 @@
    "applies": true,
    "suspense": "2025-06-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

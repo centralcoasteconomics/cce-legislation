@@ -58,6 +58,7 @@
   "This bill would specify this authority to issue bonds or incur other indebtedness to finance the infrastructure required by the Transbay Implementation Agreement includes entering into arrangements with the Transbay Joint Powers Authority and the City and County of San Francisco to extend the time period for pledges of gross sales proceeds and net tax increments, as specified.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the City and County of San Francisco."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Haney",
  "stages": [
   {
@@ -104,6 +105,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -148,6 +150,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "done",
    "label": "Appropriations"

@@ -89,6 +89,7 @@
   "(2)Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including, among others, the Multifamily Housing Program, pursuant to which the department provides financial assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects. Existing law sets forth various general powers of the department in implementing these programs, including authorizing the department to enter into long-term contracts or agreements of up to 30 years for the purpose of servicing loans or grants or enforcing regulatory agreements or other security documents.",
   "This bill, for purposes of determining eligibility for an individual displaced from or returning to a single-room occupancy unit undergoing rehabilitation or a replacement unit that received funds from the department and is for a homeless individual or family, would (A) specify that an individual is deemed homeless if they meet certain criteria and (B) prohibit an individual or family meeting these criteria from being subject to a requirement that the unit be filled through a referral from a coordinated entry system, as defined, or a similar referral system."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Durazo (Coauthor: Senator Blakespear) (Coauthor: Assembly Member Kalra)",
  "stages": [
   {
@@ -136,15 +137,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2025-08-20",
-     "ayes": 15,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2025-05-12",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -196,6 +190,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

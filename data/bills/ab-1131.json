@@ -58,6 +58,7 @@
   "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county and that furthers specified objectives.",
   "This bill would, for the 7th and each subsequent revision of the housing element, authorize a planning agency to include in that report the number of units approved for congregate care for the elderly, as defined, for up to 15% of a jurisdiction’s regional housing need allocation for any income category."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Ta",
  "stages": [
   {
@@ -104,11 +105,12 @@
    "applies": true,
    "suspense": "2025-04-30",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-07-14",
-     "ayes": 7,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
@@ -156,6 +158,7 @@
    "applies": true,
    "suspense": "2025-07-14",
    "held": "2025-08-29",
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

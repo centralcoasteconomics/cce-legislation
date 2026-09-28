@@ -58,6 +58,7 @@
   "This bill would prohibit an employee of a local government or law enforcement agency, when acting in their official capacity, from transporting and dropping off, or arranging for or funding the transport and drop off, of a homeless individual within a jurisdiction unless the employee first coordinates shelter or long-term housing for the homeless individual, as defined and specified. This bill would make a local government or law enforcement agency liable for a civil penalty of $10,000 for each violation of these provisions.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Pellerin",
  "stages": [
   {
@@ -90,6 +91,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"
@@ -121,6 +123,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

@@ -122,6 +122,7 @@
   "This bill would create an exception from the above-described authority as it applies to appeals by an interested person for maps that meet specified criteria, as provided. The bill would exempt from these provisions an appeal filed by an applicant, subdivider, tenant, advisory agency, or public agency or official, as specified.",
   "This bill would make the provisions of the act severable."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Wiener (Coauthor: Assembly Member Caloza)",
  "stages": [
   {
@@ -189,15 +190,8 @@
    "applies": true,
    "suspense": null,
    "held": null,
-   "votes": [
-    {
-     "committee": "Assembly Appropriations",
-     "date": "2026-08-05",
-     "ayes": 14,
-     "noes": 1,
-     "result": "Pass"
-    }
-   ],
+   "rule288": "2026-01-20",
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },
@@ -249,6 +243,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Assembly Appropriations",

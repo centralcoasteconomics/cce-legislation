@@ -115,6 +115,7 @@
   "This bill would apply specified tenant protections to projects funded by the program and would require the department to develop technical assistance and capacity building for the development and ongoing operation of projects funded pursuant to the program, as specified.",
   "This bill would establish the Community Anti-Displacement and Preservation Fund in the State Treasury. The bill would make moneys available to the department for purposes of the program, upon appropriation by the Legislature. The bill would set forth requirements for the use of moneys in the fund."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Caballero (Principal coauthor: Assembly Member Quirk-Silva) (Coauthors: Senators Allen, Arreguín, Cabaldon, Pérez, and Wiener) (Coauthors: Assembly Members Haney and Caloza)",
  "stages": [
   {
@@ -161,6 +162,7 @@
    "applies": true,
    "suspense": "2026-04-27",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -228,19 +230,13 @@
    "applies": true,
    "suspense": "2026-08-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-04-27",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-05-14",
-     "ayes": 7,
-     "noes": 0,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 11,
+     "noes": 2,
      "result": "Pass"
     }
    ],

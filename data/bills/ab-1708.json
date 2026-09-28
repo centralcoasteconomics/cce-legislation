@@ -57,6 +57,7 @@
   "Existing law establishes the Homeless Housing, Assistance, and Prevention (HHAP) program for the purpose of providing jurisdictions with grant funds to support regional coordination and expand or develop local capacity to address their immediate homelessness challenges, as specified. Existing law provides for the allocation of funding under the program among continuums of care, cities, counties, and tribes in 6 rounds, with rounds 1 to 5, inclusive, administered by the Interagency Council on Homelessness and round 6 administered by the Department of Housing and Community Development, as provided. Existing law establishes round 7 of the program and states the intent of the Legislature to enact future legislation that specifies the parameters, as specified. To be eligible for round 5 or round 6 base program allocation, existing law requires a jurisdiction that is not a tribe to apply as part of a region and be signatory to a regionally coordinated homelessness action plan that meets specified requirements.",
   "This bill would apply to the allocation of funding available under round 8 of the program and require a round 8 regionally coordinated homelessness action plan to include certain components, including a description of programs and interventions provided by smaller jurisdictions, as defined, that serve the objects and goals of the program, as specified. The bill would authorize a region receiving funding under round 8 to allocate a portion of that funding to smaller jurisdictions to support those programs. The bill would prescribe requirements for a smaller jurisdiction to be eligible to receive funding pursuant to these provisions."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Solache",
  "stages": [
   {
@@ -103,6 +104,7 @@
    "applies": true,
    "suspense": "2026-05-06",
    "held": "2026-05-14",
+   "rule288": null,
    "votes": [],
    "state": "stalled",
    "stoppedOn": "2026-05-14",
@@ -136,6 +138,7 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "upcoming",
    "label": "Appropriations"

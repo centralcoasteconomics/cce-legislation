@@ -82,6 +82,7 @@
   "Existing law requires the department, subject to certain conditions, to allow property owners subject to a regulatory agreement with the department to take out additional debt on the development in order to finance, with the department’s approval, the rehabilitation of the property or investment in new affordable housing. Under existing law, one of those conditions is that any extracted equity is required to meet at least one of several conditions, as specified. Existing law defines “extracted equity” for these purposes to mean debt added to a department-regulated property that is not used in prescribed ways.",
   "This bill would, additionally, require the department to allow property owners to take out additional debt, as described above, if any extracted equity is utilized for reimbursement of borrower advances for predevelopment costs, unreimbursed capital improvements, and unreimbursed operating deficits. The bill would revise the definition of “extracted equity” to mean debt distributed funds that are financed with debt that is secured by a department-regulated property and is not used in prescribed ways."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Reyes (Principal coauthor: Assembly Member Ward) (Coauthors: Senators Grayson and Seyarto)",
  "stages": [
   {
@@ -120,6 +121,7 @@
    "applies": true,
    "suspense": "2025-04-21",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -179,18 +181,12 @@
    "applies": true,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-04-21",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
+     "committee": "Assembly Appropriations",
+     "date": "2025-08-20",
+     "ayes": 15,
      "noes": 0,
      "result": "Pass"
     }

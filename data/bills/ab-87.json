@@ -61,6 +61,7 @@
   "This bill would specify that certain provisions of the Density Bonus Law do not require a city, county, or city and county to approve, grant a concession or incentive requiring approval of, or waive or reduce development standards otherwise applicable to, transient lodging as part of a housing development, except as specified.",
   "This bill would incorporate additional changes to Section 65915 of the Government Code proposed by SB 92 to be operative only if this bill and SB 92 are enacted and this bill is enacted last."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member Boerner",
  "stages": [
   {
@@ -107,6 +108,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -159,6 +161,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

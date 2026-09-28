@@ -149,6 +149,7 @@
   "This bill would require, upon establishment of the certification process for the descendants of American slavery established by the Bureau for Descendants of American Slavery, at least 10% of the moneys in the fund to be reserved for applicants who meet the requirements for a loan under the program and have been certified as descendants of formerly enslaved people, as specified.",
   "This bill would become operative only if SB 518 of the 2025–26 Regular Session is enacted and takes effect on or before January 1, 2027, and establishes the Bureau for Descendants for American Slavery."
  ],
+ "began": null,
  "authorLine": "Introduced by Assembly Member McKinnor (Coauthors: Assembly Members Bonta, Bryan, Elhawary, Gipson, Jackson, Kalra, Ortega, Ransom, Sharp-Collins, and Wilson) (Coauthors: Senators Richardson, Smallwood-Cuevas, and Weber Pierson)",
  "stages": [
   {
@@ -195,19 +196,13 @@
    "applies": true,
    "suspense": "2025-05-07",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-18",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-08-29",
-     "ayes": 5,
-     "noes": 2,
+     "committee": "Assembly Appropriations",
+     "date": "2025-05-23",
+     "ayes": 11,
+     "noes": 1,
      "result": "Pass"
     }
    ],
@@ -262,6 +257,7 @@
    "applies": true,
    "suspense": "2025-08-18",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",

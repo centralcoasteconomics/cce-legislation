@@ -370,6 +370,7 @@
   "This bill would provide for submission of the bond act to the voters at the November 3, 2026, statewide general election, in accordance with specified law.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Limón and Assembly Member Rivas (Principal coauthor: Senator Cabaldon) (Principal coauthor: Assembly Member Wicks) (Coauthors: Senators Archuleta, Ashby, Blakespear, Grayson, Laird, Menjivar, Pérez, Reyes, Umberg, Arreguín, Becker, Caballero, Wahab, and Wiener) (Coauthors: Assembly Members Addis, Ahrens, Alvarez, Ávila Farías, Bennett, Berman, Connolly, Gabriel, Haney, Harabedian, Hart, Jackson, Kalra, Krell, McKinnor, Muratsuchi, Nguyen, Quirk-Silva, Ransom, Schiavo, Schultz, Soria, Ward, Wilson, Zbur, Caloza, and Mark González)",
  "stages": [
   {
@@ -408,6 +409,7 @@
    "applies": true,
    "suspense": "2026-01-20",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -467,19 +469,13 @@
    "applies": true,
    "suspense": "2026-05-13",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2026-01-20",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2026-01-22",
-     "ayes": 5,
-     "noes": 2,
+     "committee": "Assembly Appropriations",
+     "date": "2026-05-14",
+     "ayes": 12,
+     "noes": 3,
      "result": "Pass"
     }
    ],

@@ -64,6 +64,7 @@
   "Existing law establishes the Homeless Housing, Assistance, and Prevention (HHAP) program for the purpose of providing jurisdictions with grant funds to support regional coordination and expand or develop local capacity to address their immediate homelessness challenges, as specified. Existing law provides for the allocation of funding under the program among continuums of care, cities, counties, and tribes in 6 rounds, with rounds 1 to 5, inclusive, administered by the Interagency Council on Homelessness and round 6 administered by the Department of Housing and Community Development, as provided. Existing law requires a program applicant to provide specified information through data collection, reporting, performance monitoring, and accountability framework, as established by the council.",
   "This bill would enact the Functional Zero Act, which, beginning with the next round of HHAP program applications, or when updates to the regionally coordinated homeless action plan are next required to be submitted, would require an applicant to provide information relating to its efforts to address homelessness in its jurisdiction, including an assessment of what would be required for the applicant to achieve and maintain both functional zero, which the bill would define as a milestone indicating a community has measurably solved homelessness, as specified, and functional zero unsheltered, which the bill would define as a necessary milestone in the effort to achieve functional zero indicating that sufficient housing options of all types to accommodate a jurisdiction’s unsheltered, chronically homeless population based on its most recent homeless point-in-time count. The bill would require, as part of the assessment of progress toward functional zero, applicants to include, at a minimum, an analysis of the number of housing units of all types needed to achieve functional zero in a jurisdiction, and as part of the assessment of progress toward functional zero unsheltered, a financial model assessing the needs for investment in prescribed areas and further analysis of, among other things, funding programs that provide housing or services to persons experiencing homelessness. The bill would also require an applicant to provide information regarding the applicant’s implementation of local homeless housing incentives, as provided, and to demonstrate its efforts to include small cities, as defined, in its regionally coordinated homeless action plan, as specified."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Becker (Coauthor: Senator Blakespear)",
  "stages": [
   {
@@ -110,6 +111,7 @@
    "applies": true,
    "suspense": "2025-05-12",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -177,22 +179,8 @@
    "applies": true,
    "suspense": "2025-08-20",
    "held": null,
-   "votes": [
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-12",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 6,
-     "noes": 0,
-     "result": "Pass"
-    }
-   ],
+   "rule288": null,
+   "votes": [],
    "state": "done",
    "label": "Appropriations"
   },

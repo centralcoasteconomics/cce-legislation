@@ -75,6 +75,7 @@
   "This bill would incorporate additional changes to Section 66499.41 of the Government Code proposed by AB 2601 and SB 1116 to be operative only if this bill and either or both AB 2601 and SB 1116 are enacted and this bill is enacted last.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
+ "began": null,
  "authorLine": "Introduced by Senator Pérez (Principal coauthor: Assembly Member Harabedian)",
  "stages": [
   {
@@ -113,6 +114,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"
@@ -166,6 +168,7 @@
    "applies": false,
    "suspense": null,
    "held": null,
+   "rule288": null,
    "votes": [],
    "state": "skipped",
    "label": "Appropriations"

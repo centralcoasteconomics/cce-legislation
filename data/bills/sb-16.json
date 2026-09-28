@@ -69,6 +69,10 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
+ "began": {
+  "subject": "Homelessness.",
+  "changedOn": "2025-03-25"
+ },
  "authorLine": "Introduced by Senator Blakespear (Coauthor: Assembly Member Dixon)",
  "stages": [
   {
@@ -108,6 +112,7 @@
    "applies": true,
    "suspense": "2025-05-12",
    "held": null,
+   "rule288": null,
    "votes": [
     {
      "committee": "Senate Appropriations",
@@ -176,18 +181,12 @@
    "applies": true,
    "suspense": "2026-08-05",
    "held": null,
+   "rule288": null,
    "votes": [
     {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-12",
-     "ayes": 7,
-     "noes": 0,
-     "result": "Pass"
-    },
-    {
-     "committee": "Senate Appropriations",
-     "date": "2025-05-23",
-     "ayes": 5,
+     "committee": "Assembly Appropriations",
+     "date": "2026-08-13",
+     "ayes": 14,
      "noes": 0,
      "result": "Pass"
     }
