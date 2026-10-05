@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 798, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 798,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "element"
  ],
@@ -70,7 +73,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected need for housing, and requires the appropriate council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing plan that allocates a share of the regional housing need to each city, county, or city and county, as provided.",
   "Existing law authorizes at least 2 or more cities and a county, or counties, at least 28 months prior to the scheduled housing element revision, to form a subregional entity to allocate the subregion’s existing and projected housing need among its members. If the council of governments does not receive a notification of this formation at least 28 months prior to the update, existing law requires the council of governments to implement specified requirements regarding the regional housing need process. Existing law requires the council of governments to determine the share of regional housing need assigned to each delegate subregion at least 25 months prior to the scheduled revision.",
@@ -225,18 +228,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 798,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -436,6 +442,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 798, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -580,6 +600,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250AB229693ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB229692CHP"
   }
  ],
  "veto": null,
@@ -590,6 +615,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2296",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2296",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2296",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2296&version=20250AB229693ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2296&version=20250AB229692CHP"
  }
 }

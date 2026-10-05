@@ -37,21 +37,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-27",
-  "text": "Enrolled and presented to the Governor at 4:30 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 977, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 977,
+  "year": 2026
+ },
  "presented": "2026-08-27",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "homeless"
  ],
@@ -73,7 +76,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law makes it unlawful for a peace officer or an unauthorized person to remove an unattended vehicle from a highway, except as provided. Under existing law, the removal of a vehicle is a seizure, subject to the limits set forth in jurisprudence for the Fourth Amendment of the United States Constitution. Existing law authorizes a city, county, or city and county to adopt an ordinance establishing procedures for the abatement and removal, as public nuisances, of abandoned, wrecked, dismantled, or inoperative vehicles or parts of vehicles from private or public property.",
   "Existing law, whenever a peace officer or other public employee removes an abandoned vehicle valued at $500 or less, requires the public agency that removed, or caused the removal of, the vehicle to cause the disposal of the vehicle subject to specified requirements, including providing notice, as specified, to the registered and legal owners and any other person known to have an interest in the vehicle, and a process for the owners and interested persons to request and have a poststorage hearing, as specified.",
@@ -231,18 +234,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-27",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 977,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -477,6 +483,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 977, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -659,6 +679,11 @@
    "date": "2026-08-25",
    "action": "Enrolled",
    "id": "20250SB69291ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB69290CHP"
   }
  ],
  "veto": null,
@@ -669,6 +694,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB692",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB692",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB692",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB692&version=20250SB69291ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB692&version=20250SB69290CHP"
  }
 }

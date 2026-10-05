@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 6 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 787, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 787,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid",
   "zoning"
@@ -66,7 +69,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law places various limits and prohibitions on the governing documents, as defined, relative to an owner’s separate interest within those developments.",
   "This bill would declare void and unenforceable any covenant, restriction, or condition contained in any deed, contract, security instrument, other instrument affecting the transfer or sale of any interest in a common interest development, or provision of a governing document that effectively prohibits or restricts the owner of a separate interest from completing a residential window replacement project or impose any requirements on California Energy Code-compliant windows, as specified. The bill’s provisions would not apply to certain provisions that impose reasonable installation restrictions on a residential window replacement project that do not significantly increase the cost of a residential window replacement project or significantly decrease the energy efficiency of a residential window replacement project, except as specified.",
@@ -228,18 +231,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 787,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -439,6 +445,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 787, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -597,6 +617,11 @@
    "date": "2026-08-28",
    "action": "Enrolled",
    "id": "20250SB90893ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB90892CHP"
   }
  ],
  "veto": null,
@@ -607,6 +632,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB908",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB908",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB908",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB908&version=20250SB90893ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB908&version=20250SB90892CHP"
  }
 }

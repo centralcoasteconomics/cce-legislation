@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-04T13:16:17+00:00",
- "today": "2026-10-04",
+ "generatedAt": "2026-10-05T15:32:11+00:00",
+ "today": "2026-10-05",
  "session": {
   "key": "20252026",
   "archiveYear": 2025,
@@ -10,17 +10,16 @@
  },
  "source": {
   "archive": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
-  "lastModified": "Mon, 28 Sep 2026 04:26:06 GMT",
-  "etag": "\"4c672aa1-65c8376ed5380\"",
+  "lastModified": "Mon, 05 Oct 2026 04:26:12 GMT",
+  "etag": "\"4ccaadda-65d10482c8100\"",
   "publisher": "Legislative Counsel of California"
  },
- "fetchedBytes": 26716793,
+ "fetchedBytes": 26865187,
  "counts": {
   "stalled": 76,
   "died": 23,
-  "law": 72,
-  "vetoed": 9,
-  "governor": 66
+  "law": 135,
+  "vetoed": 12
  },
  "total": 246,
  "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",

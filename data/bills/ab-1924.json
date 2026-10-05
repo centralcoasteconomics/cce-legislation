@@ -51,21 +51,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 794, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 794,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "homeless"
  ],
@@ -87,7 +90,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the California Interagency Council on Homelessness and requires the council to take various actions to prevent and end homelessness in California. Existing law establishes various programs to prevent homelessness or assist persons experiencing homelessness, including the No Place Like Home Program and the Homeless Housing, Assistance, and Prevention program.",
   "This bill would require the council, by July 1, 2028, to develop a statewide homelessness prevention strategy in the council’s publicly available Action Plan to Prevent and End Homelessness. The bill would require the strategy to include specified elements, including a homelessness prevention action plan for certain state agencies and evidence-based model homeless prevention practices, as specified. The bill would require the council to review and update the strategy in the Action Plan to Prevent and End Homelessness. The bill would define various terms for these purposes. The bill would limit each state agency’s participation to its existing statutory authority, activities, data, and subject-matter responsibilities."
@@ -235,18 +238,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 794,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -418,6 +424,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 794, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -561,6 +581,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250AB192495ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB192494CHP"
   }
  ],
  "veto": null,
@@ -571,6 +596,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1924",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1924",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1924",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1924&version=20250AB192495ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1924&version=20250AB192494CHP"
  }
 }

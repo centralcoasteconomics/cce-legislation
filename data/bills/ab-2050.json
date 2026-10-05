@@ -30,21 +30,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 796, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 796,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid"
  ],
@@ -72,7 +75,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments, and requires an association to manage a common interest development, including requiring the association to levy regular and special assessments sufficient to perform its obligations, subject to specified limitations on increases in those assessments. The act requires an association to distribute an annual budget report 30 to 90 days before the end of its fiscal year. Under existing law, that budget report includes, among other things, a summary of the association’s reserve accounts. The act requires an association to perform a study of the reserve account requirements, as defined, and, as part of that study, cause to be conducted a visual inspection of the accessible areas of major components that the association is obligated to repair, replace, restore, or maintain.",
   "This bill would, beginning January 1, 2032, revise the requirement to perform a study of the reserve account requirements to, among other things, include the minimum reserve contribution level to prevent the projected association reserve account balance from falling below zero over the following 30 years. The bill would require an association to fund the reserve account on an annual basis in at least the minimum reserve contribution level. If an association’s reserve balance account is projected to fall below zero at any time over the following 30 years, the bill would require the association to transfer 15% of its gross annual budget to its reserve account each year, as prescribed. If the association is unable to fund the reserve account in at least the minimum reserve contribution level through its gross annual budget, the bill would require the association to levy a reserve funding special assessment, as provided.",
@@ -222,18 +225,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 796,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -398,6 +404,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 796, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -546,6 +566,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250AB205095ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB205094CHP"
   }
  ],
  "veto": null,
@@ -556,6 +581,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2050",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2050",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2050",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2050&version=20250AB205095ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2050&version=20250AB205094CHP"
  }
 }

@@ -23,21 +23,21 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
+ "outcome": "vetoed",
  "current": "governor",
  "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
+ "location": "Assembly",
+ "statusRaw": "Vetoed",
  "measureState": "Enrolled",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Vetoed by Governor."
  },
  "chapter": null,
  "presented": "2026-09-04",
  "approved": null,
- "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "vetoed": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -210,8 +210,10 @@
    "house": "Governor",
    "presented": "2026-09-04",
    "done": null,
-   "vetoed": null,
-   "state": "current",
+   "vetoed": "2026-09-30",
+   "state": "failed",
+   "stoppedOn": "2026-09-30",
+   "reason": "Vetoed",
    "label": "Governor"
   },
   {
@@ -413,6 +415,13 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Vetoed by Governor.",
+   "house": "Assembly",
+   "where": "Desk",
+   "event": "vetoed"
   }
  ],
  "votes": [

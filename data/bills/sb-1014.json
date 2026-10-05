@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 6 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 806, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 806,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "permits"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Permit Streamlining Act (act), sets forth various procedures for the review and approval of development project applications, including, among other things, requiring each public agency to compile one or more lists that specify in detail the information that will be required from any applicant for a development project. The act also requires a city, county, or city and county to deem an applicant for a housing development project to have submitted a preliminary application upon providing specified information about the proposed project to the city, county, or city and county from which approval for the project is being sought.",
   "This bill would permit an applicant who submits a preliminary application for a housing development project, as specified, or an application if a preliminary application is not submitted, to include in the preliminary application or application a request for a preliminary estimate of required improvements, as provided. The bill would require a city, county, or city and county that receives a request under these provisions to provide the preliminary estimate within 30 business days of the submission of the request, as provided. The bill would authorize, for improvements required by a public agency, as specified, the applicant to request, within 30 days of submission, a list of the types of improvements that may be required, as provided. The bill, within 30 business days of deeming an application for a postentitlement phase permit complete, would additionally require the city, county, or city and county to provide the applicant with an itemized list of all onsite and offsite improvements that will be required prior to issuance of, or otherwise in connection with, that permit, as provided. The bill would specify that its provisions do not relieve a city, county, or city and county of its obligation to comply with certain requirements before subjecting a housing development project to an improvement that was not in effect when a preliminary application was submitted, as provided. The bill would define various terms for these purposes.",
@@ -205,18 +208,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 806,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -402,6 +408,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 806, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -560,6 +580,11 @@
    "date": "2026-08-28",
    "action": "Enrolled",
    "id": "20250SB101494ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB101493CHP"
   }
  ],
  "veto": null,
@@ -570,6 +595,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1014",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1014",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1014",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1014&version=20250SB101494ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1014&version=20250SB101493CHP"
  }
 }

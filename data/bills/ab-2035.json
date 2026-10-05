@@ -16,21 +16,24 @@
    "party": "R"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 916, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 916,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Davis-Stirling Common Interest Development Act, provides for the creation and regulation of common interest developments. Existing law requires that a declaration be recorded in order to create a common interest development.",
   "Existing law authorizes the association, or any member, to petition the superior court of the county in which the common interest development is located for an order reducing the percentage of the affirmative votes necessary for an amendment, if in order to amend a declaration, the declaration requires members having more than 50 percent of the votes in the association, in a single class voting structure, to vote in favor of the amendment. Existing law authorizes a court to grant the petition if it finds, among other things, members having more than 50 percent of the votes, in a single class voting structure, voted in favor of the amendment.",
@@ -191,18 +194,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 916,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -325,6 +331,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 916, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -425,6 +445,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250AB203597ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB203596CHP"
   }
  ],
  "veto": null,
@@ -435,6 +460,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2035",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2035",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2035",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2035&version=20250AB203597ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2035&version=20250AB203596CHP"
  }
 }

@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-02",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 804, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 804,
+  "year": 2026
+ },
  "presented": "2026-09-02",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -65,7 +68,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the Infill Infrastructure Grant Program of 2019 (program), which requires the Department of Housing and Community Development, upon appropriation of funds by the Legislature, to establish and administer a grant program to allocate those funds to eligible applicants to fund capital improvement projects that are an integral part of, or necessary to facilitate the development of, a qualifying infill project, qualifying infill area, or catalytic qualifying infill area. Existing law requires the department to administer a specified competitive application process for capital improvement projects for large jurisdictions, as defined. For these purposes, existing law defines a qualifying infill project to include a residential or mixed-use residential project located within an urbanized area on a vacant site where at least 75% of the perimeter of the site adjoins parcels that are developed with urban uses.",
   "This bill would expand the definition of qualifying infill project to include a residential or mixed-use residential project located within an urbanized area on a vacant site where at least 75% of the perimeter of the site adjoins parcels that have been previously developed with urban uses.",
@@ -206,18 +209,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-02",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 804,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -417,6 +423,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 804, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -547,6 +567,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250SB77293ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB77292CHP"
   }
  ],
  "veto": null,
@@ -557,6 +582,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB772",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB772",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB772",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB772&version=20250SB77293ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB772&version=20250SB77292CHP"
  }
 }

@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-08",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State. Chapter 697, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 697,
+  "year": 2026
+ },
  "presented": "2026-09-08",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "other"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the Community Care Expansion Program, under the administration of the State Department of Social Services. Under the program, subject to appropriation by the Legislature, the department awards grants to qualified grantees to administer projects for the acquisition, construction, or rehabilitation of property to be operated as residential adult and senior care facilities, or to promote the sustainability of existing licensed residential adult and senior care facilities through the provision of capitalized operating subsidy reserves. Existing law authorizes the department to enter into an agreement with one or more entities to facilitate the grant awards. Existing law requires the contracting entity to act as a third-party administrator to provide operational services under the contract, including, but not limited to, developing an online application portal and processing invoices and making grant payments.",
   "This bill would require the department to develop the grant application for tribes in consultation with tribes in the event the program obtains additional funding available to tribes. The bill would require the department to include its existing tribal liaison or their designee in discussions throughout the grant process to ensure tribal sovereignty is honored. The bill would also require that, if additional funds are appropriated, an agreement between the department and a tribe align with federal tribal housing grant agreements to the extent practicable and consistent with the program.",
@@ -207,18 +210,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-08",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 697,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -467,6 +473,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State. Chapter 697, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -619,6 +639,11 @@
    "date": "2026-09-02",
    "action": "Enrolled",
    "id": "20250SB132295ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250SB132294CHP"
   }
  ],
  "veto": null,
@@ -629,6 +654,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1322",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1322",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1322",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1322&version=20250SB132295ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1322&version=20250SB132294CHP"
  }
 }

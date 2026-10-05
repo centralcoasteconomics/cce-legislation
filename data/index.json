@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-04T13:16:17+00:00",
-  "today": "2026-10-04",
+  "generatedAt": "2026-10-05T15:32:11+00:00",
+  "today": "2026-10-05",
   "session": {
    "key": "20252026",
    "archiveYear": 2025,
@@ -11,17 +11,16 @@
   },
   "source": {
    "archive": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
-   "lastModified": "Mon, 28 Sep 2026 04:26:06 GMT",
-   "etag": "\"4c672aa1-65c8376ed5380\"",
+   "lastModified": "Mon, 05 Oct 2026 04:26:12 GMT",
+   "etag": "\"4ccaadda-65d10482c8100\"",
    "publisher": "Legislative Counsel of California"
   },
-  "fetchedBytes": 26716793,
+  "fetchedBytes": 26865187,
   "counts": {
    "stalled": 76,
    "died": 23,
-   "law": 72,
-   "vetoed": 9,
-   "governor": 66
+   "law": 135,
+   "vetoed": 12
   },
   "total": 246,
   "definition": "Every Assembly and Senate bill and constitutional amendment of the session that was referred to the Assembly Housing and Community Development Committee or the Senate Housing Committee, plus any bill added by hand in editorial/include.json.",
@@ -2822,21 +2821,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-09",
-    "text": "Enrolled and presented to the Governor at 1 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 866, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 866,
+    "year": 2026
+   },
    "presented": "2026-09-09",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "mobilehome"
    ],
@@ -2888,7 +2890,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB650",
@@ -3549,21 +3551,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 506, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 506,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid"
    ],
@@ -3591,7 +3596,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB748",
@@ -3688,21 +3693,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 789, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 789,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -3724,7 +3732,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB754",
@@ -4713,21 +4721,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 790, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 790,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "density"
    ],
@@ -4749,7 +4760,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB945",
@@ -4846,21 +4857,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 791, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 791,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid",
     "adu"
@@ -4895,7 +4909,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1007",
@@ -5765,21 +5779,21 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
+   "outcome": "vetoed",
    "current": "governor",
    "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
+   "location": "Assembly",
+   "statusRaw": "Vetoed",
    "measureState": "Enrolled",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Vetoed by Governor."
    },
    "chapter": null,
    "presented": "2026-09-04",
    "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "vetoed": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -6318,21 +6332,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 515, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 515,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "taxcredit"
    ],
@@ -6366,7 +6383,7 @@
    },
    "nextHearing": null,
    "urgency": true,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1275",
@@ -6554,21 +6571,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-14",
-    "text": "Enrolled and presented to the Governor at 1:30 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 778, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 778,
+    "year": 2026
+   },
    "presented": "2026-09-14",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "taxcredit"
    ],
@@ -6590,7 +6610,7 @@
    },
    "nextHearing": null,
    "urgency": true,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1296",
@@ -7216,21 +7236,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 3:30 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 779, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 779,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "other"
    ],
@@ -7252,7 +7275,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1567",
@@ -7272,21 +7295,21 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
+   "outcome": "vetoed",
    "current": "governor",
    "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
+   "location": "Assembly",
+   "statusRaw": "Vetoed",
    "measureState": "Enrolled",
    "lastAction": {
-    "date": "2026-09-14",
-    "text": "Enrolled and presented to the Governor at 1:30 p.m."
+    "date": "2026-09-27",
+    "text": "Vetoed by Governor."
    },
    "chapter": null,
    "presented": "2026-09-14",
    "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "vetoed": "2026-09-27",
+   "governorDeadline": null,
    "areas": [
     "zoning"
    ],
@@ -7335,21 +7358,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-28",
-    "text": "Enrolled and presented to the Governor at 3:30 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 524, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 524,
+    "year": 2026
+   },
    "presented": "2026-08-28",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "element"
    ],
@@ -7371,7 +7397,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1621",
@@ -7405,21 +7431,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 780, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 780,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "haa"
    ],
@@ -7447,7 +7476,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1623",
@@ -7606,21 +7635,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-27",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 887, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 887,
+    "year": 2026
+   },
    "presented": "2026-08-27",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid"
    ],
@@ -7642,7 +7674,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1695",
@@ -7969,21 +8001,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 792, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 792,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "ceqa"
    ],
@@ -8005,7 +8040,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1738",
@@ -8140,21 +8175,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 892, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 892,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "coastal"
    ],
@@ -8182,7 +8220,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1751",
@@ -8209,21 +8247,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 781, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 781,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "zoning"
    ],
@@ -8251,7 +8292,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1771",
@@ -8362,21 +8403,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 782, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 782,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "building"
    ],
@@ -8470,7 +8514,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1817",
@@ -8490,21 +8534,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-24",
-    "text": "Enrolled and presented to the Governor at 4:30 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 793, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 793,
+    "year": 2026
+   },
    "presented": "2026-08-24",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "tenant"
    ],
@@ -8526,7 +8573,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1890",
@@ -8553,21 +8600,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 905, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 905,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -8589,7 +8639,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1892",
@@ -9074,21 +9124,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 794, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 794,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "homeless"
    ],
@@ -9110,7 +9163,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB1926",
@@ -9192,21 +9245,21 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
+   "outcome": "vetoed",
    "current": "governor",
    "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
+   "location": "Assembly",
+   "statusRaw": "Vetoed",
    "measureState": "Enrolled",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Vetoed by Governor."
    },
    "chapter": null,
    "presented": "2026-08-31",
    "approved": null,
-   "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "vetoed": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "permits"
    ],
@@ -9405,21 +9458,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-14",
-    "text": "Enrolled and presented to the Governor at 1:30 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 795, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 795,
+    "year": 2026
+   },
    "presented": "2026-09-14",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -9441,7 +9497,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2035",
@@ -9461,21 +9517,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 916, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 916,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid"
    ],
@@ -9497,7 +9556,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2044",
@@ -9596,21 +9655,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 796, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 796,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid"
    ],
@@ -9638,7 +9700,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2057",
@@ -9775,21 +9837,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 3:30 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 783, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 783,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "building"
    ],
@@ -9835,7 +9900,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2074",
@@ -9862,21 +9927,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 797, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 797,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "element",
     "streamlining"
@@ -9905,7 +9973,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2079",
@@ -9993,21 +10061,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 577, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 577,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "taxcredit"
    ],
@@ -10041,7 +10112,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2094",
@@ -10196,21 +10267,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 3:30 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 579, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 579,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "streamlining"
    ],
@@ -10238,7 +10312,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2127",
@@ -10328,21 +10402,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 922, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 922,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "authorities"
    ],
@@ -10364,7 +10441,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2139",
@@ -10475,21 +10552,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 923, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 923,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "homeless"
    ],
@@ -10511,7 +10591,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2162",
@@ -10531,21 +10611,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-27",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State - Chapter 582, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 582,
+    "year": 2026
+   },
    "presented": "2026-08-27",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -10573,7 +10656,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2166",
@@ -10757,21 +10840,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 924, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 924,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "density"
    ],
@@ -10793,7 +10879,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2185",
@@ -10820,21 +10906,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 784, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 784,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -10856,7 +10945,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2238",
@@ -11075,21 +11164,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-25",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 930, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 930,
+    "year": 2026
+   },
    "presented": "2026-08-25",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "other"
    ],
@@ -11117,7 +11209,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2264",
@@ -11228,21 +11320,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 931, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 931,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding",
     "taxcredit"
@@ -11283,7 +11378,7 @@
    },
    "nextHearing": null,
    "urgency": true,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2288",
@@ -11421,21 +11516,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 798, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 798,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "element"
    ],
@@ -11475,7 +11573,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2308",
@@ -11495,21 +11593,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 932, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 932,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "redevelopment"
    ],
@@ -11531,7 +11632,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2320",
@@ -11551,21 +11652,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-15",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 935, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 935,
+    "year": 2026
+   },
    "presented": "2026-09-15",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -11587,7 +11691,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2329",
@@ -11614,21 +11718,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 937, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 937,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "surplus"
    ],
@@ -11698,7 +11805,7 @@
    },
    "nextHearing": null,
    "urgency": true,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2351",
@@ -11856,21 +11963,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-20",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 799, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 799,
+    "year": 2026
+   },
    "presented": "2026-08-20",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "streamlining"
    ],
@@ -11892,7 +12002,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2397",
@@ -11912,21 +12022,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-15",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 938, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 938,
+    "year": 2026
+   },
    "presented": "2026-09-15",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "finance"
    ],
@@ -11948,7 +12061,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2400",
@@ -12094,21 +12207,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 800, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 800,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "density"
    ],
@@ -12130,7 +12246,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2439",
@@ -12246,21 +12362,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State - Chapter 801, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 801,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "density"
    ],
@@ -12282,7 +12401,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2512",
@@ -12753,21 +12872,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-20",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 953, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 953,
+    "year": 2026
+   },
    "presented": "2026-08-20",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "tenant"
    ],
@@ -12789,7 +12911,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2601",
@@ -12809,21 +12931,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 955, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 955,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "adu",
     "zoning",
@@ -12871,7 +12996,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2612",
@@ -13080,21 +13205,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-10",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State - Chapter 958, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 958,
+    "year": 2026
+   },
    "presented": "2026-09-10",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -13116,7 +13244,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260AB2692",
@@ -14081,21 +14209,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-30",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-28",
+    "text": "Chaptered by Secretary of State. Chapter 738, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 738,
+    "year": 2026
+   },
    "presented": "2026-08-30",
-   "approved": null,
+   "approved": "2026-09-28",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid"
    ],
@@ -14123,7 +14254,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB233",
@@ -14833,21 +14964,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 802, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 802,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "element"
    ],
@@ -14887,7 +15021,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB484",
@@ -16026,21 +16160,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 974, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 974,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -16110,7 +16247,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB681",
@@ -16467,21 +16604,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-27",
-    "text": "Enrolled and presented to the Governor at 4:30 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 977, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 977,
+    "year": 2026
+   },
    "presented": "2026-08-27",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "homeless"
    ],
@@ -16503,7 +16643,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB722",
@@ -16947,21 +17087,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 2 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 803, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 803,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -16983,7 +17126,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB770",
@@ -17076,21 +17219,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-02",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 804, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 804,
+    "year": 2026
+   },
    "presented": "2026-09-02",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -17118,7 +17264,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB786",
@@ -17253,21 +17399,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-24",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 980, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 980,
+    "year": 2026
+   },
    "presented": "2026-08-24",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "other"
    ],
@@ -17289,7 +17438,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB802",
@@ -17644,21 +17793,24 @@
      "party": "R"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-30",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 771, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 771,
+    "year": 2026
+   },
    "presented": "2026-08-30",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "other"
    ],
@@ -17692,7 +17844,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB908",
@@ -17719,21 +17871,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 787, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 787,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "cid",
     "zoning"
@@ -17762,7 +17917,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB967",
@@ -17963,21 +18118,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-02",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 995, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 995,
+    "year": 2026
+   },
    "presented": "2026-09-02",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "building"
    ],
@@ -18017,7 +18175,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1003",
@@ -18187,21 +18345,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 806, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 806,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "permits"
    ],
@@ -18223,7 +18384,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1072",
@@ -18391,21 +18552,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 1006, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 1006,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "zoning"
    ],
@@ -18433,7 +18597,7 @@
    },
    "nextHearing": null,
    "urgency": true,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1091",
@@ -18509,21 +18673,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-03",
-    "text": "Enrolled and presented to the Governor at 3 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 807, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 807,
+    "year": 2026
+   },
    "presented": "2026-09-03",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -18545,7 +18712,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1092",
@@ -18646,21 +18813,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-28",
-    "text": "Enrolled and presented to the Governor at 11 a.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 775, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 775,
+    "year": 2026
+   },
    "presented": "2026-08-28",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "tenant",
     "zoning"
@@ -18689,7 +18859,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1116",
@@ -18709,21 +18879,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-31",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 808, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 808,
+    "year": 2026
+   },
    "presented": "2026-08-31",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "zoning"
    ],
@@ -18763,7 +18936,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1117",
@@ -18790,21 +18963,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-08-30",
-    "text": "Enrolled and presented to the Governor at 6 p.m."
+    "date": "2026-09-29",
+    "text": "Chaptered by Secretary of State. Chapter 809, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 809,
+    "year": 2026
+   },
    "presented": "2026-08-30",
-   "approved": null,
+   "approved": "2026-09-29",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "adu"
    ],
@@ -18826,7 +19002,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1122",
@@ -19183,21 +19359,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-27",
+    "text": "Chaptered by Secretary of State. Chapter 697, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 697,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-27",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "other"
    ],
@@ -19219,7 +19398,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1361",
@@ -19260,21 +19439,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 1027, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 1027,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "streamlining"
    ],
@@ -19296,7 +19478,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1383",
@@ -19323,21 +19505,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-08",
-    "text": "Enrolled and presented to the Governor at 4 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 1032, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 1032,
+    "year": 2026
+   },
    "presented": "2026-09-08",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "density"
    ],
@@ -19359,7 +19544,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1388",
@@ -19386,21 +19571,24 @@
      "party": "D"
     }
    ],
-   "outcome": "governor",
-   "current": "governor",
-   "currentLabel": "Governor",
-   "location": "Governor",
-   "statusRaw": "Enrolled",
-   "measureState": "Enrolled",
+   "outcome": "law",
+   "current": "chaptered",
+   "currentLabel": "Chaptered",
+   "location": "Secretary of State",
+   "statusRaw": "Chaptered",
+   "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-04",
-    "text": "Enrolled and presented to the Governor at 2 p.m."
+    "date": "2026-09-30",
+    "text": "Chaptered by Secretary of State. Chapter 1034, Statutes of 2026."
    },
-   "chapter": null,
+   "chapter": {
+    "number": 1034,
+    "year": 2026
+   },
    "presented": "2026-09-04",
-   "approved": null,
+   "approved": "2026-09-30",
    "vetoed": null,
-   "governorDeadline": "2026-09-30",
+   "governorDeadline": null,
    "areas": [
     "funding"
    ],
@@ -19422,7 +19610,7 @@
    },
    "nextHearing": null,
    "urgency": false,
-   "progress": 0.8
+   "progress": 1.0
   },
   {
    "id": "202520260SB1426",

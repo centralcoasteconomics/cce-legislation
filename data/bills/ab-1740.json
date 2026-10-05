@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 892, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 892,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "coastal"
  ],
@@ -65,7 +68,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)The California Coastal Act of 1976, among other things, establishes the California Coastal Commission and provides for the planning and regulation of development in the coastal zone, as defined. The act generally requires each local government, as specified, to prepare a local coastal program for certification by the commission, however, the act authorizes any local government to request the commission to prepare the local coastal program for the local government, as provided. The act generally prohibits, after certification of a local coastal program and all implementing actions within the affected area, the commission from exercising its coastal development permit review authority over any new development within the area to which the certified local coastal program, or any portion thereof, applies.",
   "This bill would require, on or before January 1, 2029, the City of Santa Monica to submit to the commission a proposed, complete local coastal program for the city’s portion of the coastal zone. By creating a new duty for the City of Santa Monica, the bill would impose a state-mandated local program. The bill would require the commission to act within 6 months of receipt of the proposed, complete local coastal program, unless an extension is requested by the city. The bill would also require the commission, within 45 days of receipt of the proposed, complete local coastal program, to provide the city, in writing, a list of identified issues, if any, that require further refinement through suggested modifications for the local coastal program, as provided, and would require the city and the commission to coordinate expeditiously and in good faith to reach agreement on any suggested modifications within 6 months of receipt of the submitted complete proposal. If the commission fails to act on the city’s complete, proposed local coastal program within 6 months of receipt of a submitted complete proposal, as provided, the bill would require the commission to provide quarterly, written updates to the Legislature describing, among other things, the reason for the delay.",
@@ -234,18 +237,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 892,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -459,6 +465,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 892, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -650,6 +670,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB174091ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB174090CHP"
   }
  ],
  "veto": null,
@@ -660,6 +685,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1740",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1740",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1740",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1740&version=20250AB174091ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1740&version=20250AB174090CHP"
  }
 }

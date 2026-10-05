@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-10",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 797, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 797,
+  "year": 2026
+ },
  "presented": "2026-09-10",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "element",
   "streamlining"
@@ -66,7 +69,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Planning and Zoning Law generally regulates local government zoning and approval of certain types of housing development projects. The law authorizes a development proponent to submit an application for a development that is subject to a prescribed ministerial approval process if the development complies with certain procedural requirements and satisfies specified objective planning standards. The law also requires a housing development project within a specified distance of a transit-oriented development stop to be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development, if the development complies with specified requirements, as applicable.",
   "This bill would, by July 1, 2027, require major transit cities to designate at least one regional transit hub district, as specified, and prescribe requirements for those districts, including requiring that a district make a downtown housing development an allowable use, as specified. The bill would define “downtown housing development” as a housing development project within a regional hub district that meets certain conditions, including that it meets specified labor standards. The bill would prescribe requirements for the developments, including that the developments are eligible for streamlined ministerial approval, as specified. The bill would require the California Housing Finance Agency to conduct a housing construction loan and financing study that includes specified components and deliver that study to the Legislature and specified committees by March 1, 2028, as specified. By requiring certain cities to designate regional transit hub districts and requiring streamlined ministerial approval of certain housing developments, the bill would impose a state-mandated local program.",
@@ -249,18 +252,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-10",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 797,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -488,6 +494,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 797, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -683,6 +703,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB207493ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB207492CHP"
   }
  ],
  "veto": null,
@@ -693,6 +718,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2074",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2074",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2074",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2074&version=20250AB207493ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2074&version=20250AB207492CHP"
  }
 }

@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-08",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 974, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 974,
+  "year": 2026
+ },
  "presented": "2026-09-08",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -107,7 +110,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law, for the purposes of that act, defines the term “public agency” to include various federal, state, local, and tribal entities. Existing law requires approval by the Department of General Services of certain joint powers agreements that include the state as a member, as provided. Existing law authorizes a joint powers authority to issue revenue bonds to pay the costs and expenses of acquiring, constructing, or conducting a program for, among other things, low-income housing projects owned or operated by a city, county, city and county, or housing authority.",
   "Existing law provides that the Treasurer and the Secretary of State are designated as elected representatives for federal tax purposes of a joint powers agency created to approve or certify the issuance of bonds, notes, or other evidence of indebtedness issued by or on behalf of the joint powers agency to the extent approval is required by federal tax law.",
@@ -287,18 +290,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-08",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 974,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -561,6 +567,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 974, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -776,6 +796,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250SB67790ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB67789CHP"
   }
  ],
  "veto": null,
@@ -786,6 +811,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB677",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB677",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB677",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB677&version=20250SB67790ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB677&version=20250SB67789CHP"
  }
 }

@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 922, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 922,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "authorities"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Housing Authorities Law establishes a housing authority within each county and city and authorizes the authority to, among other things, prepare, carry out, acquire, lease, and operate housing projects and housing developments for persons of low income, as provided.",
   "This bill would, unless required by federal law, and except as specified, prohibit a housing authority or other covered housing provider, as defined, from establishing or implementing any rules, policies, or procedures that impose term limits or work requirements, as defined, as a condition of eligibility for any covered housing or that impact the amount of the rent subsidy or assistance provided to covered housing tenants. The bill would, however, permit a covered housing provider to establish or implement a voluntary employment or job training program if specified conditions apply. The bill would provide that its provisions do not limit or alter the operation of specified federal housing programs and requirements."
@@ -184,18 +187,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 922,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -332,6 +338,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 922, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -433,6 +453,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB212896ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB212895CHP"
   }
  ],
  "veto": null,
@@ -443,6 +468,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2128",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2128",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2128",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2128&version=20250AB212896ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2128&version=20250AB212895CHP"
  }
 }

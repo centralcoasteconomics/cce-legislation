@@ -51,21 +51,24 @@
    "party": "R"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-10",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 782, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 782,
+  "year": 2026
+ },
  "presented": "2026-09-10",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "building"
  ],
@@ -159,7 +162,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Government Operations Agency. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code.",
   "Existing law, the California Factory-Built Housing Law, generally regulates the design, manufacture, and installation of factory-built housing, as defined and specified. That law specifically and entirely reserves to local jurisdictions certain local requirements, including local use zone requirements, snow load requirements, and wind pressure requirements. That law provides that any person who violates any of those provisions and other specified law is guilty of a misdemeanor, as specified.",
@@ -314,18 +317,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-10",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 782,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -525,6 +531,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 782, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -683,6 +703,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB181592ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB181591CHP"
   }
  ],
  "veto": null,
@@ -693,6 +718,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1815",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1815",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1815",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1815&version=20250AB181592ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1815&version=20250AB181591CHP"
  }
 }

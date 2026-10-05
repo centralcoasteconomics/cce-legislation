@@ -44,21 +44,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-09",
-  "text": "Enrolled and presented to the Governor at 1 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 866, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 866,
+  "year": 2026
+ },
  "presented": "2026-09-09",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "mobilehome"
  ],
@@ -110,7 +113,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks. The law deems the substantial failure of the management of a mobilehome park, as defined, to provide and maintain physical improvements in the common facilities in good working order and condition, and the substantial violation of a mobilehome park rule, to be a public nuisance that may be remedied only by a civil action or abatement, as specified. The law authorizes a civil action for purposes of that provision to be brought by, among others, the Attorney General.",
   "Existing law establishes within the Department of Housing and Community Development the Mobilehome Residency Law Protection Program, which authorizes additional enforcement measures for violations of the Mobilehome Residency Law. Existing law requires the department to refer any alleged violations of law or regulations within the department’s jurisdiction to the Division of Codes and Standards within the department, and to refer any alleged violations of law or regulations that are not within the jurisdiction of the department, as specified, to the appropriate enforcement agency.",
@@ -285,18 +288,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-09",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 866,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -489,6 +495,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 866, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -655,6 +675,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB63595ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB63594CHP"
   }
  ],
  "veto": null,
@@ -665,6 +690,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB635",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB635",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB635",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB635&version=20250AB63595ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB635&version=20250AB63594CHP"
  }
 }

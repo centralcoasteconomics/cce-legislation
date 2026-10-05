@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 932, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 932,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "redevelopment"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law dissolved redevelopment agencies and community development agencies as of February 1, 2012, and provides for the designation of successor agencies to, among other things, wind down the affairs of the dissolved redevelopment agencies and make payments due for enforceable obligations. Existing law, among other powers granted to successor agencies generally, additionally vests the successor agency to the former Redevelopment Agency of the City and County of San Francisco with the authority, rights, and powers of that former redevelopment agency solely for the purpose of issuing bonds or incurring other indebtedness, subject to the approval of the oversight board of the successor agency, to finance the construction of affordable housing and infrastructure required by specified development agreements, including the infrastructure required by the Transbay Implementation Agreement. Under existing law, these bonds and indebtedness are considered indebtedness incurred by the dissolved redevelopment agency secured by moneys deposited in the Redevelopment Property Tax Trust Fund established for that agency.",
   "This bill would specify this authority to issue bonds or incur other indebtedness to finance the infrastructure required by the Transbay Implementation Agreement includes entering into arrangements with the Transbay Joint Powers Authority and the City and County of San Francisco to extend the time period for pledges of gross sales proceeds and net tax increments, as specified.",
@@ -186,18 +189,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 932,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -334,6 +340,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 932, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -439,6 +459,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB230896ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB230895CHP"
   }
  ],
  "veto": null,
@@ -449,6 +474,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2308",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2308",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2308",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2308&version=20250AB230896ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2308&version=20250AB230895CHP"
  }
 }

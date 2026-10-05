@@ -30,21 +30,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-27",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 887, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 887,
+  "year": 2026
+ },
  "presented": "2026-08-27",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid"
  ],
@@ -66,7 +69,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments, and requires a common interest development to be managed by an association, as specified. Existing law includes provisions that limit the authority of an association or the governing documents, as defined, to regulate the use of a member’s separate interest, as defined.",
   "Existing law, the Mobilehome Residency Law, governs tenancies in mobilehome parks and includes provisions that are applicable to those who have an ownership interest in a subdivision, cooperative, or condominium for mobilehomes, or a resident-owned mobilehome park, as specified. Existing law makes any covenant, restriction, or condition contained in any rental agreement or other instrument affecting the tenancy of a homeowner or resident that effectively prohibits or restricts the installation, upgrade, replacement, or use of a cooling system in a mobilehome void and unenforceable. Existing law provides that a “cooling system” includes a portable air-conditioning unit, a window air-conditioning unit, a swamp cooler or any evaporative cooler, a cooling fan system, a heat pump, or any other technology that reasonably creates an internal temperature cooling benefit, and meets applicable health and safety standards and requirements imposed by law.",
@@ -209,18 +212,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-27",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 887,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -378,6 +384,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 887, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -512,6 +532,11 @@
    "date": "2026-08-24",
    "action": "Enrolled",
    "id": "20250AB168495ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB168494CHP"
   }
  ],
  "veto": null,
@@ -522,6 +547,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1684",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1684",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1684",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1684&version=20250AB168495ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1684&version=20250AB168494CHP"
  }
 }

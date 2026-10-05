@@ -30,21 +30,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-25",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 930, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 930,
+  "year": 2026
+ },
  "presented": "2026-08-25",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "other"
  ],
@@ -72,7 +75,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the Santa Clara Valley Transportation Authority (VTA) in order to meet the public transit problems of the County of Santa Clara. Existing law authorizes the VTA to purchase or otherwise acquire property for transit-oriented joint development projects, as provided.",
   "This bill would authorize the VTA to similarly purchase or acquire property for an employee housing project, as defined, for VTA employees and members of the public, as specified. The bill would authorize the VTA to construct affordable rental housing for employees and affordable for-sale housing that promotes housing opportunities for VTA employees, as specified. The bill would require the VTA to submit an annual report to the Legislature on the use of the bill’s provisions to develop housing, as specified. By requiring the VTA to submit a new report, the bill would impose a state-mandated local program.",
@@ -215,18 +218,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-25",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 930,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -419,6 +425,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 930, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -553,6 +573,11 @@
    "date": "2026-08-21",
    "action": "Enrolled",
    "id": "20250AB226394ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB226393CHP"
   }
  ],
  "veto": null,
@@ -563,6 +588,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2263",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2263",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2263",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2263&version=20250AB226394ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2263&version=20250AB226393CHP"
  }
 }

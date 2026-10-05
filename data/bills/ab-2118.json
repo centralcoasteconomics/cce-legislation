@@ -23,21 +23,24 @@
    "party": "R"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-08",
-  "text": "Enrolled and presented to the Governor at 3:30 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State - Chapter 579, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 579,
+  "year": 2026
+ },
  "presented": "2026-09-08",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "streamlining"
  ],
@@ -65,7 +68,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Affordable Housing and High Road Jobs Act of 2022, until January 1, 2033, authorizes a development proponent to submit an application for a mixed-income housing development along a commercial corridor that satisfies specified site criteria, affordability criteria, and objective development standards, and deems a housing development that meets those requirements a use by right and subject to streamlined, ministerial review. Existing law prohibits the objective standards from precluding a development from being built at specified residential density required and from requiring the development to reduce unit size to meet the objective standards.",
   "This bill would also prohibit the objective standards from prohibiting or otherwise limiting mixed-use development, as defined, in a housing development project. By changing the criteria local agencies must follow for the approval of certain development projects, the bill would impose a state-mandated local program.",
@@ -219,18 +222,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-08",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 579,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -409,6 +415,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State - Chapter 579, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -557,6 +577,11 @@
    "date": "2026-09-02",
    "action": "Enrolled",
    "id": "20250AB211895ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250AB211894CHP"
   }
  ],
  "veto": null,
@@ -567,6 +592,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2118",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2118",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2118",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2118&version=20250AB211895ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2118&version=20250AB211894CHP"
  }
 }

@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-20",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 953, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 953,
+  "year": 2026
+ },
  "presented": "2026-08-20",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "tenant"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Mobilehome Residency Law, prescribes various terms and conditions of tenancies in mobilehome parks. Existing law authorizes a local agency to be responsible for the enforcement of certain requirements governing mobilehome parks.",
   "This bill would specify that, in the event that a mobilehome park operator, owner, or management fails to, or elects not to, comply with federal law or other federal requirements imposed in connection with a federally approved housing program, the mobilehome park operator, owner, or management shall ensure ongoing compliance with the Mobilehome Residency Law, the prescribed provisions of the Unruh Civil Rights Act, and all other applicable state and local laws and ordinances. If a mobilehome park operator, owner, or management fails to, or elects not to, conduct the age verification requirement under prescribed federal law, the bill would authorize a local agency to conduct age verification, as provided, and grant the local agency with the right to access and inspect records of the mobilehome park operator, owner, and management to conduct that verification."
@@ -192,18 +195,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-20",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 953,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -326,6 +332,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 953, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -426,6 +446,11 @@
    "date": "2026-08-17",
    "action": "Enrolled",
    "id": "20250AB259697ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB259696CHP"
   }
  ],
  "veto": null,
@@ -436,6 +461,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2596",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2596",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2596",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2596&version=20250AB259697ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2596&version=20250AB259696CHP"
  }
 }

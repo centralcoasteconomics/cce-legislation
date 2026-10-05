@@ -51,21 +51,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 931, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 931,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding",
   "taxcredit"
@@ -106,7 +109,7 @@
  },
  "nextHearing": null,
  "urgency": true,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes a low-income housing tax credit program for which the California Tax Credit Allocation Committee (CTCAC) provides procedures and requirements for the allocation, in modified conformity with federal law, of state insurance, personal income, and corporation tax credit amounts to qualified low-income housing projects that have been allocated, or qualify for, a federal low-income housing tax credit, and farmworker housing. Existing law limits the total annual amount of the state low-income housing credit for which a federal low-income housing credit is required to the sum of $70,000,000, as increased by any percentage increase in the Consumer Price Index for the preceding calendar year, any unused credit for the preceding calendar years, and the amount of housing credit ceiling returned in the calendar year. Existing law governing the taxation of insurers, the Personal Income Tax Law, and the Corporation Tax Law provided an allocation of $500,000,000 for the 2020 calendar year and, for calendar years beginning in 2021, also provides for an additional amount that may be allocated, up to $500,000,000, to specified low-income housing projects that are new buildings that are federally subsidized, as specified. Existing law provides that this additional amount is only available for allocation pursuant to an authorization in the annual Budget Act. Existing law requires specified regulatory action by CTCAC aimed at increasing production and containing costs, including a scoring system that maximizes the efficient use of public subsidy and benefit created through the low-income housing tax credit program, as specified.",
   "This bill would require CTCAC to consider amending the regulatory scoring system to establish a housing type for farmworker housing projects, as specified in the existing CTCAC regulation. The bill would also require the CTCAC to consider using the same point allocations provided for rural set-aside projects in assigning points to farmworker housing based on the proximity of amenities to an eligible farmworker housing project.",
@@ -268,18 +271,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 931,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -458,6 +464,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 931, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -615,6 +635,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250AB227095ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB227094CHP"
   }
  ],
  "veto": null,
@@ -625,6 +650,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2270",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2270",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2270",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2270&version=20250AB227095ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2270&version=20250AB227094CHP"
  }
 }

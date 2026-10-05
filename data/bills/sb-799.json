@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-24",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 980, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 980,
+  "year": 2026
+ },
  "presented": "2026-08-24",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "other"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law authorizes the establishment of the South Bay Regional Housing Trust, a joint powers authority, by the County of Los Angeles and any or all of the cities within the jurisdiction of the South Bay Cities Council of Governments, with the stated purpose of funding housing to assist the homeless population and persons and families of extremely low, very low, and low income within the South Bay Cities region. Existing law authorizes the South Bay Regional Housing Trust to, among other things, fund planning and construction of housing of all types and tenures for the homeless population and persons and families of extremely low, very low, and low income.",
   "This bill would expand the authority of the trust to also include funding the preservation of housing for these purposes. The bill would also expand the authority of the trust to include funding planning, construction, and preservation of housing for persons and families of moderate income, as defined, using any private resources and specified public resources.",
@@ -214,18 +217,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-24",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 980,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -488,6 +494,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 980, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -679,6 +699,11 @@
    "date": "2026-08-20",
    "action": "Enrolled",
    "id": "20250SB79992ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB79991CHP"
   }
  ],
  "veto": null,
@@ -689,6 +714,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB799",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB799",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB799",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB799&version=20250SB79992ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB799&version=20250SB79991CHP"
  }
 }

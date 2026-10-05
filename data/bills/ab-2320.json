@@ -16,21 +16,24 @@
    "party": "R"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-15",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 935, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 935,
+  "year": 2026
+ },
  "presented": "2026-09-15",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the Multifamily Housing Program, administered by the Department of Housing and Community Development, to provide financial assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects. Existing law requires that specified funds appropriated to provide housing for individuals and families who are experiencing homelessness or who are at risk of homelessness and who are inherently impacted by or at increased risk for medical diseases or conditions due to the COVID-19 pandemic or other communicable diseases be disbursed in accordance with the Multifamily Housing Program for specified uses, including acquisition or rehabilitation of motels, hotels, hostels, or other sites, as provided. This disbursement program is referred to as Homekey.",
   "Existing law, upon appropriation, requires Homekey awards to be expended within 8 months of the date of the award, as provided.",
@@ -186,18 +189,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-15",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 935,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -390,6 +396,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 935, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -509,6 +529,11 @@
    "date": "2026-09-04",
    "action": "Enrolled",
    "id": "20250AB232096ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB232095CHP"
   }
  ],
  "veto": null,
@@ -519,6 +544,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2320",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2320",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2320",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2320&version=20250AB232096ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2320&version=20250AB232095CHP"
  }
 }

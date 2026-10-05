@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-10",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 958, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 958,
+  "year": 2026
+ },
  "presented": "2026-09-10",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, in modified conformity with federal income tax laws, establishes a low-income housing tax credit program through which the California Tax Credit Allocation Committee allocates low-income housing tax credits aimed at providing affordable low-income housing within and throughout the state. Existing federal law sets limitations and guidelines regarding what projects are eligible for credits, including a requirement that an extended low-income housing commitment is in effect, and a prohibition against eviction except for good cause.",
   "This bill would specify, for housing projects where the low-income housing commitment requires 100% of the units, not including any manager’s units, to be restricted to lower income households, as defined, that good cause for nonrenewal of a lease includes cases where the nonrenewal relates to a household whose income exceeds 140% of the area median income for at least 2 consecutive years and 30% of the household’s monthly income exceeds the fair market rent, determined as specified. The bill would require an owner to provide notice of the potential of good cause for nonrenewal described above if the household’s income exceeds 140% of the area median income during any income certification, as specified. The bill would also require an owner electing to not renew a lease as described above to issue a notice of nonrenewal describing the basis of good cause for nonrenewal at least 90 days prior to the expiration of the lease, as specified."
@@ -195,18 +198,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-10",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 958,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -364,6 +370,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 958, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -484,6 +504,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB268994ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB268993CHP"
   }
  ],
  "veto": null,
@@ -494,6 +519,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2689",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2689",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2689",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2689&version=20250AB268994ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2689&version=20250AB268993CHP"
  }
 }

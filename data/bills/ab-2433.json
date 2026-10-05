@@ -30,21 +30,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-10",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 800, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 800,
+  "year": 2026
+ },
  "presented": "2026-09-10",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "density"
  ],
@@ -66,7 +69,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law, commonly referred to as the Density Bonus Law, requires a city or county to grant a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, to an applicant for a housing development when the applicant seeks a density bonus for the housing development, as specified, if the applicant agrees to construct, among other things, a specified percentage of units for very low income, lower income, or senior citizen housing, and meets other requirements.",
   "This bill would, instead, require a city or county to grant a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, to an applicant for a housing development when the applicant submits an application for a housing development that a city, county, or city and county determines meets specified criteria, including, among others, the housing development includes specified percentage of units for very low income, lower income, or senior citizen housing.",
@@ -239,18 +242,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-10",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 800,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -499,6 +505,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 800, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -686,6 +706,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB243392ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB243391CHP"
   }
  ],
  "veto": null,
@@ -696,6 +721,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2433",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2433",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2433",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2433&version=20250AB243392ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2433&version=20250AB243391CHP"
  }
 }

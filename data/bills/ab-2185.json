@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 784, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 784,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Governor’s Reorganization Plan No. 1 of 2025 (GRP), which became effective on July 5, 2025, reorganized specified state agencies and departments, including eliminating the Business, Consumer Services, and Housing Agency as of July 1, 2026, and instead establishing the Business and Consumer Services Agency and the California Housing and Homelessness Agency. The GRP, as of July 1, 2026, sets forth the general responsibilities and roles of the California Housing Homelessness Agency, the Department of Housing and Community Development, the Housing Development and Finance Committee, and the California Housing Finance Agency in carrying out state housing policies and programs. Existing law establishes programs providing assistance for, among other things, multifamily housing, farmworker housing, and veteran housing.",
   "This bill would require the California Housing and Homelessness Agency, the California Housing Finance Agency, the California Debt Limit Allocation Committee, the California Tax Credit Allocation Committee, and the Housing Development and Finance Committee, no later than July 1, 2027, when administering a multifamily affordable housing program, as specified, to, among other things, review, analyze, and make any changes necessary to their guidelines and regulations to facilitate the production and use of factory-built housing."
@@ -207,18 +210,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 784,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -369,6 +375,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 784, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -507,6 +527,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250AB218596ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB218595CHP"
   }
  ],
  "veto": null,
@@ -517,6 +542,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2185",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2185",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2185",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2185&version=20250AB218596ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2185&version=20250AB218595CHP"
  }
 }

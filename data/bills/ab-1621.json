@@ -30,21 +30,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 780, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 780,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "haa"
  ],
@@ -72,7 +75,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)The Planning and Zoning Law requires a local agency or state agency to compile one or more lists that specify in detail the information required from any applicant for a postentitlement phase permit, as defined. Existing law also establishes time limits for completing reviews regarding whether an application for a postentitlement phase permit is complete and compliant, and whether to approve or deny an application. Existing law requires the time limits to be tolled, if the local agency or state agency requires review of the application by an outside entity, until the outside entity completes the review and returns the application, as specified.",
   "This bill would prohibit a local agency or state agency from requiring or requesting more than 2 plan check and specification reviews in connection with an application for a building permit, as part of its review. The bill would authorize a local agency or state agency to deny an application that is not compliant with the permit standards following 2 plan check and specification reviews. The bill would also authorize an applicant to request additional submittals of applications that are not compliant with the permit standards. The bill, if a local agency or state agency finds that a complete application is noncompliant, would prohibit a local agency or state agency from requesting or requiring any action or inaction as a result of a building inspection undertaken to assess compliance with the applicable building permit standards that would represent a deviation from a previously approved building plan or similar approval for the building permit, except as specified.",
@@ -249,18 +252,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 780,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -432,6 +438,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 780, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -603,6 +623,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB162195ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB162194CHP"
   }
  ],
  "veto": null,
@@ -613,6 +638,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1621",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1621",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1621",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1621&version=20250AB162195ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1621&version=20250AB162194CHP"
  }
 }

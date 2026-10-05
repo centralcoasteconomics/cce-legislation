@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-28",
-  "text": "Enrolled and presented to the Governor at 3:30 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State - Chapter 524, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 524,
+  "year": 2026
+ },
  "presented": "2026-08-28",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "element"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development that includes, among other things, a housing element containing specified information, including an analysis of its special housing, emergency shelter, and supportive housing needs, as defined. Existing law defines the term “target population” for purposes of requirements applicable to the housing element to include certain persons, including persons with low incomes who have one or more disabilities and individuals eligible for specified developmental disability services.",
   "This bill, the Unseen and Unheard Housing Act, would provide that the definition of the term “target population” for the purposes of requirements applicable to the housing element, as described above, may include victims of domestic violence, victims of sexual assault, and victims of human trafficking, as specified."
@@ -192,18 +195,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-28",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 524,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -333,6 +339,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State - Chapter 524, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -443,6 +463,11 @@
    "date": "2026-08-26",
    "action": "Enrolled",
    "id": "20250AB157396ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250AB157395CHP"
   }
  ],
  "veto": null,
@@ -453,6 +478,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1573",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1573",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1573",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1573&version=20250AB157396ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1573&version=20250AB157395CHP"
  }
 }

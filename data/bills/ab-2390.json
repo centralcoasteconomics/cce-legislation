@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-20",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 799, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 799,
+  "year": 2026
+ },
  "presented": "2026-08-20",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "streamlining"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Planning and Zoning Law, until January 1, 2036, authorizes a development proponent to submit an application for a multifamily housing development that is subject to a streamlined, ministerial approval process, as provided, and not subject to a conditional use permit, if the development satisfies specified objective planning standards (streamlining process). Existing law, for purposes of this streamlining process, authorizes a development proponent to request a modification to an approved development if submitted to the local government before the issuance of the final building permit required for construction of the development. Existing law requires a local government to approve a modification if it determines the modification is consistent with the objective planning standards in effect when the original development application was first submitted. Existing law requires evaluations of modifications for consistency with the objective planning standards to be made using the same assumptions and analytical methodology the local government originally used, as described.",
   "This bill would instead require the local government to approve a modification if it determines the modification is consistent with objective zoning standards, objective subdivision standards, and objective design review standards that were in effect when the original development application or notice of intent was first submitted, as described. The bill would also require subsequent modifications to be evaluated for consistency using the same assumptions and analytical methodology the local government originally used, or that was used in a previous modification, as described. The bill would make conforming changes.",
@@ -208,18 +211,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-20",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 799,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -391,6 +397,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 799, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -539,6 +559,11 @@
    "date": "2026-08-17",
    "action": "Enrolled",
    "id": "20250AB239094ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB239093CHP"
   }
  ],
  "veto": null,
@@ -549,6 +574,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2390",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2390",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2390",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2390&version=20250AB239094ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2390&version=20250AB239093CHP"
  }
 }

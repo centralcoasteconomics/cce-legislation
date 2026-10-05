@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State - Chapter 515, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 515,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "taxcredit"
  ],
@@ -64,7 +67,7 @@
  },
  "nextHearing": null,
  "urgency": true,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Personal Income Tax Law and the Corporation Tax Law allow a credit against the taxes imposed by those laws, for taxable years beginning on or after January 1, 2021, and before January 1, 2027, for rehabilitation of certified historic structures, as defined, and, under the Personal Income Tax Law, for a qualified residence, as defined. Existing law allows an increased credit of 25% of the qualified rehabilitation expenditures with respect to a certified historic structure meeting any of certain criteria, including a rehabilitated structure that includes affordable housing for lower income households. Existing law requires a taxpayer to receive an allocation from the California Tax Credit Allocation Committee (CTCAC) to be eligible for the credit. Existing law limits the aggregate amount of money that can be allocated for these credits per calendar year.",
   "Existing law requires, on an annual basis beginning January 1, 2021, until January 1, 2027, the Legislative Analyst to collaborate with the CTCAC and the State Office of Historic Preservation to review the effectiveness of these tax credits, as described.",
@@ -225,18 +228,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 515,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -464,6 +470,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State - Chapter 515, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -631,6 +651,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB126594ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250AB126593CHP"
   }
  ],
  "veto": null,
@@ -641,6 +666,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1265",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1265",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1265",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1265&version=20250AB126594ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1265&version=20250AB126593CHP"
  }
 }

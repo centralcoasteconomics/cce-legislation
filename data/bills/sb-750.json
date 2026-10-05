@@ -107,21 +107,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 2 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 803, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 803,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -143,7 +146,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the California Housing Finance Agency for the primary purpose of meeting the housing needs of persons and families of low or moderate income, and sets forth various programs administered by the agency to fulfill that purpose.",
   "This bill would require the agency to conduct a comprehensive assessment of potential credit enhancement mechanisms designed to reduce borrowing costs for housing projects receiving state financial assistance that includes specified evaluations. The bill would require the agency to submit an interim report by January 1, 2028, and a final report by July 1, 2028, as specified."
@@ -307,18 +310,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 803,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -560,6 +566,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 803, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -751,6 +771,11 @@
    "date": "2026-08-31",
    "action": "Enrolled",
    "id": "20250SB75092ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB75091CHP"
   }
  ],
  "veto": null,
@@ -761,6 +786,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB750",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB750",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB750",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB750&version=20250SB75092ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB750&version=20250SB75091CHP"
  }
 }

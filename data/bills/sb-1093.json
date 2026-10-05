@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-28",
-  "text": "Enrolled and presented to the Governor at 11 a.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 775, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 775,
+  "year": 2026
+ },
  "presented": "2026-08-28",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "tenant",
   "zoning"
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law establishes the Department of Housing and Community Development (the department) and requires it to administer various programs intended to promote the development of housing, including mobilehome parks, as defined.",
   "Existing law, the Planning and Zoning Law, requires, before the conversion of a mobilehome park to another use, except as specified, or before closure of a mobilehome park or cessation of use of the land as a mobilehome park, the person or entity proposing the change in use to file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park. Existing law requires the impact report to include a replacement and relocation plan that adequately mitigates the impact upon the ability of the displaced residents of the mobilehome park to find adequate housing in a mobilehome park. Existing law requires the report, if a closure, cessation, or change of use is the result of damage or destruction of the mobilehome park by a disaster, as defined, to include a technical service inspection report from the department that identifies the observed conditions within the park.",
@@ -235,18 +238,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-28",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 775,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -474,6 +480,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 775, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -655,6 +675,11 @@
    "date": "2026-08-25",
    "action": "Enrolled",
    "id": "20250SB109392ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB109391CHP"
   }
  ],
  "veto": null,
@@ -665,6 +690,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1093",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1093",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1093",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1093&version=20250SB109392ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1093&version=20250SB109391CHP"
  }
 }

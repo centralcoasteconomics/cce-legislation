@@ -37,21 +37,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-08",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 1027, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 1027,
+  "year": 2026
+ },
  "presented": "2026-09-08",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "streamlining"
  ],
@@ -73,7 +76,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law requires a housing development project to be an allowed use as a transit-oriented housing development if certain requirements are met. Existing law provides that these provisions do not apply to a local agency until July 1, 2026, unless the local agency takes specified actions. Existing law defines various terms for these purposes. Existing law prohibits a local government from adopting any requirement that applies to a project solely or partially on the basis that the project is seeking approval as a transit-oriented housing development, as specified.",
   "This bill would additionally prohibit a local government with an existing or planned transit-oriented development stop from taking specified actions with respect to transit agencies and transit projects."
@@ -217,18 +220,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-08",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 1027,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -414,6 +420,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 1027, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -563,6 +583,11 @@
    "date": "2026-09-02",
    "action": "Enrolled",
    "id": "20250SB136193ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB136192CHP"
   }
  ],
  "veto": null,
@@ -573,6 +598,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1361",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1361",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1361",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1361&version=20250SB136193ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1361&version=20250SB136192CHP"
  }
 }

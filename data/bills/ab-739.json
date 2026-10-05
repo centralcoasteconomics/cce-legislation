@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State - Chapter 506, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 506,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid"
  ],
@@ -58,7 +61,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Davis-Stirling Common Interest Development Act, governs the formation and operation of common interest developments, and requires a common interest development to be managed by an association, as specified. Existing law, unless otherwise provided by the governing documents, authorizes the board of directors of the association to hire a managing agent, defined as a person who, for compensation or in expectation of compensation, exercises control over the assets of a common interest development. Existing law requires, unless the governing documents impose more stringent requirements, the board of directors of the association to review various financial documents and statements on a monthly basis. Existing law requires an association to make association records available for inspection and copying by a member of the association or the member’s designated representative, as specified.",
   "This bill would require the board of directors of the association to review, on an annual basis, a statement of fees charged by the managing agent, as specified. The bill would include this statement of fees as association records.",
@@ -200,18 +203,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 506,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -432,6 +438,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State - Chapter 506, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -576,6 +596,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250AB73994ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250AB73993CHP"
   }
  ],
  "veto": null,
@@ -586,6 +611,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB739",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB739",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB739",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB739&version=20250AB73994ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB739&version=20250AB73993CHP"
  }
 }

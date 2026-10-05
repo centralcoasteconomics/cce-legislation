@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-24",
-  "text": "Enrolled and presented to the Governor at 4:30 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 793, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 793,
+  "year": 2026
+ },
  "presented": "2026-08-24",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "tenant"
  ],
@@ -52,7 +55,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law prohibits mobilehome park management from terminating a tenancy except for specified reasons, including, among other reasons, failure of the homeowner or resident to comply with a reasonable rule or regulation of the park that is part of the rental agreement. Existing law provides that an act or omission of a homeowner or resident does not constitute a failure to comply with a reasonable rule or regulation until management has given the homeowner written notice of the alleged rule or regulation violation and the homeowner or resident has failed to adhere to the rule or regulation within seven days. Existing law further provides these provisions do not relieve management from its obligations to demonstrate that a rule or regulation has in fact been violated.",
   "This bill would, instead, require that the management serve the homeowner with the written notice, as prescribed, and would require the notice to include the language of each rule or regulation for which the homeowner is alleged to be in violation, along with specific facts, as provided, and any action required to adhere to the rule or regulation. The bill would, instead, provide that these provisions do not relieve the management from its burden of demonstrating that a rule or regulation has in fact been in fact violated."
@@ -182,18 +185,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-24",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 793,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -309,6 +315,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 793, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -390,6 +410,11 @@
    "date": "2026-08-19",
    "action": "Enrolled",
    "id": "20250AB181798ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB181797CHP"
   }
  ],
  "veto": null,
@@ -400,6 +425,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1817",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1817",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB1817",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1817&version=20250AB181798ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1817&version=20250AB181797CHP"
  }
 }

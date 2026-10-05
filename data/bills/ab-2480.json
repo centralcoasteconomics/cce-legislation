@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-31",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 801, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 801,
+  "year": 2026
+ },
  "presented": "2026-08-31",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "density"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus and other incentives or concessions, as specified, if the developer agrees to construct, among other options, 20% of the total units, as defined, for lower income students in a student housing development that meets certain requirements. These requirements include, among other things, that all units in the student housing development be used exclusively for undergraduate, graduate, or professional students enrolled full time at an institution of higher learning, and the rent provided in the applicable units of the development for lower income students is calculated at 30% of 65% of the area median income for a single-room occupancy unit type.",
   "This bill, for the purposes of a student housing development being eligible for a density bonus and other incentives or concessions, would revise and recast the rent requirements for the applicable units of the development for lower income students. The bill would also require a city or county to provide an additional density bonus, as specified, for a student housing development that meets the requirements for being eligible for the above-described density bonus and meets other specified criteria, including that the development provides 24% of the total units to lower income students, and the applicant agrees to include additional rental units affordable to moderate-income students, as defined, provided that the resulting student housing development would not restrict more than 50% of the total units, as defined, to moderate-income or lower income students. By imposing new duties on local governments, the bill would impose a state-mandated local program.",
@@ -204,18 +207,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-31",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 801,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -408,6 +414,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 801, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -547,6 +567,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250AB248094ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB248093CHP"
   }
  ],
  "veto": null,
@@ -557,6 +582,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2480",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2480",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2480",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2480&version=20250AB248094ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2480&version=20250AB248093CHP"
  }
 }

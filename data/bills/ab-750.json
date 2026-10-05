@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 789, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 789,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law authorizes the Department of Housing and Community Development, upon appropriation, to make loans or grants, or both loans and grants, to rehabilitate, capitalize operating subsidy reserves for, and extend the long-term affordability of department-funded housing projects that have an affordability restriction that has expired, that have an affordability restriction with a remaining term of less than 10 years, or are otherwise at risk of conversion to market-rate housing.",
   "This bill would also authorize the department to make those loans and grants to rehabilitate, capitalize operating subsidy reserves for, and extend the long-term affordability of housing projects that qualify as a challenged development, as defined. The bill would require the department to grant priority for these loans and grants to housing projects that are department funded and have an affordability restriction that has expired or have a remaining term of less than 10 years, or are otherwise at risk for conversion, as defined. The bill would authorize the department to establish separate selection and underwriting standards for these projects and projects that are challenged developments. The bill would require, prior to allocating program funds, the department to evaluate the above-described developments to help inform program guidelines and allocation decisions. The bill would require the department to allocate at least 10% of funds of every round to challenged developments that are not department-funded, as specified."
@@ -233,18 +236,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 789,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -500,6 +506,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 789, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -705,6 +725,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250AB75093ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB75092CHP"
   }
  ],
  "veto": null,
@@ -715,6 +740,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB750",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB750",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB750",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB750&version=20250AB75093ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB750&version=20250AB75092CHP"
  }
 }

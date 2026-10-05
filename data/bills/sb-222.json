@@ -37,21 +37,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-30",
-  "text": "Enrolled and presented to the Governor at 6 p.m."
+  "date": "2026-09-28",
+  "text": "Chaptered by Secretary of State. Chapter 738, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 738,
+  "year": 2026
+ },
  "presented": "2026-08-30",
- "approved": null,
+ "approved": "2026-09-28",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid"
  ],
@@ -79,7 +82,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law establishes the State Energy Resources Conservation and Development Commission and prescribes the authorities, duties, and responsibilities of the commission pertaining to energy matters. Existing law requires the commission, on or before January 1, 2019, in consultation with the Contractors State License Board, local building officials, and other stakeholders, to approve a plan that promotes compliance with specified regulations relating to building energy efficiency standards in the installation of central air-conditioning and heat pumps, as specified. Existing law authorizes the commission to adopt regulations to increase compliance with permitting and inspection requirements for central air-conditioning and heat pumps, and associated sales and installations, consistent with the above-described plan.",
   "This bill would establish various requirements and authorizations for the installation of a residential heat pump water heater or heat pump HVAC system, as defined, by, among other things, requiring a city, county, or city and county, beginning July 1, 2027, to adopt and offer asynchronous inspections for installations that do not require a licensed contractor and building inspector to be simultaneously present during the inspection. The bill would additionally require a city, county, or city and county, except as specified, to post specific information online, and on or before July 1, 2028, to implement an online automated permitting process for the installation of a residential heat pump water heater or heat pump HVAC system that issues permits in real time to a licensed contractor that meets certain criteria. The bill would require the criteria to include, among others, that the licensed contractor certify under penalty of perjury that they have performed a load calculation to properly size the new equipment, as specified. By expanding the crime of perjury, the bill would impose a state-mandated local program. By imposing these various new duties on the described local entities, the bill would impose a state-mandated local program.",
@@ -257,18 +260,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-30",
-   "done": null,
+   "done": "2026-09-28",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-28",
+   "chapter": {
+    "number": 738,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -524,6 +530,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-28",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-28",
+   "text": "Chaptered by Secretary of State. Chapter 738, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -710,6 +730,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250SB22293ENR"
+  },
+  {
+   "date": "2026-09-28",
+   "action": "Chaptered",
+   "id": "20250SB22292CHP"
   }
  ],
  "veto": null,
@@ -720,6 +745,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB222",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB222",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB222",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB222&version=20250SB22293ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB222&version=20250SB22292CHP"
  }
 }

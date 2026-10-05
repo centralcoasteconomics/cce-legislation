@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-10",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State - Chapter 937, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 937,
+  "year": 2026
+ },
  "presented": "2026-09-10",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "surplus"
  ],
@@ -107,7 +110,7 @@
  },
  "nextHearing": null,
  "urgency": true,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "(1)Existing law establishes priorities and procedures that any state agency disposing of surplus property is required to follow. Existing law requires the Department of Transportation to deposit proceeds from the sale of a surplus residential property from the department to a new owner into the SR-710 Rehabilitation Account. Existing law continuously appropriates the funds in the account to the department for the purpose of providing required repairs to certain surplus residential properties that are offered for sale, as provided. Existing law requires that the total funds maintained in the account not exceed a specified amount and that funds exceeding that amount, less any reimbursements due to the federal government, be transferred to the State Highway Account in the State Transportation Fund, to be used for allocation by the California Transportation Commission exclusively to fund projects located in specified cities and in the 90032 postal ZIP Code. Existing law also establishes the Affordable Housing Trust Account within the Housing Finance Fund, a continuously appropriated fund, and requires certain funds to be deposited in the account in accordance with specified provisions for the benefit of income restricted persons and families residing exclusively in the Cities of Pasadena, South Pasadena, Alhambra, La Cañada Flintridge, and the 90032 postal ZIP Code.",
   "Existing law sets forth an order of priority for the disposal of specified surplus residential property, including that a state agency disposing of single-family surplus residential property first offer the property at the appraised fair market value to former owners and present occupants, and then offer the property at an affordable price to other present occupants who have occupied the property for a specified number of years and who meet certain income levels. Existing law sets certain parameters for the calculation of an affordable price for purposes of these provisions based on, among other things, the fair market value of the property.",
@@ -271,18 +274,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-10",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 937,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -482,6 +488,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State - Chapter 937, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -640,6 +660,11 @@
    "date": "2026-09-03",
    "action": "Enrolled",
    "id": "20250AB232993ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250AB232992CHP"
   }
  ],
  "veto": null,
@@ -650,6 +675,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2329",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2329",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2329",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2329&version=20250AB232993ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2329&version=20250AB232992CHP"
  }
 }

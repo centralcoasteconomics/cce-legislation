@@ -23,21 +23,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-08",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 1032, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 1032,
+  "year": 2026
+ },
  "presented": "2026-09-08",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "density"
  ],
@@ -59,7 +62,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development within the city or county with a density bonus, waivers or reductions of development standards, parking ratios, and other incentives or concessions, as specified, if the developer agrees to construct certain types of housing, including, among other types of housing, housing that will include specified percentages of units for rental or sale to lower income households or very low income households, as specified. Existing law requires a city or county to grant incentives or concessions requested by an applicant for a density bonus except under prescribed circumstances. Existing law defines “incentives or concessions” to include, among other things, a reduction in site development standards or a modification of zoning code requirements or architectural design requirements that exceed the minimum building standards, as specified, and regulatory incentives or concessions proposed by the developer or the city or county that result in identifiable and actual cost reductions to provide for affordable housing costs, as specified.",
   "This bill would exclude, for buildings over 85 feet in height above grade, a reduction in site development standards, a modification of zoning code or architectural design requirements, and other regulatory incentives or concessions that include or relate to a labor standard, as defined, that have been adopted by the local government entity from the definition of “incentives or concessions.” The bill would provide that, for purposes of these provisions, the applicable labor standards are those that do not exceed certain statutory requirements, as specified, as those requirements existed on December 31, 2025.",
@@ -201,18 +204,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-08",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 1032,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -387,7 +393,7 @@
   },
   {
    "date": "2026-08-30",
-   "text": "Read third time. Passed. Ordered to the Senate.",
+   "text": "Read third time. Passed. (Ayes 63. Noes 8. Page 6846.) Ordered to the Senate.",
    "house": "Assembly",
    "where": "Desk",
    "event": "floor_pass"
@@ -412,6 +418,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 1032, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -556,6 +576,11 @@
    "date": "2026-09-02",
    "action": "Enrolled",
    "id": "20250SB138395ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB138394CHP"
   }
  ],
  "veto": null,
@@ -566,6 +591,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1383",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1383",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1383",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1383&version=20250SB138395ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1383&version=20250SB138394CHP"
  }
 }

@@ -37,21 +37,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-04",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State - Chapter 791, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 791,
+  "year": 2026
+ },
  "presented": "2026-09-04",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "cid",
   "adu"
@@ -86,7 +89,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the Planning and Zoning Law, provides for the creation by local ordinance, or by ministerial approval if a local agency has not adopted an ordinance, of accessory dwelling units in areas zoned for single-family or multifamily dwelling residential use in accordance with specified standards and conditions. Existing law also provides for the creation of junior accessory dwelling units by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in single-family residential zones in accordance with specified standards and conditions.",
   "Existing law, the Davis-Stirling Common Interest Development Act, among other things, makes void and unenforceable any covenant, restriction, or condition contained in any instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described standards and conditions for those units.",
@@ -252,18 +255,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-04",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 791,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -498,6 +504,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State - Chapter 791, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -675,6 +695,11 @@
    "date": "2026-09-01",
    "action": "Enrolled",
    "id": "20250AB95694ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250AB95693CHP"
   }
  ],
  "veto": null,
@@ -685,6 +710,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB956",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB956",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB956",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB956&version=20250AB95694ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB956&version=20250AB95693CHP"
  }
 }

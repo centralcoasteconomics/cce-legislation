@@ -16,21 +16,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 4 p.m."
+  "date": "2026-09-27",
+  "text": "Chaptered by Secretary of State - Chapter 577, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 577,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-27",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "taxcredit"
  ],
@@ -64,7 +67,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Except as provided, the California Constitution requires that all property be taxed in proportion to its full value and assessed at the same percentage of fair market value. The tax imposed pursuant to these provisions is commonly referred to as an ad valorem property tax. Existing property tax law, in accordance with the California Constitution, provides for a “welfare exemption” for property used exclusively for religious, hospital, scientific, or charitable purposes and that is owned or operated by certain types of nonprofit entities, if any of certain qualifying criteria are met, including that the owner of the property receives low-income housing tax credits pursuant to specified provisions of the Internal Revenue Code. Under existing property tax law, property that meets these requirements that is used exclusively for rental housing and related facilities is entitled to a partial exemption, equal to that percentage of the value of the property that is equal to the percentage that the number of units serving lower income households represents of the total number of residential units, in any year that any of certain criteria apply.",
   "Existing property tax law, for the 2018–19 fiscal year through the 2027–28 fiscal year, in the case of an owner of property who is eligible for the federal low-income housing tax credit, requires that a unit continue to be treated as occupied by a lower income household if the occupants were lower income households on the lien date in the fiscal year in which occupancy of the unit commenced and the unit continues to be rent restricted, notwithstanding an increase in the income of the occupants of the unit to 140% of area median income.",
@@ -212,18 +215,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-27",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-27",
+   "chapter": {
+    "number": 577,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -409,6 +415,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Chaptered by Secretary of State - Chapter 577, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -548,6 +568,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250AB208994ENR"
+  },
+  {
+   "date": "2026-09-27",
+   "action": "Chaptered",
+   "id": "20250AB208993CHP"
   }
  ],
  "veto": null,
@@ -558,6 +583,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB2089",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2089",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260AB2089",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2089&version=20250AB208994ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2089&version=20250AB208993CHP"
  }
 }

@@ -72,21 +72,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-03",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 807, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 807,
+  "year": 2026
+ },
  "presented": "2026-09-03",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "funding"
  ],
@@ -108,7 +111,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law establishes the Department of Housing and Community Development in the Business, Consumer Services, and Housing Agency. Existing law, the Governor’s Reorganization Plan No. 1 of 2025 (GRP), which became effective on July 5, 2025, transfers the Department of Housing and Community Development to the California Housing and Homelessness Agency, which the GRP also establishes, as of July 1, 2026. Existing law makes the department responsible for administering various housing programs throughout the state, including, among others, the Multifamily Housing Program and the California Emergency Solutions Grants Program. Existing law, upon appropriation, authorizes the department to make either or both loans and grants to rehabilitate, capitalize operating subsidy reserves for, and extend the long-term affordability of department-funded housing projects that have an affordability restriction that has expired, that have an affordability restriction with a remaining term of less than 10 years, or are otherwise at risk for conversion, as provided.",
   "This bill would establish the Community Anti-Displacement and Preservation Program for purposes of funding the acquisition and rehabilitation of unrestricted housing and attaching long-term affordability restrictions on the housing, while safeguarding against the displacement of current residents. The bill would require the department to issue a request for qualification to select a private sector entity or consortium to manage the program for a period of 5 years. The bill would require the department to grant prescribed funds to the program manager to implement the program and the program manager to make loans or grants to eligible borrowers, as defined, based on underwriting guidelines approved by the department. The bill would authorize the department to issue program funds to regional housing entities, as defined, upon request through a solicitation or other process determined by the department, for purposes of allowing the regional housing entity to use the moneys to issue loans or grants to eligible borrowers within its jurisdiction in accordance with the bill’s provisions and department regulations. The bill would require the department to adopt regulations for the operation of the program on or before July 1, 2028, and would exempt the adoption of regulations by the department for these purposes from the Administrative Procedure Act.",
@@ -274,18 +277,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-03",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 807,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -506,6 +512,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 807, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -682,6 +702,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250SB109194ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB109193CHP"
   }
  ],
  "veto": null,
@@ -692,6 +717,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1091",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1091",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB1091",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1091&version=20250SB109194ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1091&version=20250SB109193CHP"
  }
 }

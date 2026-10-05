@@ -107,21 +107,24 @@
    "party": "R"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-08-30",
-  "text": "Enrolled and presented to the Governor at 6 p.m."
+  "date": "2026-09-29",
+  "text": "Chaptered by Secretary of State. Chapter 771, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 771,
+  "year": 2026
+ },
  "presented": "2026-08-30",
- "approved": null,
+ "approved": "2026-09-29",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "other"
  ],
@@ -155,7 +158,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "Existing law, the California Emergency Services Act, authorizes the Governor to proclaim a state of emergency when specified conditions of disaster or extreme peril to the safety of persons and property exist, and authorizes the Governor to exercise certain powers in response to that emergency, including, but not limited to, suspending specified statutes, ordinances, orders, regulations, or rules.",
   "This bill would impose specific duties on the Department of Housing and Community Development if the Office of Emergency Services makes a written determination, within 10 days after the date that the Governor declared a state of emergency relating to a wildfire, that the wildfire caused substantial structural damage requiring significant rebuilding efforts, as defined. The bill would require the department, under this condition, to consult with other specified state entities and local governments to identify state permitting requirements and local procedures that could be suspended or revised to support recovery and rebuilding efforts as a result of the wildfire, as specified. The bill would require the department to prepare and submit initial and periodic reports to the Governor and Legislature with the information and recommendations.",
@@ -323,18 +326,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-30",
-   "done": null,
+   "done": "2026-09-29",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-29",
+   "chapter": {
+    "number": 771,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -548,6 +554,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "Chaptered by Secretary of State. Chapter 771, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -724,6 +744,11 @@
    "date": "2026-08-27",
    "action": "Enrolled",
    "id": "20250SB90493ENR"
+  },
+  {
+   "date": "2026-09-29",
+   "action": "Chaptered",
+   "id": "20250SB90492CHP"
   }
  ],
  "veto": null,
@@ -734,6 +759,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB904",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB904",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB904",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB904&version=20250SB90493ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB904&version=20250SB90492CHP"
  }
 }

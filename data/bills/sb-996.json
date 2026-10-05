@@ -65,21 +65,24 @@
    "party": "D"
   }
  ],
- "outcome": "governor",
- "current": "governor",
- "currentLabel": "Governor",
- "location": "Governor",
- "statusRaw": "Enrolled",
- "measureState": "Enrolled",
+ "outcome": "law",
+ "current": "chaptered",
+ "currentLabel": "Chaptered",
+ "location": "Secretary of State",
+ "statusRaw": "Chaptered",
+ "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-02",
-  "text": "Enrolled and presented to the Governor at 3 p.m."
+  "date": "2026-09-30",
+  "text": "Chaptered by Secretary of State. Chapter 995, Statutes of 2026."
  },
- "chapter": null,
+ "chapter": {
+  "number": 995,
+  "year": 2026
+ },
  "presented": "2026-09-02",
- "approved": null,
+ "approved": "2026-09-30",
  "vetoed": null,
- "governorDeadline": "2026-09-30",
+ "governorDeadline": null,
  "areas": [
   "building"
  ],
@@ -119,7 +122,7 @@
  },
  "nextHearing": null,
  "urgency": false,
- "progress": 0.8,
+ "progress": 1.0,
  "digest": [
   "The Manufactured Housing Act of 1980 sets forth various standards relating to manufactured homes, mobilehomes, special purpose commercial coaches, and commercial coaches, including, but not limited to, construction and alteration of those homes. Existing law, including the Manufactured Housing Act of 1980 and the Uniform Commercial Code–Secured Transactions, defines the term “manufactured home” for various purposes to mean a structure that, among other things, is transportable in one or more sections, is 8 body feet or more in width, or 40 body feet or more in length, in the traveling mode, or, when erected on site, is 320 or more square feet, and is built on a permanent chassis.",
   "This bill would modify that definition to mean a structure that was constructed on or after June 15, 1976, with or without a foundation system, and has the same meaning as defined in specified federal law.",
@@ -275,18 +278,21 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-09-02",
-   "done": null,
+   "done": "2026-09-30",
    "vetoed": null,
-   "state": "current",
+   "state": "done",
    "label": "Governor"
   },
   {
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": null,
-   "chapter": null,
-   "state": "upcoming",
+   "done": "2026-09-30",
+   "chapter": {
+    "number": 995,
+    "year": 2026
+   },
+   "state": "done",
    "label": "Chaptered"
   }
  ],
@@ -535,6 +541,20 @@
    "house": "Governor",
    "where": null,
    "event": "enrolled"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Approved by the Governor.",
+   "house": "Governor",
+   "where": null,
+   "event": "approved"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Chaptered by Secretary of State. Chapter 995, Statutes of 2026.",
+   "house": "Secretary of State",
+   "where": null,
+   "event": "chaptered"
   }
  ],
  "votes": [
@@ -708,6 +728,11 @@
    "date": "2026-08-30",
    "action": "Enrolled",
    "id": "20250SB99692ENR"
+  },
+  {
+   "date": "2026-09-30",
+   "action": "Chaptered",
+   "id": "20250SB99691CHP"
   }
  ],
  "veto": null,
@@ -718,6 +743,6 @@
   "votes": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB996",
   "analysis": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB996",
   "compare": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202520260SB996",
-  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB996&version=20250SB99692ENR"
+  "pdf": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB996&version=20250SB99691CHP"
  }
 }
