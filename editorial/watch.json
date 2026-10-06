@@ -1,38 +1,38 @@
 {
  "_doc": "Legislation to Watch: steward-curated, neutral. `why` says what a bill changes for practitioners, drawn from the Legislative Counsel's Digest; never whether it should pass. Keep six or fewer; retire an item when its bill leaves the Governor's desk or stops moving.",
- "updated": "2026-09-28",
- "heading": "On the Governor's desk",
- "dek": "Six of the housing bills awaiting the Governor's signature or veto that change day-to-day practice most. Each opens to its full record.",
+ "updated": "2026-10-06",
+ "heading": "New law, effective January 1",
+ "dek": "Six housing bills the Governor signed this session that change day-to-day practice most. Most take effect January 1, 2027; AB 2270 and AB 1294 are urgency statutes already in effect. Each opens to its full record.",
  "items": [
   {
    "slug": "ab-2433",
    "title": "Density bonus by determination, and by floor area",
-   "why": "Would require a city or county to grant a density bonus, incentives and waivers once it determines an application meets the law's criteria, let an applicant who submits a base density study take the bonus as added floor area ratio, and apply the bonus across sites that are part of the same housing development."
+   "why": "Requires a city or county to grant a density bonus, incentives and waivers once it determines an application meets the law's criteria, lets an applicant who submits a base density study take the bonus as added floor area ratio, and applies the bonus across sites that are part of the same housing development. Chapter 800, Statutes of 2026."
   },
   {
    "slug": "ab-1732",
    "title": "CEQA exemption for affordable housing, extended to 2037",
-   "why": "Would extend the existing CEQA exemption for qualifying affordable housing projects to January 1, 2037, and add public university and public college housing projects that meet its requirements."
+   "why": "Extends the existing CEQA exemption for qualifying affordable housing projects to January 1, 2037, and adds public university and public college housing projects that meet its requirements. Chapter 792, Statutes of 2026."
   },
   {
    "slug": "ab-1621",
    "title": "Two plan checks, then a decision",
-   "why": "Would limit building permit plan check reviews to two, bar inspections from requiring changes that depart from approved plans except as specified, and set post-entitlement permit timelines of 30 business days for projects of 25 units or fewer and 45 business days for larger ones."
+   "why": "Limits building permit plan check reviews to two, bars inspections from requiring changes that depart from approved plans except as specified, and sets post-entitlement permit timelines of 30 business days for projects of 25 units or fewer and 45 business days for larger ones. Chapter 780, Statutes of 2026."
   },
   {
    "slug": "ab-2270",
    "title": "Farmworker housing in the tax credit program",
-   "why": "An urgency bill. Would require CTCAC to consider a farmworker housing type in its scoring, using the rural set-aside's amenity points, and for taxable years from 2027 would bar low-income housing tax credits for farmworker housing used to meet the H-2A employer housing requirement."
+   "why": "An urgency statute, in effect now. Requires CTCAC to consider a farmworker housing type in its scoring, using the rural set-aside's amenity points, and for taxable years from 2027 bars low-income housing tax credits for farmworker housing used to meet the H-2A employer housing requirement. Chapter 931, Statutes of 2026."
   },
   {
    "slug": "ab-1294",
    "title": "A property tax exemption for moderate-income rentals",
-   "why": "An urgency bill. Would create a partial welfare exemption, equal to the value of units serving low- and moderate-income households, for lien dates from 2027 through 2029, lasting 15 years from the first filing and backed by owner certifications."
+   "why": "An urgency statute, in effect now. Creates a partial welfare exemption, equal to the value of units serving low- and moderate-income households, for lien dates from 2027 through 2029, lasting 15 years from the first filing and backed by owner certifications. Chapter 778, Statutes of 2026."
   },
   {
    "slug": "ab-1751",
    "title": "Missing Middle Townhome Ownership Act",
-   "why": "Would create a ministerial approval path, including ministerial tentative and final maps, for townhome projects of up to three stories on parcels as small as 600 square feet that meet objective standards. San Francisco is exempt."
+   "why": "Creates a ministerial approval path, including ministerial tentative and final maps, for townhome projects of up to three stories on parcels as small as 600 square feet that meet objective standards. San Francisco is exempt. Chapter 781, Statutes of 2026."
   }
  ]
 }
