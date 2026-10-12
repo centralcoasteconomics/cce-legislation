@@ -30,7 +30,7 @@
  "statusRaw": "Chaptered",
  "measureState": "Chaptered",
  "lastAction": {
-  "date": "2026-09-15",
+  "date": "2026-09-14",
   "text": "Chaptered by Secretary of State - Chapter 214, Statutes of 2026."
  },
  "chapter": {
@@ -38,7 +38,7 @@
   "year": 2026
  },
  "presented": "2026-08-27",
- "approved": "2026-09-15",
+ "approved": "2026-09-14",
  "vetoed": null,
  "governorDeadline": null,
  "areas": [
@@ -207,7 +207,7 @@
    "kind": "governor",
    "house": "Governor",
    "presented": "2026-08-27",
-   "done": "2026-09-15",
+   "done": "2026-09-14",
    "vetoed": null,
    "state": "done",
    "label": "Governor"
@@ -216,7 +216,7 @@
    "key": "chaptered",
    "kind": "chaptered",
    "house": "Secretary of State",
-   "done": "2026-09-15",
+   "done": "2026-09-14",
    "chapter": {
     "number": 214,
     "year": 2026
@@ -409,14 +409,14 @@
    "event": "enrolled"
   },
   {
-   "date": "2026-09-15",
+   "date": "2026-09-14",
    "text": "Approved by the Governor.",
    "house": "Governor",
    "where": null,
    "event": "approved"
   },
   {
-   "date": "2026-09-15",
+   "date": "2026-09-14",
    "text": "Chaptered by Secretary of State - Chapter 214, Statutes of 2026.",
    "house": "Secretary of State",
    "where": null,

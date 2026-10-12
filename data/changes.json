@@ -1,5 +1,24 @@
 {
- "generatedAt": "2026-10-11T14:16:51+00:00",
- "since": "2026-10-10T13:47:22+00:00",
- "changes": []
+ "generatedAt": "2026-10-12T16:51:45+00:00",
+ "since": "2026-10-11T14:16:51+00:00",
+ "changes": [
+  {
+   "id": "202520260AB2576",
+   "slug": "ab-2576",
+   "label": "AB 2576",
+   "kind": "moved",
+   "from": {
+    "outcome": "law",
+    "current": "chaptered"
+   },
+   "to": {
+    "outcome": "law",
+    "current": "chaptered"
+   },
+   "lastAction": {
+    "date": "2026-09-14",
+    "text": "Chaptered by Secretary of State - Chapter 214, Statutes of 2026."
+   }
+  }
+ ]
 }

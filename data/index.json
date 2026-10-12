@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-11T14:16:51+00:00",
-  "today": "2026-10-11",
+  "generatedAt": "2026-10-12T16:51:45+00:00",
+  "today": "2026-10-12",
   "session": {
    "key": "20252026",
    "archiveYear": 2025,
@@ -11,11 +11,11 @@
   },
   "source": {
    "archive": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
-   "lastModified": "Mon, 05 Oct 2026 04:26:12 GMT",
-   "etag": "\"4ccaadda-65d10482c8100\"",
+   "lastModified": "Mon, 12 Oct 2026 04:26:09 GMT",
+   "etag": "\"4ccdfd48-65d9d18e25a40\"",
    "publisher": "Legislative Counsel of California"
   },
-  "fetchedBytes": 26865187,
+  "fetchedBytes": 26867783,
   "counts": {
    "stalled": 76,
    "died": 23,
@@ -12689,7 +12689,7 @@
    "statusRaw": "Chaptered",
    "measureState": "Chaptered",
    "lastAction": {
-    "date": "2026-09-15",
+    "date": "2026-09-14",
     "text": "Chaptered by Secretary of State - Chapter 214, Statutes of 2026."
    },
    "chapter": {
@@ -12697,7 +12697,7 @@
     "year": 2026
    },
    "presented": "2026-08-27",
-   "approved": "2026-09-15",
+   "approved": "2026-09-14",
    "vetoed": null,
    "governorDeadline": null,
    "areas": [
