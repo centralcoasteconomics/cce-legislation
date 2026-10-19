@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-05-26",
-   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 3.)",
+   "text": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 3. Page 5369.)",
    "house": "Assembly",
    "where": "E&E",
    "event": "floor_pass"
@@ -570,6 +570,11 @@
   },
   {
    "date": "2026-08-25",
+   "committee": "ASSEMBLY FLOOR ANALYSIS",
+   "house": "Assembly"
+  },
+  {
+   "date": "2026-10-13",
    "committee": "ASSEMBLY FLOOR ANALYSIS",
    "house": "Assembly"
   }
