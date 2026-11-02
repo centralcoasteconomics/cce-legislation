@@ -265,7 +265,7 @@
    "done": "2026-08-27",
    "applies": true,
    "vote": {
-    "ayes": 36,
+    "ayes": 37,
     "noes": 0
    },
    "pending": "2026-08-25",
@@ -501,7 +501,7 @@
   },
   {
    "date": "2026-08-27",
-   "text": "Assembly amendments concurred in. (Ayes 36. Noes 0.) Ordered to engrossing and enrolling.",
+   "text": "Assembly amendments concurred in. (Ayes 37. Noes 0. Page 6019.) Ordered to engrossing and enrolling.",
    "house": "Senate",
    "where": "E&E",
    "event": "concurred"

@@ -99,13 +99,6 @@
      "ayes": 9,
      "noes": 0,
      "result": "Pass"
-    },
-    {
-     "committee": "Assembly Local Government",
-     "date": "2026-04-29",
-     "ayes": 3,
-     "noes": 0,
-     "result": "Fail"
     }
    ],
    "state": "done",
@@ -272,15 +265,6 @@
    "nvr": 3,
    "result": "Pass",
    "where": "Assembly Housing and Community Development"
-  },
-  {
-   "location_code": "CX15",
-   "date": "2026-04-29",
-   "ayes": 3,
-   "noes": 0,
-   "nvr": 7,
-   "result": "Fail",
-   "where": "Assembly Local Government"
   }
  ],
  "analyses": [
