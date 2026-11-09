@@ -195,7 +195,7 @@
    "done": "2026-08-30",
    "applies": true,
    "vote": {
-    "ayes": 36,
+    "ayes": 37,
     "noes": 0
    },
    "pending": "2026-08-28",
@@ -410,7 +410,14 @@
   },
   {
    "date": "2026-08-30",
-   "text": "Assembly amendments concurred in. (Ayes 36. Noes 0.) Ordered to engrossing and enrolling.",
+   "text": "Urgency clause adopted.",
+   "house": "Senate",
+   "where": "Floor",
+   "event": null
+  },
+  {
+   "date": "2026-08-30",
+   "text": "Assembly amendments concurred in. (Ayes 37. Noes 0.) Ordered to engrossing and enrolling.",
    "house": "Senate",
    "where": "E&E",
    "event": "concurred"

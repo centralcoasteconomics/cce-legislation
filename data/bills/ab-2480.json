@@ -182,7 +182,7 @@
    "house": "Senate",
    "done": "2026-08-25",
    "vote": {
-    "ayes": 39,
+    "ayes": 40,
     "noes": 0
    },
    "state": "done",
@@ -389,7 +389,7 @@
   },
   {
    "date": "2026-08-25",
-   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 5753.).",
    "house": "Senate",
    "where": "Desk",
    "event": "floor_pass"

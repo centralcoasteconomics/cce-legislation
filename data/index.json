@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-08T14:20:37+00:00",
-  "today": "2026-11-08",
+  "generatedAt": "2026-11-09T17:35:33+00:00",
+  "today": "2026-11-09",
   "session": {
    "key": "20252026",
    "archiveYear": 2025,
@@ -11,11 +11,11 @@
   },
   "source": {
    "archive": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip",
-   "lastModified": "Mon, 02 Nov 2026 05:26:09 GMT",
-   "etag": "\"4d03b9fe-65f446220de40\"",
+   "lastModified": "Mon, 09 Nov 2026 05:26:05 GMT",
+   "etag": "\"4d06247b-65fd132c77540\"",
    "publisher": "Legislative Counsel of California"
   },
-  "fetchedBytes": 26884486,
+  "fetchedBytes": 26904851,
   "counts": {
    "stalled": 76,
    "died": 23,

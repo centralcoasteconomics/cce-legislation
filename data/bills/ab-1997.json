@@ -424,7 +424,7 @@
   },
   {
    "date": "2026-08-25",
-   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 35. Noes 3.).",
+   "text": "Read third time. Passed. Ordered to the Assembly. (Ayes 35. Noes 3. Page 5746.).",
    "house": "Senate",
    "where": "Desk",
    "event": "floor_pass"
@@ -616,7 +616,17 @@
    "id": "20250AB199793ENR"
   }
  ],
- "veto": null,
+ "veto": [
+  "To the Members of the California State Assembly:",
+  "I am returning Assembly Bill 1997 without my signature.",
+  "This bill would require a public agency serving as the lead agency for a development project to approve or disapprove a housing development within 30 days after certifying an environmental impact report (EIR). This expedited process applies if at least 90 percent of the project's units are affordable to very low- or extremely low-income households and the development is seeking public financing. If the lead agency fails to act within this 30-day period, the project may be deemed approved.",
+  "I strongly support accelerating affordable housing production. My administration and the Legislature have enacted comprehensive reforms providing qualifying housing projects with ministerial approval, CEQA exemptions and judicial streamlining, and accelerated entitlement and permitting timelines. However, this bill creates further statutory ambiguity by failing to clarify how its deadline applies to subsequent project approvals that rely on a program, master, or staged EIR. Although the broader EIR may already be certified, a subsequent project may still require additional project-specific environmental review. The bill does not clearly establish whether the regulatory clock begins upon certification of the broader EIR or after that additional project-specific review is complete. Shortening the deadline without resolving this question would create additional uncertainty for public agencies responsible for implementing the law.",
+  "This risk is difficult to justify given the measure's limited reach. The bill applies exclusively to a narrow subset of projects - those with at least 90% of units affordable to very low- or extremely low-income households and requiring a full approve or deny the project from 60 to 30 days. Deeply affordable housing developments typically depend on multiple sources of public funding, often with their own requirements and deadlines; they need a high degree of regulatory certainty to assemble and retain financing. Moreover, most already use existing regulatory pathways that streamline or entirely bypass this review altogether. Therefore, this narrow potential benefit does not outweigh the risk that projects could be inadvertently denied or deemed approved based on unclear requirements and compressed timelines.",
+  "Effective housing policy should provide clear, workable rules that move projects forward - not jam public agencies into making consequential decisions under uncertain statutory requirements. Unfortunately, this bill does not meet that standard.",
+  "For these reasons, I cannot sign this bill.",
+  "Sincerely,",
+  "Gavin Newsom"
+ ],
  "links": {
   "text": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1997",
   "status": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1997",
