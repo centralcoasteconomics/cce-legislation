@@ -253,7 +253,7 @@
    "done": "2026-08-30",
    "vote": {
     "ayes": 40,
-    "noes": 0
+    "noes": 6
    },
    "state": "done",
    "label": "Floor vote"
@@ -463,7 +463,7 @@
   },
   {
    "date": "2026-08-30",
-   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly.",
+   "text": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 40. Noes 6. Page 6139.).",
    "house": "Senate",
    "where": "Desk",
    "event": "floor_pass"
